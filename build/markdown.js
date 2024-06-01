@@ -21,7 +21,7 @@ function generateMarkdownFile(data) {
 
 Here are the latest articles from TechCrunch Startups:
 
-**Note:** This data will refresh in three hours. Stay tuned for the latest updates! 🔄`;
+**Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄`;
         data.forEach(item => {
             markdownContent += `\n- [${item.title}](${item.link}) - ${item.timeAgo}`;
         });
