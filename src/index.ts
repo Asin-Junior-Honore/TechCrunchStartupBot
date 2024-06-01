@@ -1,5 +1,4 @@
 import puppeteer, { Browser, Page } from 'puppeteer';
-import { navigateToStartupsPage } from './navigation';
 import { scrapeData } from './scraping';
 import { checkNextPage } from './pagination';
 import { generateMarkdownFile } from './markdown';
@@ -26,10 +25,8 @@ async function scrapeTechCrunchStartups() {
     await page.setJavaScriptEnabled(true);
 
     try {
-        await page.goto('https://techcrunch.com', { waitUntil: 'networkidle2', timeout: 60000 });
-        console.log('Navigated to TechCrunch successfully.');
-
-        await navigateToStartupsPage(page);
+        await page.goto('https://techcrunch.com/category/startups/', { waitUntil: 'networkidle2', timeout: 60000 });
+        console.log('Navigated to the TechCrunch Startups page successfully.');
 
         let allData: { title: string, link: string, timeAgo: string }[] = [];
 

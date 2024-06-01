@@ -13,7 +13,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const puppeteer_1 = __importDefault(require("puppeteer"));
-const navigation_1 = require("./navigation");
 const scraping_1 = require("./scraping");
 const pagination_1 = require("./pagination");
 const markdown_1 = require("./markdown");
@@ -38,9 +37,8 @@ function scrapeTechCrunchStartups() {
         yield page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
         yield page.setJavaScriptEnabled(true);
         try {
-            yield page.goto('https://techcrunch.com', { waitUntil: 'networkidle2', timeout: 60000 });
-            console.log('Navigated to TechCrunch successfully.');
-            yield (0, navigation_1.navigateToStartupsPage)(page);
+            yield page.goto('https://techcrunch.com/category/startups/', { waitUntil: 'networkidle2', timeout: 60000 });
+            console.log('Navigated to the TechCrunch Startups page successfully.');
             let allData = [];
             // Scrape data from the first page
             const dataPage1 = yield (0, scraping_1.scrapeData)(page);
