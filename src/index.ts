@@ -77,7 +77,7 @@ async function scrapeTechCrunchStartups() {
         }
 
         // Output the combined data
-        console.log('Combined data from both pages:', allData);
+     //   console.log('Combined data from both pages:', allData);
 
         // Generate Markdown content
         let markdownContent = `

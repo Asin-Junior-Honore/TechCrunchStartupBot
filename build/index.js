@@ -80,7 +80,7 @@ function scrapeTechCrunchStartups() {
                 console.log('No "Next" button found. End of pagination.');
             }
             // Output the combined data
-            console.log('Combined data from both pages:', allData);
+            //   console.log('Combined data from both pages:', allData);
             // Generate Markdown content
             let markdownContent = `
 # Latest Scraped Tech News
