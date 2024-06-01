@@ -5,9 +5,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./build/index.js",
+    "startScrape": "node ./build/index.js",
     "build": "npm install && tsc",
-    "startScrape": "node ./src/index.ts"
+    "dev": "node ./src/index.ts"
   },
   "author": "",
   "license": "ISC",
