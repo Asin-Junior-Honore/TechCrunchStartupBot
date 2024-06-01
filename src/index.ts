@@ -92,7 +92,7 @@ Here are the latest articles from TechCrunch Startups:
         });
 
         // Write the Markdown content to a file
-        fs.writeFileSync('LATEST_TECH_NEWS.md', markdownContent);
+        fs.writeFileSync('README.md', markdownContent);
         console.log('Markdown file created successfully.');
     } catch (error) {
         console.error('Error:', error);
