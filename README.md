@@ -3,9 +3,9 @@
 
 Here are the latest articles from TechCrunch Startups:
 
-**Note:** This data will refresh in Four hours. Stay tuned for the latest updates! 🔄
-- [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 4 hours ago
-- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 21 hours ago
+**Note:** This data will refresh in three hours. Stay tuned for the latest updates! 🔄
+- [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 6 hours ago
+- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 22 hours ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 1 day ago
 - [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 1 day ago
 - [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 1 day ago
@@ -20,8 +20,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 2 days ago
 - [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/) - 2 days ago
 - [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 2 days ago
-- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 2 days ago
-- [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 2 days ago
+- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 3 days ago
+- [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 3 days ago
 - [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/) - 3 days ago
 - [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 3 days ago
 - [Slingshot raises $2.2 million to provide financial services to artists](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/) - 3 days ago
