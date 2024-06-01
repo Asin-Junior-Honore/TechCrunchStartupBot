@@ -76,7 +76,7 @@ Here are the latest articles from TechCrunch Startups:
 function scrapeTechCrunchStartups() {
     return __awaiter(this, void 0, void 0, function* () {
         const browser = yield puppeteer_1.default.launch({
-            headless: true,
+            headless: false,
             args: [
                 "--no-sandbox",
                 "--disable-setuid-sandbox",
@@ -104,10 +104,28 @@ function scrapeTechCrunchStartups() {
         }
         catch (error) {
             console.error('Error:', error);
+            throw error; // Re-throw the error to be caught in the retry loop
         }
         finally {
             yield browser.close();
         }
     });
 }
-scrapeTechCrunchStartups().catch(console.error);
+function main() {
+    return __awaiter(this, void 0, void 0, function* () {
+        const retries = 3;
+        for (let attempt = 1; attempt <= retries; attempt++) {
+            try {
+                yield scrapeTechCrunchStartups();
+                break; // If successful, exit the loop
+            }
+            catch (error) {
+                console.error(`Attempt ${attempt} failed:`, error);
+                if (attempt === retries) {
+                    console.error('All attempts failed.');
+                }
+            }
+        }
+    });
+}
+main().catch(console.error);

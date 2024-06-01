@@ -59,7 +59,6 @@ Here are the latest articles from TechCrunch Startups:
     console.log('Markdown file created successfully.');
 }
 
-
 async function scrapeTechCrunchStartups() {
     const browser: Browser = await puppeteer.launch({
         headless: true,
@@ -97,9 +96,25 @@ async function scrapeTechCrunchStartups() {
 
     } catch (error) {
         console.error('Error:', error);
+        throw error; // Re-throw the error to be caught in the retry loop
     } finally {
         await browser.close();
     }
 }
 
-scrapeTechCrunchStartups().catch(console.error);
+async function main() {
+    const retries = 3;
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            await scrapeTechCrunchStartups();
+            break; // If successful, exit the loop
+        } catch (error) {
+            console.error(`Attempt ${attempt} failed:`, error);
+            if (attempt === retries) {
+                console.error('All attempts failed.');
+            }
+        }
+    }
+}
+
+main().catch(console.error);
