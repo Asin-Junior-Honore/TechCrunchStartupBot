@@ -49,18 +49,20 @@ async function generateMarkdownFile(data: { title: string, link: string, timeAgo
 
 Here are the latest articles from TechCrunch Startups:
 
-`;
+**Note:** This data will refresh in three hours. Stay tuned for the latest updates! 🔄`;
+
     data.forEach(item => {
-        markdownContent += `- [${item.title}](${item.link}) - ${item.timeAgo}\n`;
+        markdownContent += `\n- [${item.title}](${item.link}) - ${item.timeAgo}`;
     });
 
     fs.writeFileSync('README.md', markdownContent);
     console.log('Markdown file created successfully.');
 }
 
+
 async function scrapeTechCrunchStartups() {
     const browser: Browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         args: [
             "--no-sandbox",
             "--disable-setuid-sandbox",
