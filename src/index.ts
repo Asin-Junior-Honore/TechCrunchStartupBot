@@ -5,7 +5,7 @@ async function navigateToStartupsPage(page: Page) {
     const startupsLinkSelector = 'a.wp-block-navigation-item__content[href="/category/startups/"]';
     await page.waitForSelector(startupsLinkSelector);
     await page.click(startupsLinkSelector);
-    await page.waitForNavigation({ waitUntil: 'networkidle2' });
+    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 });
     console.log('Navigated to the Startups page successfully.');
 }
 
@@ -34,7 +34,7 @@ async function checkNextPage(page: Page) {
 
     if (nextButton) {
         await nextButton.click();
-        await page.waitForNavigation({ waitUntil: 'networkidle2' });
+        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 });
         console.log('Navigated to the next page successfully.');
         return true;
     } else {
@@ -68,14 +68,20 @@ async function scrapeTechCrunchStartups() {
             "--start-maximized",
             "--single-process",
             "--no-zygote",
+            "--disable-dev-shm-usage",
+            "--disable-web-security",
+            "--disable-features=IsolateOrigins,site-per-process",
+            "--disable-blink-features=AutomationControlled"
         ],
         defaultViewport: null,
     });
 
     const page: Page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+    await page.setJavaScriptEnabled(true);
 
     try {
-        await page.goto('https://techcrunch.com', { waitUntil: 'networkidle2' });
+        await page.goto('https://techcrunch.com', { waitUntil: 'networkidle2', timeout: 60000 });
         console.log('Navigated to TechCrunch successfully.');
 
         await navigateToStartupsPage(page);

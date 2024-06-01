@@ -19,7 +19,7 @@ function navigateToStartupsPage(page) {
         const startupsLinkSelector = 'a.wp-block-navigation-item__content[href="/category/startups/"]';
         yield page.waitForSelector(startupsLinkSelector);
         yield page.click(startupsLinkSelector);
-        yield page.waitForNavigation({ waitUntil: 'networkidle2' });
+        yield page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 });
         console.log('Navigated to the Startups page successfully.');
     });
 }
@@ -48,7 +48,7 @@ function checkNextPage(page) {
         const nextButton = yield page.$(nextButtonSelector);
         if (nextButton) {
             yield nextButton.click();
-            yield page.waitForNavigation({ waitUntil: 'networkidle2' });
+            yield page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 });
             console.log('Navigated to the next page successfully.');
             return true;
         }
@@ -76,19 +76,25 @@ Here are the latest articles from TechCrunch Startups:
 function scrapeTechCrunchStartups() {
     return __awaiter(this, void 0, void 0, function* () {
         const browser = yield puppeteer_1.default.launch({
-            headless: false,
+            headless: true,
             args: [
                 "--no-sandbox",
                 "--disable-setuid-sandbox",
                 "--start-maximized",
                 "--single-process",
                 "--no-zygote",
+                "--disable-dev-shm-usage",
+                "--disable-web-security",
+                "--disable-features=IsolateOrigins,site-per-process",
+                "--disable-blink-features=AutomationControlled"
             ],
             defaultViewport: null,
         });
         const page = yield browser.newPage();
+        yield page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+        yield page.setJavaScriptEnabled(true);
         try {
-            yield page.goto('https://techcrunch.com', { waitUntil: 'networkidle2' });
+            yield page.goto('https://techcrunch.com', { waitUntil: 'networkidle2', timeout: 60000 });
             console.log('Navigated to TechCrunch successfully.');
             yield navigateToStartupsPage(page);
             let allData = [];

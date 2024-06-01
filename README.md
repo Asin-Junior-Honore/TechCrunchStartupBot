@@ -37,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [MARS doubles down on India’s Infra.Market with new $50M investment](https://techcrunch.com/2024/05/28/mars-doubles-down-on-indias-infra-market-with-new-50m-investment/) - 4 days ago
 - [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/) - 4 days ago
 - [Ledger starts shipping its high-end hardware crypto wallet](https://techcrunch.com/2024/05/27/ledger-starts-shipping-its-high-end-hardware-crypto-wallet/) - 4 days ago
-- [LatAm startups: Apply to Startup Battlefield 200](https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/) - 5 days ago
-- [5 days left to get your early-bird Disrupt passes](https://techcrunch.com/2024/05/27/five-days-left-to-get-your-early-bird-disrupt-passes/) - 5 days ago
-- [Spanish startups reached €100 billion in aggregate value last year](https://techcrunch.com/2024/05/27/spanish-startups-reached-e100-billion-in-aggregated-value-in-2023-consolidating-the-countrys-position-as-a-midsize-european-tech-ecosystem/) - 5 days ago
+- [LatAm startups: Apply to Startup Battlefield 200](https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/) - 9:00 am PDT • May 27, 2024
+- [5 days left to get your early-bird Disrupt passes](https://techcrunch.com/2024/05/27/five-days-left-to-get-your-early-bird-disrupt-passes/) - 9:00 am PDT • May 27, 2024
+- [Spanish startups reached €100 billion in aggregate value last year](https://techcrunch.com/2024/05/27/spanish-startups-reached-e100-billion-in-aggregated-value-in-2023-consolidating-the-countrys-position-as-a-midsize-european-tech-ecosystem/) - 8:45 am PDT • May 27, 2024
 - [Doly lets you generate 3D product videos from your iPhone](https://techcrunch.com/2024/05/27/doly-lets-you-generate-3d-product-videos-from-your-phone/) - 6:00 am PDT • May 27, 2024
 - [Indian EV startup Zypp Electric secures backing to fund expansion to Southeast Asia](https://techcrunch.com/2024/05/26/indian-ev-startup-zypp-electric-secures-eneos-backing-to-fund-expansion-to-southeast-asia/) - 8:30 pm PDT • May 26, 2024
 - [Y Combinator’s Garry Tan supports some AI regulation but warns against AI monopolies](https://techcrunch.com/2024/05/26/ai-garry-tan-y-combinator/) - 8:00 am PDT • May 26, 2024
