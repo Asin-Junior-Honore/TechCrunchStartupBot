@@ -1,0 +1,23 @@
+{
+  "type": "commonjs",
+  "name": "techcrunchstartupbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/index.js",
+    "build": "npm install && tsc",
+    "startScrape": "node ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "puppeteer": "^22.10.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "ts-node": "^10.9.2"
+  }
+}
