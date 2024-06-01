@@ -3,7 +3,7 @@
 
 Here are the latest articles from TechCrunch Startups:
 
-**Note:** This data will refresh in three hours. Stay tuned for the latest updates! 🔄
+**Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 35 mins ago
 - [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 17 hours ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 21 hours ago
