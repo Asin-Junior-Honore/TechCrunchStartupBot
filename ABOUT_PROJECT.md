@@ -72,4 +72,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## 🙏 Acknowledgments
 
 - The [TechCrunch](https://techcrunch.com) team for their continuous efforts in providing up-to-date tech news.
--
