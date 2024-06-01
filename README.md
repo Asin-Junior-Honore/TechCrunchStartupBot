@@ -3,20 +3,21 @@
 
 Here are the latest articles from TechCrunch Startups:
 
-- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 1 hour ago
+**Note:** This data will refresh in three hours. Stay tuned for the latest updates! 🔄
+- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 2 hours ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 6 hours ago
 - [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 8 hours ago
 - [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 9 hours ago
-- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 11 hours ago
-- [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 23 hours ago
+- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 12 hours ago
+- [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 24 hours ago
 - [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/) - 1 day ago
 - [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/) - 1 day ago
 - [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/) - 1 day ago
 - [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/) - 1 day ago
 - [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/) - 1 day ago
 - [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/) - 1 day ago
-- [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 1 day ago
-- [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/) - 1 day ago
+- [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 2 days ago
+- [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/) - 2 days ago
 - [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 2 days ago
 - [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 2 days ago
 - [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 2 days ago
@@ -24,15 +25,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 2 days ago
 - [Slingshot raises $2.2 million to provide financial services to artists](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/) - 2 days ago
 - [Germany’s financial regulator ends anti-money laundering cap on N26 signups after $10M fine](https://techcrunch.com/2024/05/29/german-financial-regulator-lifts-restrictions-on-n26-signups/) - 2 days ago
-- [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 2 days ago
-- [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 2 days ago
+- [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 3 days ago
+- [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 3 days ago
 - [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 3 days ago
 - [Avendus, India’s top venture adviser, confirms it’s looking to raise a $350M fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/) - 3 days ago
 - [The demise of BaaS fintech Synapse could derail the funding prospects for other startups in the space](https://techcrunch.com/2024/05/28/the-demise-of-baas-fintech-synapse-could-derail-the-funding-prospects-for-other-startups-in-the-space/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/28/tech-layoffs-2023-list/) - 3 days ago
 - [Early bird gets the savings — 4 days left for Disrupt sale](https://techcrunch.com/2024/05/28/early-bird-gets-the-savings-4-days-left-for-disrupt-sale/) - 3 days ago
 - [Skej’s AI meeting scheduling assistant works like adding an EA to your email](https://techcrunch.com/2024/05/28/skejs-ai-meeting-scheduling-assistant-works-like-adding-an-ea-to-your-email/) - 3 days ago
-- [The Chainsmokers light up Disrupt 2024](https://techcrunch.com/2024/05/28/the-chainsmokers-light-up-disrupt-2024/) - 3 days ago
+- [The Chainsmokers light up Disrupt 2024](https://techcrunch.com/2024/05/28/the-chainsmokers-light-up-disrupt-2024/) - 4 days ago
 - [MARS doubles down on India’s Infra.Market with new $50M investment](https://techcrunch.com/2024/05/28/mars-doubles-down-on-indias-infra-market-with-new-50m-investment/) - 4 days ago
 - [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/) - 4 days ago
 - [Ledger starts shipping its high-end hardware crypto wallet](https://techcrunch.com/2024/05/27/ledger-starts-shipping-its-high-end-hardware-crypto-wallet/) - 4 days ago
@@ -57,8 +58,8 @@ Here are the latest articles from TechCrunch Startups:
 - [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/) - 12:41 pm PDT • May 23, 2024
 - [App developer Crowdaa raises €1.2M and plans a US expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/) - 9:34 am PDT • May 23, 2024
 - [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/) - 9:00 am PDT • May 23, 2024
-- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
 - [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/) - 6:00 am PDT • May 23, 2024
+- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
 - [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/) - 5:45 am PDT • May 23, 2024
 - [ZeroPoint’s nanosecond-scale memory compression could tame power-hungry AI infrastructure](https://techcrunch.com/2024/05/23/zeropoints-nanosecond-scale-memory-compression-could-tame-power-hungry-ai-infrastructure/) - 5:01 am PDT • May 23, 2024
 - [Finout lands cash to grow its cloud spend management platform](https://techcrunch.com/2024/05/23/finout-lands-cash-to-grow-its-cloud-spend-management-platform/) - 5:00 am PDT • May 23, 2024

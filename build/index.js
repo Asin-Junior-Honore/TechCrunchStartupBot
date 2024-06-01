@@ -76,7 +76,7 @@ Here are the latest articles from TechCrunch Startups:
 function scrapeTechCrunchStartups() {
     return __awaiter(this, void 0, void 0, function* () {
         const browser = yield puppeteer_1.default.launch({
-            headless: true,
+            headless: false,
             args: [
                 "--no-sandbox",
                 "--disable-setuid-sandbox",
