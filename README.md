@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in three hours. Stay tuned for the latest updates! 🔄
-- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 10 hours ago
-- [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 14 hours ago
-- [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 16 hours ago
-- [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 17 hours ago
-- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 20 hours ago
-- [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 1 day ago
+- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 16 hours ago
+- [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 20 hours ago
+- [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 22 hours ago
+- [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 23 hours ago
+- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 1 day ago
+- [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 2 days ago
 - [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/) - 2 days ago
 - [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/) - 2 days ago
 - [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/) - 2 days ago
@@ -28,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 3 days ago
 - [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 3 days ago
 - [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 3 days ago
-- [Avendus, India’s top venture adviser, confirms it’s looking to raise a $350M fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/) - 3 days ago
+- [Avendus, India’s top venture adviser, confirms it’s looking to raise a $350M fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/) - 4 days ago
 - [The demise of BaaS fintech Synapse could derail the funding prospects for other startups in the space](https://techcrunch.com/2024/05/28/the-demise-of-baas-fintech-synapse-could-derail-the-funding-prospects-for-other-startups-in-the-space/) - 4 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/28/tech-layoffs-2023-list/) - 4 days ago
 - [Early bird gets the savings — 4 days left for Disrupt sale](https://techcrunch.com/2024/05/28/early-bird-gets-the-savings-4-days-left-for-disrupt-sale/) - 4 days ago
@@ -58,8 +58,8 @@ Here are the latest articles from TechCrunch Startups:
 - [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/) - 12:41 pm PDT • May 23, 2024
 - [App developer Crowdaa raises €1.2M and plans a US expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/) - 9:34 am PDT • May 23, 2024
 - [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/) - 9:00 am PDT • May 23, 2024
-- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
 - [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/) - 6:00 am PDT • May 23, 2024
+- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
 - [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/) - 5:45 am PDT • May 23, 2024
 - [ZeroPoint’s nanosecond-scale memory compression could tame power-hungry AI infrastructure](https://techcrunch.com/2024/05/23/zeropoints-nanosecond-scale-memory-compression-could-tame-power-hungry-ai-infrastructure/) - 5:01 am PDT • May 23, 2024
 - [Finout lands cash to grow its cloud spend management platform](https://techcrunch.com/2024/05/23/finout-lands-cash-to-grow-its-cloud-spend-management-platform/) - 5:00 am PDT • May 23, 2024
