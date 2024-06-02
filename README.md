@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 1 min ago
+- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 3 hours ago
+- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 4 hours ago
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 1 day ago
 - [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 2 days ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 2 days ago
@@ -29,8 +30,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Germany’s financial regulator ends anti-money laundering cap on N26 signups after $10M fine](https://techcrunch.com/2024/05/29/german-financial-regulator-lifts-restrictions-on-n26-signups/) - 4 days ago
 - [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 4 days ago
 - [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 4 days ago
-- [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 4 days ago
-- [Avendus, India’s top venture adviser, confirms it’s looking to raise a $350M fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/) - 5 days ago
+- [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 5 days ago
+- [Avendus, India’s top venture adviser, confirms it’s looking to raise a $350M fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/) - 7:03 pm PDT • May 28, 2024
 - [The demise of BaaS fintech Synapse could derail the funding prospects for other startups in the space](https://techcrunch.com/2024/05/28/the-demise-of-baas-fintech-synapse-could-derail-the-funding-prospects-for-other-startups-in-the-space/) - 10:05 am PDT • May 28, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/28/tech-layoffs-2023-list/) - 9:30 am PDT • May 28, 2024
 - [Early bird gets the savings — 4 days left for Disrupt sale](https://techcrunch.com/2024/05/28/early-bird-gets-the-savings-4-days-left-for-disrupt-sale/) - 9:00 am PDT • May 28, 2024
@@ -60,7 +61,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/) - 12:41 pm PDT • May 23, 2024
 - [App developer Crowdaa raises €1.2M and plans a US expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/) - 9:34 am PDT • May 23, 2024
 - [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/) - 9:00 am PDT • May 23, 2024
-- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
 - [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/) - 6:00 am PDT • May 23, 2024
+- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
 - [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/) - 5:45 am PDT • May 23, 2024
-- [ZeroPoint’s nanosecond-scale memory compression could tame power-hungry AI infrastructure](https://techcrunch.com/2024/05/23/zeropoints-nanosecond-scale-memory-compression-could-tame-power-hungry-ai-infrastructure/) - 5:01 am PDT • May 23, 2024
