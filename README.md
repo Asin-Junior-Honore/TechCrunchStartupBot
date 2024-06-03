@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/) - 2 hours ago
-- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 3 hours ago
-- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 4 hours ago
-- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 4 hours ago
-- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 22 hours ago
-- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 23 hours ago
+- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/) - 3 hours ago
+- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 4 hours ago
+- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 5 hours ago
+- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 6 hours ago
+- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 23 hours ago
+- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 1 day ago
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 2 days ago
 - [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 3 days ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 3 days ago
