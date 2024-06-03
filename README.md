@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 3 hours ago
-- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 4 hours ago
+- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 7 hours ago
+- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 9 hours ago
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 1 day ago
 - [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 2 days ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 2 days ago
@@ -21,16 +21,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/) - 3 days ago
 - [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 3 days ago
 - [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/) - 3 days ago
-- [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 3 days ago
-- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 3 days ago
-- [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 3 days ago
+- [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 4 days ago
+- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 4 days ago
+- [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 4 days ago
 - [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/) - 4 days ago
 - [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 4 days ago
 - [Slingshot raises $2.2 million to provide financial services to artists](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/) - 4 days ago
 - [Germany’s financial regulator ends anti-money laundering cap on N26 signups after $10M fine](https://techcrunch.com/2024/05/29/german-financial-regulator-lifts-restrictions-on-n26-signups/) - 4 days ago
 - [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 4 days ago
 - [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 4 days ago
-- [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 5 days ago
+- [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 12:00 am PDT • May 29, 2024
 - [Avendus, India’s top venture adviser, confirms it’s looking to raise a $350M fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/) - 7:03 pm PDT • May 28, 2024
 - [The demise of BaaS fintech Synapse could derail the funding prospects for other startups in the space](https://techcrunch.com/2024/05/28/the-demise-of-baas-fintech-synapse-could-derail-the-funding-prospects-for-other-startups-in-the-space/) - 10:05 am PDT • May 28, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/28/tech-layoffs-2023-list/) - 9:30 am PDT • May 28, 2024
@@ -61,6 +61,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/) - 12:41 pm PDT • May 23, 2024
 - [App developer Crowdaa raises €1.2M and plans a US expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/) - 9:34 am PDT • May 23, 2024
 - [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/) - 9:00 am PDT • May 23, 2024
-- [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/) - 6:00 am PDT • May 23, 2024
 - [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
+- [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/) - 6:00 am PDT • May 23, 2024
 - [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/) - 5:45 am PDT • May 23, 2024
