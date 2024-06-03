@@ -4,16 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 15 hours ago
-- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 16 hours ago
+- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 8 mins ago
+- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 1 hour ago
+- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 2 hours ago
+- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 19 hours ago
+- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 20 hours ago
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 2 days ago
-- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 2 days ago
+- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 3 days ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 3 days ago
 - [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 3 days ago
 - [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 3 days ago
 - [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 3 days ago
 - [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 3 days ago
-- [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/) - 3 days ago
+- [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/) - 4 days ago
 - [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/) - 4 days ago
 - [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/) - 4 days ago
 - [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/) - 4 days ago
@@ -24,9 +27,9 @@ Here are the latest articles from TechCrunch Startups:
 - [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 4 days ago
 - [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 4 days ago
 - [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 4 days ago
-- [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/) - 4 days ago
-- [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 4 days ago
-- [Slingshot raises $2.2 million to provide financial services to artists](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/) - 5 days ago
+- [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/) - 5 days ago
+- [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 5 days ago
+- [Slingshot raises $2.2 million to provide financial services to artists](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/) - 10:38 am PDT • May 29, 2024
 - [Germany’s financial regulator ends anti-money laundering cap on N26 signups after $10M fine](https://techcrunch.com/2024/05/29/german-financial-regulator-lifts-restrictions-on-n26-signups/) - 6:32 am PDT • May 29, 2024
 - [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 6:00 am PDT • May 29, 2024
 - [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 6:00 am PDT • May 29, 2024
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/) - 12:41 pm PDT • May 23, 2024
 - [App developer Crowdaa raises €1.2M and plans a US expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/) - 9:34 am PDT • May 23, 2024
 - [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/) - 9:00 am PDT • May 23, 2024
-- [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/) - 6:00 am PDT • May 23, 2024
-- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/) - 6:00 am PDT • May 23, 2024
-- [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/) - 5:45 am PDT • May 23, 2024
