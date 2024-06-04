@@ -4,26 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Samara is accelerating the energy transition in Spain one solar panel at a time](https://techcrunch.com/2024/06/04/samara-is-accelerating-the-energy-transition-in-spain-one-solar-panel-at-a-time/) - 53 seconds ago
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/06/03/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 9 hours ago
-- [After raising $100M, AI fintech LoanSnap is being sued, fined, evicted](https://techcrunch.com/2024/06/03/ai-fintech-loansnap-sued-fined-evicted-raised-100m/) - 14 hours ago
-- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/) - 19 hours ago
-- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 20 hours ago
-- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 21 hours ago
-- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 21 hours ago
+- [Sword Health raises $130 million and its valuation soars to $3 billion](https://techcrunch.com/2024/06/04/sword-healths-raises-130m-valuation-3b-ai-physical-therapy/) - 18 mins ago
+- [WndrCo officially gets into venture capital with fresh $450M across two funds](https://techcrunch.com/2024/06/04/jeffrey-katzenberg-wndrco-450m-fund-venture-capital/) - 48 mins ago
+- [‘Star Wars’ lasers and waterfalls of molten salt: How Xcimer plans to make fusion power happen](https://techcrunch.com/2024/06/04/star-wars-lasers-and-waterfalls-of-molten-salt-how-xcimer-plans-to-make-fusion-power-happen/) - 2 hours ago
+- [Samara is accelerating the energy transition in Spain one solar panel at a time](https://techcrunch.com/2024/06/04/samara-is-accelerating-the-energy-transition-in-spain-one-solar-panel-at-a-time/) - 4 hours ago
+- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/06/03/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 13 hours ago
+- [After raising $100M, AI fintech LoanSnap is being sued, fined, evicted](https://techcrunch.com/2024/06/03/ai-fintech-loansnap-sued-fined-evicted-raised-100m/) - 18 hours ago
+- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/) - 23 hours ago
+- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 1 day ago
+- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 1 day ago
+- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 1 day ago
 - [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 2 days ago
 - [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 2 days ago
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 3 days ago
-- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 3 days ago
+- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 4 days ago
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 4 days ago
 - [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 4 days ago
 - [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 4 days ago
 - [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 4 days ago
 - [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 4 days ago
 - [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/) - 5 days ago
-- [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/) - 5 days ago
-- [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/) - 5 days ago
-- [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/) - 5 days ago
+- [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/) - 9:04 am PDT • May 30, 2024
+- [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/) - 9:00 am PDT • May 30, 2024
+- [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/) - 8:59 am PDT • May 30, 2024
 - [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/) - 7:30 am PDT • May 30, 2024
 - [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/) - 7:15 am PDT • May 30, 2024
 - [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 6:05 am PDT • May 30, 2024
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Pitch Deck Teardown: Terra One’s $7.5M seed deck](https://techcrunch.com/2024/05/24/sample-seed-pitch-deck-terra-one/) - 10:00 am PDT • May 24, 2024
 - [Disrupt 2024 early-bird tickets fly away next Friday](https://techcrunch.com/2024/05/24/disrupt-2024-early-bird-tickets-fly-away-next-friday/) - 9:00 am PDT • May 24, 2024
 - [Big Tech companies are plowing money into AI startups, which could help them dodge antitrust concerns](https://techcrunch.com/2024/05/24/big-tech-companies-are-plowing-money-into-ai-startups-which-could-help-them-dodge-antitrust-concerns/) - 8:05 am PDT • May 24, 2024
-- [Last day to vote for TC Disrupt 2024 Audience Choice program](https://techcrunch.com/2024/05/24/last-day-to-vote-for-tc-disrupt-2024-audience-choice-program/) - 6:00 am PDT • May 24, 2024
-- [Signal’s Meredith Whittaker on the Telegram security clash and the ‘edgelords’ at OpenAI ](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/) - 5:45 am PDT • May 24, 2024
-- [Google invests $350M in Indian e-commerce giant Flipkart](https://techcrunch.com/2024/05/24/google-invests-350-million-in-indias-flipkart/) - 4:57 am PDT • May 24, 2024
