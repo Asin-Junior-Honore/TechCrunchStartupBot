@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [After raising $100M, AI fintech LoanSnap is being sued, fined, evicted](https://techcrunch.com/2024/06/03/ai-fintech-loansnap-sued-fined-evicted-raised-100m/) - 2 hours ago
-- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/) - 7 hours ago
-- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 8 hours ago
-- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 9 hours ago
-- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 10 hours ago
+- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/06/03/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 2 hours ago
+- [After raising $100M, AI fintech LoanSnap is being sued, fined, evicted](https://techcrunch.com/2024/06/03/ai-fintech-loansnap-sued-fined-evicted-raised-100m/) - 6 hours ago
+- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/) - 11 hours ago
+- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/) - 12 hours ago
+- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/) - 13 hours ago
+- [UK neobank Monzo reports first full (pre-tax) profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/) - 14 hours ago
 - [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/) - 1 day ago
 - [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/) - 1 day ago
 - [Deal Dive: How (Re)vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/) - 2 days ago
@@ -26,8 +27,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/) - 4 days ago
 - [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 4 days ago
 - [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/) - 4 days ago
-- [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 4 days ago
-- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 4 days ago
+- [YoLa Fresh, a GrubMarket for Morocco, digs up $7M to connect farmers with food sellers](https://techcrunch.com/2024/05/30/yola-fresh-a-grubmarket-for-morocco-digs-up-7m-to-connect-farmers-with-food-sellers/) - 5 days ago
+- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 5 days ago
 - [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 5 days ago
 - [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/) - 1:35 pm PDT • May 29, 2024
 - [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 1:05 pm PDT • May 29, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Signal’s Meredith Whittaker on the Telegram security clash and the ‘edgelords’ at OpenAI ](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/) - 5:45 am PDT • May 24, 2024
 - [Google invests $350M in Indian e-commerce giant Flipkart](https://techcrunch.com/2024/05/24/google-invests-350-million-in-indias-flipkart/) - 4:57 am PDT • May 24, 2024
 - [Expressable brings speech therapy into the home](https://techcrunch.com/2024/05/23/expressable-brings-speech-therapy-into-the-home/) - 2:49 pm PDT • May 23, 2024
-- [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/) - 12:41 pm PDT • May 23, 2024
