@@ -4,13 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Eko Health scores $41M to detect heart disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/) - 1 hour ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/) - 15 hours ago
-- [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/) - 16 hours ago
-- [Engineer brothers found Forge to modernize hardware procurement](https://techcrunch.com/2024/06/04/ex-meta-blue-origin-brother-engineers-raise-2m-to-solve-hardware-procurement/) - 22 hours ago
-- [Raspberry Pi partners with Hailo for its AI extension kit](https://techcrunch.com/2024/06/04/raspberry-pi-partners-with-hailo-for-its-ai-extension-kit/) - 23 hours ago
-- [Stacklet sees demand grow as companies take cloud cost control more seriously](https://techcrunch.com/2024/06/04/stacklet-sees-demand-grow-as-companies-take-cloud-cost-control-more-seriously/) - 23 hours ago
-- [How a couple of former Pinterest search experts caught Biz Stone’s attention](https://techcrunch.com/2024/06/04/search-biz-stone-e-commerce-vantage-discovery/) - 23 hours ago
+- [Whizz wants to own the delivery e-bike subscription space, starting with NYC](https://techcrunch.com/2024/06/05/whizz-wants-to-own-the-delivery-e-bike-subscription-space-starting-with-nyc/) - 2 mins ago
+- [Three ways founders can shine at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/05/three-ways-founders-can-shine-at-techcrunch-disrupt-2024/) - 1 hour ago
+- [Google’s new startup program focuses on bringing AI to public infrastructure](https://techcrunch.com/2024/06/05/googles-new-startup-program-focuses-on-bringing-ai-to-public-infrastructure/) - 2 hours ago
+- [Hoop uses AI to automatically manage your to-do list](https://techcrunch.com/2024/06/05/hoop-frees-you-from-managing-your-to-do-list/) - 3 hours ago
+- [Insurance provider Understory gets into renewable energy following $15M Series A](https://techcrunch.com/2024/06/05/climate-insurance-understory-15m/) - 3 hours ago
+- [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/) - 3 hours ago
+- [Taloflow puts AI to work on software vendor selection to reduce cost and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/) - 3 hours ago
+- [Eko Health scores $41M to detect heart and lung disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/) - 5 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/) - 19 hours ago
+- [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/) - 20 hours ago
+- [Engineer brothers found Forge to modernize hardware procurement](https://techcrunch.com/2024/06/04/ex-meta-blue-origin-brother-engineers-raise-2m-to-solve-hardware-procurement/) - 1 day ago
+- [Raspberry Pi partners with Hailo for its AI extension kit](https://techcrunch.com/2024/06/04/raspberry-pi-partners-with-hailo-for-its-ai-extension-kit/) - 1 day ago
+- [Stacklet sees demand grow as companies take cloud cost control more seriously](https://techcrunch.com/2024/06/04/stacklet-sees-demand-grow-as-companies-take-cloud-cost-control-more-seriously/) - 1 day ago
+- [How a couple of former Pinterest search experts caught Biz Stone’s attention](https://techcrunch.com/2024/06/04/search-biz-stone-e-commerce-vantage-discovery/) - 1 day ago
 - [Sword Health raises $130M and its valuation soars to $3B](https://techcrunch.com/2024/06/04/sword-healths-raises-130m-valuation-3b-ai-physical-therapy/) - 1 day ago
 - [WndrCo officially gets into venture capital with fresh $460M across two funds](https://techcrunch.com/2024/06/04/jeffrey-katzenberg-wndrco-450m-fund-venture-capital/) - 1 day ago
 - [‘Star Wars’ lasers and waterfalls of molten salt: How Xcimer plans to make fusion power happen](https://techcrunch.com/2024/06/04/star-wars-lasers-and-waterfalls-of-molten-salt-how-xcimer-plans-to-make-fusion-power-happen/) - 1 day ago
@@ -57,10 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/) - 11:00 pm PDT • May 27, 2024
 - [Ledger starts shipping its high-end hardware crypto wallet](https://techcrunch.com/2024/05/27/ledger-starts-shipping-its-high-end-hardware-crypto-wallet/) - 9:45 pm PDT • May 27, 2024
 - [LatAm startups: Apply to Startup Battlefield 200](https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/) - 9:00 am PDT • May 27, 2024
-- [5 days left to get your early-bird Disrupt passes](https://techcrunch.com/2024/05/27/five-days-left-to-get-your-early-bird-disrupt-passes/) - 9:00 am PDT • May 27, 2024
-- [Spanish startups reached €100 billion in aggregate value last year](https://techcrunch.com/2024/05/27/spanish-startups-reached-e100-billion-in-aggregated-value-in-2023-consolidating-the-countrys-position-as-a-midsize-european-tech-ecosystem/) - 8:45 am PDT • May 27, 2024
-- [Doly lets you generate 3D product videos from your iPhone](https://techcrunch.com/2024/05/27/doly-lets-you-generate-3d-product-videos-from-your-phone/) - 6:00 am PDT • May 27, 2024
-- [Indian EV startup Zypp Electric secures backing to fund expansion to Southeast Asia](https://techcrunch.com/2024/05/26/indian-ev-startup-zypp-electric-secures-eneos-backing-to-fund-expansion-to-southeast-asia/) - 8:30 pm PDT • May 26, 2024
-- [Y Combinator’s Garry Tan supports some AI regulation but warns against AI monopolies](https://techcrunch.com/2024/05/26/ai-garry-tan-y-combinator/) - 8:00 am PDT • May 26, 2024
-- [How Maven’s AI-run ‘serendipity network’ can make social media interesting again](https://techcrunch.com/2024/05/26/how-mavens-ai-run-serendipity-network-can-make-social-media-interesting-again/) - 7:30 am PDT • May 26, 2024
-- [Deal Dive: Can blockchain make weather forecasts better? WeatherXM thinks so](https://techcrunch.com/2024/05/25/deal-dive-can-blockchain-make-weather-forecasts-better-weatherxm-thinks-so/) - 9:00 am PDT • May 25, 2024
