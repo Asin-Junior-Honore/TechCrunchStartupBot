@@ -4,22 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Eyebot raised $6M for AI-powered kiosks that provide 90-second eye exams without optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/) - 20 mins ago
-- [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/) - 2 hours ago
-- [Amazon buys Indian video streaming service MX Player](https://techcrunch.com/2024/06/06/amazon-buys-indian-video-streaming-service-mx-player/) - 4 hours ago
-- [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/) - 6 hours ago
-- [Mistral launches new services and SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/) - 15 hours ago
-- [Fearless Fund’s Arian Simone coming to Disrupt 2024](https://techcrunch.com/2024/06/05/fearless-funds-arian-simone-coming-to-disrupt-2024/) - 16 hours ago
-- [Bluesky and Mastodon users can now talk to each other with Bridgy Fed](https://techcrunch.com/2024/06/05/bluesky-and-mastodon-users-can-now-talk-to-each-other-with-bridgy-fed/) - 17 hours ago
-- [SoftBank-backed grocery startup Oda lays off 150, resets focus on Norway and Sweden](https://techcrunch.com/2024/06/05/softbank-backed-grocery-startup-oda-lays-off-150-resets-focus-on-norway-and-sweden/) - 19 hours ago
-- [ClickUp wants to take on Notion and Confluence with its new AI-based Knowledge Base](https://techcrunch.com/2024/06/05/clickup-wants-to-take-on-notion-and-confluence-with-its-new-ai-based-knowledge-base/) - 20 hours ago
-- [Whizz wants to own the delivery e-bike subscription space, starting with NYC](https://techcrunch.com/2024/06/05/whizz-wants-to-own-the-delivery-e-bike-subscription-space-starting-with-nyc/) - 20 hours ago
-- [Three ways founders can shine at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/05/three-ways-founders-can-shine-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [Google’s new startup program focuses on bringing AI to public infrastructure](https://techcrunch.com/2024/06/05/googles-new-startup-program-focuses-on-bringing-ai-to-public-infrastructure/) - 22 hours ago
-- [Hoop uses AI to automatically manage your to-do list](https://techcrunch.com/2024/06/05/hoop-frees-you-from-managing-your-to-do-list/) - 23 hours ago
-- [Insurance provider Understory gets into renewable energy following $15M Series A](https://techcrunch.com/2024/06/05/climate-insurance-understory-15m/) - 23 hours ago
-- [Taloflow puts AI to work on software vendor selection to reduce costs and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/) - 23 hours ago
-- [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/) - 23 hours ago
+- [Kleiner Perkins leads $14.4M seed round into Fizz, a credit-building debit card aimed at Gen Z college students](https://techcrunch.com/2024/06/06/kleiner-perkins-leads-14-4m-seed-round-into-fizz-a-credit-building-debit-card-aimed-at-gen-z-college-students/) - 2 hours ago
+- [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/) - 2 hours ago
+- [Qargo raises $14M to digitize and decarbonize the trucking industry](https://techcrunch.com/2024/06/06/qargo-raises-14m-to-digitize-and-decarbonize-the-trucking-industry/) - 3 hours ago
+- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/) - 3 hours ago
+- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/) - 3 hours ago
+- [Fintech Torpago has a unique way to compete with Brex and Ramp: turning banks into customers](https://techcrunch.com/2024/06/06/banks-brex-ramp-torpago-fintech/) - 3 hours ago
+- [Eyebot raised $6M for AI-powered kiosks that provide 90-second eye exams without an optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/) - 4 hours ago
+- [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/) - 6 hours ago
+- [Amazon buys Indian video streaming service MX Player](https://techcrunch.com/2024/06/06/amazon-buys-indian-video-streaming-service-mx-player/) - 8 hours ago
+- [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/) - 9 hours ago
+- [Mistral launches new services and SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/) - 18 hours ago
+- [Fearless Fund’s Arian Simone coming to Disrupt 2024](https://techcrunch.com/2024/06/05/fearless-funds-arian-simone-coming-to-disrupt-2024/) - 20 hours ago
+- [Bluesky and Mastodon users can now talk to each other with Bridgy Fed](https://techcrunch.com/2024/06/05/bluesky-and-mastodon-users-can-now-talk-to-each-other-with-bridgy-fed/) - 20 hours ago
+- [SoftBank-backed grocery startup Oda lays off 150, resets focus on Norway and Sweden](https://techcrunch.com/2024/06/05/softbank-backed-grocery-startup-oda-lays-off-150-resets-focus-on-norway-and-sweden/) - 22 hours ago
+- [ClickUp wants to take on Notion and Confluence with its new AI-based Knowledge Base](https://techcrunch.com/2024/06/05/clickup-wants-to-take-on-notion-and-confluence-with-its-new-ai-based-knowledge-base/) - 24 hours ago
+- [Whizz wants to own the delivery e-bike subscription space, starting with NYC](https://techcrunch.com/2024/06/05/whizz-wants-to-own-the-delivery-e-bike-subscription-space-starting-with-nyc/) - 24 hours ago
+- [Three ways founders can shine at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/05/three-ways-founders-can-shine-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Google’s new startup program focuses on bringing AI to public infrastructure](https://techcrunch.com/2024/06/05/googles-new-startup-program-focuses-on-bringing-ai-to-public-infrastructure/) - 1 day ago
+- [Hoop uses AI to automatically manage your to-do list](https://techcrunch.com/2024/06/05/hoop-frees-you-from-managing-your-to-do-list/) - 1 day ago
+- [Taloflow puts AI to work on software vendor selection to reduce costs and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/) - 1 day ago
+- [Insurance provider Understory gets into renewable energy following $15M Series A](https://techcrunch.com/2024/06/05/climate-insurance-understory-15m/) - 1 day ago
+- [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/) - 1 day ago
 - [Eko Health scores $41M to detect heart and lung disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/) - 2 days ago
 - [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/) - 2 days ago
@@ -58,9 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/) - 1:13 am PDT • May 30, 2024
 - [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/) - 1:00 am PDT • May 30, 2024
 - [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/) - 1:35 pm PDT • May 29, 2024
-- [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/) - 1:05 pm PDT • May 29, 2024
-- [Slingshot raises $2.2 million to provide financial services to artists](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/) - 10:38 am PDT • May 29, 2024
-- [Germany’s financial regulator ends anti-money laundering cap on N26 signups after $10M fine](https://techcrunch.com/2024/05/29/german-financial-regulator-lifts-restrictions-on-n26-signups/) - 6:32 am PDT • May 29, 2024
-- [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/) - 6:00 am PDT • May 29, 2024
-- [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/) - 6:00 am PDT • May 29, 2024
-- [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/) - 12:00 am PDT • May 29, 2024
