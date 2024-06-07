@@ -4,17 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Shopify acquires Threads (no, not that one)](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/) - 2 hours ago
-- [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/) - 12 hours ago
-- [HSBC believes that $22 billion Byju’s is now worth zero](https://techcrunch.com/2024/06/06/hsbc-believes-indian-edtech-byjus-currently-worth-zero/) - 17 hours ago
-- [Revel to lay off 1,000 staff ride-hail drivers, saying they’d rather be contractors anyway](https://techcrunch.com/2024/06/06/revels-latest-pivot-ditching-all-employee-ride-hail-in-favor-of-gig-worker-model/) - 20 hours ago
-- [Atlassian now gives startups a year of free access](https://techcrunch.com/2024/06/06/atlassian-now-gives-startups-a-year-of-free-access/) - 20 hours ago
-- [Kleiner Perkins leads $14.4M seed round into Fizz, a credit-building debit card aimed at Gen Z college students](https://techcrunch.com/2024/06/06/kleiner-perkins-leads-14-4m-seed-round-into-fizz-a-credit-building-debit-card-aimed-at-gen-z-college-students/) - 22 hours ago
-- [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/) - 22 hours ago
-- [Qargo raises $14M to digitize and decarbonize the trucking industry](https://techcrunch.com/2024/06/06/qargo-raises-14m-to-digitize-and-decarbonize-the-trucking-industry/) - 23 hours ago
-- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/) - 23 hours ago
-- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/) - 23 hours ago
-- [Fintech Torpago has a unique way to compete with Brex and Ramp: Turning banks into customers](https://techcrunch.com/2024/06/06/banks-brex-ramp-torpago-fintech/) - 24 hours ago
+- [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/) - 2 mins ago
+- [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/) - 1 hour ago
+- [Shopify acquires Threads (no, not that one)](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/) - 6 hours ago
+- [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/) - 16 hours ago
+- [HSBC believes that $22 billion Byju’s is now worth zero](https://techcrunch.com/2024/06/06/hsbc-believes-indian-edtech-byjus-currently-worth-zero/) - 20 hours ago
+- [Revel to lay off 1,000 staff ride-hail drivers, saying they’d rather be contractors anyway](https://techcrunch.com/2024/06/06/revels-latest-pivot-ditching-all-employee-ride-hail-in-favor-of-gig-worker-model/) - 23 hours ago
+- [Atlassian now gives startups a year of free access](https://techcrunch.com/2024/06/06/atlassian-now-gives-startups-a-year-of-free-access/) - 1 day ago
+- [Kleiner Perkins leads $14.4M seed round into Fizz, a credit-building debit card aimed at Gen Z college students](https://techcrunch.com/2024/06/06/kleiner-perkins-leads-14-4m-seed-round-into-fizz-a-credit-building-debit-card-aimed-at-gen-z-college-students/) - 1 day ago
+- [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/) - 1 day ago
+- [Qargo raises $14M to digitize and decarbonize the trucking industry](https://techcrunch.com/2024/06/06/qargo-raises-14m-to-digitize-and-decarbonize-the-trucking-industry/) - 1 day ago
+- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/) - 1 day ago
+- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/) - 1 day ago
+- [Fintech Torpago has a unique way to compete with Brex and Ramp: Turning banks into customers](https://techcrunch.com/2024/06/06/banks-brex-ramp-torpago-fintech/) - 1 day ago
 - [Eyebot raised $6M for AI-powered kiosks that provide 90-second vision exams without an on-site optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/) - 1 day ago
 - [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/) - 1 day ago
 - [Amazon buys Indian video streaming service MX Player](https://techcrunch.com/2024/06/06/amazon-buys-indian-video-streaming-service-mx-player/) - 1 day ago
@@ -28,8 +30,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Three ways founders can shine at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/05/three-ways-founders-can-shine-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Google’s new startup program focuses on bringing AI to public infrastructure](https://techcrunch.com/2024/06/05/googles-new-startup-program-focuses-on-bringing-ai-to-public-infrastructure/) - 2 days ago
 - [Hoop uses AI to automatically manage your to-do list](https://techcrunch.com/2024/06/05/hoop-frees-you-from-managing-your-to-do-list/) - 2 days ago
-- [Taloflow puts AI to work on software vendor selection to reduce costs and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/) - 2 days ago
 - [Insurance provider Understory gets into renewable energy following $15M Series A](https://techcrunch.com/2024/06/05/climate-insurance-understory-15m/) - 2 days ago
+- [Taloflow puts AI to work on software vendor selection to reduce costs and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/) - 2 days ago
 - [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/) - 2 days ago
 - [Eko Health scores $41M to detect heart and lung disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/) - 3 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/) - 9:00 am PDT • May 30, 2024
 - [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/) - 8:59 am PDT • May 30, 2024
 - [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/) - 7:30 am PDT • May 30, 2024
-- [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/) - 7:15 am PDT • May 30, 2024
-- [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/) - 6:05 am PDT • May 30, 2024
