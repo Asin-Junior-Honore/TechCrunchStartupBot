@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 14 hours ago
-- [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/) - 18 hours ago
-- [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/) - 21 hours ago
-- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/) - 21 hours ago
-- [BlackRock has slashed the value of stake in Byju’s, once worth $22 billion, to zero](https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/) - 22 hours ago
+- [Deal Dive: Human Native AI is building the marketplace for AI training licensing deals](https://techcrunch.com/2024/06/08/deal-dive-human-native-ai-is-building-the-marketplace-for-ai-training-licensing-deals/) - 3 hours ago
+- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 18 hours ago
+- [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/) - 22 hours ago
+- [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/) - 1 day ago
+- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/) - 1 day ago
+- [BlackRock has slashed the value of stake in Byju’s, once worth $22 billion, to zero](https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/) - 1 day ago
 - [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/) - 1 day ago
 - [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/) - 1 day ago
 - [Shopify acquires Threads (no, not that one)](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/) - 1 day ago
@@ -18,13 +19,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Kleiner Perkins leads $14.4M seed round into Fizz, a credit-building debit card aimed at Gen Z college students](https://techcrunch.com/2024/06/06/kleiner-perkins-leads-14-4m-seed-round-into-fizz-a-credit-building-debit-card-aimed-at-gen-z-college-students/) - 2 days ago
 - [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/) - 2 days ago
 - [Qargo raises $14M to digitize and decarbonize the trucking industry](https://techcrunch.com/2024/06/06/qargo-raises-14m-to-digitize-and-decarbonize-the-trucking-industry/) - 2 days ago
-- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/) - 2 days ago
 - [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/) - 2 days ago
+- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/) - 2 days ago
 - [Fintech Torpago has a unique way to compete with Brex and Ramp: Turning banks into customers](https://techcrunch.com/2024/06/06/banks-brex-ramp-torpago-fintech/) - 2 days ago
 - [Eyebot raised $6M for AI-powered kiosks that provide 90-second vision exams without an on-site optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/) - 2 days ago
 - [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/) - 2 days ago
 - [Amazon buys Indian video streaming service MX Player](https://techcrunch.com/2024/06/06/amazon-buys-indian-video-streaming-service-mx-player/) - 2 days ago
-- [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/) - 2 days ago
+- [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/) - 3 days ago
 - [Mistral launches new services and SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/) - 3 days ago
 - [Fearless Fund’s Arian Simone coming to Disrupt 2024](https://techcrunch.com/2024/06/05/fearless-funds-arian-simone-coming-to-disrupt-2024/) - 3 days ago
 - [Bluesky and Mastodon users can now talk to each other with Bridgy Fed](https://techcrunch.com/2024/06/05/bluesky-and-mastodon-users-can-now-talk-to-each-other-with-bridgy-fed/) - 3 days ago
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 9:00 am PDT • May 31, 2024
 - [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 6:28 am PDT • May 31, 2024
 - [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/) - 6:34 pm PDT • May 30, 2024
-- [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/) - 1:00 pm PDT • May 30, 2024
