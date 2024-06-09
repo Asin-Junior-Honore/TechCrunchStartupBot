@@ -4,9 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/) - 15 hours ago
-- [Deal Dive: Human Native AI is building the marketplace for AI training licensing deals](https://techcrunch.com/2024/06/08/deal-dive-human-native-ai-is-building-the-marketplace-for-ai-training-licensing-deals/) - 19 hours ago
-- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 1 day ago
+- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 5 mins ago
+- [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/) - 2 hours ago
+- [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/) - 19 hours ago
+- [Deal Dive: Human Native AI is building the marketplace for AI training licensing deals](https://techcrunch.com/2024/06/08/deal-dive-human-native-ai-is-building-the-marketplace-for-ai-training-licensing-deals/) - 23 hours ago
+- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 2 days ago
 - [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/) - 2 days ago
 - [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/) - 2 days ago
 - [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/) - 2 days ago
@@ -14,7 +16,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/) - 2 days ago
 - [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/) - 2 days ago
 - [Shopify acquires Threads (no, not that one)](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/) - 2 days ago
-- [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/) - 2 days ago
+- [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/) - 3 days ago
 - [Revel to lay off 1,000 staff ride-hail drivers, saying they’d rather be contractors anyway](https://techcrunch.com/2024/06/06/revels-latest-pivot-ditching-all-employee-ride-hail-in-favor-of-gig-worker-model/) - 3 days ago
 - [Atlassian now gives startups a year of free access](https://techcrunch.com/2024/06/06/atlassian-now-gives-startups-a-year-of-free-access/) - 3 days ago
 - [Kleiner Perkins leads $14.4M seed round into Fizz, a credit-building debit card aimed at Gen Z college students](https://techcrunch.com/2024/06/06/kleiner-perkins-leads-14-4m-seed-round-into-fizz-a-credit-building-debit-card-aimed-at-gen-z-college-students/) - 3 days ago
@@ -40,8 +42,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Taloflow puts AI to work on software vendor selection to reduce costs and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/) - 4 days ago
 - [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/) - 4 days ago
 - [Eko Health scores $41M to detect heart and lung disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/) - 5 days ago
-- [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/) - 1:55 pm PDT • June 4, 2024
+- [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/) - 1:00 pm PDT • June 4, 2024
 - [Engineer brothers found Forge to modernize hardware procurement](https://techcrunch.com/2024/06/04/ex-meta-blue-origin-brother-engineers-raise-2m-to-solve-hardware-procurement/) - 7:00 am PDT • June 4, 2024
 - [Raspberry Pi partners with Hailo for its AI extension kit](https://techcrunch.com/2024/06/04/raspberry-pi-partners-with-hailo-for-its-ai-extension-kit/) - 6:46 am PDT • June 4, 2024
 - [How a couple of former Pinterest search experts caught Biz Stone’s attention](https://techcrunch.com/2024/06/04/search-biz-stone-e-commerce-vantage-discovery/) - 6:00 am PDT • June 4, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/) - 4:10 pm PDT • May 31, 2024
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/) - 12:05 pm PDT • May 31, 2024
 - [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/) - 10:00 am PDT • May 31, 2024
-- [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/) - 9:00 am PDT • May 31, 2024
-- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/) - 6:28 am PDT • May 31, 2024
