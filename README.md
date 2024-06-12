@@ -4,30 +4,34 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/) - 45 mins ago
-- [DC’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/) - 6 hours ago
-- [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/) - 12 hours ago
-- [Light introduces its latest minimalist phone, now with an OLED screen but still no addictive apps](https://techcrunch.com/2024/06/11/light-introduces-its-latest-minimalist-phone-now-with-an-oled-screen-but-still-no-addictive-apps/) - 17 hours ago
-- [Flow claims it can 100x any CPU’s power with its companion chip and some elbow grease](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/) - 19 hours ago
-- [The VC queen of portfolio PR, Masha Bucher, has raised her largest fund yet: $150M](https://techcrunch.com/2024/06/11/vc-queen-masha-bucher-largest-fund-150m/) - 19 hours ago
-- [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 19 hours ago
-- [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 21 hours ago
-- [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 1 day ago
-- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 2 days ago
+- [Restate raises $7M for its lightweight workflows-as-code platform](https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/) - 22 mins ago
+- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/) - 1 hour ago
+- [Friends & Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/) - 1 hour ago
+- [Fabless AI chip makers Rebellions and Sapeon to merge as competition heats up in global AI hardware industry](https://techcrunch.com/2024/06/12/fabless-ai-chip-makers-rebellions-and-sapeon-to-merge-as-competition-heats-up-in-global-ai-hardware-industry/) - 3 hours ago
+- [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/) - 5 hours ago
+- [DC’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/) - 10 hours ago
+- [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/) - 17 hours ago
+- [Light introduces its latest minimalist phone, now with an OLED screen but still no addictive apps](https://techcrunch.com/2024/06/11/light-introduces-its-latest-minimalist-phone-now-with-an-oled-screen-but-still-no-addictive-apps/) - 21 hours ago
+- [Flow claims it can 100x any CPU’s power with its companion chip and some elbow grease](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/) - 23 hours ago
+- [The VC queen of portfolio PR, Masha Bucher, has raised her largest fund yet: $150M](https://techcrunch.com/2024/06/11/vc-queen-masha-bucher-largest-fund-150m/) - 23 hours ago
+- [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 24 hours ago
+- [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 1 day ago
+- [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 2 days ago
 - [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 2 days ago
+- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 2 days ago
 - [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/) - 2 days ago
 - [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/) - 2 days ago
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 3 days ago
 - [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/) - 3 days ago
-- [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/) - 3 days ago
+- [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/) - 4 days ago
 - [Deal Dive: Human Native AI is building the marketplace for AI training licensing deals](https://techcrunch.com/2024/06/08/deal-dive-human-native-ai-is-building-the-marketplace-for-ai-training-licensing-deals/) - 4 days ago
 - [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 4 days ago
-- [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/) - 4 days ago
-- [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/) - 5 days ago
-- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/) - 5 days ago
-- [BlackRock has slashed the value of stake in Byju’s, once worth $22B, to zero](https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/) - 5 days ago
-- [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/) - 5 days ago
-- [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/) - 5 days ago
+- [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/) - 5 days ago
+- [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/) - 12:20 pm PDT • June 7, 2024
+- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/) - 12:00 pm PDT • June 7, 2024
+- [BlackRock has slashed the value of stake in Byju’s, once worth $22B, to zero](https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/) - 11:30 am PDT • June 7, 2024
+- [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/) - 9:00 am PDT • June 7, 2024
+- [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/) - 7:49 am PDT • June 7, 2024
 - [Shopify acquires Threads (no, not that one)](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/) - 3:05 am PDT • June 7, 2024
 - [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/) - 5:24 pm PDT • June 6, 2024
 - [Revel to lay off 1,000 staff ride-hail drivers, saying they’d rather be contractors anyway](https://techcrunch.com/2024/06/06/revels-latest-pivot-ditching-all-employee-ride-hail-in-favor-of-gig-worker-model/) - 9:43 am PDT • June 6, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Engineer brothers found Forge to modernize hardware procurement](https://techcrunch.com/2024/06/04/ex-meta-blue-origin-brother-engineers-raise-2m-to-solve-hardware-procurement/) - 7:00 am PDT • June 4, 2024
 - [Raspberry Pi partners with Hailo for its AI extension kit](https://techcrunch.com/2024/06/04/raspberry-pi-partners-with-hailo-for-its-ai-extension-kit/) - 6:46 am PDT • June 4, 2024
 - [How a couple of former Pinterest search experts caught Biz Stone’s attention](https://techcrunch.com/2024/06/04/search-biz-stone-e-commerce-vantage-discovery/) - 6:00 am PDT • June 4, 2024
-- [Stacklet sees demand grow as companies take cloud cost control more seriously](https://techcrunch.com/2024/06/04/stacklet-sees-demand-grow-as-companies-take-cloud-cost-control-more-seriously/) - 6:00 am PDT • June 4, 2024
-- [Sword Health raises $130M and its valuation soars to $3B](https://techcrunch.com/2024/06/04/sword-healths-raises-130m-valuation-3b-ai-physical-therapy/) - 5:00 am PDT • June 4, 2024
-- [WndrCo officially gets into venture capital with fresh $460M across two funds](https://techcrunch.com/2024/06/04/jeffrey-katzenberg-wndrco-450m-fund-venture-capital/) - 4:30 am PDT • June 4, 2024
-- [‘Star Wars’ lasers and waterfalls of molten salt: How Xcimer plans to make fusion power happen](https://techcrunch.com/2024/06/04/star-wars-lasers-and-waterfalls-of-molten-salt-how-xcimer-plans-to-make-fusion-power-happen/) - 3:00 am PDT • June 4, 2024
