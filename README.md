@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 16 hours ago
-- [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 16 hours ago
-- [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 18 hours ago
-- [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 20 hours ago
-- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 22 hours ago
+- [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 2 hours ago
+- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 20 hours ago
+- [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 20 hours ago
+- [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 22 hours ago
+- [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 1 day ago
+- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 1 day ago
 - [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/) - 1 day ago
-- [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 1 day ago
+- [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 2 days ago
 - [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/) - 2 days ago
 - [Layoffs Got You Down? Get a Half-Price Expo+ Pass at Disrupt 2024](https://techcrunch.com/2024/06/12/layoffs-got-you-get-a-half-price-expo-pass-disrupt-2024/) - 2 days ago
 - [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/) - 2 days ago
@@ -30,13 +31,13 @@ Here are the latest articles from TechCrunch Startups:
 - [The VC queen of portfolio PR, Masha Bucher, has raised her largest fund yet: $150M](https://techcrunch.com/2024/06/11/vc-queen-masha-bucher-largest-fund-150m/) - 3 days ago
 - [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 3 days ago
 - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 3 days ago
-- [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 3 days ago
+- [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 4 days ago
 - [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 4 days ago
 - [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 4 days ago
 - [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/) - 4 days ago
 - [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/) - 4 days ago
-- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 5 days ago
-- [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/) - 5 days ago
+- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 9:00 am PDT • June 9, 2024
+- [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/) - 7:00 am PDT • June 9, 2024
 - [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/) - 2:03 pm PDT • June 8, 2024
 - [Deal Dive: Human Native AI is building the marketplace for AI training licensing deals](https://techcrunch.com/2024/06/08/deal-dive-human-native-ai-is-building-the-marketplace-for-ai-training-licensing-deals/) - 10:00 am PDT • June 8, 2024
 - [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 6:59 pm PDT • June 7, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Mistral launches new services and SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/) - 2:35 pm PDT • June 5, 2024
 - [Fearless Fund’s Arian Simone coming to Disrupt 2024](https://techcrunch.com/2024/06/05/fearless-funds-arian-simone-coming-to-disrupt-2024/) - 1:00 pm PDT • June 5, 2024
 - [Bluesky and Mastodon users can now talk to each other with Bridgy Fed](https://techcrunch.com/2024/06/05/bluesky-and-mastodon-users-can-now-talk-to-each-other-with-bridgy-fed/) - 12:27 pm PDT • June 5, 2024
-- [SoftBank-backed grocery startup Oda lays off 150, resets focus on Norway and Sweden](https://techcrunch.com/2024/06/05/softbank-backed-grocery-startup-oda-lays-off-150-resets-focus-on-norway-and-sweden/) - 10:30 am PDT • June 5, 2024
