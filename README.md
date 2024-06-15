@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 13 hours ago
-- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 13 hours ago
-- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 15 hours ago
-- [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 22 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 17 hours ago
+- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 17 hours ago
+- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 19 hours ago
+- [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 1 day ago
 - [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 2 days ago
 - [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 2 days ago
 - [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 2 days ago
 - [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 2 days ago
 - [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 2 days ago
 - [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/) - 2 days ago
-- [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 2 days ago
+- [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 3 days ago
 - [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/) - 3 days ago
 - [Layoffs Got You Down? Get a Half-Price Expo+ Pass at Disrupt 2024](https://techcrunch.com/2024/06/12/layoffs-got-you-get-a-half-price-expo-pass-disrupt-2024/) - 3 days ago
 - [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/) - 3 days ago
@@ -35,9 +35,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 4 days ago
 - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 4 days ago
 - [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 4 days ago
-- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 5 days ago
 - [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 5 days ago
-- [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/) - 5 days ago
+- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 5 days ago
+- [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/) - 6:40 am PDT • June 10, 2024
 - [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/) - 11:00 pm PDT • June 9, 2024
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 9:00 am PDT • June 9, 2024
 - [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/) - 7:00 am PDT • June 9, 2024
@@ -57,8 +57,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Kleiner Perkins leads $14.4M seed round into Fizz, a credit-building debit card aimed at Gen Z college students](https://techcrunch.com/2024/06/06/kleiner-perkins-leads-14-4m-seed-round-into-fizz-a-credit-building-debit-card-aimed-at-gen-z-college-students/) - 7:15 am PDT • June 6, 2024
 - [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/) - 7:00 am PDT • June 6, 2024
 - [Qargo raises $14M to digitize and decarbonize the trucking industry](https://techcrunch.com/2024/06/06/qargo-raises-14m-to-digitize-and-decarbonize-the-trucking-industry/) - 6:16 am PDT • June 6, 2024
-- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/) - 6:00 am PDT • June 6, 2024
 - [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/) - 6:00 am PDT • June 6, 2024
+- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/) - 6:00 am PDT • June 6, 2024
 - [Fintech Torpago has a unique way to compete with Brex and Ramp: Turning banks into customers](https://techcrunch.com/2024/06/06/banks-brex-ramp-torpago-fintech/) - 5:45 am PDT • June 6, 2024
 - [Eyebot raised $6M for AI-powered kiosks that provide 90-second vision exams without an on-site optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/) - 5:00 am PDT • June 6, 2024
 - [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/) - 3:07 am PDT • June 6, 2024
