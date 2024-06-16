@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 4 hours ago
+- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 9 hours ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 1 day ago
 - [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 1 day ago
 - [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 1 day ago
-- [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 1 day ago
+- [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 2 days ago
 - [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 2 days ago
 - [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 2 days ago
 - [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 2 days ago
-- [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 2 days ago
-- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 2 days ago
+- [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 3 days ago
+- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 3 days ago
 - [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/) - 3 days ago
 - [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 3 days ago
 - [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/) - 3 days ago
@@ -23,10 +23,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Bonus: An extra week to apply to Startup Battlefield 200](https://techcrunch.com/2024/06/12/bonus-an-extra-week-to-apply-to-startup-battlefield-200/) - 3 days ago
 - [YC grad RetailReady raises $3.3M for an AI warehouse app that hopes to save brands billions](https://techcrunch.com/2024/06/12/yc-retailready-warehouse-shipping/) - 3 days ago
 - [Foresite Capital raises $900M sixth fund for investing in life sciences companies](https://techcrunch.com/2024/06/12/foresite-capital-raises-900m-sixth-fund-for-investing-in-healthcare-companies/) - 3 days ago
-- [Restate raises $7M for its lightweight workflows-as-code platform](https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/) - 3 days ago
-- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/) - 3 days ago
-- [Friends & Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/) - 3 days ago
-- [Fabless AI chip makers Rebellions and Sapeon to merge as competition heats up in global AI hardware industry](https://techcrunch.com/2024/06/12/fabless-ai-chip-makers-rebellions-and-sapeon-to-merge-as-competition-heats-up-in-global-ai-hardware-industry/) - 3 days ago
+- [Restate raises $7M for its lightweight workflows-as-code platform](https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/) - 4 days ago
+- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/) - 4 days ago
+- [Friends & Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/) - 4 days ago
+- [Fabless AI chip makers Rebellions and Sapeon to merge as competition heats up in global AI hardware industry](https://techcrunch.com/2024/06/12/fabless-ai-chip-makers-rebellions-and-sapeon-to-merge-as-competition-heats-up-in-global-ai-hardware-industry/) - 4 days ago
 - [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/) - 4 days ago
 - [Washington’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/) - 4 days ago
 - [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/) - 4 days ago
