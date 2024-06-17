@@ -4,31 +4,31 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 2 hours ago
-- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 11 hours ago
-- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 12 hours ago
-- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 1 day ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 2 days ago
-- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 2 days ago
-- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 2 days ago
+- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 6 hours ago
+- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 15 hours ago
+- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 16 hours ago
+- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 2 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 3 days ago
+- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 3 days ago
+- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 3 days ago
 - [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 3 days ago
-- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 3 days ago
+- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 4 days ago
 - [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 4 days ago
 - [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 4 days ago
 - [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 4 days ago
 - [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 4 days ago
 - [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/) - 4 days ago
 - [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 4 days ago
-- [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/) - 4 days ago
-- [Layoffs Got You Down? Get a Half-Price Expo+ Pass at Disrupt 2024](https://techcrunch.com/2024/06/12/layoffs-got-you-get-a-half-price-expo-pass-disrupt-2024/) - 4 days ago
-- [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/) - 5 days ago
-- [Lightspeed Venture Partners leads $4.3M seed in automated financial reporting fintech InScope](https://techcrunch.com/2024/06/12/sheel-mohnot-inscope-financial-reporting/) - 5 days ago
-- [Bonus: An extra week to apply to Startup Battlefield 200](https://techcrunch.com/2024/06/12/bonus-an-extra-week-to-apply-to-startup-battlefield-200/) - 5 days ago
-- [YC grad RetailReady raises $3.3M for an AI warehouse app that hopes to save brands billions](https://techcrunch.com/2024/06/12/yc-retailready-warehouse-shipping/) - 5 days ago
-- [Foresite Capital raises $900M sixth fund for investing in life sciences companies](https://techcrunch.com/2024/06/12/foresite-capital-raises-900m-sixth-fund-for-investing-in-healthcare-companies/) - 5 days ago
-- [Restate raises $7M for its lightweight workflows-as-code platform](https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/) - 5 days ago
-- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/) - 5 days ago
-- [Friends & Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/) - 5 days ago
+- [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/) - 5 days ago
+- [Layoffs Got You Down? Get a Half-Price Expo+ Pass at Disrupt 2024](https://techcrunch.com/2024/06/12/layoffs-got-you-get-a-half-price-expo-pass-disrupt-2024/) - 5 days ago
+- [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/) - 6:41 am PDT • June 12, 2024
+- [Lightspeed Venture Partners leads $4.3M seed in automated financial reporting fintech InScope](https://techcrunch.com/2024/06/12/sheel-mohnot-inscope-financial-reporting/) - 6:05 am PDT • June 12, 2024
+- [Bonus: An extra week to apply to Startup Battlefield 200](https://techcrunch.com/2024/06/12/bonus-an-extra-week-to-apply-to-startup-battlefield-200/) - 6:00 am PDT • June 12, 2024
+- [YC grad RetailReady raises $3.3M for an AI warehouse app that hopes to save brands billions](https://techcrunch.com/2024/06/12/yc-retailready-warehouse-shipping/) - 6:00 am PDT • June 12, 2024
+- [Foresite Capital raises $900M sixth fund for investing in life sciences companies](https://techcrunch.com/2024/06/12/foresite-capital-raises-900m-sixth-fund-for-investing-in-healthcare-companies/) - 6:00 am PDT • June 12, 2024
+- [Restate raises $7M for its lightweight workflows-as-code platform](https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/) - 5:00 am PDT • June 12, 2024
+- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/) - 4:01 am PDT • June 12, 2024
+- [Friends & Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/) - 4:00 am PDT • June 12, 2024
 - [Fabless AI chip makers Rebellions and Sapeon to merge as competition heats up in global AI hardware industry](https://techcrunch.com/2024/06/12/fabless-ai-chip-makers-rebellions-and-sapeon-to-merge-as-competition-heats-up-in-global-ai-hardware-industry/) - 2:15 am PDT • June 12, 2024
 - [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/) - 12:00 am PDT • June 12, 2024
 - [Washington’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/) - 7:13 pm PDT • June 11, 2024
