@@ -4,25 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 3 hours ago
-- [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 12 hours ago
-- [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 12 hours ago
-- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 13 hours ago
-- [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 13 hours ago
-- [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 14 hours ago
-- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 22 hours ago
+- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 6 hours ago
+- [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 15 hours ago
+- [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 15 hours ago
+- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 16 hours ago
+- [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 16 hours ago
+- [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 17 hours ago
+- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 1 day ago
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 1 day ago
-- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 1 day ago
-- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 2 days ago
+- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 2 days ago
+- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 3 days ago
 - [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 3 days ago
 - [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 3 days ago
 - [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 4 days ago
-- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 4 days ago
-- [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 4 days ago
-- [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 4 days ago
+- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 5 days ago
+- [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 5 days ago
+- [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 5 days ago
 - [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 5 days ago
-- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 5 days ago
+- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 3:00 am PDT • June 13, 2024
 - [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/) - 11:38 pm PDT • June 12, 2024
 - [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/) - 4:48 pm PDT • June 12, 2024
 - [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/) - 11:00 am PDT • June 12, 2024
@@ -45,8 +45,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 5:43 am PDT • June 11, 2024
 - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 4:08 am PDT • June 11, 2024
 - [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 2:27 pm PDT • June 10, 2024
-- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 9:00 am PDT • June 10, 2024
 - [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 9:00 am PDT • June 10, 2024
+- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 9:00 am PDT • June 10, 2024
 - [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/) - 6:40 am PDT • June 10, 2024
 - [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/) - 11:00 pm PDT • June 9, 2024
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 9:00 am PDT • June 9, 2024
