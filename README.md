@@ -4,18 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bitsening raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 9 seconds ago
-- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 23 mins ago
-- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/) - 23 mins ago
-- [Waabi’s genAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/) - 3 hours ago
-- [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/) - 4 hours ago
-- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 15 hours ago
-- [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 23 hours ago
-- [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 23 hours ago
+- [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/) - 10 mins ago
+- [Decagon claims its customers service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 2 hours ago
+- [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/) - 2 hours ago
+- [Now a Series A startup, kids app and ‘digital toy’ Pok Pok is coming to Android](https://techcrunch.com/2024/06/18/now-a-series-a-startup-kids-app-and-digital-toy-pok-pok-is-coming-to-android/) - 2 hours ago
+- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/) - 3 hours ago
+- [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/) - 3 hours ago
+- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/) - 3 hours ago
+- [Bitsensing raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 4 hours ago
+- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 4 hours ago
+- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/) - 4 hours ago
+- [Waabi’s genAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/) - 7 hours ago
+- [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/) - 8 hours ago
+- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 19 hours ago
+- [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 1 day ago
+- [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 1 day ago
 - [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 1 day ago
 - [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 1 day ago
 - [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 1 day ago
-- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 1 day ago
+- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 2 days ago
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 2 days ago
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 2 days ago
 - [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 3 days ago
@@ -50,17 +57,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 5:43 am PDT • June 11, 2024
 - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 4:08 am PDT • June 11, 2024
 - [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 2:27 pm PDT • June 10, 2024
-- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 9:00 am PDT • June 10, 2024
 - [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 9:00 am PDT • June 10, 2024
+- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 9:00 am PDT • June 10, 2024
 - [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/) - 6:40 am PDT • June 10, 2024
 - [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/) - 11:00 pm PDT • June 9, 2024
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/) - 9:00 am PDT • June 9, 2024
 - [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/) - 7:00 am PDT • June 9, 2024
 - [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/) - 2:03 pm PDT • June 8, 2024
-- [Deal Dive: Human Native AI is building the marketplace for AI training licensing deals](https://techcrunch.com/2024/06/08/deal-dive-human-native-ai-is-building-the-marketplace-for-ai-training-licensing-deals/) - 10:00 am PDT • June 8, 2024
-- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/) - 6:59 pm PDT • June 7, 2024
-- [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/) - 3:20 pm PDT • June 7, 2024
-- [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/) - 12:20 pm PDT • June 7, 2024
-- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/) - 12:00 pm PDT • June 7, 2024
-- [BlackRock has slashed the value of stake in Byju’s, once worth $22B, to zero](https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/) - 11:30 am PDT • June 7, 2024
-- [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/) - 9:00 am PDT • June 7, 2024
