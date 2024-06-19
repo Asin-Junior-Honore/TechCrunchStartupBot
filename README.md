@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 4 hours ago
-- [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/) - 4 hours ago
-- [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/) - 16 hours ago
-- [Decagon claims its customer service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 18 hours ago
-- [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/) - 18 hours ago
-- [Now a Series A startup, kids’ app and ‘digital toy’ Pok Pok is coming to Android](https://techcrunch.com/2024/06/18/now-a-series-a-startup-kids-app-and-digital-toy-pok-pok-is-coming-to-android/) - 18 hours ago
-- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/) - 19 hours ago
-- [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/) - 19 hours ago
-- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/) - 19 hours ago
-- [Bitsensing raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 20 hours ago
-- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 20 hours ago
-- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/) - 20 hours ago
-- [Waabi’s GenAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/) - 23 hours ago
+- [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 8 hours ago
+- [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/) - 8 hours ago
+- [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/) - 20 hours ago
+- [Decagon claims its customer service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 22 hours ago
+- [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/) - 22 hours ago
+- [Now a Series A startup, kids’ app and ‘digital toy’ Pok Pok is coming to Android](https://techcrunch.com/2024/06/18/now-a-series-a-startup-kids-app-and-digital-toy-pok-pok-is-coming-to-android/) - 22 hours ago
+- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/) - 23 hours ago
+- [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/) - 23 hours ago
+- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/) - 24 hours ago
+- [Bitsensing raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 24 hours ago
+- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 1 day ago
+- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/) - 1 day ago
+- [Waabi’s GenAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/) - 1 day ago
 - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/) - 1 day ago
-- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 1 day ago
+- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 2 days ago
 - [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 2 days ago
 - [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 2 days ago
 - [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 2 days ago
@@ -28,9 +28,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 3 days ago
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 3 days ago
 - [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 5 days ago
-- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 5 days ago
-- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 12:20 pm PDT • June 14, 2024
+- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 12:01 pm PDT • June 14, 2024
+- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/) - 10:00 am PDT • June 14, 2024
 - [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/) - 3:00 am PDT • June 14, 2024
 - [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/) - 9:00 am PDT • June 13, 2024
 - [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 8:43 am PDT • June 13, 2024
