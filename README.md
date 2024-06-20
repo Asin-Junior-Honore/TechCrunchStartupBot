@@ -4,10 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 8 hours ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 13 hours ago
-- [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/) - 14 hours ago
-- [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 24 hours ago
+- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 1 hour ago
+- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 1 hour ago
+- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 12 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 17 hours ago
+- [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/) - 18 hours ago
+- [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 1 day ago
 - [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/) - 1 day ago
 - [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/) - 2 days ago
 - [Decagon claims its customer service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 2 days ago
@@ -28,7 +30,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 3 days ago
 - [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 3 days ago
 - [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 3 days ago
-- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 3 days ago
+- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 4 days ago
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 4 days ago
 - [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 5 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/) - 12:20 pm PDT • June 14, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 5:43 am PDT • June 11, 2024
 - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 4:08 am PDT • June 11, 2024
 - [How Urvashi Barooah broke into venture after everyone told her she couldn’t](https://techcrunch.com/2024/06/10/how-urvashi-barooah-broke-into-venture-after-everyone-told-her-she-couldnt/) - 2:27 pm PDT • June 10, 2024
-- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/) - 9:00 am PDT • June 10, 2024
-- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/) - 9:00 am PDT • June 10, 2024
