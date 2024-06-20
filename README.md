@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 2 hours ago
-- [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 3 hours ago
-- [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 3 hours ago
-- [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/) - 3 hours ago
-- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 4 hours ago
-- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 9 hours ago
-- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 9 hours ago
-- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 20 hours ago
+- [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 1 hour ago
+- [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 5 hours ago
+- [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 6 hours ago
+- [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 7 hours ago
+- [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/) - 7 hours ago
+- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 8 hours ago
+- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 13 hours ago
+- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 13 hours ago
+- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 23 hours ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 1 day ago
 - [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/) - 1 day ago
 - [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 2 days ago
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/) - 12:00 am PDT • June 12, 2024
 - [Washington’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/) - 7:13 pm PDT • June 11, 2024
 - [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/) - 12:27 pm PDT • June 11, 2024
-- [Light introduces its latest minimalist phone, now with an OLED screen but still no addictive apps](https://techcrunch.com/2024/06/11/light-introduces-its-latest-minimalist-phone-now-with-an-oled-screen-but-still-no-addictive-apps/) - 8:00 am PDT • June 11, 2024
