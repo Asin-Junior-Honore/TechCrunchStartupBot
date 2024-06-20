@@ -4,14 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 36 seconds ago
-- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 5 hours ago
-- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 5 hours ago
-- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 16 hours ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 21 hours ago
-- [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/) - 22 hours ago
-- [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 1 day ago
-- [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/) - 1 day ago
+- [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 2 hours ago
+- [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 3 hours ago
+- [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 3 hours ago
+- [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/) - 3 hours ago
+- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 4 hours ago
+- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 9 hours ago
+- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 9 hours ago
+- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 20 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 1 day ago
+- [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/) - 1 day ago
+- [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 2 days ago
+- [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/) - 2 days ago
 - [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/) - 2 days ago
 - [Decagon claims its customer service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 2 days ago
 - [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/) - 2 days ago
@@ -30,7 +34,7 @@ Here are the latest articles from TechCrunch Startups:
 - [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 3 days ago
 - [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 3 days ago
 - [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 3 days ago
-- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 3 days ago
+- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 4 days ago
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 4 days ago
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 4 days ago
 - [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 9:00 am PDT • June 15, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Washington’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/) - 7:13 pm PDT • June 11, 2024
 - [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/) - 12:27 pm PDT • June 11, 2024
 - [Light introduces its latest minimalist phone, now with an OLED screen but still no addictive apps](https://techcrunch.com/2024/06/11/light-introduces-its-latest-minimalist-phone-now-with-an-oled-screen-but-still-no-addictive-apps/) - 8:00 am PDT • June 11, 2024
-- [Flow claims it can 100x any CPU’s power with its companion chip and some elbow grease](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/) - 6:01 am PDT • June 11, 2024
-- [The VC queen of portfolio PR, Masha Bucher, has raised her largest fund yet: $150M](https://techcrunch.com/2024/06/11/vc-queen-masha-bucher-largest-fund-150m/) - 6:00 am PDT • June 11, 2024
-- [Paris-based AI startup Mistral AI raises $640M](https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/) - 5:43 am PDT • June 11, 2024
-- [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/) - 4:08 am PDT • June 11, 2024
