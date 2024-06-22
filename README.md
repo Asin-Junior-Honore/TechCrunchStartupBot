@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 1 hour ago
-- [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/) - 4 hours ago
-- [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 5 hours ago
-- [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 5 hours ago
-- [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 9 hours ago
-- [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 15 hours ago
-- [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 15 hours ago
-- [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 23 hours ago
+- [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 6 hours ago
+- [E-fuels startup Aether Fuels is raising $34.3 million, per filing](https://techcrunch.com/2024/06/21/e-fuels-startup-aether-fuels-is-raising-34-3-million-per-filing/) - 6 hours ago
+- [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/) - 9 hours ago
+- [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 10 hours ago
+- [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 10 hours ago
+- [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 14 hours ago
+- [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 19 hours ago
+- [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 20 hours ago
+- [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 1 day ago
 - [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 1 day ago
 - [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 1 day ago
 - [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 1 day ago
 - [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 1 day ago
 - [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/) - 1 day ago
-- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 1 day ago
+- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 2 days ago
 - [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 2 days ago
 - [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 2 days ago
 - [C12, a French quantum computing startup founded by twin brothers, raises $19.4M](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 2 days ago
@@ -31,18 +32,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Now a Series A startup, kids’ app and ‘digital toy’ Pok Pok is coming to Android](https://techcrunch.com/2024/06/18/now-a-series-a-startup-kids-app-and-digital-toy-pok-pok-is-coming-to-android/) - 3 days ago
 - [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/) - 3 days ago
 - [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/) - 3 days ago
-- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/) - 3 days ago
-- [Bitsensing raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 3 days ago
-- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 3 days ago
-- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/) - 3 days ago
-- [Waabi’s GenAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/) - 3 days ago
+- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/) - 4 days ago
+- [Bitsensing raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 4 days ago
+- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 4 days ago
+- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/) - 4 days ago
+- [Waabi’s GenAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/) - 4 days ago
 - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/) - 4 days ago
 - [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 4 days ago
 - [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 4 days ago
 - [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 4 days ago
-- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 4 days ago
-- [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 4 days ago
-- [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 4 days ago
+- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 5 days ago
+- [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 5 days ago
+- [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 5 days ago
 - [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 7:17 pm PDT • June 16, 2024
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 10:05 am PDT • June 16, 2024
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 9:00 am PDT • June 16, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/) - 6:41 am PDT • June 12, 2024
 - [Lightspeed Venture Partners leads $4.3M seed in automated financial reporting fintech InScope](https://techcrunch.com/2024/06/12/sheel-mohnot-inscope-financial-reporting/) - 6:05 am PDT • June 12, 2024
 - [Bonus: An extra week to apply to Startup Battlefield 200](https://techcrunch.com/2024/06/12/bonus-an-extra-week-to-apply-to-startup-battlefield-200/) - 6:00 am PDT • June 12, 2024
-- [YC grad RetailReady raises $3.3M for an AI warehouse app that hopes to save brands billions](https://techcrunch.com/2024/06/12/yc-retailready-warehouse-shipping/) - 6:00 am PDT • June 12, 2024
