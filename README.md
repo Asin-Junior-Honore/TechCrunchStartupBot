@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 9 hours ago
-- [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 12 hours ago
-- [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 1 day ago
-- [E-fuels startup Aether Fuels is raising $34.3 million, per filing](https://techcrunch.com/2024/06/21/e-fuels-startup-aether-fuels-is-raising-34-3-million-per-filing/) - 1 day ago
+- [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 13 hours ago
+- [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 16 hours ago
+- [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 2 days ago
+- [E-fuels startup Aether Fuels is raising $34.3 million, per filing](https://techcrunch.com/2024/06/21/e-fuels-startup-aether-fuels-is-raising-34-3-million-per-filing/) - 2 days ago
 - [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/) - 2 days ago
 - [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 2 days ago
 - [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 2 days ago
@@ -15,7 +15,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 2 days ago
 - [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 2 days ago
 - [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 2 days ago
-- [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 2 days ago
+- [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 3 days ago
 - [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 3 days ago
 - [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 3 days ago
 - [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 3 days ago
@@ -29,11 +29,11 @@ Here are the latest articles from TechCrunch Startups:
 - [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/) - 4 days ago
 - [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/) - 4 days ago
 - [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/) - 5 days ago
-- [Decagon claims its customer service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 5 days ago
-- [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/) - 5 days ago
-- [Now a Series A startup, kids’ app and ‘digital toy’ Pok Pok is coming to Android](https://techcrunch.com/2024/06/18/now-a-series-a-startup-kids-app-and-digital-toy-pok-pok-is-coming-to-android/) - 5 days ago
-- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/) - 5 days ago
-- [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/) - 5 days ago
+- [Decagon claims its customer service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/) - 7:03 am PDT • June 18, 2024
+- [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/) - 7:00 am PDT • June 18, 2024
+- [Now a Series A startup, kids’ app and ‘digital toy’ Pok Pok is coming to Android](https://techcrunch.com/2024/06/18/now-a-series-a-startup-kids-app-and-digital-toy-pok-pok-is-coming-to-android/) - 7:00 am PDT • June 18, 2024
+- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/) - 6:00 am PDT • June 18, 2024
+- [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/) - 6:00 am PDT • June 18, 2024
 - [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/) - 5 days ago
 - [Bitsensing raises $25M for its high-resolution radar in autonomous driving](https://techcrunch.com/2024/06/18/bitsening-raises-25m-for-its-high-resolution-radar-in-autonomous-driving/) - 5 days ago
 - [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/) - 5 days ago
