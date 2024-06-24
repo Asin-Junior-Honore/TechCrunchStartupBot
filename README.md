@@ -4,8 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 1 hour ago
-- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 9 hours ago
+- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 3 hours ago
+- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 3 hours ago
+- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 5 hours ago
+- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 13 hours ago
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 1 day ago
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 1 day ago
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 2 days ago
@@ -16,8 +18,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 3 days ago
 - [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 3 days ago
 - [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 3 days ago
-- [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 3 days ago
-- [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 3 days ago
+- [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 4 days ago
+- [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 4 days ago
 - [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 4 days ago
 - [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 4 days ago
 - [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 4 days ago
@@ -25,8 +27,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 4 days ago
 - [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/) - 4 days ago
 - [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 4 days ago
-- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 4 days ago
-- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 4 days ago
+- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 5 days ago
+- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 5 days ago
 - [C12, a French quantum computing startup founded by twin brothers, raises $19.4M](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 1:30 pm PDT • June 19, 2024
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 8:00 am PDT • June 19, 2024
 - [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/) - 7:10 am PDT • June 19, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) - 8:43 am PDT • June 13, 2024
 - [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/) - 7:00 am PDT • June 13, 2024
 - [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/) - 5:07 am PDT • June 13, 2024
-- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/) - 3:00 am PDT • June 13, 2024
-- [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/) - 11:38 pm PDT • June 12, 2024
