@@ -4,16 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 3 mins ago
-- [Etched is building an AI chip that only runs one type of model](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/) - 6 mins ago
-- [TestParty raises $4 million to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 6 mins ago
-- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 2 hours ago
-- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 5 hours ago
-- [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/) - 13 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 15 hours ago
-- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 19 hours ago
-- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 20 hours ago
-- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 21 hours ago
+- [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 24 mins ago
+- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 1 hour ago
+- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 1 hour ago
+- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 2 hours ago
+- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/) - 2 hours ago
+- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 3 hours ago
+- [Boeing’s Wisk Aero buys Verocel to boost software safety for its self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/) - 3 hours ago
+- [k-ID wins $45M to help game devs speedrun the child safety compliance puzzle](https://techcrunch.com/2024/06/25/a16z-k-id-game-developers-child-safety-regulations/) - 3 hours ago
+- [EvolutionaryScale, backed by Amazon and Nvidia, raises $142M for protein-generating AI](https://techcrunch.com/2024/06/25/evolutionaryscale-backed-by-amazon-and-nvidia-raises-142m-for-protein-generating-ai/) - 4 hours ago
+- [General Catalyst leads $40M round for Local Kitchens, a different kind of restaurant kitchen startup](https://techcrunch.com/2024/06/25/local-kitchens-general-catalyst-40m/) - 4 hours ago
+- [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 4 hours ago
+- [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 4 hours ago
+- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 6 hours ago
+- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 9 hours ago
+- [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/) - 17 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 19 hours ago
+- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 23 hours ago
+- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 24 hours ago
+- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 1 day ago
 - [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 1 day ago
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 2 days ago
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 2 days ago
@@ -27,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 4 days ago
 - [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 4 days ago
 - [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 4 days ago
-- [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 5 days ago
+- [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 1:48 pm PDT • June 20, 2024
 - [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 11:13 am PDT • June 20, 2024
 - [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 7:30 am PDT • June 20, 2024
 - [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 6:30 am PDT • June 20, 2024
@@ -55,12 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/) - 1:06 am PDT • June 18, 2024
 - [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/) - 2:39 pm PDT • June 17, 2024
 - [Today’s your last chance to apply for the Startup Battlefield 200](https://techcrunch.com/2024/06/17/todays-your-last-chance-to-apply-for-the-startup-battlefield-200/) - 6:00 am PDT • June 17, 2024
-- [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/) - 6:00 am PDT • June 17, 2024
-- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/) - 5:01 am PDT • June 17, 2024
-- [Privacy app maker Proton transitions to nonprofit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) - 4:34 am PDT • June 17, 2024
-- [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/) - 4:00 am PDT • June 17, 2024
-- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/) - 7:17 pm PDT • June 16, 2024
-- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/) - 10:05 am PDT • June 16, 2024
-- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/) - 9:00 am PDT • June 16, 2024
-- [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/) - 9:00 am PDT • June 15, 2024
-- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/) - 12:01 pm PDT • June 14, 2024
