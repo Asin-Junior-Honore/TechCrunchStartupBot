@@ -4,38 +4,38 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/) - 4 hours ago
-- [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/) - 9 hours ago
-- [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 12 hours ago
-- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 13 hours ago
-- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 13 hours ago
-- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 14 hours ago
-- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/) - 14 hours ago
-- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 15 hours ago
-- [Boeing’s Wisk Aero buys Verocel to boost software safety for its self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/) - 15 hours ago
-- [k-ID wins $45M to help game devs speedrun the child safety compliance puzzle](https://techcrunch.com/2024/06/25/a16z-k-id-game-developers-child-safety-regulations/) - 15 hours ago
-- [EvolutionaryScale, backed by Amazon and Nvidia, raises $142M for protein-generating AI](https://techcrunch.com/2024/06/25/evolutionaryscale-backed-by-amazon-and-nvidia-raises-142m-for-protein-generating-ai/) - 15 hours ago
-- [General Catalyst leads $40M round for Local Kitchens, a different kind of restaurant kitchen startup](https://techcrunch.com/2024/06/25/local-kitchens-general-catalyst-40m/) - 16 hours ago
-- [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 16 hours ago
-- [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 16 hours ago
-- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 18 hours ago
-- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 21 hours ago
+- [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/) - 7 hours ago
+- [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/) - 11 hours ago
+- [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 15 hours ago
+- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 15 hours ago
+- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 15 hours ago
+- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 16 hours ago
+- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/) - 16 hours ago
+- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 17 hours ago
+- [Boeing’s Wisk Aero buys Verocel to boost software safety for its self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/) - 17 hours ago
+- [k-ID wins $45M to help game devs speedrun the child safety compliance puzzle](https://techcrunch.com/2024/06/25/a16z-k-id-game-developers-child-safety-regulations/) - 17 hours ago
+- [EvolutionaryScale, backed by Amazon and Nvidia, raises $142M for protein-generating AI](https://techcrunch.com/2024/06/25/evolutionaryscale-backed-by-amazon-and-nvidia-raises-142m-for-protein-generating-ai/) - 18 hours ago
+- [General Catalyst leads $40M round for Local Kitchens, a different kind of restaurant kitchen startup](https://techcrunch.com/2024/06/25/local-kitchens-general-catalyst-40m/) - 18 hours ago
+- [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 18 hours ago
+- [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 18 hours ago
+- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 20 hours ago
+- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 23 hours ago
 - [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 1 day ago
-- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 1 day ago
-- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 1 day ago
+- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 2 days ago
+- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 2 days ago
 - [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 2 days ago
 - [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 2 days ago
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 3 days ago
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 3 days ago
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 3 days ago
-- [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 3 days ago
+- [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 4 days ago
 - [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 4 days ago
 - [E-fuels startup Aether Fuels is raising $34.3 million, per filing](https://techcrunch.com/2024/06/21/e-fuels-startup-aether-fuels-is-raising-34-3-million-per-filing/) - 4 days ago
 - [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/) - 5 days ago
 - [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 5 days ago
-- [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 4 days ago
-- [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 5 days ago
+- [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 5 days ago
+- [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 4:00 am PDT • June 21, 2024
 - [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 10:30 pm PDT • June 20, 2024
 - [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 9:48 pm PDT • June 20, 2024
 - [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 1:48 pm PDT • June 20, 2024
