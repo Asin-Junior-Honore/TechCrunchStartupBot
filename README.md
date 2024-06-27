@@ -4,19 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 2 mins ago
-- [Austin-based Ironspring Ventures raised $100m to invest in industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 2 hours ago
-- [Dust grabs another $16 million for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 2 hours ago
-- [Synthflow picks up $7.4M for no code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 6 hours ago
-- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 16 hours ago
-- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 20 hours ago
-- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 20 hours ago
-- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 21 hours ago
-- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 22 hours ago
-- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 22 hours ago
-- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 22 hours ago
-- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 23 hours ago
-- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 23 hours ago
+- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 32 mins ago
+- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 1 hour ago
+- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 3 hours ago
+- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/) - 3 hours ago
+- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/) - 3 hours ago
+- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 4 hours ago
+- [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 6 hours ago
+- [Dust grabs another $16 million for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 7 hours ago
+- [Synthflow picks up $7.4M for no code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 10 hours ago
+- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 20 hours ago
+- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 1 day ago
+- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 1 day ago
+- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 1 day ago
+- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 1 day ago
+- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 1 day ago
+- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 1 day ago
+- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 1 day ago
+- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 1 day ago
 - [Creatio raises $200M at a $1.2B valuation for its no-code CRM and workflow platform](https://techcrunch.com/2024/06/26/creatio-raises-200m-at-a-1-2b-valuation-for-its-no-code-crm-and-workflow-platform/) - 1 day ago
 - [Fetcherr lands $90M to get airlines on board with dynamic pricing](https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/) - 1 day ago
 - [Sensi.AI grabs $31M Series B from Insight, Zeev to monitor seniors 24/7](https://techcrunch.com/2024/06/26/sensi-ai-grabs-31m-series-b-from-insight-zeev-to-monitor-seniors-24-7/) - 1 day ago
@@ -59,8 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 7:30 am PDT • June 20, 2024
 - [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 6:30 am PDT • June 20, 2024
 - [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 6:06 am PDT • June 20, 2024
-- [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/) - 6:00 am PDT • June 20, 2024
-- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/) - 5:00 am PDT • June 20, 2024
-- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/) - 12:00 am PDT • June 20, 2024
-- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/) - 12:00 am PDT • June 20, 2024
-- [C12, a French quantum computing startup founded by twin brothers, raises $19.4M](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/) - 1:30 pm PDT • June 19, 2024
