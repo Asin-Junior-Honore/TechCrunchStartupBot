@@ -4,16 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 32 mins ago
-- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 1 hour ago
-- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 3 hours ago
-- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/) - 3 hours ago
-- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/) - 3 hours ago
-- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 4 hours ago
-- [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 6 hours ago
-- [Dust grabs another $16 million for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 7 hours ago
-- [Synthflow picks up $7.4M for no code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 10 hours ago
-- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 20 hours ago
+- [MagicSchool thinks AI in the classroom is inevitable, so it’s aiming to help teachers and students use it properly](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/) - 2 hours ago
+- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 4 hours ago
+- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 5 hours ago
+- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 7 hours ago
+- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/) - 7 hours ago
+- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/) - 7 hours ago
+- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 8 hours ago
+- [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 10 hours ago
+- [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 11 hours ago
+- [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 14 hours ago
+- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 24 hours ago
+- [Why Tecovas sought out physical sales first despite its DTC dreams](https://techcrunch.com/podcast/why-tecovas-sought-out-physical-sales-first-despite-its-dtc-dreams/) - Time not found
 - [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 1 day ago
 - [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 1 day ago
 - [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 1 day ago
@@ -40,13 +42,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 2 days ago
 - [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 2 days ago
 - [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 2 days ago
-- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 2 days ago
+- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 3 days ago
 - [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 3 days ago
 - [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 3 days ago
 - [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 3 days ago
+- [The EU’s DMA is coming for Apple, and X bots are on the loose](https://techcrunch.com/podcast/the-eus-dma-is-coming-for-apple-and-x-bots-are-on-the-loose/) - Time not found
 - [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 3 days ago
-- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 3 days ago
+- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 4 days ago
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 4 days ago
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 4 days ago
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 12:00 pm PDT • June 22, 2024
@@ -56,11 +59,8 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/) - 8:55 am PDT • June 21, 2024
 - [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 8:00 am PDT • June 21, 2024
 - [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 7:55 am PDT • June 21, 2024
+- [Ilya Sutskever’s new AI venture, and time to BeReal about bankruptcy](https://techcrunch.com/podcast/ilya-sutskever-ssi-2024-bankruptcies-and-whats-going-on-with-the-bereal-acquisition/) - Time not found
 - [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-three-years/) - 4:00 am PDT • June 21, 2024
 - [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/) - 10:30 pm PDT • June 20, 2024
 - [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/) - 9:48 pm PDT • June 20, 2024
 - [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/) - 1:48 pm PDT • June 20, 2024
-- [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/) - 11:13 am PDT • June 20, 2024
-- [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/) - 7:30 am PDT • June 20, 2024
-- [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/) - 6:30 am PDT • June 20, 2024
-- [Materia looks to make accountants more efficient with AI ](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/) - 6:06 am PDT • June 20, 2024
