@@ -4,28 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 5 hours ago
-- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 9 hours ago
-- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 9 hours ago
-- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 10 hours ago
-- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 11 hours ago
-- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 11 hours ago
-- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 11 hours ago
-- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 12 hours ago
-- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 12 hours ago
-- [Creatio raises $200M at a $1.2B valuation for its no-code CRM and workflow platform](https://techcrunch.com/2024/06/26/creatio-raises-200m-at-a-1-2b-valuation-for-its-no-code-crm-and-workflow-platform/) - 13 hours ago
-- [Fetcherr lands $90M to get airlines on board with dynamic pricing](https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/) - 13 hours ago
-- [Sensi.AI grabs $31M Series B from Insight, Zeev to monitor seniors 24/7](https://techcrunch.com/2024/06/26/sensi-ai-grabs-31m-series-b-from-insight-zeev-to-monitor-seniors-24-7/) - 14 hours ago
+- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 8 hours ago
+- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 12 hours ago
+- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 12 hours ago
+- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 13 hours ago
+- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 14 hours ago
+- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 14 hours ago
+- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 14 hours ago
+- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 15 hours ago
+- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 15 hours ago
+- [Creatio raises $200M at a $1.2B valuation for its no-code CRM and workflow platform](https://techcrunch.com/2024/06/26/creatio-raises-200m-at-a-1-2b-valuation-for-its-no-code-crm-and-workflow-platform/) - 16 hours ago
+- [Fetcherr lands $90M to get airlines on board with dynamic pricing](https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/) - 16 hours ago
+- [Sensi.AI grabs $31M Series B from Insight, Zeev to monitor seniors 24/7](https://techcrunch.com/2024/06/26/sensi-ai-grabs-31m-series-b-from-insight-zeev-to-monitor-seniors-24-7/) - 17 hours ago
 - [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/) - 1 day ago
 - [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/) - 1 day ago
-- [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 1 day ago
-- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 1 day ago
-- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 1 day ago
-- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 1 day ago
-- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/) - 1 day ago
-- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 1 day ago
-- [Boeing’s Wisk Aero buys Verocel to boost software safety for its self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/) - 1 day ago
-- [k-ID wins $45M to help game devs speedrun the child safety compliance puzzle](https://techcrunch.com/2024/06/25/a16z-k-id-game-developers-child-safety-regulations/) - 1 day ago
+- [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 2 days ago
+- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 2 days ago
+- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 2 days ago
+- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 2 days ago
+- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/) - 2 days ago
+- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 2 days ago
+- [Boeing’s Wisk Aero buys Verocel to boost software safety for its self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/) - 2 days ago
+- [k-ID wins $45M to help game devs speedrun the child safety compliance puzzle](https://techcrunch.com/2024/06/25/a16z-k-id-game-developers-child-safety-regulations/) - 2 days ago
 - [EvolutionaryScale, backed by Amazon and Nvidia, raises $142M for protein-generating AI](https://techcrunch.com/2024/06/25/evolutionaryscale-backed-by-amazon-and-nvidia-raises-142m-for-protein-generating-ai/) - 2 days ago
 - [General Catalyst leads $40M round for Local Kitchens, a different kind of restaurant kitchen startup](https://techcrunch.com/2024/06/25/local-kitchens-general-catalyst-40m/) - 2 days ago
 - [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 2 days ago
@@ -36,10 +36,10 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 2 days ago
 - [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 2 days ago
 - [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 2 days ago
-- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 2 days ago
+- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 3 days ago
 - [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 3 days ago
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 3 days ago
-- [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 3 days ago
+- [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 4 days ago
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 4 days ago
 - [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 4 days ago
 - [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 12:05 pm PDT • June 21, 2024
