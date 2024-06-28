@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 57 mins ago
-- [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 1 hour ago
+- [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 1 hour ago
+- [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 5 hours ago
+- [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 5 hours ago
 - [AI-powered drug development, VW teams up with Rivian and DEI is ‘bad’](https://techcrunch.com/podcast/ai-powered-drug-development-vw-teams-up-with-rivian-and-dei-is-bad/) - Time not found
-- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 20 hours ago
-- [Will AI get an A+ in edtech? MagicSchool raises $15M to find out](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/) - 22 hours ago
+- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 24 hours ago
+- [Will AI get an A+ in edtech? MagicSchool raises $15M to find out](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/) - 1 day ago
 - [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 1 day ago
 - [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 1 day ago
 - [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 1 day ago
@@ -17,7 +18,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 1 day ago
 - [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 1 day ago
 - [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 1 day ago
-- [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 1 day ago
+- [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 2 days ago
 - [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 2 days ago
 - [Why Tecovas sought out physical sales first despite its DTC dreams](https://techcrunch.com/podcast/why-tecovas-sought-out-physical-sales-first-despite-its-dtc-dreams/) - Time not found
 - [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 2 days ago
@@ -46,14 +47,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 3 days ago
 - [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 3 days ago
 - [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 3 days ago
-- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 3 days ago
+- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 4 days ago
 - [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/) - 4 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 4 days ago
 - [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 4 days ago
 - [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 4 days ago
 - [The EU’s DMA is coming for Apple, and X bots are on the loose](https://techcrunch.com/podcast/the-eus-dma-is-coming-for-apple-and-x-bots-are-on-the-loose/) - Time not found
 - [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 4 days ago
-- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 4 days ago
+- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 5 days ago
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 9:00 am PDT • June 23, 2024
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 8:00 am PDT • June 23, 2024
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 12:00 pm PDT • June 22, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/) - 8:55 am PDT • June 21, 2024
 - [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/) - 8:00 am PDT • June 21, 2024
 - [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/) - 7:55 am PDT • June 21, 2024
-- [Ilya Sutskever’s new AI venture, and time to BeReal about bankruptcy](https://techcrunch.com/podcast/ilya-sutskever-ssi-2024-bankruptcies-and-whats-going-on-with-the-bereal-acquisition/) - Time not found
