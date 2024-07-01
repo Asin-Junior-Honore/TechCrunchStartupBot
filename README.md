@@ -4,9 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 3 hours ago
-- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 17 hours ago
-- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 21 hours ago
+- [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 42 mins ago
+- [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 1 hour ago
+- [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 7 hours ago
+- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 21 hours ago
+- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 1 day ago
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 3 days ago
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 3 days ago
 - [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 3 days ago
@@ -24,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 4 days ago
 - [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 4 days ago
 - [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 4 days ago
-- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 5 days ago
+- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 1:12 pm PDT • June 26, 2024
 - [Why Tecovas sought out physical sales first despite its DTC dreams](https://techcrunch.com/podcast/why-tecovas-sought-out-physical-sales-first-despite-its-dtc-dreams/) - Time not found
 - [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 9:00 am PDT • June 26, 2024
 - [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 8:41 am PDT • June 26, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 12:00 am PDT • June 24, 2024
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/) - 9:00 am PDT • June 23, 2024
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 8:00 am PDT • June 23, 2024
-- [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 12:00 pm PDT • June 22, 2024
-- [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 9:11 am PDT • June 22, 2024
