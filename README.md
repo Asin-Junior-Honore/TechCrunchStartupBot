@@ -4,35 +4,35 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 6 hours ago
-- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 10 hours ago
+- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 9 hours ago
+- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 13 hours ago
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 2 days ago
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 2 days ago
 - [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 2 days ago
-- [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 2 days ago
-- [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 2 days ago
+- [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 3 days ago
+- [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 3 days ago
 - [AI-powered drug development, VW teams up with Rivian and DEI is ‘bad’](https://techcrunch.com/podcast/ai-powered-drug-development-vw-teams-up-with-rivian-and-dei-is-bad/) - Time not found
 - [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 3 days ago
 - [Will AI get an A+ in edtech? MagicSchool raises $15M to find out](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/) - 3 days ago
-- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 3 days ago
-- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 3 days ago
-- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/) - 3 days ago
-- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/) - 3 days ago
-- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 3 days ago
+- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 4 days ago
+- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 4 days ago
+- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/) - 4 days ago
+- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/) - 4 days ago
+- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 4 days ago
 - [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 4 days ago
 - [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 4 days ago
 - [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 4 days ago
 - [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 4 days ago
 - [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 4 days ago
 - [Why Tecovas sought out physical sales first despite its DTC dreams](https://techcrunch.com/podcast/why-tecovas-sought-out-physical-sales-first-despite-its-dtc-dreams/) - Time not found
-- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 4 days ago
-- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 4 days ago
-- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 4 days ago
-- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 4 days ago
-- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 4 days ago
-- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 4 days ago
-- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 4 days ago
-- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 4 days ago
+- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 5 days ago
+- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 5 days ago
+- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 5 days ago
+- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 5 days ago
+- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 5 days ago
+- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 5 days ago
+- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 5 days ago
+- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 5 days ago
 - [Creatio raises $200M at a $1.2B valuation for its no-code CRM and workflow platform](https://techcrunch.com/2024/06/26/creatio-raises-200m-at-a-1-2b-valuation-for-its-no-code-crm-and-workflow-platform/) - 5 days ago
 - [Fetcherr lands $90M to get airlines on board with dynamic pricing](https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/) - 5 days ago
 - [Sensi.AI grabs $31M Series B from Insight, Zeev to monitor seniors 24/7](https://techcrunch.com/2024/06/26/sensi-ai-grabs-31m-series-b-from-insight-zeev-to-monitor-seniors-24-7/) - 5 days ago
