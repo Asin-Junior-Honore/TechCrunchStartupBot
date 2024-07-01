@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 13 hours ago
-- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 17 hours ago
-- [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 2 days ago
-- [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 2 days ago
+- [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 3 hours ago
+- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 17 hours ago
+- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 21 hours ago
+- [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 3 days ago
+- [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 3 days ago
 - [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 3 days ago
 - [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 3 days ago
 - [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 3 days ago
 - [AI-powered drug development, VW teams up with Rivian and DEI is ‘bad’](https://techcrunch.com/podcast/ai-powered-drug-development-vw-teams-up-with-rivian-and-dei-is-bad/) - Time not found
-- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 3 days ago
+- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 4 days ago
 - [Will AI get an A+ in edtech? MagicSchool raises $15M to find out](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/) - 4 days ago
 - [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 4 days ago
 - [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 4 days ago
@@ -23,10 +24,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 4 days ago
 - [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 4 days ago
 - [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 4 days ago
-- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 4 days ago
+- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 5 days ago
 - [Why Tecovas sought out physical sales first despite its DTC dreams](https://techcrunch.com/podcast/why-tecovas-sought-out-physical-sales-first-despite-its-dtc-dreams/) - Time not found
-- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 5 days ago
-- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 5 days ago
+- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 9:00 am PDT • June 26, 2024
+- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 8:41 am PDT • June 26, 2024
 - [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 7:49 am PDT • June 26, 2024
 - [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 7:00 am PDT • June 26, 2024
 - [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 7:00 am PDT • June 26, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [How 2 high school teens raised a $500K seed round for their API startup (yes, it’s AI)](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/) - 8:00 am PDT • June 23, 2024
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/) - 12:00 pm PDT • June 22, 2024
 - [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/) - 9:11 am PDT • June 22, 2024
-- [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/) - 12:05 pm PDT • June 21, 2024
