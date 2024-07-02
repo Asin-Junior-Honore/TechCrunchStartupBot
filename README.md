@@ -4,10 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 28 mins ago
-- [Senators urge owners, partners, and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 14 hours ago
-- [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 21 hours ago
-- [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 21 hours ago
+- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 59 mins ago
+- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/tktktk/) - 2 hours ago
+- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/) - 3 hours ago
+- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/) - 3 hours ago
+- [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 3 hours ago
+- [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/) - 3 hours ago
+- [Beauty tech startup Boldhue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 3 hours ago
+- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 4 hours ago
+- [Senators urge owners, partners, and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 17 hours ago
+- [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 1 day ago
+- [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 1 day ago
 - [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 1 day ago
 - [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 2 days ago
 - [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 2 days ago
@@ -17,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 4 days ago
 - [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 4 days ago
 - [AI-powered drug development, VW teams up with Rivian and DEI is ‘bad’](https://techcrunch.com/podcast/ai-powered-drug-development-vw-teams-up-with-rivian-and-dei-is-bad/) - Time not found
-- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 5 days ago
+- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/) - 1:20 pm PDT • June 27, 2024
 - [Will AI get an A+ in edtech? MagicSchool raises $15M to find out](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/) - 11:11 am PDT • June 27, 2024
 - [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/) - 8:40 am PDT • June 27, 2024
 - [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 8:00 am PDT • June 27, 2024
@@ -57,10 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 5:00 am PDT • June 25, 2024
 - [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 3:00 am PDT • June 25, 2024
 - [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/) - 12:00 am PDT • June 25, 2024
-- [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/) - 4:30 pm PDT • June 24, 2024
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/) - 2:20 pm PDT • June 24, 2024
-- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/) - 10:00 am PDT • June 24, 2024
-- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/) - 9:27 am PDT • June 24, 2024
-- [The EU’s DMA is coming for Apple, and X bots are on the loose](https://techcrunch.com/podcast/the-eus-dma-is-coming-for-apple-and-x-bots-are-on-the-loose/) - Time not found
-- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/) - 8:00 am PDT • June 24, 2024
-- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/) - 12:00 am PDT • June 24, 2024
