@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 3 hours ago
-- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 5 hours ago
-- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - 6 hours ago
-- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/) - 7 hours ago
-- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/) - 7 hours ago
-- [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 7 hours ago
-- [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/) - 7 hours ago
-- [Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 7 hours ago
-- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 8 hours ago
-- [Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 21 hours ago
+- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 8 hours ago
+- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 10 hours ago
+- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - 11 hours ago
+- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/) - 12 hours ago
+- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/) - 12 hours ago
+- [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 12 hours ago
+- [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/) - 12 hours ago
+- [Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 12 hours ago
+- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 13 hours ago
+- [Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 1 day ago
 - [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 1 day ago
 - [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 1 day ago
-- [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 1 day ago
+- [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 2 days ago
 - [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 2 days ago
 - [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 2 days ago
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 4 days ago
