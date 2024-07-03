@@ -4,24 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 11 hours ago
-- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 13 hours ago
-- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - 14 hours ago
-- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/) - 15 hours ago
-- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/) - 15 hours ago
-- [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/) - 15 hours ago
-- [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 15 hours ago
-- [Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 15 hours ago
-- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 16 hours ago
+- [Altrove uses AI models and lab automation to create new materials](https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/) - 56 mins ago
+- [Indian social network Koo is shutting down as buyout talks collapse](https://techcrunch.com/2024/07/02/indian-social-network-koo-to-shut-down/) - 1 hour ago
+- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 15 hours ago
+- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 17 hours ago
+- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - 18 hours ago
+- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/) - 19 hours ago
+- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/) - 19 hours ago
+- [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 19 hours ago
+- [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/) - 19 hours ago
+- [Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 19 hours ago
+- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 20 hours ago
 - [Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 1 day ago
 - [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 2 days ago
 - [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 2 days ago
 - [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 2 days ago
-- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 2 days ago
+- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 3 days ago
 - [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 3 days ago
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 4 days ago
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 4 days ago
-- [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 4 days ago
+- [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 5 days ago
 - [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 5 days ago
 - [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 5 days ago
 - [AI-powered drug development, VW teams up with Rivian and DEI is ‘bad’](https://techcrunch.com/podcast/ai-powered-drug-development-vw-teams-up-with-rivian-and-dei-is-bad/) - Time not found
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [EvolutionaryScale, backed by Amazon and Nvidia, raises $142M for protein-generating AI](https://techcrunch.com/2024/06/25/evolutionaryscale-backed-by-amazon-and-nvidia-raises-142m-for-protein-generating-ai/) - 5:41 am PDT • June 25, 2024
 - [General Catalyst leads $40M round for Local Kitchens, a different kind of restaurant kitchen startup](https://techcrunch.com/2024/06/25/local-kitchens-general-catalyst-40m/) - 5:30 am PDT • June 25, 2024
 - [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/) - 5:03 am PDT • June 25, 2024
-- [TestParty raises $4M to help automate the coding for accessible websites](https://techcrunch.com/2024/06/25/testparty-raises-4-million-to-help-create-inclusive-websites/) - 5:00 am PDT • June 25, 2024
-- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/) - 3:00 am PDT • June 25, 2024
