@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/) - 17 hours ago
+- [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/) - 21 hours ago
 - [Jon McNeill on VC 2.0 and creating startups in house](https://techcrunch.com/podcast/jon-mcneill-on-vc-2-0-and-creating-startups-in-house/) - Time not found
-- [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/) - 18 hours ago
-- [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/) - 21 hours ago
+- [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/) - 22 hours ago
+- [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/) - 1 day ago
 - [Altrove uses AI models and lab automation to create new materials](https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/) - 1 day ago
 - [Indian social network Koo is shutting down as buyout talks collapse](https://techcrunch.com/2024/07/02/indian-social-network-koo-to-shut-down/) - 1 day ago
 - [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 2 days ago
@@ -19,7 +19,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 2 days ago
 - [Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 2 days ago
 - [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 2 days ago
-- [Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 2 days ago
+- [Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 3 days ago
 - [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 3 days ago
 - [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 3 days ago
 - [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 3 days ago
