@@ -10,7 +10,7 @@ Here are the latest articles from TechCrunch Startups:
 - [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/) - 2 days ago
 - [Altrove uses AI models and lab automation to create new materials](https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/) - 2 days ago
 - [Indian social network Koo is shutting down as buyout talks collapse](https://techcrunch.com/2024/07/02/indian-social-network-koo-to-shut-down/) - 2 days ago
-- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 2 days ago
+- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 3 days ago
 - [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 3 days ago
 - [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - 3 days ago
 - [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/) - 3 days ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 4 days ago
 - [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 4 days ago
 - [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/) - 4 days ago
-- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 4 days ago
+- [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/) - 5 days ago
 - [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/) - 5 days ago
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/) - 4:07 pm PDT • June 28, 2024
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 3:30 pm PDT • June 28, 2024
@@ -58,9 +58,9 @@ Here are the latest articles from TechCrunch Startups:
 - [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/) - 4:49 pm PDT • June 25, 2024
 - [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/) - 12:14 pm PDT • June 25, 2024
 - [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 8:51 am PDT • June 25, 2024
-- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 8:00 am PDT • June 25, 2024
 - [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 8:00 am PDT • June 25, 2024
+- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 8:00 am PDT • June 25, 2024
 - [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 7:03 am PDT • June 25, 2024
 - [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/) - 7:00 am PDT • June 25, 2024
-- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 6:00 am PDT • June 25, 2024
 - [Boeing’s Wisk Aero buys Verocel to boost software safety for its self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/) - 6:00 am PDT • June 25, 2024
+- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/) - 6:00 am PDT • June 25, 2024
