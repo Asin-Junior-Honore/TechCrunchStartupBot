@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 17 hours ago
-- [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 22 hours ago
+- [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 21 hours ago
+- [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 1 day ago
 - [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 1 day ago
 - [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Jon McNeill on VC 2.0 and creating startups in house](https://techcrunch.com/podcast/jon-mcneill-on-vc-2-0-and-creating-startups-in-house/) - Time not found
