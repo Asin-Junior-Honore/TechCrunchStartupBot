@@ -6,11 +6,11 @@ Here are the latest articles from TechCrunch Startups:
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 1 day ago
 - [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 1 day ago
-- [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 1 day ago
+- [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 2 days ago
 - [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Jon McNeill on VC 2.0 and creating startups in house](https://techcrunch.com/podcast/jon-mcneill-on-vc-2-0-and-creating-startups-in-house/) - Time not found
 - [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/) - 3 days ago
-- [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/) - 3 days ago
+- [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/) - 4 days ago
 - [Altrove uses AI models and lab automation to create new materials](https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/) - 4 days ago
 - [Indian social network Koo is shutting down as buyout talks collapse](https://techcrunch.com/2024/07/02/indian-social-network-koo-to-shut-down/) - 4 days ago
 - [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 4 days ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/) - 4 days ago
 - [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/) - 4 days ago
 - [Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’](https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/) - 4 days ago
-- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 4 days ago
+- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/) - 5 days ago
 - [Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/) - 3:49 pm PDT • July 1, 2024
 - [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/) - 8:28 am PDT • July 1, 2024
 - [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/) - 8:00 am PDT • July 1, 2024
@@ -61,6 +61,6 @@ Here are the latest articles from TechCrunch Startups:
 - [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/) - 4:49 pm PDT • June 25, 2024
 - [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/) - 12:14 pm PDT • June 25, 2024
 - [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 8:51 am PDT • June 25, 2024
-- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 8:00 am PDT • June 25, 2024
 - [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 8:00 am PDT • June 25, 2024
+- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 8:00 am PDT • June 25, 2024
 - [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 7:03 am PDT • June 25, 2024
