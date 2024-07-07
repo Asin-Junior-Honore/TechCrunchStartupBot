@@ -61,6 +61,6 @@ Here are the latest articles from TechCrunch Startups:
 - [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/) - 4:49 pm PDT • June 25, 2024
 - [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/) - 12:14 pm PDT • June 25, 2024
 - [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/) - 8:51 am PDT • June 25, 2024
-- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 8:00 am PDT • June 25, 2024
 - [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/) - 8:00 am PDT • June 25, 2024
+- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/) - 8:00 am PDT • June 25, 2024
 - [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/) - 7:03 am PDT • June 25, 2024
