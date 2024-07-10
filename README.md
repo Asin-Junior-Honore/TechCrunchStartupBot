@@ -4,20 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 6 hours ago
-- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87 million for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 6 hours ago
-- [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 15 hours ago
+- [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - Time not found
+- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 1 hour ago
+- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 1 hour ago
+- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 10 hours ago
+- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 10 hours ago
+- [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 19 hours ago
 - [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - Time not found
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 18 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/09/tech-layoffs-2024-list/) - 21 hours ago
-- [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 22 hours ago
-- [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 23 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 22 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/09/tech-layoffs-2024-list/) - 1 day ago
+- [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 1 day ago
+- [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 1 day ago
 - [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/) - 1 day ago
 - [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/) - 1 day ago
 - [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 2 days ago
 - [A new trend for seed VCs and the scariest part about OpenAI’s data breach](https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/) - Time not found
 - [Tembo capitalizes on the database boom and lands new cash to expand](https://techcrunch.com/2024/07/08/database-startup-tembo-lands-new-cash-to-expand/) - 2 days ago
-- [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 2 days ago
+- [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 3 days ago
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 12:05 pm PDT • July 5, 2024
 - [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 7:30 am PDT • July 5, 2024
 - [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 5:08 am PDT • July 5, 2024
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 11:00 pm PDT • June 26, 2024
 - [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/) - 1:12 pm PDT • June 26, 2024
 - [Why Tecovas sought out physical sales first despite its DTC dreams](https://techcrunch.com/podcast/why-tecovas-sought-out-physical-sales-first-despite-its-dtc-dreams/) - Time not found
-- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/) - 9:00 am PDT • June 26, 2024
-- [Unbabel among the first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/) - 8:41 am PDT • June 26, 2024
-- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 7:49 am PDT • June 26, 2024
