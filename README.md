@@ -4,18 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 hours ago
-- [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 5 hours ago
-- [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 7 hours ago
-- [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/) - 12 hours ago
-- [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/) - 12 hours ago
+- [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 4 hours ago
+- [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - Time not found
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 7 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/09/tech-layoffs-2024-list/) - 10 hours ago
+- [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 10 hours ago
+- [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 12 hours ago
+- [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/) - 17 hours ago
+- [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/) - 17 hours ago
 - [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 1 day ago
 - [A new trend for seed VCs and the scariest part about OpenAI’s data breach](https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/) - Time not found
 - [Tembo capitalizes on the database boom and lands new cash to expand](https://techcrunch.com/2024/07/08/database-startup-tembo-lands-new-cash-to-expand/) - 1 day ago
 - [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 2 days ago
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 4 days ago
 - [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 4 days ago
-- [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 4 days ago
+- [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 5 days ago
 - [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/) - 8:00 am PDT • July 3, 2024
 - [Jon McNeill on VC 2.0 and creating startups in house](https://techcrunch.com/podcast/jon-mcneill-on-vc-2-0-and-creating-startups-in-house/) - Time not found
 - [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/) - 7:00 am PDT • July 3, 2024
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/) - 7:49 am PDT • June 26, 2024
 - [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/) - 7:00 am PDT • June 26, 2024
 - [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/) - 7:00 am PDT • June 26, 2024
-- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/) - 7:00 am PDT • June 26, 2024
-- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/) - 6:00 am PDT • June 26, 2024
-- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/) - 6:00 am PDT • June 26, 2024
