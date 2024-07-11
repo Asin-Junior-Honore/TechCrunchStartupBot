@@ -4,23 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 4 hours ago
-- [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 7 hours ago
-- [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 12 hours ago
-- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 13 hours ago
-- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 13 hours ago
-- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 22 hours ago
-- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 22 hours ago
+- [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/) - 1 hour ago
+- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 7 hours ago
+- [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 10 hours ago
+- [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 16 hours ago
+- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 17 hours ago
+- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 17 hours ago
+- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 1 day ago
+- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 1 day ago
 - [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 1 day ago
 - [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - 1 day ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 1 day ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/09/tech-layoffs-2024-list/) - 2 days ago
 - [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 2 days ago
 - [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 2 days ago
 - [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/) - 2 days ago
 - [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/) - 2 days ago
-- [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 2 days ago
-- [A new trend for seed VCs and the scariest part about OpenAI’s data breach](https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/) - 2 days ago
+- [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 3 days ago
+- [A new trend for seed VCs and the scariest part about OpenAI’s data breach](https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/) - 3 days ago
 - [Tembo capitalizes on the database boom and lands new cash to expand](https://techcrunch.com/2024/07/08/database-startup-tembo-lands-new-cash-to-expand/) - 3 days ago
 - [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 3 days ago
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 12:05 pm PDT • July 5, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 5:00 am PDT • June 27, 2024
 - [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 3:00 am PDT • June 27, 2024
 - [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 2:35 am PDT • June 27, 2024
-- [Synthflow picks up $7.4M for no-code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/) - 11:00 pm PDT • June 26, 2024
