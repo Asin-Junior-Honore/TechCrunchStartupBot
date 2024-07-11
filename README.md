@@ -4,16 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/) - 1 hour ago
-- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 7 hours ago
-- [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 10 hours ago
-- [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 16 hours ago
-- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 17 hours ago
-- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 17 hours ago
+- [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects ](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/) - 1 hour ago
+- [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/) - 1 hour ago
+- [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/) - 2 hours ago
+- [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/) - 2 hours ago
+- [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/) - 6 hours ago
+- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 12 hours ago
+- [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 15 hours ago
+- [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 21 hours ago
+- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 21 hours ago
+- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 21 hours ago
 - [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 1 day ago
 - [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 1 day ago
-- [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 1 day ago
-- [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - 1 day ago
+- [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 2 days ago
+- [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - 2 days ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/09/tech-layoffs-2024-list/) - 2 days ago
 - [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 2 days ago
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/) - 8:00 am PDT • June 27, 2024
 - [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/) - 6:00 am PDT • June 27, 2024
 - [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/) - 6:00 am PDT • June 27, 2024
-- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/) - 6:00 am PDT • June 27, 2024
-- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/) - 5:00 am PDT • June 27, 2024
-- [Austin-based Ironspring Ventures raised $100M to invest in the industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/) - 3:00 am PDT • June 27, 2024
-- [Dust grabs another $16M for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/) - 2:35 am PDT • June 27, 2024
