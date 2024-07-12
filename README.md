@@ -4,18 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why Commonwealth Fusion Systems’ superconducting magnet sale is more than it seems](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 22 mins ago
-- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 19 hours ago
-- [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 22 hours ago
-- [HerculesAI was working with large language models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/) - 22 hours ago
-- [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/) - 23 hours ago
-- [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/) - 24 hours ago
+- [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 2 hours ago
+- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 3 hours ago
+- [Why Commonwealth Fusion Systems’ superconducting magnet sale is more than it seems](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 4 hours ago
+- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 23 hours ago
+- [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 1 day ago
+- [HerculesAI was working with large language models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/) - 1 day ago
+- [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/) - 1 day ago
+- [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/) - 1 day ago
 - [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects ](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/) - 1 day ago
 - [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/) - 1 day ago
 - [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/) - 1 day ago
 - [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/) - 1 day ago
 - [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/) - 1 day ago
-- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 1 day ago
+- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 2 days ago
 - [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 2 days ago
 - [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 2 days ago
 - [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 2 days ago
@@ -33,7 +35,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 4 days ago
 - [A new trend for seed VCs and the scariest part about OpenAI’s data breach](https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/) - 4 days ago
 - [Tembo capitalizes on the database boom and lands new cash to expand](https://techcrunch.com/2024/07/08/database-startup-tembo-lands-new-cash-to-expand/) - 4 days ago
-- [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 4 days ago
+- [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 5 days ago
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 12:05 pm PDT • July 5, 2024
 - [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 7:30 am PDT • July 5, 2024
 - [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 5:08 am PDT • July 5, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/) - 3:30 pm PDT • June 28, 2024
 - [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/) - 12:05 pm PDT • June 28, 2024
 - [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/) - 8:15 am PDT • June 28, 2024
-- [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/) - 8:00 am PDT • June 28, 2024
-- [AI-powered drug development, VW teams up with Rivian and DEI is ‘bad’](https://techcrunch.com/podcast/ai-powered-drug-development-vw-teams-up-with-rivian-and-dei-is-bad/) - 7:15 am PDT • June 28, 2024
