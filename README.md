@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 17 hours ago
-- [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 18 hours ago
-- [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 19 hours ago
-- [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/) - 19 hours ago
-- [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 22 hours ago
-- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 24 hours ago
+- [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 21 hours ago
+- [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 22 hours ago
+- [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 23 hours ago
+- [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/) - 23 hours ago
+- [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 1 day ago
+- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 1 day ago
 - [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 1 day ago
 - [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 2 days ago
 - [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 2 days ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/) - 2 days ago
 - [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/) - 2 days ago
 - [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/) - 2 days ago
-- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 2 days ago
+- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 3 days ago
 - [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 3 days ago
 - [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 3 days ago
 - [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 3 days ago
@@ -36,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 4 days ago
 - [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/) - 4 days ago
 - [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/) - 4 days ago
-- [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 5 days ago
+- [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over. ](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/) - 12:43 pm PDT • July 8, 2024
 - [A new trend for seed VCs and the scariest part about OpenAI’s data breach](https://techcrunch.com/podcast/a-new-trend-for-seed-vcs-and-the-scariest-part-about-openais-data-breach/) - 9:41 am PDT • July 8, 2024
 - [Tembo capitalizes on the database boom and lands new cash to expand](https://techcrunch.com/2024/07/08/database-startup-tembo-lands-new-cash-to-expand/) - 8:33 am PDT • July 8, 2024
 - [Investors chase wealth tech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/) - 6:32 pm PDT • July 7, 2024
