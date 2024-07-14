@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 9 hours ago
-- [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 1 day ago
-- [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 1 day ago
-- [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 1 day ago
-- [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/) - 1 day ago
+- [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 13 hours ago
+- [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 2 days ago
+- [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 2 days ago
+- [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 2 days ago
+- [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/) - 2 days ago
 - [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 2 days ago
 - [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 2 days ago
 - [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 2 days ago
-- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 2 days ago
+- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 3 days ago
 - [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 3 days ago
 - [HerculesAI was working with large language models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/) - 3 days ago
 - [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/) - 3 days ago
@@ -31,7 +31,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 4 days ago
 - [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 4 days ago
 - [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - 4 days ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 4 days ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 5 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/09/tech-layoffs-2024-list/) - 5 days ago
 - [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/) - 5 days ago
 - [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/) - 5 days ago
