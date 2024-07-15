@@ -4,32 +4,32 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 5 hours ago
+- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 10 hours ago
 - [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 1 day ago
 - [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 2 days ago
 - [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 2 days ago
 - [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 2 days ago
 - [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/) - 2 days ago
 - [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 2 days ago
-- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 2 days ago
-- [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 2 days ago
+- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 3 days ago
+- [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 3 days ago
 - [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 3 days ago
 - [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 3 days ago
 - [HerculesAI was working with large language models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/) - 3 days ago
 - [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/) - 3 days ago
-- [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/) - 3 days ago
-- [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects ](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/) - 3 days ago
-- [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/) - 3 days ago
-- [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/) - 3 days ago
-- [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/) - 3 days ago
+- [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/) - 4 days ago
+- [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects ](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/) - 4 days ago
+- [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/) - 4 days ago
+- [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/) - 4 days ago
+- [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/) - 4 days ago
 - [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/) - 4 days ago
 - [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/) - 4 days ago
 - [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/) - 4 days ago
 - [Floodgate’s Mike Maples explains how startups that most people ‘don’t like’ are the best ones to back](https://techcrunch.com/podcast/floodgates-mike-maples-explains-how-startups-that-most-people-dont-like-are-the-best-ones-to-back/) - 4 days ago
 - [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/) - 4 days ago
 - [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 4 days ago
-- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 5 days ago
-- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 5 days ago
+- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/) - 11:01 pm PDT • July 9, 2024
+- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87M for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/) - 11:00 pm PDT • July 9, 2024
 - [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/) - 1:55 pm PDT • July 9, 2024
 - [Why the AI industry should want regulation now, not what could come later](https://techcrunch.com/podcast/why-the-ai-industry-should-want-regulation-now-not-what-could-come-later/) - 1:54 pm PDT • July 9, 2024
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/09/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 11:00 am PDT • July 9, 2024
