@@ -4,22 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [YC-backed CrowdVolt shakes up the secondary ticket market with its bid-ask model](https://techcrunch.com/2024/07/16/yc-backed-secondary-ticketing-startup-crowdvolt/) - 2 hours ago
-- [A company building Wordle for chess raises money from a16z Speedrun, Mark Pincus and Eric Wu](https://techcrunch.com/2024/07/16/a-company-building-wordle-for-chess-raises-money-from-a16z-speedrun-mark-pincus-and-eric-wu/) - 2 hours ago
-- [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/) - 3 hours ago
-- [Astor’s ‘community’ approach to financial advice aims to help women feel more confident about investing](https://techcrunch.com/2024/07/16/investment-app-astor-community/) - 3 hours ago
-- [Byju’s, once valued at $22 billion, faces insolvency proceedings](https://techcrunch.com/2024/07/16/byjus-once-valued-at-22-billion-faces-insolvency-proceedings/) - 6 hours ago
-- [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/) - 7 hours ago
-- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 10 hours ago
-- [Google backs Indian open-source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 11 hours ago
-- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 16 hours ago
-- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 16 hours ago
-- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 22 hours ago
-- [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 24 hours ago
+- [After Tesla and OpenAI, Andrej Karpathy’s startup aims to apply AI assistants to education](https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/) - 20 seconds ago
+- [Campus wants to crack the code to get community college to work for everyone](https://techcrunch.com/podcast/campus-wants-to-crack-the-code-to-get-community-college-to-work-for-everyone/) - 3 hours ago
+- [YC-backed CrowdVolt shakes up the secondary ticket market with its bid-ask model](https://techcrunch.com/2024/07/16/yc-backed-secondary-ticketing-startup-crowdvolt/) - 6 hours ago
+- [A company building Wordle for chess raises money from a16z Speedrun, Mark Pincus and Eric Wu](https://techcrunch.com/2024/07/16/a-company-building-wordle-for-chess-raises-money-from-a16z-speedrun-mark-pincus-and-eric-wu/) - 6 hours ago
+- [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/) - 7 hours ago
+- [Astor’s ‘community’ approach to financial advice aims to help women feel more confident about investing](https://techcrunch.com/2024/07/16/investment-app-astor-community/) - 7 hours ago
+- [Female-founded startups have raised $15.5 billion so far this year, but that’s not really good news](https://techcrunch.com/2024/07/16/female-led-startups-have-raised-15-5-billion-so-far-this-year-but-thats-not-really-good-news/) - 8 hours ago
+- [Byju’s, once valued at $22 billion, faces insolvency proceedings](https://techcrunch.com/2024/07/16/byjus-once-valued-at-22-billion-faces-insolvency-proceedings/) - 10 hours ago
+- [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/) - 11 hours ago
+- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 14 hours ago
+- [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 15 hours ago
+- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 20 hours ago
+- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 20 hours ago
+- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 1 day ago
+- [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 1 day ago
 - [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/) - 1 day ago
 - [Adaptive builds automation tools to speed up construction payments](https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/) - 1 day ago
 - [How VanMoof’s new owners plan to win over its old customers](https://techcrunch.com/2024/07/15/how-vanmoofs-new-owners-plan-to-win-over-its-old-customers/) - 1 day ago
-- [Mitti Labs aims to make rice farming less harmful to the climate, starting in India](https://techcrunch.com/2024/07/14/mitti-labs-aims-to-make-rice-farming-less-harmful-to-the-climate-starting-in-india/) - 1 day ago
+- [Mitti Labs aims to make rice farming less harmful to the climate, starting in India](https://techcrunch.com/2024/07/14/mitti-labs-aims-to-make-rice-farming-less-harmful-to-the-climate-starting-in-india/) - 2 days ago
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 2 days ago
 - [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
 - [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 4 days ago
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/) - 12:05 pm PDT • July 5, 2024
 - [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/) - 7:30 am PDT • July 5, 2024
 - [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/) - 5:08 am PDT • July 5, 2024
-- [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/) - 8:00 am PDT • July 3, 2024
-- [Jon McNeill on VC 2.0 and creating startups in house](https://techcrunch.com/podcast/jon-mcneill-on-vc-2-0-and-creating-startups-in-house/) - 7:15 am PDT • July 3, 2024
-- [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/) - 7:00 am PDT • July 3, 2024
