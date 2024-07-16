@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 1 hour ago
-- [Google backs Indian open-source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 2 hours ago
-- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 8 hours ago
-- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 8 hours ago
-- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 13 hours ago
-- [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 16 hours ago
-- [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/) - 17 hours ago
-- [Adaptive builds automation tools to speed up construction payments](https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/) - 19 hours ago
-- [How VanMoof’s new owners plan to win over its old customers](https://techcrunch.com/2024/07/15/how-vanmoofs-new-owners-plan-to-win-over-its-old-customers/) - 23 hours ago
+- [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/) - 2 hours ago
+- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 5 hours ago
+- [Google backs Indian open-source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 6 hours ago
+- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 12 hours ago
+- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 12 hours ago
+- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 17 hours ago
+- [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 20 hours ago
+- [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/) - 21 hours ago
+- [Adaptive builds automation tools to speed up construction payments](https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/) - 23 hours ago
+- [How VanMoof’s new owners plan to win over its old customers](https://techcrunch.com/2024/07/15/how-vanmoofs-new-owners-plan-to-win-over-its-old-customers/) - 1 day ago
 - [Mitti Labs aims to make rice farming less harmful to the climate, starting in India](https://techcrunch.com/2024/07/14/mitti-labs-aims-to-make-rice-farming-less-harmful-to-the-climate-starting-in-india/) - 1 day ago
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 2 days ago
 - [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
@@ -23,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 4 days ago
 - [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 4 days ago
 - [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 4 days ago
-- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 5 days ago
+- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 10:03 am PDT • July 11, 2024
 - [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 7:44 am PDT • July 11, 2024
 - [HerculesAI was working with large language models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/) - 7:00 am PDT • July 11, 2024
 - [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/) - 6:00 am PDT • July 11, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Indian social network Koo is shutting down as buyout talks collapse](https://techcrunch.com/2024/07/02/indian-social-network-koo-to-shut-down/) - 11:56 pm PDT • July 2, 2024
 - [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/) - 9:30 am PDT • July 2, 2024
 - [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/) - 8:00 am PDT • July 2, 2024
-- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/) - 7:00 am PDT • July 2, 2024
