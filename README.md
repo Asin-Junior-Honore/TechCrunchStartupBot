@@ -4,24 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Israel’s startup scene shows reslience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 1 hour ago
-- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 1 hour ago
-- [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 11 hours ago
-- [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 13 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 15 hours ago
-- [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/) - 16 hours ago
-- [Deepfake-detecting firm Pindrop lands $100M loan to grow its offerings](https://techcrunch.com/2024/07/17/deepfake-detecting-firm-pindrop-lands-100m-loan-to-grow-its-offerings/) - 17 hours ago
-- [If the music stops, which startup gets a chair? Renegade Partners’ co-founders are finding out](https://techcrunch.com/podcast/if-the-music-stops-what-startup-gets-a-chair-renegade-partners-co-founders-are-finding-out/) - 17 hours ago
-- [Announcing the agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/17/announcing-the-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 17 hours ago
-- [Halfway through Disrupt Deal Days: Save big on TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/17/halfway-through-disrupt-deal-days-save-big-on-techcrunch-disrupt-2024/) - 17 hours ago
-- [Didero is using AI to solve supply chain management at mid-market companies](https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/) - 18 hours ago
-- [Test automation platform Tricentis acquires SeaLights](https://techcrunch.com/2024/07/17/test-automation-platform-tricentis-acquires-sealights/) - 18 hours ago
-- [The Way app offers a chance to meditate alongside a Zen master](https://techcrunch.com/2024/07/17/the-way-offers-a-chance-to-meditate-alongside-a-zen-master/) - 19 hours ago
-- [Shaped raises $8M Series A and launches its self-serve recommendations and search service](https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/) - 20 hours ago
-- [Menlo Ventures and Anthropic team up on a $100M AI fund](https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/) - 20 hours ago
-- [Kandji raises another $100M for Apple device management as valuation rises to $850M](https://techcrunch.com/2024/07/17/kandji-raises-another-100m-for-apple-device-management-as-valuation-rises-to-850m/) - 21 hours ago
-- [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/) - 22 hours ago
-- [Andreessen Horowitz co-founders explain why they’re supporting Trump](https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/) - 1 day ago
+- [Israel’s startup scene shows reslience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 5 hours ago
+- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 5 hours ago
+- [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 15 hours ago
+- [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 17 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 19 hours ago
+- [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/) - 20 hours ago
+- [Deepfake-detecting firm Pindrop lands $100M loan to grow its offerings](https://techcrunch.com/2024/07/17/deepfake-detecting-firm-pindrop-lands-100m-loan-to-grow-its-offerings/) - 21 hours ago
+- [If the music stops, which startup gets a chair? Renegade Partners’ co-founders are finding out](https://techcrunch.com/podcast/if-the-music-stops-what-startup-gets-a-chair-renegade-partners-co-founders-are-finding-out/) - 21 hours ago
+- [Announcing the agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/17/announcing-the-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Halfway through Disrupt Deal Days: Save big on TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/17/halfway-through-disrupt-deal-days-save-big-on-techcrunch-disrupt-2024/) - 21 hours ago
+- [Didero is using AI to solve supply chain management at mid-market companies](https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/) - 22 hours ago
+- [Test automation platform Tricentis acquires SeaLights](https://techcrunch.com/2024/07/17/test-automation-platform-tricentis-acquires-sealights/) - 22 hours ago
+- [The Way app offers a chance to meditate alongside a Zen master](https://techcrunch.com/2024/07/17/the-way-offers-a-chance-to-meditate-alongside-a-zen-master/) - 23 hours ago
+- [Shaped raises $8M Series A and launches its self-serve recommendations and search service](https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/) - 1 day ago
+- [Menlo Ventures and Anthropic team up on a $100M AI fund](https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/) - 1 day ago
+- [Kandji raises another $100M for Apple device management as valuation rises to $850M](https://techcrunch.com/2024/07/17/kandji-raises-another-100m-for-apple-device-management-as-valuation-rises-to-850m/) - 1 day ago
+- [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/) - 1 day ago
+- [Andreessen Horowitz co-founders explain why they’re supporting Trump](https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/) - 2 days ago
 - [After Tesla and OpenAI, Andrej Karpathy’s startup aims to apply AI assistants to education](https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/) - 2 days ago
 - [Campus wants to crack the code to get community college to work for everyone](https://techcrunch.com/podcast/campus-wants-to-crack-the-code-to-get-community-college-to-work-for-everyone/) - 2 days ago
 - [YC-backed CrowdVolt shakes up the secondary ticket market with its bid-ask model](https://techcrunch.com/2024/07/16/yc-backed-secondary-ticketing-startup-crowdvolt/) - 2 days ago
@@ -33,8 +33,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/) - 2 days ago
 - [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 2 days ago
 - [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 2 days ago
-- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 2 days ago
-- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 2 days ago
+- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 3 days ago
+- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 3 days ago
 - [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 3 days ago
 - [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 3 days ago
 - [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/) - 3 days ago
@@ -42,7 +42,7 @@ Here are the latest articles from TechCrunch Startups:
 - [How VanMoof’s new owners plan to win over its old customers](https://techcrunch.com/2024/07/15/how-vanmoofs-new-owners-plan-to-win-over-its-old-customers/) - 3 days ago
 - [Mitti Labs aims to make rice farming less harmful to the climate, starting in India](https://techcrunch.com/2024/07/14/mitti-labs-aims-to-make-rice-farming-less-harmful-to-the-climate-starting-in-india/) - 3 days ago
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 4 days ago
-- [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 5 days ago
+- [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 12:00 pm PDT • July 13, 2024
 - [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 12:05 pm PDT • July 12, 2024
 - [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 11:03 am PDT • July 12, 2024
 - [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 10:20 am PDT • July 12, 2024
