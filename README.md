@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/) - 17 hours ago
-- [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/) - 17 hours ago
-- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 22 hours ago
-- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 23 hours ago
-- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 23 hours ago
+- [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/) - 1 hour ago
+- [Silicon Valley’s impact on the election and an acquisition making our HeadSpin](https://techcrunch.com/podcast/silicon-valleys-impact-on-the-election-and-an-acquisition-making-our-headspin/) - 2 hours ago
+- [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/) - 21 hours ago
+- [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/) - 21 hours ago
+- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 1 day ago
+- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 1 day ago
+- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 1 day ago
 - [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 1 day ago
 - [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 1 day ago
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 2 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/) - 5:28 am PDT • July 11, 2024
 - [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects ](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/) - 4:00 am PDT • July 11, 2024
 - [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/) - 4:00 am PDT • July 11, 2024
-- [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/) - 3:00 am PDT • July 11, 2024
-- [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/) - 2:59 am PDT • July 11, 2024
