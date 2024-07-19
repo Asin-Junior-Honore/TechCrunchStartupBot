@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/) - 8 hours ago
-- [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/) - 8 hours ago
-- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 14 hours ago
-- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 15 hours ago
-- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 15 hours ago
-- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 21 hours ago
-- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 21 hours ago
+- [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/) - 13 hours ago
+- [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/) - 13 hours ago
+- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 18 hours ago
+- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 19 hours ago
+- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 19 hours ago
+- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 1 day ago
+- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 1 day ago
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 1 day ago
-- [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 1 day ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 1 day ago
-- [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/) - 1 day ago
+- [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 2 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 2 days ago
+- [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/) - 2 days ago
 - [Deepfake-detecting firm Pindrop lands $100M loan to grow its offerings](https://techcrunch.com/2024/07/17/deepfake-detecting-firm-pindrop-lands-100m-loan-to-grow-its-offerings/) - 2 days ago
 - [If the music stops, which startup gets a chair? Renegade Partners’ co-founders are finding out](https://techcrunch.com/podcast/if-the-music-stops-what-startup-gets-a-chair-renegade-partners-co-founders-are-finding-out/) - 2 days ago
 - [Announcing the agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/17/announcing-the-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 2 days ago
@@ -28,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/) - 2 days ago
 - [Andreessen Horowitz co-founders explain why they’re supporting Trump](https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/) - 2 days ago
 - [After Tesla and OpenAI, Andrej Karpathy’s startup aims to apply AI assistants to education](https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/) - 2 days ago
-- [Campus wants to crack the code to get community college to work for everyone](https://techcrunch.com/podcast/campus-wants-to-crack-the-code-to-get-community-college-to-work-for-everyone/) - 2 days ago
+- [Campus wants to crack the code to get community college to work for everyone](https://techcrunch.com/podcast/campus-wants-to-crack-the-code-to-get-community-college-to-work-for-everyone/) - 3 days ago
 - [YC-backed CrowdVolt shakes up the secondary ticket market with its bid-ask model](https://techcrunch.com/2024/07/16/yc-backed-secondary-ticketing-startup-crowdvolt/) - 3 days ago
 - [A company building Wordle for chess raises money from a16z Speedrun, Mark Pincus and Eric Wu](https://techcrunch.com/2024/07/16/a-company-building-wordle-for-chess-raises-money-from-a16z-speedrun-mark-pincus-and-eric-wu/) - 3 days ago
 - [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/) - 3 days ago
@@ -40,8 +40,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 3 days ago
 - [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 3 days ago
 - [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 3 days ago
-- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 3 days ago
-- [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 3 days ago
+- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 4 days ago
+- [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 4 days ago
 - [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/) - 4 days ago
 - [Adaptive builds automation tools to speed up construction payments](https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/) - 4 days ago
 - [How VanMoof’s new owners plan to win over its old customers](https://techcrunch.com/2024/07/15/how-vanmoofs-new-owners-plan-to-win-over-its-old-customers/) - 4 days ago
