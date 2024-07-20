@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 1 hour ago
-- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 2 hours ago
-- [These startups are trying to prevent another CrowdStrike-like outage, according to VCs](https://techcrunch.com/2024/07/19/these-startups-are-trying-to-prevent-another-crowdstrike-like-outage-according-to-vcs/) - 17 hours ago
-- [M&A activity heats up with Wiz, Graphcore, etc.](https://techcrunch.com/2024/07/19/ma-activity-heats-up-with-wiz-graphcore-etc/) - 21 hours ago
+- [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 2 hours ago
+- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 5 hours ago
+- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 6 hours ago
+- [These startups are trying to prevent another CrowdStrike-like outage, according to VCs](https://techcrunch.com/2024/07/19/these-startups-are-trying-to-prevent-another-crowdstrike-like-outage-according-to-vcs/) - 21 hours ago
+- [M&A activity heats up with Wiz, Graphcore, etc.](https://techcrunch.com/2024/07/19/ma-activity-heats-up-with-wiz-graphcore-etc/) - 1 day ago
 - [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/) - 1 day ago
 - [Silicon Valley’s impact on the election and an acquisition making our HeadSpin](https://techcrunch.com/podcast/silicon-valleys-impact-on-the-election-and-an-acquisition-making-our-headspin/) - 1 day ago
 - [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/) - 2 days ago
@@ -15,8 +16,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 2 days ago
 - [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 2 days ago
 - [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 2 days ago
-- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 2 days ago
-- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 2 days ago
+- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 3 days ago
+- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 3 days ago
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 3 days ago
 - [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 3 days ago
@@ -42,10 +43,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Female-founded startups have raised $15.5 billion so far this year, but that’s not really good news](https://techcrunch.com/2024/07/16/female-led-startups-have-raised-15-5-billion-so-far-this-year-but-thats-not-really-good-news/) - 4 days ago
 - [Byju’s, once valued at $22 billion, faces insolvency proceedings](https://techcrunch.com/2024/07/16/byjus-once-valued-at-22-billion-faces-insolvency-proceedings/) - 4 days ago
 - [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/) - 4 days ago
-- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 4 days ago
-- [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 4 days ago
-- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 5 days ago
-- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 5 days ago
+- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 5 days ago
+- [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 5 days ago
+- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 5:00 pm PDT • July 15, 2024
+- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/) - 4:56 pm PDT • July 15, 2024
 - [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/) - 11:34 am PDT • July 15, 2024
 - [Google’s talks to buy Wiz, and the gap between AI spending and AI revenue](https://techcrunch.com/podcast/googles-talks-to-buy-wiz-and-the-gap-between-ai-spending-and-ai-revenue/) - 9:18 am PDT • July 15, 2024
 - [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/) - 8:00 am PDT • July 15, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 5:00 am PDT • July 12, 2024
 - [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 10:03 am PDT • July 11, 2024
 - [Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it](https://techcrunch.com/2024/07/11/immigration-visa-alma-law/) - 7:44 am PDT • July 11, 2024
-- [HerculesAI was working with large language models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/) - 7:00 am PDT • July 11, 2024
