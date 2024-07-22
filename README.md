@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 5 hours ago
+- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 10 hours ago
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 1 day ago
 - [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 1 day ago
 - [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 1 day ago
@@ -30,10 +30,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Didero is using AI to solve supply chain management at mid-market companies](https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/) - 4 days ago
 - [Test automation platform Tricentis acquires SeaLights](https://techcrunch.com/2024/07/17/test-automation-platform-tricentis-acquires-sealights/) - 4 days ago
 - [The Way app offers a chance to meditate alongside a Zen master](https://techcrunch.com/2024/07/17/the-way-offers-a-chance-to-meditate-alongside-a-zen-master/) - 4 days ago
-- [Shaped raises $8M Series A and launches its self-serve recommendations and search service](https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/) - 4 days ago
-- [Menlo Ventures and Anthropic team up on a $100M AI fund](https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/) - 4 days ago
-- [Kandji raises another $100M for Apple device management as valuation rises to $850M](https://techcrunch.com/2024/07/17/kandji-raises-another-100m-for-apple-device-management-as-valuation-rises-to-850m/) - 4 days ago
-- [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/) - 4 days ago
+- [Shaped raises $8M Series A and launches its self-serve recommendations and search service](https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/) - 5 days ago
+- [Menlo Ventures and Anthropic team up on a $100M AI fund](https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/) - 5 days ago
+- [Kandji raises another $100M for Apple device management as valuation rises to $850M](https://techcrunch.com/2024/07/17/kandji-raises-another-100m-for-apple-device-management-as-valuation-rises-to-850m/) - 5 days ago
+- [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/) - 5 days ago
 - [Andreessen Horowitz co-founders explain why they’re supporting Trump](https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/) - 5:01 pm PDT • July 16, 2024
 - [After Tesla and OpenAI, Andrej Karpathy’s startup aims to apply AI assistants to education](https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/) - 1:12 pm PDT • July 16, 2024
 - [Campus wants to crack the code to get community college to work for everyone](https://techcrunch.com/podcast/campus-wants-to-crack-the-code-to-get-community-college-to-work-for-everyone/) - 9:56 am PDT • July 16, 2024
