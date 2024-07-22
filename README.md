@@ -4,7 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 21 hours ago
+- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 1 hour ago
+- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 2 hours ago
+- [Fintech Fragment eases ledger problems, nabs $9M from Stripe, Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 3 hours ago
+- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 3 hours ago
+- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 1 day ago
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 2 days ago
 - [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 2 days ago
 - [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 2 days ago
@@ -19,8 +23,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 4 days ago
 - [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 4 days ago
 - [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 4 days ago
-- [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 5 days ago
-- [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 5 days ago
+- [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 2:09 pm PDT • July 17, 2024
+- [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 12:41 pm PDT • July 17, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 10:15 am PDT • July 17, 2024
 - [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/) - 9:02 am PDT • July 17, 2024
 - [Deepfake-detecting firm Pindrop lands $100M loan to grow its offerings](https://techcrunch.com/2024/07/17/deepfake-detecting-firm-pindrop-lands-100m-loan-to-grow-its-offerings/) - 8:35 am PDT • July 17, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [HeadSpin, whose founder is in prison for fraud, sold to PE firm in fire sale, sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/) - 11:03 am PDT • July 12, 2024
 - [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/) - 10:20 am PDT • July 12, 2024
 - [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/) - 9:39 am PDT • July 12, 2024
-- [There’s always something happening to OpenAI’s board](https://techcrunch.com/podcast/theres-always-something-happening-to-openais-board/) - 7:05 am PDT • July 12, 2024
-- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/) - 5:31 am PDT • July 12, 2024
-- [Fusion pioneer Commonwealth Fusion Systems is selling core magnet tech to the University of Wisconsin](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/) - 5:00 am PDT • July 12, 2024
-- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/) - 10:03 am PDT • July 11, 2024
