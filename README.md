@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 2 hours ago
-- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 3 hours ago
-- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 3 hours ago
-- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 5 hours ago
-- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 5 hours ago
-- [Fintech Fragment eases ledger problems, nabs $9M from Stripe, Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 7 hours ago
-- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 7 hours ago
+- [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 2 hours ago
+- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 7 hours ago
+- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 8 hours ago
+- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 8 hours ago
+- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 10 hours ago
+- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 10 hours ago
+- [Fintech Fragment eases ledger problems, nabs $9M from Stripe, Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 12 hours ago
+- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 12 hours ago
 - [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 1 day ago
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 2 days ago
 - [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 2 days ago
@@ -24,8 +25,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 4 days ago
 - [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 4 days ago
 - [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 4 days ago
-- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 5 days ago
-- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 5 days ago
+- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 12:12 am PDT • July 18, 2024
+- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 12:00 am PDT • July 18, 2024
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 2:09 pm PDT • July 17, 2024
 - [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 12:41 pm PDT • July 17, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/) - 10:15 am PDT • July 17, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Mitti Labs aims to make rice farming less harmful to the climate, starting in India](https://techcrunch.com/2024/07/14/mitti-labs-aims-to-make-rice-farming-less-harmful-to-the-climate-starting-in-india/) - 9:30 pm PDT • July 14, 2024
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 8:00 am PDT • July 14, 2024
 - [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 12:00 pm PDT • July 13, 2024
-- [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/) - 12:05 pm PDT • July 12, 2024
