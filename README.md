@@ -4,27 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 2 hours ago
-- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 7 hours ago
-- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 8 hours ago
-- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 8 hours ago
-- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 10 hours ago
-- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 10 hours ago
-- [Fintech Fragment eases ledger problems, nabs $9M from Stripe, Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 12 hours ago
-- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 12 hours ago
-- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 1 day ago
+- [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 6 hours ago
+- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 10 hours ago
+- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 11 hours ago
+- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 12 hours ago
+- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 13 hours ago
+- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 14 hours ago
+- [Fintech Fragment eases ledger problems, nabs $9M from Stripe, Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 15 hours ago
+- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 15 hours ago
+- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 2 days ago
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 2 days ago
-- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 2 days ago
-- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 2 days ago
+- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 3 days ago
+- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 3 days ago
 - [These startups are trying to prevent another CrowdStrike-like outage, according to VCs](https://techcrunch.com/2024/07/19/these-startups-are-trying-to-prevent-another-crowdstrike-like-outage-according-to-vcs/) - 3 days ago
 - [M&A activity heats up with Wiz, Graphcore, etc.](https://techcrunch.com/2024/07/19/ma-activity-heats-up-with-wiz-graphcore-etc/) - 3 days ago
-- [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/) - 3 days ago
-- [Silicon Valley’s impact on the election and an acquisition making our HeadSpin](https://techcrunch.com/podcast/silicon-valleys-impact-on-the-election-and-an-acquisition-making-our-headspin/) - 3 days ago
+- [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/) - 4 days ago
+- [Silicon Valley’s impact on the election and an acquisition making our HeadSpin](https://techcrunch.com/podcast/silicon-valleys-impact-on-the-election-and-an-acquisition-making-our-headspin/) - 4 days ago
 - [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/) - 4 days ago
 - [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/) - 4 days ago
-- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 4 days ago
-- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 4 days ago
-- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 4 days ago
+- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 5 days ago
+- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 5 days ago
+- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 5 days ago
 - [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 12:12 am PDT • July 18, 2024
 - [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 12:00 am PDT • July 18, 2024
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 2:09 pm PDT • July 17, 2024
