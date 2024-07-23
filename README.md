@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cyabra, a startup helping companies and governments detect disinformation, plans to go public via SPAC](https://techcrunch.com/2024/07/23/cyabra-a-startup-helping-companies-and-governments-detect-disinformation-plans-to-go-public-via-spac/) - 26 mins ago
-- [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/) - 1 hour ago
-- [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 2 hours ago
-- [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/) - 3 hours ago
-- [Level AI applies algorithms to contact center pain points](https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/) - 3 hours ago
-- [QA Wolf secures $36M to grow its app QA-testing suite](https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/) - 3 hours ago
-- [Flashfood users can now save money on groceries at their local grocery store in addition to bigger chains](https://techcrunch.com/2024/07/23/flashfood-grocery-app-expands-to-more-stores-independent-grocers/) - 3 hours ago
-- [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 3 hours ago
-- [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/) - 9 hours ago
-- [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 18 hours ago
-- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 22 hours ago
-- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 23 hours ago
-- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 24 hours ago
+- [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/) - 3 hours ago
+- [Cyabra, a startup helping companies and governments detect disinformation, plans to go public via SPAC](https://techcrunch.com/2024/07/23/cyabra-a-startup-helping-companies-and-governments-detect-disinformation-plans-to-go-public-via-spac/) - 4 hours ago
+- [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/) - 5 hours ago
+- [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 6 hours ago
+- [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/) - 7 hours ago
+- [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 7 hours ago
+- [Level AI applies algorithms to contact center pain points](https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/) - 7 hours ago
+- [Flashfood users can now save money on groceries at their local grocery store in addition to bigger chains](https://techcrunch.com/2024/07/23/flashfood-grocery-app-expands-to-more-stores-independent-grocers/) - 7 hours ago
+- [QA Wolf secures $36M to grow its app QA-testing suite](https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/) - 7 hours ago
+- [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/) - 13 hours ago
+- [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 21 hours ago
+- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 1 day ago
+- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 1 day ago
+- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 1 day ago
 - [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 1 day ago
 - [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 1 day ago
 - [Fintech Fragment eases ledger problems, nabs $9M from Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 1 day ago
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/) - 2:42 am PDT • July 16, 2024
 - [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/) - 11:30 pm PDT • July 15, 2024
 - [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/) - 10:32 pm PDT • July 15, 2024
-- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/) - 5:00 pm PDT • July 15, 2024
