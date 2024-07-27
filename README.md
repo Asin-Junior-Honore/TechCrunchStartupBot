@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 7 hours ago
-- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 9 hours ago
-- [Alphabet X spinoff partners with Arc’teryx to bring  ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 12 hours ago
-- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 14 hours ago
-- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 16 hours ago
-- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 21 hours ago
+- [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 11 hours ago
+- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 12 hours ago
+- [Alphabet X spinoff partners with Arc’teryx to bring  ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 15 hours ago
+- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 17 hours ago
+- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 20 hours ago
+- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 1 day ago
 - [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 1 day ago
 - [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 1 day ago
-- [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 1 day ago
+- [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 2 days ago
 - [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/) - 2 days ago
 - [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/) - 2 days ago
 - [Endeavor CEO says long-term capital needs to be prioritized in emerging ecosystems](https://techcrunch.com/2024/07/25/endeavor-ceo-says-long-term-capital-needs-to-be-prioritized-in-emerging-ecosystems/) - 2 days ago
 - [Kodiak Robotics is taking self-driving trucks off-road to reach profitability faster](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/) - 2 days ago
 - [Intron Health gets backing for its speech-recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/) - 2 days ago
-- [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 2 days ago
+- [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 3 days ago
 - [Colin Kaepernick lost control of his story. Now he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/) - 3 days ago
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 3 days ago
 - [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/) - 3 days ago
@@ -28,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Vanta raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/) - 3 days ago
 - [Terradepth wants to map the rest of the ocean floor](https://techcrunch.com/podcast/terradepth-wants-to-map-the-rest-of-the-ocean-floor/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/) - 3 days ago
-- [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/) - 3 days ago
+- [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/) - 4 days ago
 - [Cyabra, a startup helping companies and governments detect disinformation, plans to go public via SPAC](https://techcrunch.com/2024/07/23/cyabra-a-startup-helping-companies-and-governments-detect-disinformation-plans-to-go-public-via-spac/) - 4 days ago
 - [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 4 days ago
@@ -39,13 +39,13 @@ Here are the latest articles from TechCrunch Startups:
 - [QA Wolf secures $36M to grow its app QA-testing suite](https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/) - 4 days ago
 - [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/) - 4 days ago
 - [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 4 days ago
-- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 4 days ago
-- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 4 days ago
-- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 4 days ago
-- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 5 days ago
-- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 5 days ago
-- [Fintech Fragment eases ledger problems, nabs $9M from Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 5 days ago
-- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 5 days ago
+- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 5 days ago
+- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/) - 5 days ago
+- [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 5 days ago
+- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 8:00 am PDT • July 22, 2024
+- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 7:31 am PDT • July 22, 2024
+- [Fintech Fragment eases ledger problems, nabs $9M from Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 6:00 am PDT • July 22, 2024
+- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 5:59 am PDT • July 22, 2024
 - [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 8:00 am PDT • July 21, 2024
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 11:00 am PDT • July 20, 2024
 - [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 8:00 am PDT • July 20, 2024
