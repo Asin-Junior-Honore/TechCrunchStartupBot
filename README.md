@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 1 hour ago
-- [Alphabet X spinoff Skip partners with Arc’teryx to bring  ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 4 hours ago
-- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 6 hours ago
-- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 8 hours ago
-- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 13 hours ago
-- [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 24 hours ago
+- [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 4 hours ago
+- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 6 hours ago
+- [Alphabet X spinoff Skip partners with Arc’teryx to bring  ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 8 hours ago
+- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 11 hours ago
+- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 13 hours ago
+- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 18 hours ago
+- [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 1 day ago
 - [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 1 day ago
 - [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 1 day ago
 - [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/) - 1 day ago
 - [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/) - 1 day ago
 - [Endeavor CEO says long-term capital needs to be prioritized in emerging ecosystems](https://techcrunch.com/2024/07/25/endeavor-ceo-says-long-term-capital-needs-to-be-prioritized-in-emerging-ecosystems/) - 1 day ago
-- [Kodiak Robotics is taking self-driving trucks off-road to reach profitability faster](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/) - 1 day ago
-- [Intron Health gets backing for its speech-recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/) - 1 day ago
+- [Kodiak Robotics is taking self-driving trucks off-road to reach profitability faster](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/) - 2 days ago
+- [Intron Health gets backing for its speech-recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/) - 2 days ago
 - [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 2 days ago
 - [Colin Kaepernick lost control of his story. Now he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/) - 2 days ago
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 2 days ago
@@ -24,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Cracking the AI and consumer code with early Zoom-backer Maven Ventures](https://techcrunch.com/podcast/cracking-the-ai-and-consumer-code-with-early-zoom-backer-maven-ventures/) - 2 days ago
 - [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/) - 2 days ago
 - [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/) - 2 days ago
-- [Vanta raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/) - 2 days ago
+- [Vanta raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/) - 3 days ago
 - [Terradepth wants to map the rest of the ocean floor](https://techcrunch.com/podcast/terradepth-wants-to-map-the-rest-of-the-ocean-floor/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/) - 3 days ago
 - [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/) - 3 days ago
@@ -33,7 +34,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 3 days ago
 - [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/) - 3 days ago
 - [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 3 days ago
-- [Level AI applies algorithms to contact center pain points](https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/) - 3 days ago
+- [Flashfood users can now save money on groceries at their local grocery store in addition to bigger chains](https://techcrunch.com/2024/07/23/flashfood-grocery-app-expands-to-more-stores-independent-grocers/) - 3 days ago
 - [QA Wolf secures $36M to grow its app QA-testing suite](https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/) - 3 days ago
 - [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 3 days ago
 - [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/) - 4 days ago
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/) - 2:09 pm PDT • July 17, 2024
 - [InMobi eyes $10 billion valuation in 2025 India IPO](https://techcrunch.com/2024/07/17/inmobi-eyes-10-billion-valuation-in-2025-india-ipo/) - 12:41 pm PDT • July 17, 2024
 - [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/) - 9:02 am PDT • July 17, 2024
-- [Deepfake-detecting firm Pindrop lands $100M loan to grow its offerings](https://techcrunch.com/2024/07/17/deepfake-detecting-firm-pindrop-lands-100m-loan-to-grow-its-offerings/) - 8:35 am PDT • July 17, 2024
