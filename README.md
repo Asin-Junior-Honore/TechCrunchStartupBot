@@ -4,7 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 3 hours ago
+- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 3 hours ago
+- [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 3 hours ago
+- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 7 hours ago
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 2 days ago
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 2 days ago
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 3 days ago
@@ -12,7 +14,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Alphabet X spinoff partners with Arc’teryx to bring ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 3 days ago
 - [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 3 days ago
 - [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 3 days ago
-- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 3 days ago
+- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 4 days ago
 - [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 4 days ago
 - [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 4 days ago
 - [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 4 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/) - 7:00 am PDT • July 18, 2024
 - [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/) - 6:00 am PDT • July 18, 2024
 - [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/) - 6:00 am PDT • July 18, 2024
-- [Israel’s startup scene shows resilience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/) - 12:12 am PDT • July 18, 2024
-- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/) - 12:00 am PDT • July 18, 2024
