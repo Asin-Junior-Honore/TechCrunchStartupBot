@@ -5,28 +5,28 @@ Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 1 day ago
-- [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 1 day ago
+- [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 2 days ago
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 2 days ago
 - [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 2 days ago
 - [Alphabet X spinoff partners with Arc’teryx to bring ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 2 days ago
-- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 2 days ago
+- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 3 days ago
 - [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 3 days ago
 - [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 3 days ago
 - [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 3 days ago
 - [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 3 days ago
 - [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 3 days ago
-- [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/) - 3 days ago
-- [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/) - 3 days ago
-- [Endeavor CEO says long-term capital needs to be prioritized in emerging ecosystems](https://techcrunch.com/2024/07/25/endeavor-ceo-says-long-term-capital-needs-to-be-prioritized-in-emerging-ecosystems/) - 3 days ago
+- [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/) - 4 days ago
+- [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/) - 4 days ago
+- [Endeavor CEO says long-term capital needs to be prioritized in emerging ecosystems](https://techcrunch.com/2024/07/25/endeavor-ceo-says-long-term-capital-needs-to-be-prioritized-in-emerging-ecosystems/) - 4 days ago
 - [Kodiak Robotics is taking self-driving trucks off-road to reach profitability faster](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/) - 4 days ago
 - [Intron Health gets backing for its speech-recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/) - 4 days ago
 - [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 4 days ago
-- [Colin Kaepernick lost control of his story. Now he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/) - 4 days ago
-- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 4 days ago
-- [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/) - 4 days ago
-- [Cracking the AI and consumer code with early Zoom-backer Maven Ventures](https://techcrunch.com/podcast/cracking-the-ai-and-consumer-code-with-early-zoom-backer-maven-ventures/) - 4 days ago
-- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/) - 4 days ago
-- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/) - 4 days ago
+- [Colin Kaepernick lost control of his story. Now he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/) - 5 days ago
+- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 5 days ago
+- [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/) - 5 days ago
+- [Cracking the AI and consumer code with early Zoom-backer Maven Ventures](https://techcrunch.com/podcast/cracking-the-ai-and-consumer-code-with-early-zoom-backer-maven-ventures/) - 5 days ago
+- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/) - 5 days ago
+- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/) - 5 days ago
 - [Vanta raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/) - 5 days ago
 - [Terradepth wants to map the rest of the ocean floor](https://techcrunch.com/podcast/terradepth-wants-to-map-the-rest-of-the-ocean-floor/) - 1:53 pm PDT • July 23, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/) - 1:45 pm PDT • July 23, 2024
@@ -35,10 +35,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/) - 8:00 am PDT • July 23, 2024
 - [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 7:00 am PDT • July 23, 2024
 - [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/) - 6:11 am PDT • July 23, 2024
-- [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 6:00 am PDT • July 23, 2024
 - [Level AI applies algorithms to contact center pain points](https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/) - 6:00 am PDT • July 23, 2024
 - [Flashfood users can now save money on groceries at their local grocery store in addition to bigger chains](https://techcrunch.com/2024/07/23/flashfood-grocery-app-expands-to-more-stores-independent-grocers/) - 6:00 am PDT • July 23, 2024
 - [QA Wolf secures $36M to grow its app QA-testing suite](https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/) - 6:00 am PDT • July 23, 2024
+- [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 6:00 am PDT • July 23, 2024
 - [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/) - 12:16 am PDT • July 23, 2024
 - [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 3:36 pm PDT • July 22, 2024
 - [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 10:55 am PDT • July 22, 2024
