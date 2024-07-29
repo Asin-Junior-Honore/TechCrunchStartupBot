@@ -4,30 +4,30 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 1 day ago
+- [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 2 days ago
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 2 days ago
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 2 days ago
-- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 2 days ago
-- [Alphabet X spinoff partners with Arc’teryx to bring ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 2 days ago
+- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 3 days ago
+- [Alphabet X spinoff partners with Arc’teryx to bring ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 3 days ago
 - [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 3 days ago
 - [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 3 days ago
 - [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 3 days ago
 - [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 3 days ago
-- [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 3 days ago
-- [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 3 days ago
+- [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 4 days ago
+- [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 4 days ago
 - [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/) - 4 days ago
 - [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/) - 4 days ago
 - [Endeavor CEO says long-term capital needs to be prioritized in emerging ecosystems](https://techcrunch.com/2024/07/25/endeavor-ceo-says-long-term-capital-needs-to-be-prioritized-in-emerging-ecosystems/) - 4 days ago
 - [Kodiak Robotics is taking self-driving trucks off-road to reach profitability faster](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/) - 4 days ago
 - [Intron Health gets backing for its speech-recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/) - 4 days ago
-- [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 4 days ago
+- [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 5 days ago
 - [Colin Kaepernick lost control of his story. Now he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/) - 5 days ago
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 5 days ago
 - [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/) - 5 days ago
-- [Cracking the AI and consumer code with early Zoom-backer Maven Ventures](https://techcrunch.com/podcast/cracking-the-ai-and-consumer-code-with-early-zoom-backer-maven-ventures/) - 5 days ago
-- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/) - 5 days ago
-- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/) - 5 days ago
-- [Vanta raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/) - 5 days ago
+- [Cracking the AI and consumer code with early Zoom-backer Maven Ventures](https://techcrunch.com/podcast/cracking-the-ai-and-consumer-code-with-early-zoom-backer-maven-ventures/) - 7:05 am PDT • July 24, 2024
+- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/) - 6:10 am PDT • July 24, 2024
+- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/) - 6:00 am PDT • July 24, 2024
+- [Vanta raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/) - 5:00 am PDT • July 24, 2024
 - [Terradepth wants to map the rest of the ocean floor](https://techcrunch.com/podcast/terradepth-wants-to-map-the-rest-of-the-ocean-floor/) - 1:53 pm PDT • July 23, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/) - 1:45 pm PDT • July 23, 2024
 - [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/) - 10:19 am PDT • July 23, 2024
