@@ -4,14 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 2 mins ago
-- [Zoe, a microbiome-focused nutrition company, raises $15 million to expand in the U.S.](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 5 hours ago
-- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 7 hours ago
-- [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 8 hours ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 13 hours ago
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 19 hours ago
-- [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 19 hours ago
-- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 23 hours ago
+- [Intelmatix raises $20M Series A to enable MENA businesses to tap AI for decision-making](https://techcrunch.com/2024/07/30/intelmatix-raises-20m-series-a-to-enable-mena-businesses-to-tap-ai-for-decision-making/) - 4 mins ago
+- [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/) - 37 mins ago
+- [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/) - 37 mins ago
+- [Real-time database startup ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/) - 2 hours ago
+- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/) - 3 hours ago
+- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/) - 3 hours ago
+- [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 4 hours ago
+- [Zoe, a microbiome-focused nutrition company, raises $15 million to expand in the U.S.](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 9 hours ago
+- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 11 hours ago
+- [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 12 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 17 hours ago
+- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 23 hours ago
+- [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 23 hours ago
+- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 1 day ago
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 3 days ago
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 3 days ago
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 4 days ago
@@ -20,8 +26,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 4 days ago
 - [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 4 days ago
 - [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 4 days ago
-- [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 5 days ago
-- [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 5 days ago
+- [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 1:16 pm PDT • July 25, 2024
+- [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 12:59 pm PDT • July 25, 2024
 - [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 9:49 am PDT • July 25, 2024
 - [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/) - 8:00 am PDT • July 25, 2024
 - [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/) - 8:00 am PDT • July 25, 2024
@@ -43,10 +49,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/) - 8:00 am PDT • July 23, 2024
 - [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 7:00 am PDT • July 23, 2024
 - [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/) - 6:11 am PDT • July 23, 2024
-- [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 6:00 am PDT • July 23, 2024
 - [Level AI applies algorithms to contact center pain points](https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/) - 6:00 am PDT • July 23, 2024
 - [Flashfood users can now save money on groceries at their local grocery store in addition to bigger chains](https://techcrunch.com/2024/07/23/flashfood-grocery-app-expands-to-more-stores-independent-grocers/) - 6:00 am PDT • July 23, 2024
 - [QA Wolf secures $36M to grow its app QA-testing suite](https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/) - 6:00 am PDT • July 23, 2024
+- [Posh raises $22M to become TikTok for small events](https://techcrunch.com/2024/07/23/event-startup-posh-raises-22m-in-to-focus-on-personalisation-and-event-diversification/) - 6:00 am PDT • July 23, 2024
 - [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/) - 12:16 am PDT • July 23, 2024
 - [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/) - 3:36 pm PDT • July 22, 2024
 - [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/) - 10:55 am PDT • July 22, 2024
@@ -58,9 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/) - 5:59 am PDT • July 22, 2024
 - [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/) - 8:00 am PDT • July 21, 2024
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/) - 11:00 am PDT • July 20, 2024
-- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/) - 8:00 am PDT • July 20, 2024
-- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/) - 7:00 am PDT • July 20, 2024
-- [These startups are trying to prevent another CrowdStrike-like outage, according to VCs](https://techcrunch.com/2024/07/19/these-startups-are-trying-to-prevent-another-crowdstrike-like-outage-according-to-vcs/) - 4:11 pm PDT • July 19, 2024
-- [M&A activity heats up with Wiz, Graphcore, etc.](https://techcrunch.com/2024/07/19/ma-activity-heats-up-with-wiz-graphcore-etc/) - 12:05 pm PDT • July 19, 2024
-- [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/) - 8:00 am PDT • July 19, 2024
-- [Silicon Valley’s impact on the election and an acquisition making our HeadSpin](https://techcrunch.com/podcast/silicon-valleys-impact-on-the-election-and-an-acquisition-making-our-headspin/) - 7:15 am PDT • July 19, 2024
