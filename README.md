@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The SEC has charged an a16z and Sequoia-backed crypto startup founder with fraud ](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/) - 7 mins ago
-- [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/) - 43 mins ago
-- [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/) - 4 hours ago
-- [Intelmatix raises $20M Series A to enable MENA businesses to tap AI for decision-making](https://techcrunch.com/2024/07/30/intelmatix-raises-20m-series-a-to-enable-mena-businesses-to-tap-ai-for-decision-making/) - 4 hours ago
-- [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/) - 5 hours ago
-- [Real-time database startup ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/) - 6 hours ago
-- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/) - 7 hours ago
-- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/) - 7 hours ago
-- [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 8 hours ago
-- [Zoe, a microbiome-focused nutrition company, raises $15 million to expand in the U.S.](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 13 hours ago
-- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 15 hours ago
-- [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 16 hours ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 21 hours ago
+- [Lineaje raises $20M to help organizations combat software supply chain threats](https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/) - 1 hour ago
+- [SEC charges BitClout founder Nader Al-Naji with fraud; says proceeds paid for L.A. mansion, gifts](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/) - 5 hours ago
+- [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/) - 5 hours ago
+- [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/) - 8 hours ago
+- [Intelmatix raises $20M Series A to enable MENA businesses to tap AI for decision-making](https://techcrunch.com/2024/07/30/intelmatix-raises-20m-series-a-to-enable-mena-businesses-to-tap-ai-for-decision-making/) - 9 hours ago
+- [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/) - 10 hours ago
+- [Real-time database startup ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/) - 11 hours ago
+- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/) - 12 hours ago
+- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/) - 12 hours ago
+- [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 13 hours ago
+- [Zoe, a microbiome-focused nutrition company, raises $15 million to expand in the U.S.](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 18 hours ago
+- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 20 hours ago
+- [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 21 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 1 day ago
 - [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 1 day ago
 - [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 1 day ago
 - [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 1 day ago
@@ -27,8 +28,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 4 days ago
 - [Alphabet X spinoff partners with Arc’teryx to bring ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 4 days ago
 - [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 4 days ago
-- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 4 days ago
-- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 5 days ago
+- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/) - 5 days ago
+- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/) - 12:00 am PDT • July 26, 2024
 - [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/) - 1:16 pm PDT • July 25, 2024
 - [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/) - 12:59 pm PDT • July 25, 2024
 - [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/) - 9:49 am PDT • July 25, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [CrowdStrike’s fallout, Harris’s stance on tech and Yandex’s rise from the ashes](https://techcrunch.com/podcast/crowdstrikes-fallout-harriss-stance-on-tech-and-yandexs-rise-from-the-ashes/) - 9:37 am PDT • July 22, 2024
 - [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/) - 8:00 am PDT • July 22, 2024
 - [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/) - 7:31 am PDT • July 22, 2024
-- [Fintech Fragment eases ledger problems, nabs $9M from Jack Altman, BoxGroup, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/) - 6:00 am PDT • July 22, 2024
