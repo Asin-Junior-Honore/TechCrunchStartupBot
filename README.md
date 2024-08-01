@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/) - 1 hour ago
-- [TechCrunch Minute: Investors pour money into non-alcoholic beverages](https://techcrunch.com/video/techcrunch-minute-investors-pour-money-into-non-alcoholic-beverages/) - 4 hours ago
-- [Synctera, Unit, and Treasury Prime execs discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [Global startup funding is picking up with AI still in the spotlight](https://techcrunch.com/podcast/global-startup-funding-is-picking-up-with-ai-still-in-the-spotlight/) - 6 hours ago
-- [Tezi is building an AI agent for hiring managers](https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/) - 6 hours ago
-- [Sybill raises $11M for its AI assistant that helps salespeople reduce administrative burden](https://techcrunch.com/2024/07/31/sybill-raises-11m-for-its-ai-assistant-that-helps-salespeople-reduce-administrative-burden/) - 7 hours ago
-- [Date Like Goblins, a new dating platform, allows users to virtually date and play video games](https://techcrunch.com/2024/07/31/date-like-goblins-dating-platform-for-gamers/) - 7 hours ago
-- [Leaf helps farms decipher the troves of data they generate](https://techcrunch.com/2024/07/31/leaf-helps-farms-decipher-the-troves-of-data-they-generate/) - 7 hours ago
-- [Checkly tests software by mimicking the way people use it](https://techcrunch.com/2024/07/31/checkly-tests-software-by-mimicking-the-way-people-use-it/) - 7 hours ago
-- [Applied Carbon’s farm robot turns plant waste into biochar to capture CO2](https://techcrunch.com/2024/07/31/applied-carbons-farm-robot-turns-plant-waste-into-biochar-to-capture-co2/) - 7 hours ago
-- [Lineaje raises $20M to help organizations combat software supply chain threats](https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/) - 20 hours ago
+- [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 2 hours ago
+- [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/) - 5 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/) - 6 hours ago
+- [TechCrunch Minute: Investors pour money into non-alcoholic beverages](https://techcrunch.com/video/techcrunch-minute-investors-pour-money-into-non-alcoholic-beverages/) - 9 hours ago
+- [Global startup funding is picking up with AI still in the spotlight](https://techcrunch.com/podcast/global-startup-funding-is-picking-up-with-ai-still-in-the-spotlight/) - 11 hours ago
+- [Tezi is building an AI agent for hiring managers](https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/) - 11 hours ago
+- [Sybill raises $11M for its AI assistant that helps salespeople reduce administrative burden](https://techcrunch.com/2024/07/31/sybill-raises-11m-for-its-ai-assistant-that-helps-salespeople-reduce-administrative-burden/) - 12 hours ago
+- [Date Like Goblins, a new dating platform, allows users to virtually date and play video games](https://techcrunch.com/2024/07/31/date-like-goblins-dating-platform-for-gamers/) - 12 hours ago
+- [Leaf helps farms decipher the troves of data they generate](https://techcrunch.com/2024/07/31/leaf-helps-farms-decipher-the-troves-of-data-they-generate/) - 12 hours ago
+- [Applied Carbon’s farm robot turns plant waste into biochar to capture CO2](https://techcrunch.com/2024/07/31/applied-carbons-farm-robot-turns-plant-waste-into-biochar-to-capture-co2/) - 12 hours ago
+- [Checkly tests software by mimicking the way people use it](https://techcrunch.com/2024/07/31/checkly-tests-software-by-mimicking-the-way-people-use-it/) - 12 hours ago
+- [Lineaje raises $20M to help organizations combat software supply chain threats](https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/) - 1 day ago
 - [SEC charges BitClout founder Nader Al-Naji with fraud; says proceeds paid for L.A. mansion, gifts](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/) - 1 day ago
 - [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/) - 1 day ago
 - [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/) - 1 day ago
@@ -22,16 +23,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/) - 1 day ago
 - [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/) - 1 day ago
 - [Real-time database startup ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/) - 1 day ago
-- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/) - 1 day ago
-- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/) - 1 day ago
-- [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 1 day ago
+- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/) - 2 days ago
+- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/) - 2 days ago
+- [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 2 days ago
 - [Zoe, a microbiome-focused nutrition company, raises $15M to expand in the US](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 2 days ago
 - [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 2 days ago
 - [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 2 days ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 days ago
 - [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 2 days ago
 - [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 2 days ago
-- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 2 days ago
+- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 3 days ago
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 4 days ago
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 4 days ago
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 1:55 pm PDT • July 26, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/) - 7:00 am PDT • July 23, 2024
 - [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/) - 6:11 am PDT • July 23, 2024
 - [Level AI applies algorithms to contact center pain points](https://techcrunch.com/2024/07/23/level-ai-applies-algorithms-to-contact-center-pain-points/) - 6:00 am PDT • July 23, 2024
-- [Flashfood users can now save money on groceries at their local grocery store in addition to bigger chains](https://techcrunch.com/2024/07/23/flashfood-grocery-app-expands-to-more-stores-independent-grocers/) - 6:00 am PDT • July 23, 2024
