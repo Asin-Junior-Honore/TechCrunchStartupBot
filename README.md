@@ -4,17 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 28 seconds ago
-- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 1 hour ago
-- [Open-source startup FOSSA is buying StackShare, a site used by 1.5 million developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 3 hours ago
-- [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 3 hours ago
-- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 3 hours ago
-- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 5 hours ago
-- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 9 hours ago
-- [Founder behind social media app IRL charged with fraud](https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/) - 14 hours ago
-- [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 17 hours ago
-- [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/) - 20 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/) - 21 hours ago
+- [How filming a capella concerts and dance recitals led Northzone’s newest parter Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-parter-molly-alter-to-a-career-in-vc/) - 1 hour ago
+- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 2 hours ago
+- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 3 hours ago
+- [Self-driving truck startup Aurora Innovation to sell up to $420M in shares ahead of commercial launch](https://techcrunch.com/2024/08/01/self-driving-truck-startup-aurora-innovation-to-sell-up-to-420m-in-shares-ahead-of-commercial-launch/) - 4 hours ago
+- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 4 hours ago
+- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 5 hours ago
+- [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 7 hours ago
+- [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 7 hours ago
+- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 8 hours ago
+- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 9 hours ago
+- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 13 hours ago
+- [Founder behind social media app IRL charged with fraud](https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/) - 18 hours ago
+- [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/) - 24 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/) - 1 day ago
 - [TechCrunch Minute: Investors pour money into non-alcoholic beverages](https://techcrunch.com/video/techcrunch-minute-investors-pour-money-into-non-alcoholic-beverages/) - 1 day ago
 - [Global startup funding is picking up with AI still in the spotlight](https://techcrunch.com/podcast/global-startup-funding-is-picking-up-with-ai-still-in-the-spotlight/) - 1 day ago
 - [Tezi is building an AI agent for hiring managers](https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/) - 1 day ago
@@ -34,8 +38,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/) - 2 days ago
 - [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/) - 2 days ago
 - [Bill Gates-backed Type One Energy lands massive seed extension to commercialize fusion power](https://techcrunch.com/2024/07/30/bill-gates-backed-type-one-energy-lands-massive-seed-extension-to-commercialize-fusion-power/) - 2 days ago
-- [Zoe, a microbiome-focused nutrition company, raises $15M to expand in the US](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 2 days ago
-- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 2 days ago
+- [Zoe, a microbiome-focused nutrition company, raises $15M to expand in the US](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/) - 3 days ago
+- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 3 days ago
 - [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 3 days ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 3 days ago
 - [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 3 days ago
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/) - 9:48 am PDT • July 24, 2024
 - [Colin Kaepernick lost control of his story. Now he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/) - 8:48 am PDT • July 24, 2024
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 8:00 am PDT • July 24, 2024
-- [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/) - 8:00 am PDT • July 24, 2024
-- [Cracking the AI and consumer code with early Zoom-backer Maven Ventures](https://techcrunch.com/podcast/cracking-the-ai-and-consumer-code-with-early-zoom-backer-maven-ventures/) - 7:05 am PDT • July 24, 2024
-- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/) - 6:10 am PDT • July 24, 2024
-- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/) - 6:00 am PDT • July 24, 2024
