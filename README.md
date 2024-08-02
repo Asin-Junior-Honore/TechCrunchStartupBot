@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/) - 1 hour ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/) - 5 hours ago
-- [How filming a cappella concerts and dance recitals led Northzone’s newest partner Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-partner-molly-alter-to-a-career-in-vc/) - 9 hours ago
-- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 10 hours ago
-- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 11 hours ago
-- [Self-driving truck startup Aurora Innovation to sell up to $420M in shares ahead of commercial launch](https://techcrunch.com/2024/08/01/self-driving-truck-startup-aurora-innovation-to-sell-up-to-420m-in-shares-ahead-of-commercial-launch/) - 12 hours ago
-- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 12 hours ago
-- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 13 hours ago
-- [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 15 hours ago
-- [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 15 hours ago
-- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 16 hours ago
-- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 17 hours ago
-- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 21 hours ago
+- [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/) - 5 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/) - 9 hours ago
+- [How filming a cappella concerts and dance recitals led Northzone’s newest partner Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-partner-molly-alter-to-a-career-in-vc/) - 13 hours ago
+- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 14 hours ago
+- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 15 hours ago
+- [Self-driving truck startup Aurora Innovation to sell up to $420M in shares ahead of commercial launch](https://techcrunch.com/2024/08/01/self-driving-truck-startup-aurora-innovation-to-sell-up-to-420m-in-shares-ahead-of-commercial-launch/) - 15 hours ago
+- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 16 hours ago
+- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 17 hours ago
+- [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 19 hours ago
+- [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 19 hours ago
+- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 19 hours ago
+- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 21 hours ago
+- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 1 day ago
 - [Founder behind social media app IRL charged with fraud](https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/) - 1 day ago
 - [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 1 day ago
 - [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/) - 1 day ago
@@ -30,8 +30,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Checkly tests software by mimicking the way people use it](https://techcrunch.com/2024/07/31/checkly-tests-software-by-mimicking-the-way-people-use-it/) - 2 days ago
 - [Lineaje raises $20M to help organizations combat software supply chain threats](https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/) - 2 days ago
 - [SEC charges BitClout founder Nader Al-Naji with fraud; says proceeds paid for L.A. mansion, gifts](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/) - 2 days ago
-- [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/) - 2 days ago
-- [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/) - 2 days ago
+- [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/) - 3 days ago
+- [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/) - 3 days ago
 - [Intelmatix raises $20M Series A to enable MENA businesses to tap AI for decision-making](https://techcrunch.com/2024/07/30/intelmatix-raises-20m-series-a-to-enable-mena-businesses-to-tap-ai-for-decision-making/) - 3 days ago
 - [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/) - 3 days ago
 - [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/) - 3 days ago
@@ -43,8 +43,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 3 days ago
 - [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 3 days ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 3 days ago
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 3 days ago
-- [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 3 days ago
+- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 4 days ago
+- [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 4 days ago
 - [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/) - 4 days ago
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/) - 11:52 am PDT • July 27, 2024
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 8:00 am PDT • July 27, 2024
