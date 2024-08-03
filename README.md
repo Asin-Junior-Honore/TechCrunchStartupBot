@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/) - 2 hours ago
-- [Adept Materials’ dehumidifying paint was inspired by trees and semiconductors](https://techcrunch.com/2024/08/02/adept-materials-dehumidifying-paint-was-inspired-by-trees-and-semiconductors/) - 2 hours ago
-- [TechCrunch Minute: Why did Wiz walk away from $23 billion?](https://techcrunch.com/video/techcrunch-minute-why-did-wiz-walk-away-from-23-billion/) - 4 hours ago
-- [Self-driving truck startup Aurora Innovation to sell up to $420M in shares ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-to-sell-up-to-420m-in-shares-ahead-of-commercial-launch/) - 5 hours ago
-- [AI friends, deepfake foes and which Tiger Global partner is leaving now](https://techcrunch.com/podcast/ai-friends-deepfake-foes-and-which-tiger-global-partner-is-leaving-now/) - 5 hours ago
-- [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/) - 17 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/) - 21 hours ago
+- [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/) - 1 hour ago
+- [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/) - 7 hours ago
+- [Adept Materials’ dehumidifying paint was inspired by trees and semiconductors](https://techcrunch.com/2024/08/02/adept-materials-dehumidifying-paint-was-inspired-by-trees-and-semiconductors/) - 7 hours ago
+- [TechCrunch Minute: Why did Wiz walk away from $23 billion?](https://techcrunch.com/video/techcrunch-minute-why-did-wiz-walk-away-from-23-billion/) - 9 hours ago
+- [AI friends, deepfake foes and which Tiger Global partner is leaving now](https://techcrunch.com/podcast/ai-friends-deepfake-foes-and-which-tiger-global-partner-is-leaving-now/) - 10 hours ago
+- [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/) - 22 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/) - 1 day ago
 - [How filming a cappella concerts and dance recitals led Northzone’s newest partner Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-partner-molly-alter-to-a-career-in-vc/) - 1 day ago
 - [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 1 day ago
 - [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 1 day ago
@@ -18,8 +18,8 @@ Here are the latest articles from TechCrunch Startups:
 - [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 1 day ago
 - [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 1 day ago
 - [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 1 day ago
-- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 1 day ago
-- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 1 day ago
+- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 2 days ago
+- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 2 days ago
 - [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 2 days ago
 - [Founder behind social media app IRL charged with fraud](https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/) - 2 days ago
 - [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 2 days ago
