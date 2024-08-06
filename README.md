@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 2 hours ago
-- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 3 hours ago
-- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 9 hours ago
+- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 6 hours ago
+- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 7 hours ago
+- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 14 hours ago
 - [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 1 day ago
 - [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 1 day ago
 - [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 2 days ago
@@ -26,9 +26,9 @@ Here are the latest articles from TechCrunch Startups:
 - [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 4 days ago
 - [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 4 days ago
 - [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 4 days ago
-- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 4 days ago
-- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 4 days ago
-- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 5 days ago
+- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 5 days ago
+- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/) - 5 days ago
+- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/) - 12:01 am PDT • August 1, 2024
 - [Founder behind social media app IRL charged with fraud](https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/) - 7:14 pm PDT • July 31, 2024
 - [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 3:58 pm PDT • July 31, 2024
 - [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/) - 1:22 pm PDT • July 31, 2024
