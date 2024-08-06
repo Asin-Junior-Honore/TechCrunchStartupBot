@@ -4,26 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 13 hours ago
-- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 14 hours ago
-- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 21 hours ago
-- [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 1 day ago
+- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 7 mins ago
+- [H3X scales up its electric aerospace ambitions with $20M in new funding](https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/) - 22 mins ago
+- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 18 hours ago
+- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 19 hours ago
+- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 1 day ago
+- [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 2 days ago
 - [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 2 days ago
 - [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 3 days ago
 - [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 3 days ago
 - [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/) - 3 days ago
-- [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/) - 3 days ago
+- [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/) - 4 days ago
 - [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/) - 4 days ago
 - [Adept Materials’ dehumidifying paint was inspired by trees and semiconductors](https://techcrunch.com/2024/08/02/adept-materials-dehumidifying-paint-was-inspired-by-trees-and-semiconductors/) - 4 days ago
 - [TechCrunch Minute: Why did Wiz walk away from $23 billion?](https://techcrunch.com/video/techcrunch-minute-why-did-wiz-walk-away-from-23-billion/) - 4 days ago
 - [AI friends, deepfake foes and which Tiger Global partner is leaving now](https://techcrunch.com/podcast/ai-friends-deepfake-foes-and-which-tiger-global-partner-is-leaving-now/) - 4 days ago
 - [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/) - 4 days ago
-- [How filming a cappella concerts and dance recitals led Northzone’s newest partner Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-partner-molly-alter-to-a-career-in-vc/) - 5 days ago
-- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 5 days ago
-- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 5 days ago
-- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 5 days ago
-- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/) - 5 days ago
+- [How filming a cappella concerts and dance recitals led Northzone’s newest partner Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-partner-molly-alter-to-a-career-in-vc/) - 12:03 pm PDT • August 1, 2024
+- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 10:55 am PDT • August 1, 2024
+- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 10:03 am PDT • August 1, 2024
+- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 9:00 am PDT • August 1, 2024
+- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 7:59 am PDT • August 1, 2024
 - [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 6:00 am PDT • August 1, 2024
 - [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 6:00 am PDT • August 1, 2024
 - [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/) - 5:36 am PDT • August 1, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/) - 8:00 am PDT • July 27, 2024
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/) - 1:55 pm PDT • July 26, 2024
 - [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/) - 12:03 pm PDT • July 26, 2024
-- [Alphabet X spinoff partners with Arc’teryx to bring ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/) - 9:26 am PDT • July 26, 2024
-- [Alphabet is clearly looking to buy, so who’s selling, and why did Wiz say no?](https://techcrunch.com/podcast/alphabet-is-clearly-looking-to-buy-so-whos-selling-and-why-did-wiz-say-no/) - 7:05 am PDT • July 26, 2024
