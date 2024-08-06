@@ -4,15 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 1 hour ago
-- [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/) - 2 hours ago
-- [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/) - 3 hours ago
-- [Hyperspace is building custom instances to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/) - 3 hours ago
-- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/) - 3 hours ago
-- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 4 hours ago
-- [H3X scales up its electric aerospace ambitions with $20M in new funding](https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/) - 4 hours ago
-- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 22 hours ago
-- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 23 hours ago
+- [Nearly a decade before co-founding Cohere, Nick Frosst thought he was late to AI](https://techcrunch.com/podcast/nearly-a-decade-before-co-founding-cohere-nick-frosst-thought-he-was-late-to-ai/) - 3 hours ago
+- [Bluesky adds Techdirt founder Mike Masnick to its board](https://techcrunch.com/2024/08/06/bluesky-adds-techdirt-founder-mike-masnick-to-its-board/) - 3 hours ago
+- [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 5 hours ago
+- [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/) - 6 hours ago
+- [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/) - 7 hours ago
+- [Hyperspace is building custom instances to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/) - 7 hours ago
+- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/) - 7 hours ago
+- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 8 hours ago
+- [H3X scales up its electric aerospace ambitions with $20M in new funding](https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/) - 8 hours ago
+- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 1 day ago
 - [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 1 day ago
 - [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 2 days ago
 - [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 2 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - 10:00 pm PDT • July 29, 2024
 - [Lime is piloting two new e-bikes to attract more women and older riders ](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/) - 9:00 pm PDT • July 29, 2024
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 4:00 pm PDT • July 29, 2024
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/) - 9:38 am PDT • July 29, 2024
-- [Stripe’s easy-peasy acquisition and why is Twitch still losing money?](https://techcrunch.com/podcast/stripes-easy-peasy-acquisition-and-why-is-twitch-still-losing-money/) - 9:37 am PDT • July 29, 2024
