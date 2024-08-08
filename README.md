@@ -4,34 +4,35 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 1 hour ago
-- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 2 hours ago
-- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 4 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/) - 7 hours ago
-- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 8 hours ago
-- [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 9 hours ago
-- [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 10 hours ago
-- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 11 hours ago
-- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/) - 12 hours ago
-- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/) - 13 hours ago
+- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 42 seconds ago
+- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 5 hours ago
+- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 6 hours ago
+- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 8 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/) - 11 hours ago
+- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 11 hours ago
+- [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 13 hours ago
+- [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 14 hours ago
+- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 15 hours ago
+- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/) - 16 hours ago
+- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/) - 17 hours ago
 - [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/) - 1 day ago
 - [Nearly a decade before co-founding Cohere, Nick Frosst thought he was late to AI](https://techcrunch.com/podcast/nearly-a-decade-before-co-founding-cohere-nick-frosst-thought-he-was-late-to-ai/) - 1 day ago
 - [Bluesky adds Techdirt founder Mike Masnick to its board](https://techcrunch.com/2024/08/06/bluesky-adds-techdirt-founder-mike-masnick-to-its-board/) - 1 day ago
-- [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 1 day ago
-- [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/) - 1 day ago
-- [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/) - 1 day ago
-- [Hyperspace is using ‘domain-specific computing’ to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/) - 1 day ago
-- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/) - 1 day ago
+- [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 2 days ago
+- [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/) - 2 days ago
+- [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/) - 2 days ago
+- [Hyperspace is using ‘domain-specific computing’ to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/) - 2 days ago
+- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/) - 2 days ago
 - [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 2 days ago
 - [H3X scales up its electric aerospace ambitions with $20M in new funding](https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/) - 2 days ago
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 2 days ago
 - [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 3 days ago
 - [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 3 days ago
-- [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 3 days ago
+- [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 4 days ago
 - [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 4 days ago
-- [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 4 days ago
-- [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/) - 4 days ago
+- [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 5 days ago
+- [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/) - 5 days ago
 - [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/) - 4:38 pm PDT • August 2, 2024
 - [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/) - 11:05 am PDT • August 2, 2024
 - [Adept Materials’ dehumidifying paint was inspired by trees and semiconductors](https://techcrunch.com/2024/08/02/adept-materials-dehumidifying-paint-was-inspired-by-trees-and-semiconductors/) - 10:46 am PDT • August 2, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [SEC charges BitClout founder Nader Al-Naji with fraud; says proceeds paid for L.A. mansion, gifts](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/) - 12:56 pm PDT • July 30, 2024
 - [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/) - 12:19 pm PDT • July 30, 2024
 - [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/) - 9:30 am PDT • July 30, 2024
-- [Intelmatix raises $20M Series A to enable MENA businesses to tap AI for decision-making](https://techcrunch.com/2024/07/30/intelmatix-raises-20m-series-a-to-enable-mena-businesses-to-tap-ai-for-decision-making/) - 8:33 am PDT • July 30, 2024
