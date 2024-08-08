@@ -4,14 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 1 hour ago
-- [Cocoon is transforming steel production runoff into a greener cement alternative](https://techcrunch.com/2024/08/08/cocoon-is-making-steel-production-runoff-into-a-greener-cement-alternative/) - 3 hours ago
-- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 12 hours ago
-- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 17 hours ago
-- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 18 hours ago
-- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 20 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/) - 23 hours ago
-- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 23 hours ago
+- [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/) - 43 seconds ago
+- [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic about what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/) - 2 hours ago
+- [Flint Capital raises a $160M through an unusual fund-raising strategy](https://techcrunch.com/2024/08/08/flint-capital-raises-a-160m-through-unusual-fund-raising-strategy/) - 3 hours ago
+- [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 5 hours ago
+- [Cocoon is transforming steel production runoff into a greener cement alternative](https://techcrunch.com/2024/08/08/cocoon-is-making-steel-production-runoff-into-a-greener-cement-alternative/) - 7 hours ago
+- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 16 hours ago
+- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 21 hours ago
+- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 22 hours ago
+- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 23 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/) - 1 day ago
+- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 1 day ago
 - [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 1 day ago
 - [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 1 day ago
 - [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 1 day ago
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Date Like Goblins, a new dating platform, allows users to virtually date and play video games](https://techcrunch.com/2024/07/31/date-like-goblins-dating-platform-for-gamers/) - 6:04 am PDT • July 31, 2024
 - [Leaf helps farms decipher the troves of data they generate](https://techcrunch.com/2024/07/31/leaf-helps-farms-decipher-the-troves-of-data-they-generate/) - 6:03 am PDT • July 31, 2024
 - [Applied Carbon’s farm robot turns plant waste into biochar to capture CO2](https://techcrunch.com/2024/07/31/applied-carbons-farm-robot-turns-plant-waste-into-biochar-to-capture-co2/) - 6:00 am PDT • July 31, 2024
-- [Checkly tests software by mimicking the way people use it](https://techcrunch.com/2024/07/31/checkly-tests-software-by-mimicking-the-way-people-use-it/) - 6:00 am PDT • July 31, 2024
-- [Lineaje raises $20M to help organizations combat software supply chain threats](https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/) - 4:35 pm PDT • July 30, 2024
-- [SEC charges BitClout founder Nader Al-Naji with fraud; says proceeds paid for L.A. mansion, gifts](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/) - 12:56 pm PDT • July 30, 2024
