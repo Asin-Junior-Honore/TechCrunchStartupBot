@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 4 hours ago
-- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 9 hours ago
-- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 10 hours ago
-- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 12 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/) - 15 hours ago
-- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 15 hours ago
-- [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 17 hours ago
-- [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 18 hours ago
-- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 19 hours ago
-- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/) - 20 hours ago
-- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/) - 21 hours ago
-- [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/) - 1 day ago
+- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 8 hours ago
+- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 13 hours ago
+- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 14 hours ago
+- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 15 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/) - 19 hours ago
+- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 19 hours ago
+- [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 21 hours ago
+- [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 22 hours ago
+- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 23 hours ago
+- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/) - 1 day ago
+- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/) - 1 day ago
+- [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/) - 2 days ago
 - [Nearly a decade before co-founding Cohere, Nick Frosst thought he was late to AI](https://techcrunch.com/podcast/nearly-a-decade-before-co-founding-cohere-nick-frosst-thought-he-was-late-to-ai/) - 2 days ago
 - [Bluesky adds Techdirt founder Mike Masnick to its board](https://techcrunch.com/2024/08/06/bluesky-adds-techdirt-founder-mike-masnick-to-its-board/) - 2 days ago
 - [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 2 days ago
@@ -30,8 +30,8 @@ Here are the latest articles from TechCrunch Startups:
 - [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 3 days ago
 - [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 4 days ago
 - [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 4 days ago
-- [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 5 days ago
-- [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 5 days ago
+- [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 10:00 am PDT • August 3, 2024
+- [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 9:00 am PDT • August 3, 2024
 - [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/) - 8:00 am PDT • August 3, 2024
 - [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/) - 4:38 pm PDT • August 2, 2024
 - [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/) - 11:05 am PDT • August 2, 2024
