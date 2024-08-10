@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 23 hours ago
+- [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/) - 3 hours ago
+- [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 1 day ago
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 1 day ago
 - [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/) - 1 day ago
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024 ](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/) - 3:58 pm PDT • July 31, 2024
 - [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/) - 1:22 pm PDT • July 31, 2024
 - [TechCrunch Minute: Investors pour money into non-alcoholic beverages](https://techcrunch.com/video/techcrunch-minute-investors-pour-money-into-non-alcoholic-beverages/) - 9:00 am PDT • July 31, 2024
-- [Global startup funding is picking up with AI still in the spotlight](https://techcrunch.com/podcast/global-startup-funding-is-picking-up-with-ai-still-in-the-spotlight/) - 7:10 am PDT • July 31, 2024
