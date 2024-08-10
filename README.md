@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 3 hours ago
-- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 6 hours ago
-- [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/) - 8 hours ago
-- [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/) - 22 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/08/tech-layoffs-2024-list/) - 22 hours ago
+- [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 8 hours ago
+- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 10 hours ago
+- [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/) - 12 hours ago
+- [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/) - 1 day ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/08/tech-layoffs-2024-list/) - 1 day ago
 - [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/) - 1 day ago
 - [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic about what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/) - 1 day ago
 - [Flint Capital raises a $160M through an unusual fund-raising strategy](https://techcrunch.com/2024/08/08/flint-capital-raises-a-160m-through-unusual-fund-raising-strategy/) - 1 day ago
@@ -23,8 +23,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 2 days ago
 - [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 2 days ago
 - [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 2 days ago
-- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/) - 2 days ago
-- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/) - 2 days ago
+- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/) - 3 days ago
+- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/) - 3 days ago
 - [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/) - 3 days ago
 - [Nearly a decade before co-founding Cohere, Nick Frosst thought he was late to AI](https://techcrunch.com/podcast/nearly-a-decade-before-co-founding-cohere-nick-frosst-thought-he-was-late-to-ai/) - 3 days ago
 - [Bluesky adds Techdirt founder Mike Masnick to its board](https://techcrunch.com/2024/08/06/bluesky-adds-techdirt-founder-mike-masnick-to-its-board/) - 3 days ago
@@ -33,7 +33,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/) - 3 days ago
 - [Hyperspace is using ‘domain-specific computing’ to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/) - 3 days ago
 - [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/) - 3 days ago
-- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 3 days ago
+- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 4 days ago
 - [H3X scales up its electric aerospace ambitions with $20M in new funding](https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/) - 3 days ago
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 4 days ago
