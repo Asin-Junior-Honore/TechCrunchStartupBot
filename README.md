@@ -4,10 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/) - 12 hours ago
-- [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/) - 14 hours ago
-- [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 20 hours ago
-- [Enhance your brand: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/12/enhance-your-brand-host-a-side-event-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Parker Conrad doesn’t think Rippling has won….yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 11 mins ago
+- [Encord lands new cash to grow its data labeling tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 16 mins ago
+- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 17 mins ago
+- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 2 hours ago
+- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 2 hours ago
+- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 3 hours ago
+- [PayZen secures $32M Series B, $200M debt facility to grow its “care now, pay later” product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 3 hours ago
+- [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/) - 16 hours ago
+- [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/) - 18 hours ago
+- [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 1 day ago
+- [Enhance your brand: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/12/enhance-your-brand-host-a-side-event-at-techcrunch-disrupt-2024/) - 1 day ago
 - [How CNH’s ‘black belt’ M&A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/) - 2 days ago
 - [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/) - 2 days ago
 - [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/) - 3 days ago
@@ -16,9 +23,9 @@ Here are the latest articles from TechCrunch Startups:
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 4 days ago
 - [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/) - 4 days ago
-- [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/) - 5 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/08/tech-layoffs-2024-list/) - 5 days ago
-- [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/) - 5 days ago
+- [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/) - 3:20 pm PDT • August 8, 2024
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/08/tech-layoffs-2024-list/) - 3:00 pm PDT • August 8, 2024
+- [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/) - 1:00 pm PDT • August 8, 2024
 - [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic about what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/) - 11:15 am PDT • August 8, 2024
 - [Flint Capital raises a $160M through an unusual fund-raising strategy](https://techcrunch.com/2024/08/08/flint-capital-raises-a-160m-through-unusual-fund-raising-strategy/) - 10:00 am PDT • August 8, 2024
 - [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 8:00 am PDT • August 8, 2024
@@ -57,10 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Minute: Why did Wiz walk away from $23 billion?](https://techcrunch.com/video/techcrunch-minute-why-did-wiz-walk-away-from-23-billion/) - 9:00 am PDT • August 2, 2024
 - [AI friends, deepfake foes and which Tiger Global partner is leaving now](https://techcrunch.com/podcast/ai-friends-deepfake-foes-and-which-tiger-global-partner-is-leaving-now/) - 7:30 am PDT • August 2, 2024
 - [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/) - 8:00 pm PDT • August 1, 2024
-- [How filming a cappella concerts and dance recitals led Northzone’s newest partner Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-partner-molly-alter-to-a-career-in-vc/) - 12:03 pm PDT • August 1, 2024
-- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/) - 10:55 am PDT • August 1, 2024
-- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/) - 10:03 am PDT • August 1, 2024
-- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) - 9:00 am PDT • August 1, 2024
-- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/) - 7:59 am PDT • August 1, 2024
-- [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/) - 6:00 am PDT • August 1, 2024
-- [Open source startup FOSSA is buying StackShare, a site used by 1.5M developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/) - 6:00 am PDT • August 1, 2024
