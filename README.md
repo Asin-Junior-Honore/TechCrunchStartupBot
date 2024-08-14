@@ -4,17 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 1 min ago
-- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 4 hours ago
-- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 15 hours ago
-- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 15 hours ago
-- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 16 hours ago
-- [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 20 hours ago
-- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 20 hours ago
-- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 22 hours ago
-- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 22 hours ago
-- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 23 hours ago
-- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 23 hours ago
+- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 4 mins ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 52 mins ago
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 1 hour ago
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 4 hours ago
+- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 8 hours ago
+- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 19 hours ago
+- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 19 hours ago
+- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 20 hours ago
+- [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 24 hours ago
+- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 24 hours ago
+- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 1 day ago
+- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 1 day ago
+- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 1 day ago
+- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 1 day ago
 - [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/) - 2 days ago
 - [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/) - 2 days ago
 - [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 2 days ago
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 7:00 am PDT • August 4, 2024
 - [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 10:00 am PDT • August 3, 2024
 - [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 9:00 am PDT • August 3, 2024
-- [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/) - 8:00 am PDT • August 3, 2024
-- [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/) - 4:38 pm PDT • August 2, 2024
-- [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/) - 11:05 am PDT • August 2, 2024
