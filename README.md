@@ -4,26 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 4 hours ago
-- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 4 hours ago
-- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 4 hours ago
-- [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 9 hours ago
-- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 9 hours ago
-- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 10 hours ago
-- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 11 hours ago
-- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 12 hours ago
-- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 12 hours ago
+- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 7 hours ago
+- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 7 hours ago
+- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 8 hours ago
+- [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 12 hours ago
+- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 12 hours ago
+- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 14 hours ago
+- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 14 hours ago
+- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 15 hours ago
+- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 15 hours ago
 - [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/) - 1 day ago
 - [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/) - 1 day ago
-- [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 1 day ago
-- [Enhance your brand: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/12/enhance-your-brand-host-a-side-event-at-techcrunch-disrupt-2024/) - 1 day ago
+- [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 2 days ago
+- [Enhance your brand: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/12/enhance-your-brand-host-a-side-event-at-techcrunch-disrupt-2024/) - 2 days ago
 - [How CNH’s ‘black belt’ M&A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/) - 2 days ago
-- [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/) - 2 days ago
+- [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/) - 3 days ago
 - [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/) - 3 days ago
 - [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/) - 4 days ago
 - [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 4 days ago
-- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 4 days ago
-- [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 4 days ago
+- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 5 days ago
+- [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 5 days ago
 - [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/) - 5 days ago
 - [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/) - 3:20 pm PDT • August 8, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/08/tech-layoffs-2024-list/) - 3:00 pm PDT • August 8, 2024
