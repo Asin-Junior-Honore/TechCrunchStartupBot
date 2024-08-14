@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 4 mins ago
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 52 mins ago
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 1 hour ago
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 4 hours ago
-- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 8 hours ago
-- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 19 hours ago
-- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 19 hours ago
-- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 20 hours ago
-- [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 24 hours ago
-- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 24 hours ago
+- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 4 hours ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 5 hours ago
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 5 hours ago
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 8 hours ago
+- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 12 hours ago
+- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 23 hours ago
+- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 23 hours ago
+- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 24 hours ago
+- [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 1 day ago
+- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 1 day ago
 - [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 1 day ago
 - [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 1 day ago
 - [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 1 day ago
@@ -25,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [How CNH’s ‘black belt’ M&A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/) - 3 days ago
 - [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/) - 3 days ago
 - [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/) - 4 days ago
-- [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/) - 5 days ago
+- [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/) - 4:20 pm PDT • August 9, 2024
 - [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 10:05 am PDT • August 9, 2024
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 8:00 am PDT • August 9, 2024
 - [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 7:30 am PDT • August 9, 2024
