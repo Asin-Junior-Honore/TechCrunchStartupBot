@@ -4,10 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/) - 16 hours ago
-- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 20 hours ago
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 22 hours ago
+- [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/) - 46 mins ago
+- [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/) - 1 hour ago
+- [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/) - 1 hour ago
+- [CodeRabbit raises $16M to bring AI to code reviews](https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/) - 2 hours ago
+- [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/) - 2 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/) - 20 hours ago
+- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 1 day ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 1 day ago
 - [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 1 day ago
 - [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 1 day ago
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 2 days ago
@@ -59,8 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [H3X scales up its electric aerospace ambitions with $20M in new funding](https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/) - 4:45 am PDT • August 6, 2024
 - [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 11:20 am PDT • August 5, 2024
 - [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/) - 10:25 am PDT • August 5, 2024
-- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/) - 4:00 am PDT • August 5, 2024
-- [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/) - 1:00 pm PDT • August 4, 2024
-- [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/) - 7:00 am PDT • August 4, 2024
-- [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/) - 10:00 am PDT • August 3, 2024
-- [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/) - 9:00 am PDT • August 3, 2024
