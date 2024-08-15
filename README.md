@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 4 hours ago
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 5 hours ago
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 8 hours ago
-- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 12 hours ago
-- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 23 hours ago
-- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 23 hours ago
-- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 24 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/) - 5 hours ago
+- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 9 hours ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 10 hours ago
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 13 hours ago
+- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 17 hours ago
+- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 1 day ago
+- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 1 day ago
+- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 1 day ago
 - [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 1 day ago
 - [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 1 day ago
 - [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 1 day ago
 - [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 1 day ago
-- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 1 day ago
 - [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 1 day ago
+- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 1 day ago
 - [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/) - 2 days ago
 - [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/) - 2 days ago
 - [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 2 days ago
@@ -31,7 +32,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Maybe it’s a good thing that we’re not seeing too many AI unicorns](https://techcrunch.com/podcast/maybe-its-a-good-thing-that-were-not-seeing-too-many-ai-unicorns/) - 7:30 am PDT • August 9, 2024
 - [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/) - 5:22 am PDT • August 9, 2024
 - [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/) - 3:20 pm PDT • August 8, 2024
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/08/tech-layoffs-2024-list/) - 3:00 pm PDT • August 8, 2024
 - [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/) - 1:00 pm PDT • August 8, 2024
 - [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic about what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/) - 11:15 am PDT • August 8, 2024
 - [Flint Capital raises a $160M through an unusual fund-raising strategy](https://techcrunch.com/2024/08/08/flint-capital-raises-a-160m-through-unusual-fund-raising-strategy/) - 10:00 am PDT • August 8, 2024
