@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/) - 8 hours ago
-- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 12 hours ago
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 13 hours ago
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 13 hours ago
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 16 hours ago
-- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 20 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/) - 12 hours ago
+- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 16 hours ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 17 hours ago
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 17 hours ago
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 20 hours ago
+- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 1 day ago
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 1 day ago
 - [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 1 day ago
 - [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 1 day ago
@@ -23,9 +23,9 @@ Here are the latest articles from TechCrunch Startups:
 - [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/) - 2 days ago
 - [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/) - 3 days ago
 - [Enhance your brand: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/12/enhance-your-brand-host-a-side-event-at-techcrunch-disrupt-2024/) - 3 days ago
-- [How CNH’s ‘black belt’ M&A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/) - 3 days ago
+- [How CNH’s ‘black belt’ M&A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/) - 4 days ago
 - [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/) - 4 days ago
-- [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/) - 4 days ago
+- [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/) - 5 days ago
 - [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/) - 4:20 pm PDT • August 9, 2024
 - [AI founders play musical chairs](https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/) - 10:05 am PDT • August 9, 2024
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 8:00 am PDT • August 9, 2024
