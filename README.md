@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/) - 4 hours ago
-- [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/) - 5 hours ago
-- [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/) - 5 hours ago
-- [CodeRabbit raises $16M to bring AI to code reviews](https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/) - 5 hours ago
-- [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/) - 6 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/) - 24 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 5 hours ago
+- [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/) - 9 hours ago
+- [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/) - 9 hours ago
+- [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/) - 10 hours ago
+- [CodeRabbit raises $16M to bring AI to code reviews](https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/) - 10 hours ago
+- [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/) - 11 hours ago
 - [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 1 day ago
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 1 day ago
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 1 day ago
-- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 1 day ago
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 2 days ago
+- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 2 days ago
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 2 days ago
 - [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 2 days ago
 - [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 2 days ago
