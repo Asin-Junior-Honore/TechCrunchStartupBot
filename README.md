@@ -4,7 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 22 hours ago
+- [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 1 hour ago
+- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 2 hours ago
+- [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/) - 3 hours ago
+- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 1 day ago
 - [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 2 days ago
 - [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 3 days ago
@@ -18,9 +21,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 4 days ago
 - [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 4 days ago
 - [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 4 days ago
-- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 5 days ago
-- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 5 days ago
-- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 5 days ago
+- [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 1:59 pm PDT • August 13, 2024
+- [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 1:50 pm PDT • August 13, 2024
+- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/) - 1:05 pm PDT • August 13, 2024
 - [Encord lands new cash to grow its data dev tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/) - 9:00 am PDT • August 13, 2024
 - [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/) - 8:59 am PDT • August 13, 2024
 - [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 7:30 am PDT • August 13, 2024
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/) - 8:00 am PDT • August 6, 2024
 - [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/) - 7:04 am PDT • August 6, 2024
 - [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/) - 6:05 am PDT • August 6, 2024
-- [Hyperspace is using ‘domain-specific computing’ to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/) - 6:00 am PDT • August 6, 2024
-- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/) - 6:00 am PDT • August 6, 2024
-- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/) - 5:00 am PDT • August 6, 2024
