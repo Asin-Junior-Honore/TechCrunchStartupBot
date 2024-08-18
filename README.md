@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 6 hours ago
+- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 11 hours ago
 - [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 1 day ago
 - [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 2 days ago
@@ -16,7 +16,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 3 days ago
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 3 days ago
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 3 days ago
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 4 days ago
 - [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 4 days ago
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 4 days ago
 - [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 4 days ago
