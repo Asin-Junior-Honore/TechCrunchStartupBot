@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 13 hours ago
-- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 14 hours ago
-- [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/) - 15 hours ago
+- [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 17 hours ago
+- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 18 hours ago
+- [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/) - 19 hours ago
 - [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 2 days ago
-- [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 2 days ago
+- [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 3 days ago
 - [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 3 days ago
 - [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/) - 4 days ago
@@ -18,8 +18,8 @@ Here are the latest articles from TechCrunch Startups:
 - [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/) - 4 days ago
 - [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 5 days ago
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 5 days ago
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 5 days ago
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 5 days ago
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 7:34 am PDT • August 14, 2024
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/) - 5:00 am PDT • August 14, 2024
 - [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/) - 12:49 am PDT • August 14, 2024
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California ](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/) - 1:59 pm PDT • August 13, 2024
 - [Parker Conrad doesn’t think Rippling has won — yet](https://techcrunch.com/podcast/parker-conrad-doesnt-think-rippling-has-won-yet/) - 1:50 pm PDT • August 13, 2024
