@@ -4,12 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 1 hour ago
-- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 6 hours ago
-- [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 14 hours ago
-- [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 17 hours ago
-- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/) - 20 hours ago
-- [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/) - 23 hours ago
+- [Discover how founders and investors are saving the planet at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/20/discover-how-founders-and-investors-are-saving-the-planet-at-techcrunch-disrupt-2024/) - 39 mins ago
+- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/) - 1 hour ago
+- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/) - 2 hours ago
+- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/) - 3 hours ago
+- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 3 hours ago
+- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 3 hours ago
+- [Beyond Math’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 3 hours ago
+- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 5 hours ago
+- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 10 hours ago
+- [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 18 hours ago
+- [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 21 hours ago
+- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/) - 24 hours ago
+- [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/) - 1 day ago
 - [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/) - 1 day ago
 - [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/) - 1 day ago
 - [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 2 days ago
@@ -18,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 3 days ago
 - [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 4 days ago
 - [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 1:10 pm PDT • August 15, 2024
 - [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/) - 8:30 am PDT • August 15, 2024
 - [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/) - 8:15 am PDT • August 15, 2024
 - [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/) - 8:00 am PDT • August 15, 2024
@@ -57,10 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 8:00 am PDT • August 8, 2024
 - [Cocoon is transforming steel production runoff into a greener cement alternative](https://techcrunch.com/2024/08/08/cocoon-is-making-steel-production-runoff-into-a-greener-cement-alternative/) - 6:00 am PDT • August 8, 2024
 - [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 9:01 pm PDT • August 7, 2024
-- [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/) - 4:00 pm PDT • August 7, 2024
-- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/) - 3:05 pm PDT • August 7, 2024
-- [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/) - 1:31 pm PDT • August 7, 2024
-- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/) - 9:43 am PDT • August 7, 2024
-- [Bandana lands new investment to help hourly wage workers find good jobs](https://techcrunch.com/2024/08/07/bandana-lands-new-investment-to-help-hourly-wage-workers-find-good-jobs/) - 8:15 am PDT • August 7, 2024
-- [Flourish Ventures on repeat founders, emerging markets and when not to hop on the AI bandwagon](https://techcrunch.com/podcast/flourish-ventures-on-repeat-founders-emerging-markets-and-when-not-to-hop-on-the-ai-bandwagon/) - 7:24 am PDT • August 7, 2024
-- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/) - 6:00 am PDT • August 7, 2024
