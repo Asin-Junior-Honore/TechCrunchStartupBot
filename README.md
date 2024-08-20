@@ -4,18 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Discover how founders and investors are saving the planet at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/20/discover-how-founders-and-investors-are-saving-the-planet-at-techcrunch-disrupt-2024/) - 39 mins ago
-- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/) - 1 hour ago
-- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/) - 2 hours ago
-- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/) - 3 hours ago
-- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 3 hours ago
-- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 3 hours ago
-- [Beyond Math’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 3 hours ago
-- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 5 hours ago
-- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 10 hours ago
-- [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 18 hours ago
-- [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 21 hours ago
-- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/) - 24 hours ago
+- [Etched founder Gavin Uberti thinks his company stands on the ‘shoulders of giants’](https://techcrunch.com/podcast/etched-founder-gavin-uberti-thinks-his-company-stands-on-the-shoulders-of-giants/) - 2 hours ago
+- [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/) - 3 hours ago
+- [Discover how founders and investors are saving the planet at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/20/discover-how-founders-and-investors-are-saving-the-planet-at-techcrunch-disrupt-2024/) - 4 hours ago
+- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/) - 5 hours ago
+- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/) - 6 hours ago
+- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/) - 6 hours ago
+- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 7 hours ago
+- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 7 hours ago
+- [BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 7 hours ago
+- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 9 hours ago
+- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 14 hours ago
+- [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 21 hours ago
+- [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 1 day ago
+- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/) - 1 day ago
 - [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/) - 1 day ago
 - [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/) - 1 day ago
 - [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/) - 1 day ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic about what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/) - 11:15 am PDT • August 8, 2024
 - [Flint Capital raises a $160M through an unusual fund-raising strategy](https://techcrunch.com/2024/08/08/flint-capital-raises-a-160m-through-unusual-fund-raising-strategy/) - 10:00 am PDT • August 8, 2024
 - [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 8:00 am PDT • August 8, 2024
-- [Cocoon is transforming steel production runoff into a greener cement alternative](https://techcrunch.com/2024/08/08/cocoon-is-making-steel-production-runoff-into-a-greener-cement-alternative/) - 6:00 am PDT • August 8, 2024
-- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/) - 9:01 pm PDT • August 7, 2024
