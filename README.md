@@ -4,31 +4,31 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia  ](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/) - 1 min ago
-- [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/) - 3 hours ago
-- [Etched founder Gavin Uberti thinks his company stands on the ‘shoulders of giants’](https://techcrunch.com/podcast/etched-founder-gavin-uberti-thinks-his-company-stands-on-the-shoulders-of-giants/) - 8 hours ago
-- [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/) - 8 hours ago
-- [Discover how founders and investors are saving the planet at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/20/discover-how-founders-and-investors-are-saving-the-planet-at-techcrunch-disrupt-2024/) - 10 hours ago
-- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/) - 10 hours ago
-- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/) - 11 hours ago
-- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/) - 12 hours ago
-- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 12 hours ago
-- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 12 hours ago
-- [BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 12 hours ago
-- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 14 hours ago
-- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 19 hours ago
+- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia  ](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/) - 3 hours ago
+- [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/) - 6 hours ago
+- [Etched founder Gavin Uberti thinks his company stands on the ‘shoulders of giants’](https://techcrunch.com/podcast/etched-founder-gavin-uberti-thinks-his-company-stands-on-the-shoulders-of-giants/) - 11 hours ago
+- [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/) - 11 hours ago
+- [Discover how founders and investors are saving the planet at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/20/discover-how-founders-and-investors-are-saving-the-planet-at-techcrunch-disrupt-2024/) - 13 hours ago
+- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/) - 13 hours ago
+- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/) - 14 hours ago
+- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/) - 15 hours ago
+- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 15 hours ago
+- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 15 hours ago
+- [BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 15 hours ago
+- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 17 hours ago
+- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 22 hours ago
 - [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 1 day ago
 - [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 1 day ago
 - [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/) - 1 day ago
 - [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/) - 2 days ago
 - [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/) - 2 days ago
 - [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/) - 2 days ago
-- [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 2 days ago
-- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 2 days ago
+- [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 3 days ago
+- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 3 days ago
 - [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/) - 3 days ago
-- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 3 days ago
+- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 4 days ago
 - [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 4 days ago
-- [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 4 days ago
+- [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 5 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 1:10 pm PDT • August 15, 2024
 - [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/) - 8:30 am PDT • August 15, 2024
 - [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/) - 8:15 am PDT • August 15, 2024
