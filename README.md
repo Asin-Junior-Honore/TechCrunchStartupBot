@@ -4,16 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 11 mins ago
-- [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 41 mins ago
-- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 44 mins ago
-- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 1 hour ago
-- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 1 hour ago
-- [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 2 hours ago
-- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 4 hours ago
-- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 6 hours ago
-- [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/) - 17 hours ago
-- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 22 hours ago
+- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 2 hours ago
+- [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 4 hours ago
+- [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 4 hours ago
+- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 5 hours ago
+- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 5 hours ago
+- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 5 hours ago
+- [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 6 hours ago
+- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 8 hours ago
+- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 8 hours ago
+- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 9 hours ago
+- [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/) - 21 hours ago
+- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 1 day ago
 - [TechCrunch Minute: This startup wants to mine water on the moon](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-mine-water-on-the-moon/) - 1 day ago
 - [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/) - 1 day ago
 - [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/) - 1 day ago
@@ -30,13 +32,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 2 days ago
 - [BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 2 days ago
 - [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 2 days ago
-- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 2 days ago
+- [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 3 days ago
 - [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 3 days ago
 - [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 3 days ago
 - [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/) - 3 days ago
 - [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/) - 3 days ago
-- [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/) - 3 days ago
-- [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/) - 3 days ago
+- [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/) - 4 days ago
+- [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/) - 4 days ago
 - [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/) - 4 days ago
 - [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 4 days ago
 - [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/) - 4 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/) - 7:30 am PDT • August 13, 2024
 - [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/) - 7:00 am PDT • August 13, 2024
 - [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/) - 6:00 am PDT • August 13, 2024
-- [PayZen secures $32M Series B, $200M debt facility to grow its ‘care now, pay later’ product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/) - 6:00 am PDT • August 13, 2024
-- [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/) - 5:00 pm PDT • August 12, 2024
