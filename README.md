@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Piramidal’s foundation model for brainwaves could supercharge EEGs](https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/) - 56 mins ago
-- [M&A can open up the playing field for the competition](https://techcrunch.com/2024/08/23/ma-can-open-up-the-playing-field-for-the-competition/) - 1 hour ago
-- [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/) - 5 hours ago
-- [AI talent managers, technocapitalist college towns and a rise in defense tech acquisitions](https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college-towns-and-a-rise-in-defense-tech-acquisitions/) - 6 hours ago
-- [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/) - 6 hours ago
-- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 24 hours ago
-- [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/) - 24 hours ago
+- [Piramidal’s foundation model for brainwaves could supercharge EEGs](https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/) - 6 hours ago
+- [M&A can open up the playing field for the competition](https://techcrunch.com/2024/08/23/ma-can-open-up-the-playing-field-for-the-competition/) - 6 hours ago
+- [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/) - 10 hours ago
+- [AI talent managers, technocapitalist college towns and a rise in defense tech acquisitions](https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college-towns-and-a-rise-in-defense-tech-acquisitions/) - 11 hours ago
+- [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/) - 11 hours ago
+- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 1 day ago
+- [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/) - 1 day ago
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 1 day ago
 - [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 1 day ago
 - [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 1 day ago
@@ -18,9 +18,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 1 day ago
 - [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 1 day ago
 - [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 1 day ago
-- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 1 day ago
-- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 1 day ago
-- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 1 day ago
+- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 2 days ago
+- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 2 days ago
+- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 2 days ago
 - [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/) - 2 days ago
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 2 days ago
 - [TechCrunch Minute: This startup wants to mine water on the moon](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-mine-water-on-the-moon/) - 2 days ago
@@ -38,7 +38,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 3 days ago
 - [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 3 days ago
 - [BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 3 days ago
-- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 3 days ago
+- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 4 days ago
 - [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 4 days ago
 - [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/) - 4 days ago
 - [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/) - 4 days ago
