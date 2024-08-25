@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 8 hours ago
-- [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 20 hours ago
-- [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/) - 23 hours ago
+- [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 2 hours ago
+- [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 12 hours ago
+- [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 1 day ago
+- [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/) - 1 day ago
 - [Piramidal’s foundation model for brainwaves could supercharge EEGs](https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/) - 2 days ago
 - [M&A can open up the playing field for the competition](https://techcrunch.com/2024/08/23/ma-can-open-up-the-playing-field-for-the-competition/) - 2 days ago
 - [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/) - 2 days ago
@@ -30,8 +31,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/) - 4 days ago
 - [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/) - 4 days ago
 - [Openmart wants to make it easier for enterprises to sell to local businesses](https://techcrunch.com/2024/08/21/openmart-wants-to-make-it-easier-for-enterprises-to-sell-to-local-businesses/) - 4 days ago
-- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia  ](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/) - 4 days ago
-- [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/) - 5 days ago
+- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia  ](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/) - 5 days ago
+- [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/) - 3:00 pm PDT • August 20, 2024
 - [Etched founder Gavin Uberti thinks his company stands on the ‘shoulders of giants’](https://techcrunch.com/podcast/etched-founder-gavin-uberti-thinks-his-company-stands-on-the-shoulders-of-giants/) - 10:29 am PDT • August 20, 2024
 - [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/) - 9:52 am PDT • August 20, 2024
 - [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/) - 9:22 am PDT • August 20, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/) - 7:00 am PDT • August 15, 2024
 - [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 8:48 am PDT • August 14, 2024
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 8:00 am PDT • August 14, 2024
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/) - 7:34 am PDT • August 14, 2024
