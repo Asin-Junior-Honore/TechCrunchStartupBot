@@ -4,34 +4,35 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 3 hours ago
-- [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 11 hours ago
-- [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 20 hours ago
+- [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 56 mins ago
+- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 7 hours ago
+- [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 14 hours ago
+- [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 24 hours ago
 - [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 1 day ago
-- [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/) - 1 day ago
+- [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/) - 2 days ago
 - [Piramidal’s foundation model for brainwaves could supercharge EEGs](https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/) - 2 days ago
 - [M&A can open up the playing field for the competition](https://techcrunch.com/2024/08/23/ma-can-open-up-the-playing-field-for-the-competition/) - 2 days ago
-- [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/) - 2 days ago
-- [AI talent managers, technocapitalist college towns and a rise in defense tech acquisitions](https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college-towns-and-a-rise-in-defense-tech-acquisitions/) - 2 days ago
-- [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/) - 2 days ago
+- [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/) - 3 days ago
+- [AI talent managers, technocapitalist college towns and a rise in defense tech acquisitions](https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college-towns-and-a-rise-in-defense-tech-acquisitions/) - 3 days ago
+- [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/) - 3 days ago
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 3 days ago
 - [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/) - 3 days ago
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 3 days ago
 - [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 3 days ago
-- [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 3 days ago
-- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 3 days ago
-- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 3 days ago
-- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 3 days ago
-- [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 3 days ago
+- [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 4 days ago
+- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 4 days ago
+- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 4 days ago
+- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 4 days ago
+- [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 4 days ago
 - [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 4 days ago
 - [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 4 days ago
 - [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 4 days ago
 - [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/) - 4 days ago
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 4 days ago
 - [TechCrunch Minute: This startup wants to mine water on the moon](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-mine-water-on-the-moon/) - 4 days ago
-- [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/) - 4 days ago
-- [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/) - 4 days ago
-- [Openmart wants to make it easier for enterprises to sell to local businesses](https://techcrunch.com/2024/08/21/openmart-wants-to-make-it-easier-for-enterprises-to-sell-to-local-businesses/) - 4 days ago
+- [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/) - 5 days ago
+- [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/) - 5 days ago
+- [Openmart wants to make it easier for enterprises to sell to local businesses](https://techcrunch.com/2024/08/21/openmart-wants-to-make-it-easier-for-enterprises-to-sell-to-local-businesses/) - 5 days ago
 - [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia  ](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/) - 5:59 pm PDT • August 20, 2024
 - [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/) - 3:00 pm PDT • August 20, 2024
 - [Etched founder Gavin Uberti thinks his company stands on the ‘shoulders of giants’](https://techcrunch.com/podcast/etched-founder-gavin-uberti-thinks-his-company-stands-on-the-shoulders-of-giants/) - 10:29 am PDT • August 20, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/) - 8:00 am PDT • August 15, 2024
 - [CodeRabbit raises $16M to bring AI to code reviews](https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/) - 7:32 am PDT • August 15, 2024
 - [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/) - 7:00 am PDT • August 15, 2024
-- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/) - 8:48 am PDT • August 14, 2024
