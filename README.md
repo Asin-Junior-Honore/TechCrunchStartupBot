@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Beam Mobility secretly deployed ‘phantom’ e-scooters in Australia and NZ to dodge fees and boost profits](https://techcrunch.com/2024/08/26/beam-mobility-secretly-deployed-phantom-e-scooters-in-australia-and-nz-to-dodge-fees-and-boost-profits/) - 15 hours ago
-- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/26/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 16 hours ago
-- [Elevate your brand’s impact: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/elevate-your-brands-impact-host-a-side-event-at-techcrunch-disrupt-2024/) - 16 hours ago
-- [Final week: ScaleUp your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/final-week-scaleup-your-startup-at-techcrunch-disrupt-2024/) - 17 hours ago
-- [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/) - 17 hours ago
-- [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 18 hours ago
+- [nOps lands $30M to optimize AWS customers’ cloud spend](https://techcrunch.com/2024/08/27/nops-lands-30m-to-optimize-aws-customers-cloud-spend/) - 1 hour ago
+- [Beam Mobility secretly deployed ‘phantom’ e-scooters in Australia and NZ to dodge fees and boost profits](https://techcrunch.com/2024/08/26/beam-mobility-secretly-deployed-phantom-e-scooters-in-australia-and-nz-to-dodge-fees-and-boost-profits/) - 20 hours ago
+- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/26/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 20 hours ago
+- [Elevate your brand’s impact: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/elevate-your-brands-impact-host-a-side-event-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Final week: ScaleUp your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/final-week-scaleup-your-startup-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/) - 21 hours ago
+- [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 22 hours ago
 - [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 1 day ago
-- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 1 day ago
+- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 2 days ago
 - [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 2 days ago
 - [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 2 days ago
 - [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 3 days ago
@@ -21,14 +22,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/) - 4 days ago
 - [AI talent managers, technocapitalist college towns and a rise in defense tech acquisitions](https://techcrunch.com/podcast/ai-talent-managers-technocapitalist-college-towns-and-a-rise-in-defense-tech-acquisitions/) - 4 days ago
 - [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/) - 4 days ago
-- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 4 days ago
-- [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/) - 4 days ago
-- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 5 days ago
-- [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 5 days ago
-- [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 5 days ago
-- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 5 days ago
-- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 5 days ago
-- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 5 days ago
+- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/) - 5 days ago
+- [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/) - 5 days ago
+- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 11:23 am PDT • August 22, 2024
+- [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 9:00 am PDT • August 22, 2024
+- [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 8:30 am PDT • August 22, 2024
+- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 8:27 am PDT • August 22, 2024
+- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 8:00 am PDT • August 22, 2024
+- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 8:00 am PDT • August 22, 2024
 - [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 7:28 am PDT • August 22, 2024
 - [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 5:26 am PDT • August 22, 2024
 - [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 5:10 am PDT • August 22, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/) - 7:00 am PDT • August 17, 2024
 - [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/) - 12:00 pm PDT • August 16, 2024
 - [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/) - 8:00 am PDT • August 16, 2024
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/) - 1:10 pm PDT • August 15, 2024
