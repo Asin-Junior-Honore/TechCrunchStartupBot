@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Beam Mobility secretly deployed ‘phantom’ e-scooters in Australia and NZ to dodge fees and boost profits](https://techcrunch.com/2024/08/26/beam-mobility-secretly-deployed-phantom-e-scooters-in-australia-and-nz-to-dodge-fees-and-boost-profits/) - 3 hours ago
-- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/26/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 4 hours ago
-- [Elevate your brand’s impact: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/elevate-your-brands-impact-host-a-side-event-at-techcrunch-disrupt-2024/) - 4 hours ago
-- [Final week: ScaleUp your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/final-week-scaleup-your-startup-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/) - 5 hours ago
-- [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 6 hours ago
-- [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 17 hours ago
-- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 23 hours ago
+- [Beam Mobility secretly deployed ‘phantom’ e-scooters in Australia and NZ to dodge fees and boost profits](https://techcrunch.com/2024/08/26/beam-mobility-secretly-deployed-phantom-e-scooters-in-australia-and-nz-to-dodge-fees-and-boost-profits/) - 8 hours ago
+- [These fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/26/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/) - 8 hours ago
+- [Elevate your brand’s impact: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/elevate-your-brands-impact-host-a-side-event-at-techcrunch-disrupt-2024/) - 9 hours ago
+- [Final week: ScaleUp your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/final-week-scaleup-your-startup-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/) - 10 hours ago
+- [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 11 hours ago
+- [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 22 hours ago
+- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 1 day ago
 - [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 1 day ago
 - [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 2 days ago
 - [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 2 days ago
@@ -30,9 +30,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 4 days ago
 - [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 4 days ago
 - [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 4 days ago
-- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 4 days ago
-- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 4 days ago
-- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 4 days ago
+- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/) - 5 days ago
+- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/) - 5 days ago
+- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/) - 5 days ago
 - [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/) - 4:10 pm PDT • August 21, 2024
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 11:40 am PDT • August 21, 2024
 - [TechCrunch Minute: This startup wants to mine water on the moon](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-mine-water-on-the-moon/) - 9:00 am PDT • August 21, 2024
@@ -47,8 +47,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Discover how founders and investors are saving the planet at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/20/discover-how-founders-and-investors-are-saving-the-planet-at-techcrunch-disrupt-2024/) - 8:30 am PDT • August 20, 2024
 - [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/) - 7:00 am PDT • August 20, 2024
 - [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/) - 6:30 am PDT • August 20, 2024
-- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 6:00 am PDT • August 20, 2024
 - [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/) - 6:00 am PDT • August 20, 2024
+- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/) - 6:00 am PDT • August 20, 2024
 - [BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/) - 5:59 am PDT • August 20, 2024
 - [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/) - 3:59 am PDT • August 20, 2024
 - [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/) - 11:00 pm PDT • August 19, 2024
