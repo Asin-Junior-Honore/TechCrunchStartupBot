@@ -4,19 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 17 mins ago
-- [The guy who sued NAR over real estate fees has co-founded a startup](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 47 mins ago
-- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 19 hours ago
-- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 20 hours ago
-- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 20 hours ago
-- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 21 hours ago
-- [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 23 hours ago
+- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 3 hours ago
+- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 3 hours ago
+- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 4 hours ago
+- [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 8 hours ago
+- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 23 hours ago
+- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 24 hours ago
+- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 24 hours ago
+- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 1 day ago
+- [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 1 day ago
 - [VCs and founders talk finding (and keeping) product-market fit at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/28/vcs-and-founders-talk-finding-and-keeping-product-market-fit-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Born from San Francisco’s AI hackathons, Agency lets you see what your AI agents do](https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/) - 1 day ago
 - [Pylon lands $17M investment to build a full service B2B customer service platform](https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/) - 1 day ago
-- [Fast-growing immigrant-focused neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/) - 1 day ago
 - [Pryzm is a new kind of defense tech startup: One that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/) - 1 day ago
+- [Fast-growing immigrant-focused neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/) - 1 day ago
 - [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/) - 2 days ago
 - [How Techstars, Meta helped profitable LatAm startup Mercately raise a $2.6M seed](https://techcrunch.com/2024/08/27/how-techstars-meta-helped-profitable-latam-startup-mercately-raise-a-2-6m-seed/) - 2 days ago
 - [Eric Ly from KarmaCheck shares his entrepreneurial lessons after decades in the industry](https://techcrunch.com/podcast/eric-ly-from-karmacheck-shares-his-entrepreneurial-lessons-after-decades-in-the-industry/) - 2 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/) - 8:00 am PDT • August 21, 2024
 - [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/) - 8:00 am PDT • August 21, 2024
 - [Openmart wants to make it easier for enterprises to sell to local businesses](https://techcrunch.com/2024/08/21/openmart-wants-to-make-it-easier-for-enterprises-to-sell-to-local-businesses/) - 7:00 am PDT • August 21, 2024
-- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia  ](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/) - 5:59 pm PDT • August 20, 2024
-- [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/) - 3:00 pm PDT • August 20, 2024
