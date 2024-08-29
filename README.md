@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 11 hours ago
-- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 12 hours ago
-- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 12 hours ago
-- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 12 hours ago
-- [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 14 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 16 hours ago
-- [VCs and founders talk finding (and keeping) product-market fit at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/28/vcs-and-founders-talk-finding-and-keeping-product-market-fit-at-techcrunch-disrupt-2024/) - 17 hours ago
-- [Born from San Francisco’s AI hackathons, Agency lets you see what your AI agents do](https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/) - 17 hours ago
-- [Pylon lands $17M investment to build a full service B2B customer service platform](https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/) - 18 hours ago
-- [Fast-growing immigrant-focused neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/) - 19 hours ago
-- [Pryzm is a new kind of defense tech startup: One that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/) - 19 hours ago
+- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 15 hours ago
+- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 16 hours ago
+- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 16 hours ago
+- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 17 hours ago
+- [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 19 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 20 hours ago
+- [VCs and founders talk finding (and keeping) product-market fit at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/28/vcs-and-founders-talk-finding-and-keeping-product-market-fit-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Born from San Francisco’s AI hackathons, Agency lets you see what your AI agents do](https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/) - 21 hours ago
+- [Pylon lands $17M investment to build a full service B2B customer service platform](https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/) - 22 hours ago
+- [Fast-growing immigrant-focused neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/) - 23 hours ago
+- [Pryzm is a new kind of defense tech startup: One that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/) - 23 hours ago
 - [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/) - 1 day ago
 - [How Techstars, Meta helped profitable LatAm startup Mercately raise a $2.6M seed](https://techcrunch.com/2024/08/27/how-techstars-meta-helped-profitable-latam-startup-mercately-raise-a-2-6m-seed/) - 2 days ago
 - [Eric Ly from KarmaCheck shares his entrepreneurial lessons after decades in the industry](https://techcrunch.com/podcast/eric-ly-from-karmacheck-shares-his-entrepreneurial-lessons-after-decades-in-the-industry/) - 2 days ago
@@ -32,10 +32,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/) - 3 days ago
 - [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 3 days ago
 - [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 3 days ago
-- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 3 days ago
+- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 4 days ago
 - [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 4 days ago
 - [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 4 days ago
-- [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 5 days ago
+- [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 9:00 am PDT • August 24, 2024
 - [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/) - 6:00 am PDT • August 24, 2024
 - [Piramidal’s foundation model for brain waves could supercharge EEGs](https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/) - 12:10 pm PDT • August 23, 2024
 - [M&A can open up the playing field for the competition](https://techcrunch.com/2024/08/23/ma-can-open-up-the-playing-field-for-the-competition/) - 12:05 pm PDT • August 23, 2024
