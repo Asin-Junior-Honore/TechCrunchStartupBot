@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/) - 4 hours ago
-- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 10 hours ago
-- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 11 hours ago
-- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 11 hours ago
-- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 14 hours ago
-- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 15 hours ago
-- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 16 hours ago
-- [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 20 hours ago
-- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 1 day ago
-- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 1 day ago
-- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 1 day ago
+- [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/) - 8 hours ago
+- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 14 hours ago
+- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 16 hours ago
+- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 16 hours ago
+- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 19 hours ago
+- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 19 hours ago
+- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 20 hours ago
+- [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 1 day ago
+- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 2 days ago
+- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 2 days ago
+- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 2 days ago
 - [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 2 days ago
 - [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 2 days ago
@@ -40,7 +40,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/) - 4 days ago
 - [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 4 days ago
 - [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 4 days ago
-- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 4 days ago
+- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 5 days ago
 - [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 7:00 am PDT • August 25, 2024
 - [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/) - 9:09 pm PDT • August 24, 2024
 - [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/) - 9:00 am PDT • August 24, 2024
