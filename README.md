@@ -4,17 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Elle Family Office and Keebeck Wealth Management are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/elle-family-office-and-keebeck-wealth-management-are-coming-to-techcrunch-disrupt-2024/) - 42 mins ago
-- [Be a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/be-a-volunteer-at-techcrunch-disrupt-2024/) - 1 hour ago
-- [Last Day: Exhibit your startup with big savings at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/last-day-exhibit-your-startup-with-big-savings-at-techcrunch-disrupt-2024/) - 2 hours ago
-- [Dailyhunt parent VerSe’s valuation gets slashed 42% to $2.9B: investor note](https://techcrunch.com/2024/08/30/dailyhunt-parent-verses-valuation-gets-slashed-42-to-2-9b-investor-note/) - 2 hours ago
-- [Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust](https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/) - 2 hours ago
-- [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/) - 12 hours ago
-- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 18 hours ago
-- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 20 hours ago
-- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 20 hours ago
-- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 23 hours ago
-- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 23 hours ago
+- [Carta’s ill-fated secondaries business finally found a buyer](https://techcrunch.com/2024/08/30/cartas-ill-fated-secondaries-business-finally-found-a-buyer/) - 55 mins ago
+- [Airbnb and fashion app By Rotation partner for free destination wedding outfits](https://techcrunch.com/2024/08/30/airbnb-and-fashion-app-by-rotation-partner-for-free-destination-wedding-outfits/) - 2 hours ago
+- [Fundraising is a lot easier when you have traction](https://techcrunch.com/2024/08/30/fundraising-is-a-lot-easier-when-you-have-traction/) - 3 hours ago
+- [TechCrunch Minute: Plaud’s NotePin is a wearable, AI-powered note taker](https://techcrunch.com/video/techcrunch-minute-plauds-notepin-is-a-wearable-ai-powered-notetaker/) - 4 hours ago
+- [Elle Family Office and Keebeck Wealth Management are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/elle-family-office-and-keebeck-wealth-management-are-coming-to-techcrunch-disrupt-2024/) - 5 hours ago
+- [Be a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/be-a-volunteer-at-techcrunch-disrupt-2024/) - 5 hours ago
+- [Last Day: Exhibit your startup with big savings at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/last-day-exhibit-your-startup-with-big-savings-at-techcrunch-disrupt-2024/) - 6 hours ago
+- [Dailyhunt parent VerSe’s valuation gets slashed 42% to $2.9B: investor note](https://techcrunch.com/2024/08/30/dailyhunt-parent-verses-valuation-gets-slashed-42-to-2-9b-investor-note/) - 6 hours ago
+- [Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust](https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/) - 6 hours ago
+- [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/) - 16 hours ago
+- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 22 hours ago
+- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 24 hours ago
+- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 24 hours ago
+- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 1 day ago
+- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 1 day ago
 - [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 1 day ago
 - [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 1 day ago
 - [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 2 days ago
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 11:23 am PDT • August 22, 2024
 - [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/) - 9:00 am PDT • August 22, 2024
 - [Cache Energy’s mysterious white pellets could help kill coal and natural gas](https://techcrunch.com/2024/08/22/cache-energys-mysterious-white-pellets-could-help-kill-coal-and-natural-gas/) - 8:30 am PDT • August 22, 2024
-- [Creatopy, which automates ad creation using AI, raises a $10M Series A](https://techcrunch.com/2024/08/22/creatopy-which-automates-ad-creation-using-ai-raises-a-10m-series-a/) - 8:27 am PDT • August 22, 2024
-- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/) - 8:00 am PDT • August 22, 2024
-- [Former Expedia exec’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/) - 8:00 am PDT • August 22, 2024
-- [Trace Machina is building a simulation testing platform to update safety-critical applications](https://techcrunch.com/2024/08/22/trace-machina-is-building-a-simulation-testing-platform-to-update-safety-critical-applications/) - 7:28 am PDT • August 22, 2024
