@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/) - 17 hours ago
-- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/) - 19 hours ago
-- [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/) - 1 day ago
+- [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/) - 21 hours ago
+- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/) - 23 hours ago
+- [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/) - 2 days ago
 - [Carta’s ill-fated secondaries business finally found a buyer](https://techcrunch.com/2024/08/30/cartas-ill-fated-secondaries-business-finally-found-a-buyer/) - 2 days ago
 - [Airbnb and fashion app By Rotation partner for free destination wedding outfits](https://techcrunch.com/2024/08/30/airbnb-and-fashion-app-by-rotation-partner-for-free-destination-wedding-outfits/) - 2 days ago
 - [Fundraising is a lot easier when you have traction](https://techcrunch.com/2024/08/30/fundraising-is-a-lot-easier-when-you-have-traction/) - 2 days ago
@@ -17,16 +17,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Dailyhunt parent VerSe’s valuation gets slashed 42% to $2.9B: investor 360 One note](https://techcrunch.com/2024/08/30/dailyhunt-parent-verses-valuation-gets-slashed-42-to-2-9b-investor-note/) - 2 days ago
 - [Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust](https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/) - 2 days ago
 - [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/) - 2 days ago
-- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 2 days ago
-- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 2 days ago
-- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 2 days ago
+- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 3 days ago
+- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 3 days ago
+- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 3 days ago
 - [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 3 days ago
 - [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 3 days ago
 - [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 3 days ago
 - [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 3 days ago
-- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 3 days ago
-- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 3 days ago
-- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 3 days ago
+- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 4 days ago
+- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 4 days ago
+- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 4 days ago
 - [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 4 days ago
 - [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 4 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 4 days ago
@@ -36,11 +36,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Pryzm is a new kind of defense tech startup: One that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/) - 4 days ago
 - [Fast-growing immigrant-focused neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/) - 4 days ago
 - [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/) - 4 days ago
-- [How Techstars, Meta helped profitable LatAm startup Mercately raise a $2.6M seed](https://techcrunch.com/2024/08/27/how-techstars-meta-helped-profitable-latam-startup-mercately-raise-a-2-6m-seed/) - 4 days ago
-- [Eric Ly from KarmaCheck shares his entrepreneurial lessons after decades in the industry](https://techcrunch.com/podcast/eric-ly-from-karmacheck-shares-his-entrepreneurial-lessons-after-decades-in-the-industry/) - 5 days ago
-- [Is open source AI possible, let alone the future? Find out at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/27/is-open-source-ai-even-possible-let-alone-the-future-find-out-at-disrupt-2024/) - 5 days ago
-- [Students and recent grads: Save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/27/students-and-recent-grads-save-on-techcrunch-disrupt-2024-tickets/) - 5 days ago
-- [Data infrastructure startup Cribl raises $319M at a $3.5B valuation](https://techcrunch.com/2024/08/27/data-infrastructure-startup-cribl-raises-319m-at-a-3-5b-valuation/) - 5 days ago
+- [How Techstars, Meta helped profitable LatAm startup Mercately raise a $2.6M seed](https://techcrunch.com/2024/08/27/how-techstars-meta-helped-profitable-latam-startup-mercately-raise-a-2-6m-seed/) - 5 days ago
+- [Eric Ly from KarmaCheck shares his entrepreneurial lessons after decades in the industry](https://techcrunch.com/podcast/eric-ly-from-karmacheck-shares-his-entrepreneurial-lessons-after-decades-in-the-industry/) - 10:01 am PDT • August 27, 2024
+- [Is open source AI possible, let alone the future? Find out at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/27/is-open-source-ai-even-possible-let-alone-the-future-find-out-at-disrupt-2024/) - 8:30 am PDT • August 27, 2024
+- [Students and recent grads: Save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/27/students-and-recent-grads-save-on-techcrunch-disrupt-2024-tickets/) - 8:00 am PDT • August 27, 2024
+- [Data infrastructure startup Cribl raises $319M at a $3.5B valuation](https://techcrunch.com/2024/08/27/data-infrastructure-startup-cribl-raises-319m-at-a-3-5b-valuation/) - 6:38 am PDT • August 27, 2024
 - [Food delivery is seeing more consolidation: GrubMarket snaps up FreshGoGo](https://techcrunch.com/2024/08/27/food-delivery-is-seeing-more-consolidation-grubmarket-snaps-up-freshgogo/) - 6:02 am PDT • August 27, 2024
 - [Supio brings generative AI to personal injury cases](https://techcrunch.com/2024/08/27/supio-brings-generative-ai-to-personal-injury-cases/) - 6:00 am PDT • August 27, 2024
 - [Planera raises $13.5M to help solve the gnarly problem of scheduling for construction contractors](https://techcrunch.com/2024/08/27/planera-raises-13-5m-to-help-solve-the-gnarly-problem-of-scheduling-for-construction-contractors/) - 5:00 am PDT • August 27, 2024
