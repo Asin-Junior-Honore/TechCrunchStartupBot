@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 37 seconds ago
-- [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/) - 31 mins ago
-- [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/) - 1 hour ago
-- [A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/) - 1 hour ago
-- [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 17 hours ago
+- [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 4 hours ago
+- [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/) - 4 hours ago
+- [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/) - 5 hours ago
+- [A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/) - 5 hours ago
+- [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 21 hours ago
 - [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/) - 1 day ago
 - [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/) - 1 day ago
 - [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/) - 2 days ago
