@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 2 hours ago
-- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 4 hours ago
-- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 4 hours ago
-- [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 16 hours ago
-- [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/) - 17 hours ago
-- [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/) - 17 hours ago
-- [A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/) - 17 hours ago
-- [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 1 day ago
+- [Oxylus Energy strikes “beautiful balance” to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 1 hour ago
+- [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 6 hours ago
+- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 8 hours ago
+- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 8 hours ago
+- [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 20 hours ago
+- [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/) - 21 hours ago
+- [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/) - 21 hours ago
+- [A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/) - 21 hours ago
+- [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 2 days ago
 - [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/) - 2 days ago
 - [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/) - 2 days ago
 - [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/) - 3 days ago
 - [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/) - 3 days ago
-- [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/) - 3 days ago
+- [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/) - 4 days ago
 - [Carta’s ill-fated secondaries business finally found a buyer](https://techcrunch.com/2024/08/30/cartas-ill-fated-secondaries-business-finally-found-a-buyer/) - 4 days ago
 - [Airbnb and fashion app By Rotation partner for free destination wedding outfits](https://techcrunch.com/2024/08/30/airbnb-and-fashion-app-by-rotation-partner-for-free-destination-wedding-outfits/) - 4 days ago
 - [Fundraising is a lot easier when you have traction](https://techcrunch.com/2024/08/30/fundraising-is-a-lot-easier-when-you-have-traction/) - 4 days ago
@@ -27,12 +28,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Dailyhunt parent VerSe’s valuation gets slashed 42% to $2.9B: investor 360 One note](https://techcrunch.com/2024/08/30/dailyhunt-parent-verses-valuation-gets-slashed-42-to-2-9b-investor-note/) - 4 days ago
 - [Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust](https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/) - 4 days ago
 - [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/) - 4 days ago
-- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 4 days ago
-- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 4 days ago
-- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 4 days ago
-- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 5 days ago
-- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 5 days ago
-- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 5 days ago
+- [Are Google’s monopoly cases 5 years too late or 2 years too early?](https://techcrunch.com/podcast/are-googles-monopoly-cases-5-years-too-late-or-2-years-too-early/) - 5 days ago
+- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/) - 5 days ago
+- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 5 days ago
+- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 10:37 am PDT • August 29, 2024
+- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 9:55 am PDT • August 29, 2024
+- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 9:00 am PDT • August 29, 2024
 - [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 5:00 am PDT • August 29, 2024
 - [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 2:24 pm PDT • August 28, 2024
 - [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 1:30 pm PDT • August 28, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/) - 7:00 am PDT • August 26, 2024
 - [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/) - 8:00 pm PDT • August 25, 2024
 - [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/) - 2:21 pm PDT • August 25, 2024
-- [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/) - 7:00 am PDT • August 25, 2024
