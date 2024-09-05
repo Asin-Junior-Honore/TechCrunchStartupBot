@@ -4,17 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 12 mins ago
-- [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 40 mins ago
-- [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 1 hour ago
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 1 hour ago
-- [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 3 hours ago
-- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 5 hours ago
-- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 10 hours ago
-- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 17 hours ago
-- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 18 hours ago
-- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 19 hours ago
-- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 20 hours ago
+- [Drip Capital, a fintech that provides working capital to SMBs, picks up $113M](https://techcrunch.com/2024/09/05/drip-capital-a-fintech-that-provides-working-capital-to-smbs-picks-up-113m/) - 3 hours ago
+- [Endolith is using ‘Olympic caliber’ copper microbes to address the copper shortage](https://techcrunch.com/2024/09/05/endolith-is-using-olympic-caliber-copper-microbes-to-address-the-copper-shortage/) - 3 hours ago
+- [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 4 hours ago
+- [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 5 hours ago
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 5 hours ago
+- [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 5 hours ago
+- [French clean tech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/) - 7 hours ago
+- [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 7 hours ago
+- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 9 hours ago
+- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 14 hours ago
+- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 21 hours ago
+- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 22 hours ago
+- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 23 hours ago
+- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 24 hours ago
 - [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 1 day ago
 - [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 1 day ago
 - [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/) - 1 day ago
@@ -33,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Spotter launches AI tools to help YouTubers brainstorm video ideas, thumbnails and more](https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/) - 2 days ago
 - [Former Citi, Battery VC has new $378M fund to back financial services and enterprise startups](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/) - 2 days ago
 - [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 2 days ago
-- [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 2 days ago
+- [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 3 days ago
 - [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 3 days ago
 - [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 3 days ago
 - [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 3 days ago
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/) - 1:28 pm PDT • August 29, 2024
 - [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/) - 10:37 am PDT • August 29, 2024
 - [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/) - 9:55 am PDT • August 29, 2024
-- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 9:00 am PDT • August 29, 2024
-- [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 5:00 am PDT • August 29, 2024
-- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 2:24 pm PDT • August 28, 2024
