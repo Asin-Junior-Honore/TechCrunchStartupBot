@@ -4,16 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 5 hours ago
-- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 5 hours ago
-- [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/) - 6 hours ago
-- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 7 hours ago
-- [DubClub wants amateur sports bettors to win more](https://techcrunch.com/2024/09/04/dubclub-wants-amateur-sports-betters-to-win-more/) - 7 hours ago
-- [With $50M in new funding, You.com thinks its AI can beat Google on hard questions](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/) - 7 hours ago
-- [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/) - 8 hours ago
-- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 17 hours ago
-- [PharmEasy still 92% below its peak $5.6B valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/) - 17 hours ago
-- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/) - 17 hours ago
+- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 2 hours ago
+- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 3 hours ago
+- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 3 hours ago
+- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 4 hours ago
+- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 10 hours ago
+- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 10 hours ago
+- [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/) - 11 hours ago
+- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 12 hours ago
+- [DubClub wants amateur sports bettors to win more](https://techcrunch.com/2024/09/04/dubclub-wants-amateur-sports-betters-to-win-more/) - 12 hours ago
+- [With $50M in new funding, You.com thinks its AI can beat Google on hard questions](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/) - 12 hours ago
+- [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/) - 13 hours ago
+- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 21 hours ago
+- [PharmEasy still 92% below its peak $5.6B valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/) - 21 hours ago
+- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/) - 22 hours ago
 - [Learn startup best practices with MongoDB, Venture Backed, InterSystems and others at Disrupt 2024](https://techcrunch.com/2024/09/03/learn-startup-best-practices-with-mongodb-venture-backed-intersystems-and-others-at-disrupt-2024/) - 1 day ago
 - [Bluesky continues to soar, adding 2M more new users in a matter of days](https://techcrunch.com/2024/09/03/bluesky-continues-to-soar-adding-2m-more-new-users-in-a-matter-of-days/) - 1 day ago
 - [Sarah Paiji Yoo is working to clean up our macro-microplastic mess](https://techcrunch.com/podcast/sarah-paiji-yoo-is-working-to-clean-up-our-macro-microplastic-mess/) - 1 day ago
@@ -21,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the final agenda for the Builders Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/03/announcing-the-final-agenda-for-the-builders-stage-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Spotter launches AI tools to help YouTubers brainstorm video ideas, thumbnails and more](https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/) - 1 day ago
 - [Former Citi, Battery VC has new $378M fund to back financial services and enterprise startups](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/) - 1 day ago
-- [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 1 day ago
+- [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 2 days ago
 - [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 2 days ago
 - [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 2 days ago
 - [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 2 days ago
@@ -31,9 +35,9 @@ Here are the latest articles from TechCrunch Startups:
 - [a16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/) - 2 days ago
 - [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 3 days ago
 - [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/) - 3 days ago
-- [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/) - 3 days ago
+- [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/) - 4 days ago
 - [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/) - 4 days ago
-- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/) - 4 days ago
+- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/) - 5 days ago
 - [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/) - 1:52 pm PDT • August 30, 2024
 - [Carta’s ill-fated secondaries business finally found a buyer](https://techcrunch.com/2024/08/30/cartas-ill-fated-secondaries-business-finally-found-a-buyer/) - 12:10 pm PDT • August 30, 2024
 - [Airbnb and fashion app By Rotation partner for free destination wedding outfits](https://techcrunch.com/2024/08/30/airbnb-and-fashion-app-by-rotation-partner-for-free-destination-wedding-outfits/) - 10:50 am PDT • August 30, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 9:15 am PDT • August 28, 2024
 - [VCs and founders talk finding (and keeping) product-market fit at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/28/vcs-and-founders-talk-finding-and-keeping-product-market-fit-at-techcrunch-disrupt-2024/) - 8:00 am PDT • August 28, 2024
 - [Born from San Francisco’s AI hackathons, Agency lets you see what your AI agents do](https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/) - 8:00 am PDT • August 28, 2024
-- [Pylon lands $17M investment to build a full service B2B customer service platform](https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/) - 7:00 am PDT • August 28, 2024
-- [Pryzm is a new kind of defense tech startup: One that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/) - 6:00 am PDT • August 28, 2024
-- [Fast-growing immigrant-focused neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/) - 6:00 am PDT • August 28, 2024
-- [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/) - 6:30 pm PDT • August 27, 2024
