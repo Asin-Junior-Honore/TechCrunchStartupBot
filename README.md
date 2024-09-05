@@ -4,22 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 1 hour ago
-- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 6 hours ago
-- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 13 hours ago
-- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 14 hours ago
-- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 15 hours ago
-- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 15 hours ago
-- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 21 hours ago
-- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 21 hours ago
-- [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/) - 22 hours ago
-- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 23 hours ago
-- [DubClub wants amateur sports bettors to win more](https://techcrunch.com/2024/09/04/dubclub-wants-amateur-sports-betters-to-win-more/) - 23 hours ago
-- [With $50M in new funding, You.com thinks its AI can beat Google on hard questions](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/) - 23 hours ago
+- [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 12 mins ago
+- [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 40 mins ago
+- [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 1 hour ago
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 1 hour ago
+- [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 3 hours ago
+- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 5 hours ago
+- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 10 hours ago
+- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 17 hours ago
+- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 18 hours ago
+- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 19 hours ago
+- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 20 hours ago
+- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 1 day ago
+- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 1 day ago
+- [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/) - 1 day ago
+- [DubClub wants amateur sports bettors to win more](https://techcrunch.com/2024/09/04/dubclub-wants-amateur-sports-betters-to-win-more/) - 1 day ago
+- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 1 day ago
+- [With $50M in new funding, You.com thinks its AI can beat Google on hard questions](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/) - 1 day ago
 - [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/) - 1 day ago
-- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 1 day ago
-- [PharmEasy still 92% below its peak $5.6B valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/) - 1 day ago
-- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/) - 1 day ago
+- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 2 days ago
+- [PharmEasy still 92% below its peak $5.6B valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/) - 2 days ago
+- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/) - 2 days ago
 - [Learn startup best practices with MongoDB, Venture Backed, InterSystems and others at Disrupt 2024](https://techcrunch.com/2024/09/03/learn-startup-best-practices-with-mongodb-venture-backed-intersystems-and-others-at-disrupt-2024/) - 2 days ago
 - [Bluesky continues to soar, adding 2M more new users in a matter of days](https://techcrunch.com/2024/09/03/bluesky-continues-to-soar-adding-2m-more-new-users-in-a-matter-of-days/) - 2 days ago
 - [Sarah Paiji Yoo is working to clean up our macro-microplastic mess](https://techcrunch.com/podcast/sarah-paiji-yoo-is-working-to-clean-up-our-macro-microplastic-mess/) - 2 days ago
@@ -29,8 +34,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Former Citi, Battery VC has new $378M fund to back financial services and enterprise startups](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/) - 2 days ago
 - [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 2 days ago
 - [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 2 days ago
-- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 2 days ago
-- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 2 days ago
+- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 3 days ago
+- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 3 days ago
 - [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/) - 3 days ago
 - [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/) - 3 days ago
@@ -59,8 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/) - 9:00 am PDT • August 29, 2024
 - [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uks-wayve-secures-strategic-investment-from-uber-to-further-develop-self-driving-tech/) - 5:00 am PDT • August 29, 2024
 - [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/) - 2:24 pm PDT • August 28, 2024
-- [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/) - 1:30 pm PDT • August 28, 2024
-- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/) - 1:19 pm PDT • August 28, 2024
-- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/) - 12:40 pm PDT • August 28, 2024
-- [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/) - 10:39 am PDT • August 28, 2024
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/) - 9:15 am PDT • August 28, 2024
