@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 30 seconds ago
-- [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 1 hour ago
-- [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 4 hours ago
-- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 14 hours ago
-- [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/) - 22 hours ago
-- [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/) - 23 hours ago
-- [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/) - 23 hours ago
-- [Public EV startup with an indicted CEO is looking to raise an additional $100 million](https://techcrunch.com/2024/09/06/public-ev-startup-with-an-indicted-ceo-is-looking-to-raise-an-additional-100-million/) - 24 hours ago
+- [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/) - 1 hour ago
+- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 4 hours ago
+- [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 5 hours ago
+- [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 8 hours ago
+- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 18 hours ago
+- [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/) - 1 day ago
+- [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/) - 1 day ago
+- [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/) - 1 day ago
+- [Public EV startup with an indicted CEO is looking to raise an additional $100 million](https://techcrunch.com/2024/09/06/public-ev-startup-with-an-indicted-ceo-is-looking-to-raise-an-additional-100-million/) - 1 day ago
 - [TechCrunch Minute: Canva faces backlash over price hikes](https://techcrunch.com/video/techcrunch-minute-canva-faces-backlash-over-price-hikes/) - 1 day ago
 - [The New Data Pipeline: Fivetran, DataStax and NEA are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/the-new-data-pipeline-fivetran-datastax-and-nea-are-coming-to-techcrunch-disrupt-2024/) - 1 day ago
 - [Last call: Boost your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/last-call-boost-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 1 day ago
@@ -26,12 +27,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 2 days ago
 - [German LLM maker Aleph Alpha pivots to AI support](https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/) - 2 days ago
 - [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 2 days ago
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 2 days ago
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 2 days ago
 - [French clean tech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/) - 2 days ago
 - [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 2 days ago
 - [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 2 days ago
-- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 2 days ago
+- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 3 days ago
 - [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 3 days ago
 - [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 3 days ago
 - [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 3 days ago
@@ -54,7 +55,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Spotter launches AI tools to help YouTubers brainstorm video ideas, thumbnails and more](https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/) - 4 days ago
 - [Former Citi, Battery VC has new $378M fund to back financial services and enterprise startups](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/) - 4 days ago
 - [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 4 days ago
-- [Laptop-leasing startup Fleet wants to become the IT companion for SMEs](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 4 days ago
+- [Laptop-leasing startup Fleet wants to become the IT companion for SMEs](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 5 days ago
 - [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 5 days ago
 - [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 5 days ago
 - [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 9:00 am PDT • September 2, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [a16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/) - 8:00 am PDT • September 2, 2024
 - [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 4:00 pm PDT • September 1, 2024
 - [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/) - 8:01 am PDT • September 1, 2024
-- [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/) - 6:00 am PDT • September 1, 2024
