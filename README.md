@@ -4,17 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 38 seconds ago
-- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 10 hours ago
-- [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/) - 18 hours ago
-- [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/) - 19 hours ago
-- [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/) - 19 hours ago
-- [Public EV startup with an indicted CEO is looking to raise an additional $100 million](https://techcrunch.com/2024/09/06/public-ev-startup-with-an-indicted-ceo-is-looking-to-raise-an-additional-100-million/) - 20 hours ago
-- [TechCrunch Minute: Canva faces backlash over price hikes](https://techcrunch.com/video/techcrunch-minute-canva-faces-backlash-over-price-hikes/) - 20 hours ago
-- [The New Data Pipeline: Fivetran, DataStax and NEA are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/the-new-data-pipeline-fivetran-datastax-and-nea-are-coming-to-techcrunch-disrupt-2024/) - 21 hours ago
-- [Last call: Boost your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/last-call-boost-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [Students and recent grads: Last day to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/06/students-and-recent-grads-last-day-to-save-on-techcrunch-disrupt-2024-student-passes/) - 22 hours ago
-- [Real estate revolutions and beanie baby economies](https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-economies/) - 22 hours ago
+- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 30 seconds ago
+- [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 1 hour ago
+- [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 4 hours ago
+- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 14 hours ago
+- [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/) - 22 hours ago
+- [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/) - 23 hours ago
+- [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/) - 23 hours ago
+- [Public EV startup with an indicted CEO is looking to raise an additional $100 million](https://techcrunch.com/2024/09/06/public-ev-startup-with-an-indicted-ceo-is-looking-to-raise-an-additional-100-million/) - 24 hours ago
+- [TechCrunch Minute: Canva faces backlash over price hikes](https://techcrunch.com/video/techcrunch-minute-canva-faces-backlash-over-price-hikes/) - 1 day ago
+- [The New Data Pipeline: Fivetran, DataStax and NEA are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/the-new-data-pipeline-fivetran-datastax-and-nea-are-coming-to-techcrunch-disrupt-2024/) - 1 day ago
+- [Last call: Boost your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/last-call-boost-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Students and recent grads: Last day to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/06/students-and-recent-grads-last-day-to-save-on-techcrunch-disrupt-2024-student-passes/) - 1 day ago
+- [Real estate revolutions and beanie baby economies](https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-economies/) - 1 day ago
 - [Osom is shutting down on Friday, as it had ‘no customers for a mobile phone’](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/) - 2 days ago
 - [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/) - 2 days ago
 - [Driverless car-sharing startup Vay steers toward B2B services](https://techcrunch.com/2024/09/05/driverless-car-sharing-startup-vay-steers-towards-b2b-services/) - 2 days ago
@@ -41,9 +43,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 3 days ago
 - [With $50M in new funding, You.com thinks its AI can beat Google on hard questions](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/) - 3 days ago
 - [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/) - 3 days ago
-- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 3 days ago
-- [PharmEasy still 92% below its peak $5.6B valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/) - 3 days ago
-- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/) - 3 days ago
+- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 4 days ago
+- [PharmEasy still 92% below its peak $5.6B valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/) - 4 days ago
+- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/) - 4 days ago
 - [Learn startup best practices with MongoDB, Venture Backed, InterSystems and others at Disrupt 2024](https://techcrunch.com/2024/09/03/learn-startup-best-practices-with-mongodb-venture-backed-intersystems-and-others-at-disrupt-2024/) - 4 days ago
 - [Bluesky continues to soar, adding 2M more new users in a matter of days](https://techcrunch.com/2024/09/03/bluesky-continues-to-soar-adding-2m-more-new-users-in-a-matter-of-days/) - 4 days ago
 - [Sarah Paiji Yoo is working to clean up our macro-microplastic mess](https://techcrunch.com/podcast/sarah-paiji-yoo-is-working-to-clean-up-our-macro-microplastic-mess/) - 4 days ago
@@ -53,8 +55,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Former Citi, Battery VC has new $378M fund to back financial services and enterprise startups](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/) - 4 days ago
 - [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 4 days ago
 - [Laptop-leasing startup Fleet wants to become the IT companion for SMEs](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 4 days ago
-- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 4 days ago
-- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 4 days ago
+- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 5 days ago
+- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 5 days ago
 - [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 9:00 am PDT • September 2, 2024
 - [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/) - 8:30 am PDT • September 2, 2024
 - [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/) - 8:00 am PDT • September 2, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/) - 4:00 pm PDT • September 1, 2024
 - [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/) - 8:01 am PDT • September 1, 2024
 - [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/) - 6:00 am PDT • September 1, 2024
-- [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/) - 8:00 am PDT • August 31, 2024
-- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/) - 6:00 am PDT • August 31, 2024
