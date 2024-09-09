@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Elon Musk says Tesla has ‘no need’ to license xAI models](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/) - 15 hours ago
-- [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 16 hours ago
-- [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 18 hours ago
-- [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 19 hours ago
-- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 1 day ago
+- [Miami-based AI bookkeeping startup finally has raised another big round: $200M in equity and debt](https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/) - 1 min ago
+- [EV startup Ather seeks to raise $370 million in India IPO](https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/) - 3 hours ago
+- [Elon Musk says Tesla has ‘no need’ to license xAI models](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/) - 18 hours ago
+- [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 19 hours ago
+- [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 22 hours ago
+- [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 23 hours ago
+- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 2 days ago
 - [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/) - 2 days ago
 - [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 2 days ago
 - [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 2 days ago
@@ -23,8 +25,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Last call: Boost your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/last-call-boost-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Students and recent grads: Last day to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/06/students-and-recent-grads-last-day-to-save-on-techcrunch-disrupt-2024-student-passes/) - 3 days ago
 - [Real estate revolutions and beanie baby economies](https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-economies/) - 3 days ago
-- [Osom is shutting down on Friday, as it had ‘no customers for a mobile phone’](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/) - 3 days ago
-- [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/) - 3 days ago
+- [Osom is shutting down on Friday, as it had ‘no customers for a mobile phone’](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/) - 4 days ago
+- [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/) - 4 days ago
 - [Driverless car-sharing startup Vay steers toward B2B services](https://techcrunch.com/2024/09/05/driverless-car-sharing-startup-vay-steers-towards-b2b-services/) - 4 days ago
 - [Drip Capital, a fintech that provides working capital to SMBs, picks up $113M](https://techcrunch.com/2024/09/05/drip-capital-a-fintech-that-provides-working-capital-to-smbs-picks-up-113m/) - 4 days ago
 - [Endolith is using ‘Olympic-caliber’ copper microbes to address the copper shortage](https://techcrunch.com/2024/09/05/endolith-is-using-olympic-caliber-copper-microbes-to-address-the-copper-shortage/) - 4 days ago
@@ -32,21 +34,21 @@ Here are the latest articles from TechCrunch Startups:
 - [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 4 days ago
 - [German LLM maker Aleph Alpha pivots to AI support](https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/) - 4 days ago
 - [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 4 days ago
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 4 days ago
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 4 days ago
 - [French clean tech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/) - 4 days ago
 - [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 4 days ago
 - [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 4 days ago
 - [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/) - 4 days ago
-- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 4 days ago
-- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 4 days ago
-- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 4 days ago
-- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 4 days ago
-- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 5 days ago
-- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 5 days ago
+- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 5 days ago
+- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 5 days ago
+- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 5 days ago
+- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 5 days ago
+- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/) - 8:00 am PDT • September 4, 2024
+- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/) - 8:00 am PDT • September 4, 2024
 - [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/) - 6:54 am PDT • September 4, 2024
-- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 6:00 am PDT • September 4, 2024
 - [DubClub wants amateur sports bettors to win more](https://techcrunch.com/2024/09/04/dubclub-wants-amateur-sports-betters-to-win-more/) - 6:00 am PDT • September 4, 2024
+- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/) - 6:00 am PDT • September 4, 2024
 - [With $50M in new funding, You.com thinks its AI can beat Google on hard questions](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/) - 5:59 am PDT • September 4, 2024
 - [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/) - 4:59 am PDT • September 4, 2024
 - [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/) - 8:40 pm PDT • September 3, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Oxylus Energy strikes ‘beautiful balance’ to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/) - 4:00 am PDT • September 3, 2024
 - [Laptop-leasing startup Fleet wants to become the IT companion for SMEs](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/) - 11:30 pm PDT • September 2, 2024
 - [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/) - 9:04 pm PDT • September 2, 2024
-- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/) - 9:00 pm PDT • September 2, 2024
-- [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/) - 9:00 am PDT • September 2, 2024
