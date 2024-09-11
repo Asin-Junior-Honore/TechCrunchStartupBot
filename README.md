@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 1 min ago
-- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 3 hours ago
-- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 3 hours ago
-- [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 4 hours ago
-- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 19 hours ago
+- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 3 hours ago
+- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 4 hours ago
+- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 7 hours ago
+- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 7 hours ago
+- [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 8 hours ago
+- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 23 hours ago
 - [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/) - 1 day ago
 - [Mira is helping fill the hormone knowledge gap for women and the medical industry](https://techcrunch.com/podcast/mira-is-helping-fill-the-hormone-knowledge-gap-for-women-and-the-medical-industry/) - 1 day ago
 - [Spare fixes cities’ outdated transport services for disabled residents](https://techcrunch.com/2024/09/10/spare-fixes-cities-outdated-transport-services-for-disabled-residents/) - 1 day ago
 - [Qualifyze swallows $54M to improve pharmaceutical supply chains](https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/) - 1 day ago
 - [Hardware companies dominate a list of promising climate tech startups](https://techcrunch.com/2024/09/10/hardware-companies-dominate-a-list-of-promising-climate-tech-startups/) - 1 day ago
 - [Smartcat secures $43M for its AI-powered translation platform](https://techcrunch.com/2024/09/10/smartcat-secures-43m-for-its-ai-powered-translation-platform/) - 1 day ago
-- [Formo gets investors’ mouths watering with Koji protein-based, animal-free cheese](https://techcrunch.com/2024/09/09/formo-gets-investors-mouths-watering-with-koji-protein-based-animal-free-cheese/) - 1 day ago
-- [Swiggy weighs increasing its IPO size by $150M, aiming to raise up to $1.4B](https://techcrunch.com/2024/09/09/swiggy-weighs-150m-boost-for-up-to-1-4b-india-ipo/) - 1 day ago
-- [Sri Mandir helps Hindus visit sacred temples and offer donations virtually, from their phones](https://techcrunch.com/2024/09/09/sri-mandir-is-on-a-quest-to-digitize-indias-devotional-journey/) - 1 day ago
+- [Formo gets investors’ mouths watering with Koji protein-based, animal-free cheese](https://techcrunch.com/2024/09/09/formo-gets-investors-mouths-watering-with-koji-protein-based-animal-free-cheese/) - 2 days ago
+- [Swiggy weighs increasing its IPO size by $150M, aiming to raise up to $1.4B](https://techcrunch.com/2024/09/09/swiggy-weighs-150m-boost-for-up-to-1-4b-india-ipo/) - 2 days ago
+- [Sri Mandir helps Hindus visit sacred temples and offer donations virtually, from their phones](https://techcrunch.com/2024/09/09/sri-mandir-is-on-a-quest-to-digitize-indias-devotional-journey/) - 2 days ago
 - [Heart disease is the world’s biggest killer — this Cambridge Uni spinout is using AI to find new treatments](https://techcrunch.com/2024/09/09/heart-disease-is-the-worlds-biggest-killer-this-cambridge-uni-spinout-is-using-ai-to-find-new-treatments/) - 2 days ago
 - [Here’s the full list of 35 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/09/09/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 2 days ago
 - [Alpha Partners raises $153M third fund for pro-rata investments](https://techcrunch.com/2024/09/09/alpha-partners-raises-153m-third-fund-for-pro-rata-investments/) - 2 days ago
@@ -35,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 4 days ago
 - [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 4 days ago
 - [How a viral AI image catapulted a Mexican startup to a major Adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 4 days ago
-- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 5 days ago
+- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 7:17 pm PDT • September 6, 2024
 - [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/) - 10:57 am PDT • September 6, 2024
 - [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/) - 10:05 am PDT • September 6, 2024
 - [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/) - 9:44 am PDT • September 6, 2024
@@ -54,8 +55,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 8:58 am PDT • September 5, 2024
 - [German LLM maker Aleph Alpha pivots to AI support](https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/) - 8:47 am PDT • September 5, 2024
 - [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 8:30 am PDT • September 5, 2024
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 5, 2024
 - [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 8:00 am PDT • September 5, 2024
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 5, 2024
 - [French clean tech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/) - 6:34 am PDT • September 5, 2024
 - [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 6:00 am PDT • September 5, 2024
 - [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 4:00 am PDT • September 5, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/) - 4:14 pm PDT • September 4, 2024
 - [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/) - 3:00 pm PDT • September 4, 2024
 - [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/) - 2:24 pm PDT • September 4, 2024
-- [Ryan Breslow’s $450M Bolt deal said to involve a restraining order now](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/) - 1:35 pm PDT • September 4, 2024
