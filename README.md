@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 4 hours ago
-- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 9 hours ago
-- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 10 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/11/tech-layoffs-2024-list/) - 11 hours ago
-- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 12 hours ago
-- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 15 hours ago
-- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 16 hours ago
-- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 19 hours ago
-- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 19 hours ago
-- [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 21 hours ago
-- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 1 day ago
+- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 1 min ago
+- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 7 hours ago
+- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 13 hours ago
+- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 14 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/11/tech-layoffs-2024-list/) - 15 hours ago
+- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 16 hours ago
+- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 19 hours ago
+- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 20 hours ago
+- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 23 hours ago
+- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 23 hours ago
+- [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 1 day ago
+- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 2 days ago
 - [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/) - 2 days ago
 - [Mira is helping fill the hormone knowledge gap for women and the medical industry](https://techcrunch.com/podcast/mira-is-helping-fill-the-hormone-knowledge-gap-for-women-and-the-medical-industry/) - 2 days ago
 - [Spare fixes cities’ outdated transport services for disabled residents](https://techcrunch.com/2024/09/10/spare-fixes-cities-outdated-transport-services-for-disabled-residents/) - 2 days ago
@@ -36,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 4 days ago
 - [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 4 days ago
 - [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 4 days ago
-- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 4 days ago
-- [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/) - 5 days ago
-- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 5 days ago
+- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 5 days ago
+- [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/) - 11:59 am PDT • September 7, 2024
+- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 9:00 am PDT • September 7, 2024
 - [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 8:00 am PDT • September 7, 2024
 - [How a viral AI image catapulted a Mexican startup to a major Adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 5:00 am PDT • September 7, 2024
 - [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 7:17 pm PDT • September 6, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 8:00 am PDT • September 5, 2024
 - [French clean tech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/) - 6:34 am PDT • September 5, 2024
 - [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 6:00 am PDT • September 5, 2024
-- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/) - 4:00 am PDT • September 5, 2024
