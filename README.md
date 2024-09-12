@@ -4,16 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 1 min ago
-- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 7 hours ago
-- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 13 hours ago
-- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 14 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/11/tech-layoffs-2024-list/) - 15 hours ago
-- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 16 hours ago
-- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 19 hours ago
-- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 20 hours ago
-- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 23 hours ago
-- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 23 hours ago
+- [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/) - 50 seconds ago
+- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 3 hours ago
+- [Humanz brings its influencer marketing platform to the U.S.](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 3 hours ago
+- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 4 hours ago
+- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 11 hours ago
+- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 17 hours ago
+- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 18 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/11/tech-layoffs-2024-list/) - 19 hours ago
+- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 20 hours ago
+- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 23 hours ago
+- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 1 day ago
+- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 1 day ago
+- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 1 day ago
 - [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 1 day ago
 - [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 2 days ago
 - [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/) - 2 days ago
@@ -25,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Formo gets investors’ mouths watering with Koji protein-based, animal-free cheese](https://techcrunch.com/2024/09/09/formo-gets-investors-mouths-watering-with-koji-protein-based-animal-free-cheese/) - 2 days ago
 - [Swiggy weighs increasing its IPO size by $150M, aiming to raise up to $1.4B](https://techcrunch.com/2024/09/09/swiggy-weighs-150m-boost-for-up-to-1-4b-india-ipo/) - 2 days ago
 - [Sri Mandir helps Hindus visit sacred temples and offer donations virtually, from their phones](https://techcrunch.com/2024/09/09/sri-mandir-is-on-a-quest-to-digitize-indias-devotional-journey/) - 2 days ago
-- [Heart disease is the world’s biggest killer — this Cambridge Uni spinout is using AI to find new treatments](https://techcrunch.com/2024/09/09/heart-disease-is-the-worlds-biggest-killer-this-cambridge-uni-spinout-is-using-ai-to-find-new-treatments/) - 2 days ago
+- [Heart disease is the world’s biggest killer — this Cambridge Uni spinout is using AI to find new treatments](https://techcrunch.com/2024/09/09/heart-disease-is-the-worlds-biggest-killer-this-cambridge-uni-spinout-is-using-ai-to-find-new-treatments/) - 3 days ago
 - [Here’s the full list of 35 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/09/09/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
 - [Alpha Partners raises $153M third fund for pro-rata investments](https://techcrunch.com/2024/09/09/alpha-partners-raises-153m-third-fund-for-pro-rata-investments/) - 3 days ago
 - [Progress acquires file management platform ShareFile for $875M](https://techcrunch.com/2024/09/09/progress-acquires-file-management-platform-sharefile-for-875m/) - 3 days ago
@@ -37,7 +40,7 @@ Here are the latest articles from TechCrunch Startups:
 - [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 4 days ago
 - [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 4 days ago
 - [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 4 days ago
-- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 5 days ago
+- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 1:22 pm PDT • September 7, 2024
 - [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/) - 11:59 am PDT • September 7, 2024
 - [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 9:00 am PDT • September 7, 2024
 - [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 8:00 am PDT • September 7, 2024
@@ -60,7 +63,4 @@ Here are the latest articles from TechCrunch Startups:
 - [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/) - 8:58 am PDT • September 5, 2024
 - [German LLM maker Aleph Alpha pivots to AI support](https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/) - 8:47 am PDT • September 5, 2024
 - [Rivian’s chief software designer is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/rivians-chief-software-designer-is-coming-to-techcrunch-disrupt-2024/) - 8:30 am PDT • September 5, 2024
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 5, 2024
 - [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/) - 8:00 am PDT • September 5, 2024
-- [French clean tech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/) - 6:34 am PDT • September 5, 2024
-- [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/) - 6:00 am PDT • September 5, 2024
