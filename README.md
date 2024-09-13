@@ -4,26 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [XP Health grabs $32M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/) - 9 hours ago
-- [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/) - 12 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/) - 13 hours ago
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 14 hours ago
-- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/) - 14 hours ago
-- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/) - 14 hours ago
-- [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/) - 16 hours ago
-- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 19 hours ago
-- [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 19 hours ago
-- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 20 hours ago
+- [SoftBank-backed Delhivery contests metrics in rival Ecom Express’ IPO filing](https://techcrunch.com/2024/09/13/softbank-backed-delhivery-contests-metrics-in-rival-ecom-express-ipo-filing/) - 2 hours ago
+- [XP Health grabs $32M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/) - 13 hours ago
+- [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/) - 16 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/) - 17 hours ago
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 18 hours ago
+- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/) - 18 hours ago
+- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/) - 18 hours ago
+- [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/) - 20 hours ago
+- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 23 hours ago
+- [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 23 hours ago
+- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 1 day ago
 - [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 1 day ago
-- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 1 day ago
-- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 1 day ago
-- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 1 day ago
+- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 2 days ago
+- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 2 days ago
+- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 2 days ago
 - [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 2 days ago
 - [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 2 days ago
 - [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 2 days ago
 - [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 2 days ago
 - [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 2 days ago
-- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 2 days ago
+- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/) - 3 days ago
 - [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/) - 3 days ago
 - [Mira is helping fill the hormone knowledge gap for women and the medical industry](https://techcrunch.com/podcast/mira-is-helping-fill-the-hormone-knowledge-gap-for-women-and-the-medical-industry/) - 3 days ago
 - [Spare fixes cities’ outdated transport services for disabled residents](https://techcrunch.com/2024/09/10/spare-fixes-cities-outdated-transport-services-for-disabled-residents/) - 3 days ago
@@ -40,8 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [YC alum Odigos aims to help enterprises find errors and stamp out latency in their systems](https://techcrunch.com/2024/09/09/yc-alum-odigos-aims-to-help-enterprises-find-errors-and-stamp-out-latency-in-their-systems/) - 4 days ago
 - [Miami-based AI bookkeeping startup Finally has raised another big round: $200M in equity and debt](https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/) - 4 days ago
 - [EV startup Ather seeks to raise $530 million in India IPO](https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/) - 4 days ago
-- [Elon Musk says Tesla has ‘no need’ to license xAI models](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/) - 5 days ago
-- [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 5 days ago
+- [Elon Musk says Tesla has ‘no need’ to license xAI models](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/) - 10:41 am PDT • September 8, 2024
+- [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 9:43 am PDT • September 8, 2024
 - [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 7:00 am PDT • September 8, 2024
 - [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 6:00 am PDT • September 8, 2024
 - [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 1:22 pm PDT • September 7, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/) - 1:53 pm PDT • September 5, 2024
 - [Driverless car-sharing startup Vay steers toward B2B services](https://techcrunch.com/2024/09/05/driverless-car-sharing-startup-vay-steers-towards-b2b-services/) - 10:49 am PDT • September 5, 2024
 - [Drip Capital, a fintech that provides working capital to SMBs, picks up $113M](https://techcrunch.com/2024/09/05/drip-capital-a-fintech-that-provides-working-capital-to-smbs-picks-up-113m/) - 10:27 am PDT • September 5, 2024
-- [Endolith is using ‘Olympic-caliber’ copper microbes to address the copper shortage](https://techcrunch.com/2024/09/05/endolith-is-using-olympic-caliber-copper-microbes-to-address-the-copper-shortage/) - 9:45 am PDT • September 5, 2024
