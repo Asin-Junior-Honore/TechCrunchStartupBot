@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 16 hours ago
-- [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 17 hours ago
-- [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 19 hours ago
-- [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/) - 20 hours ago
-- [A fireside chat with Andreessen Horowitz partner Martin Casado at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/a-fireside-chat-with-andreessen-horowitz-partner-martin-casado-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [AI’s tween years, who’s taking over climate tech, and the latest for Fearless Fund](https://techcrunch.com/podcast/ais-tween-years-whos-taking-over-climate-tech-and-the-latest-for-fearless-fund/) - 21 hours ago
-- [Vanta’s Christina Cacioppo takes the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/vantas-christina-cacioppo-takes-the-stage-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 20 hours ago
+- [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 21 hours ago
+- [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 23 hours ago
+- [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/) - 24 hours ago
+- [A fireside chat with Andreessen Horowitz partner Martin Casado at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/a-fireside-chat-with-andreessen-horowitz-partner-martin-casado-at-techcrunch-disrupt-2024/) - 1 day ago
+- [AI’s tween years, who’s taking over climate tech, and the latest for Fearless Fund](https://techcrunch.com/podcast/ais-tween-years-whos-taking-over-climate-tech-and-the-latest-for-fearless-fund/) - 1 day ago
+- [Vanta’s Christina Cacioppo takes the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/vantas-christina-cacioppo-takes-the-stage-at-techcrunch-disrupt-2024/) - 1 day ago
 - [SoftBank-backed Delhivery contests metrics in rival Ecom Express’ IPO filing](https://techcrunch.com/2024/09/13/softbank-backed-delhivery-contests-metrics-in-rival-ecom-express-ipo-filing/) - 1 day ago
 - [XP Health grabs $33M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/) - 2 days ago
 - [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/) - 2 days ago
@@ -42,7 +42,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Swiggy weighs increasing its IPO size by $150M, aiming to raise up to $1.4B](https://techcrunch.com/2024/09/09/swiggy-weighs-150m-boost-for-up-to-1-4b-india-ipo/) - 4 days ago
 - [Sri Mandir helps Hindus visit sacred temples and offer donations virtually, from their phones](https://techcrunch.com/2024/09/09/sri-mandir-is-on-a-quest-to-digitize-indias-devotional-journey/) - 4 days ago
 - [Heart disease is the world’s biggest killer — this Cambridge Uni spinout is using AI to find new treatments](https://techcrunch.com/2024/09/09/heart-disease-is-the-worlds-biggest-killer-this-cambridge-uni-spinout-is-using-ai-to-find-new-treatments/) - 4 days ago
-- [Here’s the full list of 35 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/09/09/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 5 days ago
+- [Here’s the full list of 35 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/09/09/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 11:59 am PDT • September 9, 2024
 - [Alpha Partners raises $153M third fund for pro-rata investments](https://techcrunch.com/2024/09/09/alpha-partners-raises-153m-third-fund-for-pro-rata-investments/) - 9:00 am PDT • September 9, 2024
 - [Progress acquires file management platform ShareFile for $875M](https://techcrunch.com/2024/09/09/progress-acquires-file-management-platform-sharefile-for-875m/) - 8:15 am PDT • September 9, 2024
 - [YC alum Odigos aims to help enterprises find errors and stamp out latency in their systems](https://techcrunch.com/2024/09/09/yc-alum-odigos-aims-to-help-enterprises-find-errors-and-stamp-out-latency-in-their-systems/) - 6:00 am PDT • September 9, 2024
