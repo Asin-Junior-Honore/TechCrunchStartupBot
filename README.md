@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 3 hours ago
-- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 20 hours ago
-- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 21 hours ago
+- [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 7 hours ago
+- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 1 day ago
+- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 1 day ago
 - [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 2 days ago
 - [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 2 days ago
 - [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 2 days ago
@@ -25,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 3 days ago
 - [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 3 days ago
 - [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 3 days ago
-- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 3 days ago
+- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 4 days ago
 - [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 4 days ago
 - [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 4 days ago
 - [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 4 days ago
