@@ -4,10 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [11xAI raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/) - 17 mins ago
-- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/) - 1 hour ago
-- [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/) - 3 hours ago
-- [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 3 hours ago
+- [Fisker Ocean owners stuck paying for recall repairs](https://techcrunch.com/2024/09/16/fisker-ocean-owners-stuck-paying-for-recall-repairs/) - 22 mins ago
+- [Runway announces an API for its video-generating AI models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/) - 2 hours ago
+- [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/) - 3 hours ago
+- [11x.ai raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/) - 4 hours ago
+- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/) - 5 hours ago
+- [Generative AI startup Typeface acquires two companies, Treat and Narrato, to bolster its portfolio](https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/) - 5 hours ago
+- [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/) - 7 hours ago
+- [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 7 hours ago
 - [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 1 day ago
 - [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 2 days ago
 - [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 2 days ago
@@ -29,7 +33,7 @@ Here are the latest articles from TechCrunch Startups:
 - [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 4 days ago
 - [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 4 days ago
 - [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 4 days ago
-- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 4 days ago
+- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 5 days ago
 - [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 4:00 pm PDT • September 11, 2024
 - [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 2:49 pm PDT • September 11, 2024
 - [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 1:30 pm PDT • September 11, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 7:00 am PDT • September 8, 2024
 - [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 6:00 am PDT • September 8, 2024
 - [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 1:22 pm PDT • September 7, 2024
-- [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/) - 11:59 am PDT • September 7, 2024
-- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 9:00 am PDT • September 7, 2024
-- [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 8:00 am PDT • September 7, 2024
-- [How a viral AI image catapulted a Mexican startup to a major Adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 5:00 am PDT • September 7, 2024
