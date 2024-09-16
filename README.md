@@ -4,7 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 23 hours ago
+- [11xAI raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/) - 17 mins ago
+- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/) - 1 hour ago
+- [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/) - 3 hours ago
+- [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 3 hours ago
+- [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 1 day ago
 - [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 2 days ago
 - [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 2 days ago
 - [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 3 days ago
@@ -26,9 +30,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 4 days ago
 - [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 4 days ago
 - [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 4 days ago
-- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 5 days ago
-- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 5 days ago
-- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 5 days ago
+- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 4:00 pm PDT • September 11, 2024
+- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 2:49 pm PDT • September 11, 2024
+- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 1:30 pm PDT • September 11, 2024
 - [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 9:59 am PDT • September 11, 2024
 - [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 9:00 am PDT • September 11, 2024
 - [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 6:00 am PDT • September 11, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/) - 9:00 am PDT • September 7, 2024
 - [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/) - 8:00 am PDT • September 7, 2024
 - [How a viral AI image catapulted a Mexican startup to a major Adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/) - 5:00 am PDT • September 7, 2024
-- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/) - 7:17 pm PDT • September 6, 2024
-- [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/) - 10:57 am PDT • September 6, 2024
-- [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/) - 10:05 am PDT • September 6, 2024
-- [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/) - 9:44 am PDT • September 6, 2024
