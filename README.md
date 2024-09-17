@@ -4,35 +4,36 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fisker Ocean owners stuck paying for recall repairs](https://techcrunch.com/2024/09/16/fisker-ocean-owners-stuck-paying-for-recall-repairs/) - 9 hours ago
-- [Runway announces an API for its video-generating AI models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/) - 10 hours ago
-- [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/) - 11 hours ago
-- [11x.ai raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/) - 12 hours ago
-- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/) - 13 hours ago
-- [Generative AI startup Typeface acquires two companies, Treat and Narrato, to bolster its portfolio](https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/) - 13 hours ago
-- [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/) - 15 hours ago
-- [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 15 hours ago
+- [Quick-commerce startup Flink raises another $150M at a valuation of nearly $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/) - 2 hours ago
+- [Fisker Ocean owners stuck paying for recall repairs](https://techcrunch.com/2024/09/16/fisker-ocean-owners-stuck-paying-for-recall-repairs/) - 13 hours ago
+- [Runway announces an API for its video-generating AI models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/) - 14 hours ago
+- [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/) - 15 hours ago
+- [11x.ai raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/) - 16 hours ago
+- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/) - 17 hours ago
+- [Generative AI startup Typeface acquires two companies, Treat and Narrato, to bolster its portfolio](https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/) - 17 hours ago
+- [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/) - 19 hours ago
+- [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 19 hours ago
 - [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 2 days ago
-- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 2 days ago
-- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 2 days ago
-- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 3 days ago
-- [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 3 days ago
-- [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 3 days ago
+- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 3 days ago
+- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 3 days ago
+- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 4 days ago
+- [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 4 days ago
+- [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 4 days ago
 - [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/) - 4 days ago
 - [A fireside chat with Andreessen Horowitz partner Martin Casado at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/a-fireside-chat-with-andreessen-horowitz-partner-martin-casado-at-techcrunch-disrupt-2024/) - 4 days ago
 - [AI’s tween years, who’s taking over climate tech, and the latest for Fearless Fund](https://techcrunch.com/podcast/ais-tween-years-whos-taking-over-climate-tech-and-the-latest-for-fearless-fund/) - 4 days ago
 - [Vanta’s Christina Cacioppo takes the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/vantas-christina-cacioppo-takes-the-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [SoftBank-backed Delhivery contests metrics in rival Ecom Express’ IPO filing](https://techcrunch.com/2024/09/13/softbank-backed-delhivery-contests-metrics-in-rival-ecom-express-ipo-filing/) - 4 days ago
 - [XP Health grabs $33M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/) - 4 days ago
-- [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/) - 4 days ago
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 4 days ago
-- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/) - 4 days ago
-- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/) - 4 days ago
+- [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/) - 5 days ago
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 5 days ago
+- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/) - 5 days ago
+- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/) - 5 days ago
 - [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/) - 5 days ago
-- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 5 days ago
-- [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 5 days ago
-- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 5 days ago
+- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 6:00 am PDT • September 12, 2024
+- [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 6:00 am PDT • September 12, 2024
+- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 5:00 am PDT • September 12, 2024
 - [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 9:32 pm PDT • September 11, 2024
 - [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 4:00 pm PDT • September 11, 2024
 - [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 2:49 pm PDT • September 11, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/) - 9:43 am PDT • September 8, 2024
 - [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/) - 7:00 am PDT • September 8, 2024
 - [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/) - 6:00 am PDT • September 8, 2024
-- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/) - 1:22 pm PDT • September 7, 2024
