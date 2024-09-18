@@ -4,18 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nurture wants to teach kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-wants-to-teach-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 2 hours ago
-- [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 17 hours ago
-- [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 18 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/) - 20 hours ago
-- [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/) - 21 hours ago
-- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 22 hours ago
-- [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 22 hours ago
-- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 23 hours ago
-- [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 23 hours ago
-- [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 23 hours ago
-- [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 24 hours ago
+- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 9 mins ago
+- [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 46 mins ago
+- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 1 hour ago
+- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 3 hours ago
+- [Nurture teaches kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-teaches-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 6 hours ago
+- [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 21 hours ago
+- [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 22 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/) - 1 day ago
+- [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/) - 1 day ago
+- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 1 day ago
+- [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 1 day ago
+- [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 1 day ago
+- [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 1 day ago
+- [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 1 day ago
+- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 1 day ago
+- [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 1 day ago
 - [GreenLite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/) - 1 day ago
 - [Orb founders grew so frustrated dealing with billing as engineers at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/) - 1 day ago
 - [Quick-commerce startup Flink raises another $150M at a valuation of nearly $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/) - 1 day ago
@@ -30,7 +34,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 3 days ago
 - [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 4 days ago
 - [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 4 days ago
-- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 5 days ago
+- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 1:00 pm PDT • September 13, 2024
 - [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 12:05 pm PDT • September 13, 2024
 - [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 10:05 am PDT • September 13, 2024
 - [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/) - 9:13 am PDT • September 13, 2024
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/) - 9:00 am PDT • September 10, 2024
 - [Mira is helping fill the hormone knowledge gap for women and the medical industry](https://techcrunch.com/podcast/mira-is-helping-fill-the-hormone-knowledge-gap-for-women-and-the-medical-industry/) - 8:43 am PDT • September 10, 2024
 - [Spare fixes cities’ outdated transport services for disabled residents](https://techcrunch.com/2024/09/10/spare-fixes-cities-outdated-transport-services-for-disabled-residents/) - 7:04 am PDT • September 10, 2024
-- [Qualifyze swallows $54M to improve pharmaceutical supply chains](https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/) - 6:14 am PDT • September 10, 2024
-- [Hardware companies dominate a list of promising climate tech startups](https://techcrunch.com/2024/09/10/hardware-companies-dominate-a-list-of-promising-climate-tech-startups/) - 5:18 am PDT • September 10, 2024
-- [Smartcat secures $43M for its AI-powered translation platform](https://techcrunch.com/2024/09/10/smartcat-secures-43m-for-its-ai-powered-translation-platform/) - 5:00 am PDT • September 10, 2024
-- [Formo gets investors’ mouths watering with Koji protein-based, animal-free cheese](https://techcrunch.com/2024/09/09/formo-gets-investors-mouths-watering-with-koji-protein-based-animal-free-cheese/) - 11:00 pm PDT • September 9, 2024
