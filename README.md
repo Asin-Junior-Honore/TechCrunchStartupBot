@@ -4,15 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Brightband sees a bright (and open-source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 36 mins ago
-- [Phlair’s carbon sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/) - 2 hours ago
-- [JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn](https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/) - 16 hours ago
-- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 16 hours ago
-- [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/) - 18 hours ago
-- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 20 hours ago
-- [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 21 hours ago
-- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 23 hours ago
+- [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 40 mins ago
+- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 52 mins ago
+- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 1 hour ago
+- [UPchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/) - 1 hour ago
+- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 2 hours ago
+- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/) - 2 hours ago
+- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/) - 3 hours ago
+- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/) - 3 hours ago
+- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/) - 3 hours ago
+- [Karman Industries hopes its SpaceX-inspired heat pumps will replace industrial boilers](https://techcrunch.com/2024/09/19/karman-industries-hopes-its-spacex-inspired-heat-pumps-will-replace-industrial-boilers/) - 4 hours ago
+- [Brightband sees a bright (and open-source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 5 hours ago
+- [Phlair’s carbon sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/) - 6 hours ago
+- [JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn](https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/) - 20 hours ago
+- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 20 hours ago
+- [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/) - 22 hours ago
+- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 1 day ago
+- [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 1 day ago
+- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 1 day ago
 - [Nurture teaches kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-teaches-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 1 day ago
 - [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 2 days ago
 - [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 2 days ago
@@ -21,9 +31,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 2 days ago
 - [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 2 days ago
+- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 2 days ago
 - [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 2 days ago
 - [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 2 days ago
-- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 2 days ago
 - [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 2 days ago
 - [GreenLite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/) - 2 days ago
 - [Orb founders grew so frustrated dealing with billing as engineers at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/) - 2 days ago
@@ -36,7 +46,7 @@ Here are the latest articles from TechCrunch Startups:
 - [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/) - 3 days ago
 - [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 3 days ago
 - [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 4 days ago
-- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 5 days ago
+- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 1:00 pm PDT • September 14, 2024
 - [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 11:43 am PDT • September 14, 2024
 - [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 1:00 pm PDT • September 13, 2024
 - [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 12:05 pm PDT • September 13, 2024
@@ -54,13 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/) - 9:00 am PDT • September 12, 2024
 - [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/) - 6:00 am PDT • September 12, 2024
 - [Humanz brings its influencer marketing platform to the US](https://techcrunch.com/2024/09/12/humanz-brings-its-influencer-marketing-platform-to-the-us/) - 6:00 am PDT • September 12, 2024
-- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/) - 5:00 am PDT • September 12, 2024
-- [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/) - 9:32 pm PDT • September 11, 2024
-- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/) - 4:00 pm PDT • September 11, 2024
-- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/) - 2:49 pm PDT • September 11, 2024
-- [AI illusions and navigating ‘The Money Trap’ with Alok Sama](https://techcrunch.com/podcast/ai-illusions-and-navigating-the-money-trap-with-alok-sama/) - 1:30 pm PDT • September 11, 2024
-- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/) - 9:59 am PDT • September 11, 2024
-- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/) - 9:00 am PDT • September 11, 2024
-- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/) - 6:00 am PDT • September 11, 2024
-- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/) - 6:00 am PDT • September 11, 2024
-- [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/) - 4:43 am PDT • September 11, 2024
