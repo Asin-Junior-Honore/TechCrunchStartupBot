@@ -4,19 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 2 hours ago
-- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 6 hours ago
-- [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 18 hours ago
-- [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 21 hours ago
-- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 21 hours ago
-- [UPchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/) - 21 hours ago
-- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 22 hours ago
-- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/) - 22 hours ago
-- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/) - 23 hours ago
-- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/) - 23 hours ago
-- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/) - 23 hours ago
-- [Karman Industries hopes its SpaceX-inspired heat pumps will replace industrial boilers](https://techcrunch.com/2024/09/19/karman-industries-hopes-its-spacex-inspired-heat-pumps-will-replace-industrial-boilers/) - 24 hours ago
+- [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 46 mins ago
+- [Last day to Apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 46 mins ago
+- [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/) - 1 hour ago
+- [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 2 hours ago
+- [She sat down in the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 2 hours ago
+- [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 6 hours ago
+- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 10 hours ago
+- [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 22 hours ago
+- [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 1 day ago
+- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 1 day ago
+- [UPchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/) - 1 day ago
+- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/) - 1 day ago
+- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/) - 1 day ago
+- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/) - 1 day ago
+- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/) - 1 day ago
+- [Karman Industries hopes its SpaceX-inspired heat pumps will replace industrial boilers](https://techcrunch.com/2024/09/19/karman-industries-hopes-its-spacex-inspired-heat-pumps-will-replace-industrial-boilers/) - 1 day ago
 - [Brightband sees a bright (and open source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 1 day ago
 - [Phlair’s carbon-sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/) - 1 day ago
 - [JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn](https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/) - 2 days ago
@@ -34,9 +39,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 3 days ago
 - [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 3 days ago
 - [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 3 days ago
-- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 3 days ago
 - [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 3 days ago
 - [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 3 days ago
+- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 3 days ago
 - [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 3 days ago
 - [GreenLite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/) - 3 days ago
 - [Orb founders grew so frustrated dealing with billing as engineers at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/) - 3 days ago
@@ -59,8 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [AI’s tween years, who’s taking over climate tech, and the latest for Fearless Fund](https://techcrunch.com/podcast/ais-tween-years-whos-taking-over-climate-tech-and-the-latest-for-fearless-fund/) - 8:01 am PDT • September 13, 2024
 - [Vanta’s Christina Cacioppo takes the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/vantas-christina-cacioppo-takes-the-stage-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 13, 2024
 - [SoftBank-backed Delhivery contests metrics in rival Ecom Express’ IPO filing](https://techcrunch.com/2024/09/13/softbank-backed-delhivery-contests-metrics-in-rival-ecom-express-ipo-filing/) - 3:09 am PDT • September 13, 2024
-- [XP Health grabs $33M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/) - 4:00 pm PDT • September 12, 2024
-- [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/) - 1:09 pm PDT • September 12, 2024
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 11:35 am PDT • September 12, 2024
-- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/) - 11:20 am PDT • September 12, 2024
-- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/) - 11:00 am PDT • September 12, 2024
