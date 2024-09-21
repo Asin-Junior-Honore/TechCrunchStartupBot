@@ -4,15 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 14 hours ago
-- [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 17 hours ago
-- [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 19 hours ago
-- [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 19 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 20 hours ago
-- [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 20 hours ago
-- [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/) - 21 hours ago
-- [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 21 hours ago
-- [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 22 hours ago
+- [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 1 min ago
+- [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 10 mins ago
+- [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 18 hours ago
+- [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 21 hours ago
+- [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 23 hours ago
+- [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 23 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 24 hours ago
+- [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 1 day ago
+- [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/) - 1 day ago
+- [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 1 day ago
+- [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 1 day ago
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 1 day ago
 - [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 1 day ago
 - [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 2 days ago
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 1:00 pm PDT • September 13, 2024
 - [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 12:05 pm PDT • September 13, 2024
 - [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 10:05 am PDT • September 13, 2024
-- [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/) - 9:13 am PDT • September 13, 2024
-- [A fireside chat with Andreessen Horowitz partner Martin Casado at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/a-fireside-chat-with-andreessen-horowitz-partner-martin-casado-at-techcrunch-disrupt-2024/) - 8:30 am PDT • September 13, 2024
