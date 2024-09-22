@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 16 hours ago
-- [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 16 hours ago
-- [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 1 day ago
+- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 17 seconds ago
+- [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 20 hours ago
+- [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 20 hours ago
+- [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 2 days ago
 - [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 2 days ago
 - [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 2 days ago
 - [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 2 days ago
@@ -30,23 +31,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Karman Industries hopes its SpaceX-inspired heat pumps will replace industrial boilers](https://techcrunch.com/2024/09/19/karman-industries-hopes-its-spacex-inspired-heat-pumps-will-replace-industrial-boilers/) - 3 days ago
 - [Brightband sees a bright (and open source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 3 days ago
 - [Phlair’s carbon-sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/) - 3 days ago
-- [JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn](https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/) - 3 days ago
-- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 3 days ago
+- [JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn](https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/) - 4 days ago
+- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 4 days ago
 - [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/) - 4 days ago
 - [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 4 days ago
 - [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 4 days ago
 - [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 4 days ago
 - [Nurture teaches kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-teaches-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 4 days ago
-- [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 5 days ago
-- [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 5 days ago
-- [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/) - 5 days ago
+- [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 11:58 am PDT • September 17, 2024
+- [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 11:08 am PDT • September 17, 2024
+- [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/) - 8:04 am PDT • September 17, 2024
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 17, 2024
 - [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 7:39 am PDT • September 17, 2024
 - [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 6:53 am PDT • September 17, 2024
-- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 6:00 am PDT • September 17, 2024
 - [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 6:00 am PDT • September 17, 2024
 - [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 6:00 am PDT • September 17, 2024
+- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 6:00 am PDT • September 17, 2024
 - [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 5:40 am PDT • September 17, 2024
 - [GreenLite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/) - 5:00 am PDT • September 17, 2024
 - [Orb founders grew so frustrated dealing with billing as engineers at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/) - 5:00 am PDT • September 17, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 11:43 am PDT • September 14, 2024
 - [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/) - 1:00 pm PDT • September 13, 2024
 - [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/) - 12:05 pm PDT • September 13, 2024
-- [Shrinking teams, warped views, and risk aversion in this week’s startup news](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/) - 10:05 am PDT • September 13, 2024
