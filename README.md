@@ -4,23 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 12 hours ago
-- [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 13 hours ago
-- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 16 hours ago
+- [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 41 mins ago
+- [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 16 hours ago
+- [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 17 hours ago
+- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 20 hours ago
 - [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 2 days ago
 - [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 2 days ago
 - [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 2 days ago
-- [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 2 days ago
-- [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 2 days ago
-- [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 2 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 2 days ago
+- [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 3 days ago
+- [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 3 days ago
+- [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 3 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 3 days ago
 - [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 3 days ago
 - [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/) - 3 days ago
 - [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 3 days ago
 - [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 3 days ago
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 3 days ago
 - [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 3 days ago
-- [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 3 days ago
+- [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 4 days ago
 - [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 4 days ago
 - [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 4 days ago
@@ -34,12 +35,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Brightband sees a bright (and open source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 4 days ago
 - [Phlair’s carbon-sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/) - 4 days ago
 - [JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn](https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/) - 4 days ago
-- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 4 days ago
-- [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/) - 4 days ago
-- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 4 days ago
+- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 5 days ago
+- [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/) - 5 days ago
+- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 5 days ago
 - [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 5 days ago
-- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 5 days ago
-- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 5 days ago
+- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 18, 2024
+- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 6:36 am PDT • September 18, 2024
 - [Nurture teaches kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-teaches-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 3:00 am PDT • September 18, 2024
 - [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 11:58 am PDT • September 17, 2024
 - [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 11:08 am PDT • September 17, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/) - 6:00 am PDT • September 16, 2024
 - [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/) - 6:00 am PDT • September 15, 2024
 - [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/) - 1:00 pm PDT • September 14, 2024
-- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/) - 11:43 am PDT • September 14, 2024
