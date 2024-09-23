@@ -4,32 +4,32 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 8 hours ago
-- [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 10 hours ago
-- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 13 hours ago
-- [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 1 day ago
-- [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 1 day ago
+- [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 12 hours ago
+- [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 13 hours ago
+- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 16 hours ago
+- [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 2 days ago
+- [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 2 days ago
 - [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 2 days ago
 - [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 2 days ago
 - [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 2 days ago
 - [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 2 days ago
-- [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 2 days ago
-- [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/) - 2 days ago
-- [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 2 days ago
-- [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 2 days ago
+- [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 3 days ago
+- [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/) - 3 days ago
+- [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 3 days ago
+- [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 3 days ago
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 3 days ago
 - [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 3 days ago
 - [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 3 days ago
-- [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 3 days ago
-- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 3 days ago
-- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 3 days ago
-- [UPchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/) - 3 days ago
-- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 3 days ago
-- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/) - 3 days ago
-- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/) - 3 days ago
-- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/) - 3 days ago
-- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/) - 3 days ago
+- [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 4 days ago
+- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 4 days ago
+- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 4 days ago
+- [UPchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/) - 4 days ago
+- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 4 days ago
+- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/) - 4 days ago
+- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/) - 4 days ago
+- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/) - 4 days ago
+- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/) - 4 days ago
 - [Karman Industries hopes its SpaceX-inspired heat pumps will replace industrial boilers](https://techcrunch.com/2024/09/19/karman-industries-hopes-its-spacex-inspired-heat-pumps-will-replace-industrial-boilers/) - 4 days ago
 - [Brightband sees a bright (and open source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 4 days ago
 - [Phlair’s carbon-sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/) - 4 days ago
@@ -37,10 +37,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) - 4 days ago
 - [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/) - 4 days ago
 - [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/) - 4 days ago
-- [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 4 days ago
-- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 4 days ago
-- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 4 days ago
-- [Nurture teaches kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-teaches-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 5 days ago
+- [Edera is building a better Kubernetes and AI security solution from the ground up](https://techcrunch.com/2024/09/18/edera-is-building-a-better-kubernetes-and-ai-security-solution-from-the-ground-up/) - 5 days ago
+- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/) - 5 days ago
+- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/) - 5 days ago
+- [Nurture teaches kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-teaches-kids-important-life-skills-through-interactive-gameplay-and-entertainment/) - 3:00 am PDT • September 18, 2024
 - [Ursa Major nabs $12.5M from US Navy, DoD for 3D-printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/) - 11:58 am PDT • September 17, 2024
 - [Prukalpa Sankar on why empathy is her company’s greatest asset](https://techcrunch.com/podcast/prukalpa-sankar-on-why-empathy-is-her-companys-greatest-asset/) - 11:08 am PDT • September 17, 2024
 - [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/) - 8:04 am PDT • September 17, 2024
