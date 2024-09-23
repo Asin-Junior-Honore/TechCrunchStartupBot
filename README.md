@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/) - 40 seconds ago
-- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/09/23/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 31 mins ago
-- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 1 hour ago
-- [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/) - 2 hours ago
-- [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/) - 2 hours ago
-- [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/) - 4 hours ago
-- [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 9 hours ago
-- [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 23 hours ago
+- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 3 hours ago
+- [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/) - 4 hours ago
+- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/09/23/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 5 hours ago
+- [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/) - 6 hours ago
+- [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/) - 6 hours ago
+- [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/) - 8 hours ago
+- [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 13 hours ago
+- [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 1 day ago
 - [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 1 day ago
 - [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 1 day ago
 - [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 2 days ago
@@ -26,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 3 days ago
 - [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 3 days ago
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 3 days ago
-- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 3 days ago
+- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 4 days ago
 - [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 4 days ago
 - [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 4 days ago
@@ -54,9 +54,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 17, 2024
 - [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 7:39 am PDT • September 17, 2024
 - [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 6:53 am PDT • September 17, 2024
+- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 6:00 am PDT • September 17, 2024
 - [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 6:00 am PDT • September 17, 2024
 - [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 6:00 am PDT • September 17, 2024
-- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 6:00 am PDT • September 17, 2024
 - [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 5:40 am PDT • September 17, 2024
 - [GreenLite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/) - 5:00 am PDT • September 17, 2024
 - [Orb founders grew so frustrated dealing with billing as engineers at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/) - 5:00 am PDT • September 17, 2024
