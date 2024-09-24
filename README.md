@@ -4,12 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/) - 14 hours ago
-- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 19 hours ago
-- [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/) - 20 hours ago
-- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/09/23/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 21 hours ago
-- [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/) - 22 hours ago
-- [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/) - 22 hours ago
+- [Data platform Airbyte can now create API connectors by reading the docs](https://techcrunch.com/2024/09/24/data-platform-airbyte-can-now-create-api-connectors-by-reading-the-docs/) - 1 hour ago
+- [Just 4 days left to save up to $600 on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/24/just-4-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-passes/) - 1 hour ago
+- [Workera’s CEO was mentored by Andrew Ng. Now he wants an AI agent to mentor you](https://techcrunch.com/2024/09/24/workeras-ceo-was-mentored-by-andrew-ng-now-he-wants-an-ai-agent-to-mentor-you/) - 2 hours ago
+- [Fintech Mesa promises 1% cash back on mortgages, up to 3x on other home needs](https://techcrunch.com/2024/09/24/fintech-mesa-promises-1-cash-back-on-mortgages-up-to-3x-on-other-home-needs/) - 3 hours ago
+- [Torq, which automates cybersecurity workflows, raises $70M in new capital](https://techcrunch.com/2024/09/24/torq-which-automates-cybersecurity-workflows-raises-70m-in-new-cash/) - 4 hours ago
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/) - 18 hours ago
+- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 23 hours ago
+- [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/) - 1 day ago
+- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/09/23/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 1 day ago
+- [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/) - 1 day ago
+- [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/) - 1 day ago
 - [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/) - 1 day ago
 - [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 1 day ago
 - [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 2 days ago
@@ -55,12 +60,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 8:00 am PDT • September 17, 2024
 - [SocialAI offers a Twitter-like diary where AI bots respond to your posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) - 7:39 am PDT • September 17, 2024
 - [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/) - 6:53 am PDT • September 17, 2024
-- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 6:00 am PDT • September 17, 2024
 - [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen ](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/) - 6:00 am PDT • September 17, 2024
 - [Ome’s $129 Smart Knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/) - 6:00 am PDT • September 17, 2024
+- [Arzeda is using AI to design proteins for natural sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/) - 6:00 am PDT • September 17, 2024
 - [The cybersecurity labor gap now stands at 4M+ open jobs — Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/) - 5:40 am PDT • September 17, 2024
-- [GreenLite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/) - 5:00 am PDT • September 17, 2024
-- [Orb founders grew so frustrated dealing with billing as engineers at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/) - 5:00 am PDT • September 17, 2024
-- [Quick-commerce startup Flink raises another $150M at a valuation of nearly $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/) - 11:40 pm PDT • September 16, 2024
-- [Runway announces an API for its video-generating AI models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/) - 11:18 am PDT • September 16, 2024
-- [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/) - 10:22 am PDT • September 16, 2024
