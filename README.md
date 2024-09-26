@@ -4,20 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 22 mins ago
-- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 1 hour ago
-- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 7 hours ago
-- [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 12 hours ago
-- [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 13 hours ago
-- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 14 hours ago
-- [Y Combinator’s next Demo Day will include in-person seats for top VCs, Garry Tan says](https://techcrunch.com/2024/09/25/y-combinators-next-demo-day-will-include-in-person-seats-for-top-vcs-garry-tan-says/) - 18 hours ago
-- [Diagrid launches Catalyst to help enterprises build their microservices](https://techcrunch.com/2024/09/25/diagrid-launches-catalyst-to-help-enterprises-build-their-microservices/) - 20 hours ago
-- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/25/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 20 hours ago
-- [Ayrton Energy mimics margarine to store hydrogen safely](https://techcrunch.com/2024/09/25/ayrton-energy-mimics-margarine-to-store-hydrogen-safely/) - 20 hours ago
-- [Toyota Ventures on the hydrogen plateau and the IRA funding crutch](https://techcrunch.com/podcast/toyota-ventures-on-the-hydrogen-plateau-and-the-ira-funding-crutch/) - 22 hours ago
-- [Final 3 days to score up to $600 in savings on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/25/final-3-days-to-score-up-to-600-in-savings-on-techcrunch-disrupt-2024-passes/) - 22 hours ago
-- [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/) - 23 hours ago
-- [Supabase, a Postgres-centric developer platform, raises $80M Series C](https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c/) - 23 hours ago
+- [EVA, an entertainment booking platform for events, raises $2M as it expands to more cities ](https://techcrunch.com/2024/09/26/eva-entertainment-booking-platform-raises-2m-expands-to-more-cities/) - 14 mins ago
+- [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - 19 mins ago
+- [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 1 hour ago
+- [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/) - 2 hours ago
+- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 4 hours ago
+- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 5 hours ago
+- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 11 hours ago
+- [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 16 hours ago
+- [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 16 hours ago
+- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 18 hours ago
+- [Y Combinator’s next Demo Day will include in-person seats for top VCs, Garry Tan says](https://techcrunch.com/2024/09/25/y-combinators-next-demo-day-will-include-in-person-seats-for-top-vcs-garry-tan-says/) - 22 hours ago
+- [Diagrid launches Catalyst to help enterprises build their microservices](https://techcrunch.com/2024/09/25/diagrid-launches-catalyst-to-help-enterprises-build-their-microservices/) - 24 hours ago
+- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/25/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 24 hours ago
+- [Ayrton Energy mimics margarine to store hydrogen safely](https://techcrunch.com/2024/09/25/ayrton-energy-mimics-margarine-to-store-hydrogen-safely/) - 1 day ago
+- [Toyota Ventures on the hydrogen plateau and the IRA funding crutch](https://techcrunch.com/podcast/toyota-ventures-on-the-hydrogen-plateau-and-the-ira-funding-crutch/) - 1 day ago
+- [Final 3 days to score up to $600 in savings on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/25/final-3-days-to-score-up-to-600-in-savings-on-techcrunch-disrupt-2024-passes/) - 1 day ago
+- [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/) - 1 day ago
+- [Supabase, a Postgres-centric developer platform, raises $80M Series C](https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c/) - 1 day ago
 - [Whatfix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/) - 1 day ago
 - [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/) - 2 days ago
 - [Meet Tennibot, the tennis ball Roomba](https://techcrunch.com/podcast/meet-tennibot-the-tennis-ball-roomba/) - 2 days ago
@@ -60,7 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 7:30 am PDT • September 19, 2024
 - [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/) - 7:00 am PDT • September 19, 2024
 - [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/) - 6:30 am PDT • September 19, 2024
-- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/) - 6:00 am PDT • September 19, 2024
-- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/) - 6:00 am PDT • September 19, 2024
-- [Karman Industries hopes its SpaceX-inspired heat pumps will replace industrial boilers](https://techcrunch.com/2024/09/19/karman-industries-hopes-its-spacex-inspired-heat-pumps-will-replace-industrial-boilers/) - 5:30 am PDT • September 19, 2024
-- [Brightband sees a bright (and open source) future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/) - 4:31 am PDT • September 19, 2024
