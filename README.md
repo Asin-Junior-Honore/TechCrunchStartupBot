@@ -4,20 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/) - 1 hour ago
-- [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/) - 2 hours ago
-- [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/) - 10 hours ago
-- [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/) - 11 hours ago
-- [Nomi’s companion chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/) - 20 hours ago
-- [Zap Energy investors in recent $130M round included Soros Fund and Laurene Powell Jobs’ Emerson Collective](https://techcrunch.com/2024/09/26/zap-energy-investors-in-recent-130m-round-included-soros-fund-and-laurene-powell-jobs-emerson-collective/) - 22 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/26/wordpress-vs-wp-engine-drama-explained/) - 23 hours ago
+- [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 43 mins ago
+- [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 2 hours ago
+- [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/) - 5 hours ago
+- [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/) - 5 hours ago
+- [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/) - 13 hours ago
+- [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/) - 14 hours ago
+- [Nomi’s companion chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/) - 24 hours ago
+- [Zap Energy investors in recent $130M round included Soros Fund and Laurene Powell Jobs’ Emerson Collective](https://techcrunch.com/2024/09/26/zap-energy-investors-in-recent-130m-round-included-soros-fund-and-laurene-powell-jobs-emerson-collective/) - 1 day ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/26/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
 - [EVA, an entertainment booking platform for events, raises $2M as it expands to more cities ](https://techcrunch.com/2024/09/26/eva-entertainment-booking-platform-raises-2m-expands-to-more-cities/) - 1 day ago
 - [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - 1 day ago
 - [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 1 day ago
 - [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/) - 1 day ago
 - [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 1 day ago
 - [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 1 day ago
-- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 1 day ago
+- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 2 days ago
 - [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 2 days ago
 - [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 2 days ago
 - [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 2 days ago
@@ -46,7 +48,7 @@ Here are the latest articles from TechCrunch Startups:
 - [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/) - 4 days ago
 - [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/) - 4 days ago
 - [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/) - 4 days ago
-- [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 4 days ago
+- [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 5 days ago
 - [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 9:32 am PDT • September 22, 2024
 - [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 8:00 am PDT • September 22, 2024
 - [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 5:00 am PDT • September 22, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/) - 7:30 am PDT • September 20, 2024
 - [She sat down during the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/) - 7:13 am PDT • September 20, 2024
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/) - 3:31 am PDT • September 20, 2024
-- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/) - 11:34 pm PDT • September 19, 2024
-- [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/) - 11:03 am PDT • September 19, 2024
