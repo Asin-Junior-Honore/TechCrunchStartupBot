@@ -4,18 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Zap Energy investors in recent $130M round included Soros Fund and Laurene Powell Jobs’ Emerson Collective](https://techcrunch.com/2024/09/26/zap-energy-investors-in-recent-130m-round-included-soros-fund-and-laurene-powell-jobs-emerson-collective/) - 2 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/26/wordpress-vs-wp-engine-drama-explained/) - 3 hours ago
-- [EVA, an entertainment booking platform for events, raises $2M as it expands to more cities ](https://techcrunch.com/2024/09/26/eva-entertainment-booking-platform-raises-2m-expands-to-more-cities/) - 4 hours ago
-- [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - 4 hours ago
-- [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/) - 6 hours ago
-- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 8 hours ago
-- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 9 hours ago
-- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 15 hours ago
-- [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 20 hours ago
-- [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 20 hours ago
-- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 22 hours ago
+- [Nomi’s companion chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/) - 5 hours ago
+- [Zap Energy investors in recent $130M round included Soros Fund and Laurene Powell Jobs’ Emerson Collective](https://techcrunch.com/2024/09/26/zap-energy-investors-in-recent-130m-round-included-soros-fund-and-laurene-powell-jobs-emerson-collective/) - 6 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/26/wordpress-vs-wp-engine-drama-explained/) - 8 hours ago
+- [EVA, an entertainment booking platform for events, raises $2M as it expands to more cities ](https://techcrunch.com/2024/09/26/eva-entertainment-booking-platform-raises-2m-expands-to-more-cities/) - 9 hours ago
+- [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - 9 hours ago
+- [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/) - 10 hours ago
+- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 13 hours ago
+- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 13 hours ago
+- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 20 hours ago
+- [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 1 day ago
+- [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 1 day ago
+- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 1 day ago
 - [Y Combinator’s next Demo Day will include in-person seats for top VCs, Garry Tan says](https://techcrunch.com/2024/09/25/y-combinators-next-demo-day-will-include-in-person-seats-for-top-vcs-garry-tan-says/) - 1 day ago
 - [Diagrid launches Catalyst to help enterprises build their microservices](https://techcrunch.com/2024/09/25/diagrid-launches-catalyst-to-help-enterprises-build-their-microservices/) - 1 day ago
 - [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/25/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 1 day ago
@@ -24,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Final 3 days to score up to $600 in savings on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/25/final-3-days-to-score-up-to-600-in-savings-on-techcrunch-disrupt-2024-passes/) - 1 day ago
 - [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/) - 1 day ago
 - [Supabase, a Postgres-centric developer platform, raises $80M Series C](https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c/) - 1 day ago
-- [Whatfix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/) - 1 day ago
+- [Whatfix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/) - 2 days ago
 - [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/) - 2 days ago
 - [Meet Tennibot, the tennis ball Roomba](https://techcrunch.com/podcast/meet-tennibot-the-tennis-ball-roomba/) - 2 days ago
 - [EGYM, a connected fitness startup conceived after the founder hit a wall at the gym, lands $200M at a $1.2B+ valuation](https://techcrunch.com/2024/09/24/egym-a-connected-fitness-startup-conceived-after-the-founder-hit-a-wall-at-the-gym-is-ramping-up-with-200m-at-a-1-2b-valuation/) - 2 days ago
@@ -34,17 +35,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Just 4 days left to save up to $600 on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/24/just-4-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-passes/) - 2 days ago
 - [Workera’s CEO was mentored by Andrew Ng. Now he wants an AI agent to mentor you.](https://techcrunch.com/2024/09/24/workeras-ceo-was-mentored-by-andrew-ng-now-he-wants-an-ai-agent-to-mentor-you/) - 2 days ago
 - [Fintech Mesa promises 1% cash back on mortgages, up to 3x on other home needs](https://techcrunch.com/2024/09/24/fintech-mesa-promises-1-cash-back-on-mortgages-up-to-3x-on-other-home-needs/) - 2 days ago
-- [Torq, which automates cybersecurity workflows, raises $70M in new capital](https://techcrunch.com/2024/09/24/torq-which-automates-cybersecurity-workflows-raises-70m-in-new-cash/) - 2 days ago
+- [Torq, which automates cybersecurity workflows, raises $70M in new capital](https://techcrunch.com/2024/09/24/torq-which-automates-cybersecurity-workflows-raises-70m-in-new-cash/) - 3 days ago
 - [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/) - 3 days ago
 - [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/) - 3 days ago
 - [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/09/23/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 3 days ago
 - [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/) - 3 days ago
 - [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/) - 3 days ago
-- [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/) - 3 days ago
+- [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/) - 4 days ago
 - [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 4 days ago
 - [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 4 days ago
 - [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 4 days ago
-- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 4 days ago
+- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 5 days ago
 - [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 8:55 am PDT • September 21, 2024
 - [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 8:47 am PDT • September 21, 2024
 - [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 2:53 pm PDT • September 20, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/) - 8:17 am PDT • September 19, 2024
 - [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/) - 8:00 am PDT • September 19, 2024
 - [UPchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/) - 8:00 am PDT • September 19, 2024
-- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/) - 7:30 am PDT • September 19, 2024
