@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - 21 hours ago
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 12 seconds ago
+- [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - 1 day ago
 - [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 1 day ago
-- [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 1 day ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/27/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
+- [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 2 days ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/27/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 2 days ago
 - [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 2 days ago
 - [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 2 days ago
@@ -36,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/) - 4 days ago
 - [Supabase, a Postgres-centric developer platform, raises $80M Series C](https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c/) - 4 days ago
 - [Whatfix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/) - 4 days ago
-- [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/) - 5 days ago
-- [Meet Tennibot, the tennis ball Roomba](https://techcrunch.com/podcast/meet-tennibot-the-tennis-ball-roomba/) - 5 days ago
-- [EGYM, a connected fitness startup conceived after the founder hit a wall at the gym, lands $200M at a $1.2B+ valuation](https://techcrunch.com/2024/09/24/egym-a-connected-fitness-startup-conceived-after-the-founder-hit-a-wall-at-the-gym-is-ramping-up-with-200m-at-a-1-2b-valuation/) - 5 days ago
+- [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/) - 1:57 pm PDT • September 24, 2024
+- [Meet Tennibot, the tennis ball Roomba](https://techcrunch.com/podcast/meet-tennibot-the-tennis-ball-roomba/) - 12:53 pm PDT • September 24, 2024
+- [EGYM, a connected fitness startup conceived after the founder hit a wall at the gym, lands $200M at a $1.2B+ valuation](https://techcrunch.com/2024/09/24/egym-a-connected-fitness-startup-conceived-after-the-founder-hit-a-wall-at-the-gym-is-ramping-up-with-200m-at-a-1-2b-valuation/) - 12:13 pm PDT • September 24, 2024
 - [Northvolt lays off 1,600 workers, but it’s not the end for Europe’s battery champion](https://techcrunch.com/2024/09/24/northvolt-lays-off-1600-workers-but-its-not-the-end-for-europes-battery-champion/) - 11:17 am PDT • September 24, 2024
 - [From dinners with Travis Kalanick to fired after maternity leave: One of CloudKitchens’ earliest employees is suing](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/) - 10:18 am PDT • September 24, 2024
 - [Data platform Airbyte can now create API connectors by reading the docs](https://techcrunch.com/2024/09/24/data-platform-airbyte-can-now-create-api-connectors-by-reading-the-docs/) - 8:00 am PDT • September 24, 2024
@@ -63,4 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 10:05 am PDT • September 20, 2024
 - [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 9:41 am PDT • September 20, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 9:15 am PDT • September 20, 2024
-- [‘Super weird’ is the best way to describe this startup’s pivot](https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/) - 8:30 am PDT • September 20, 2024
