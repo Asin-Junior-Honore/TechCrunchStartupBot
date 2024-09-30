@@ -4,11 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/) - 7 hours ago
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 20 hours ago
+- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 1 min ago
+- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - 1 hour ago
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 1 hour ago
+- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - 2 hours ago
+- [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - 3 hours ago
+- [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - 3 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/) - 11 hours ago
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 1 day ago
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - 2 days ago
 - [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 2 days ago
-- [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 2 days ago
+- [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 3 days ago
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 3 days ago
 - [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 3 days ago
 - [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 3 days ago
@@ -27,7 +33,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 4 days ago
 - [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 5 days ago
 - [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 5 days ago
-- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 5 days ago
+- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 2:52 pm PDT • September 25, 2024
 - [Y Combinator’s next Demo Day will include in-person seats for top VCs, Garry Tan says](https://techcrunch.com/2024/09/25/y-combinators-next-demo-day-will-include-in-person-seats-for-top-vcs-garry-tan-says/) - 11:16 am PDT • September 25, 2024
 - [Diagrid launches Catalyst to help enterprises build their microservices](https://techcrunch.com/2024/09/25/diagrid-launches-catalyst-to-help-enterprises-build-their-microservices/) - 9:36 am PDT • September 25, 2024
 - [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/25/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/) - 9:20 am PDT • September 25, 2024
@@ -58,9 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 8:00 am PDT • September 22, 2024
 - [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 5:00 am PDT • September 22, 2024
 - [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 8:55 am PDT • September 21, 2024
-- [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/) - 8:47 am PDT • September 21, 2024
-- [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/) - 2:53 pm PDT • September 20, 2024
-- [The 25 battery tech startups that just got a piece of $3B in federal funds  ](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/) - 12:16 pm PDT • September 20, 2024
-- [M&As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/) - 10:05 am PDT • September 20, 2024
-- [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/) - 9:41 am PDT • September 20, 2024
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/) - 9:15 am PDT • September 20, 2024
