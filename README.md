@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 4 hours ago
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 9 hours ago
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - 1 day ago
-- [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 1 day ago
+- [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 2 days ago
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 2 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/27/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 2 days ago
@@ -22,8 +22,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - 3 days ago
 - [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 3 days ago
 - [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/) - 3 days ago
-- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 3 days ago
-- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 3 days ago
+- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 4 days ago
+- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 4 days ago
 - [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 4 days ago
 - [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 4 days ago
 - [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 4 days ago
@@ -36,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Final 3 days to score up to $600 in savings on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/25/final-3-days-to-score-up-to-600-in-savings-on-techcrunch-disrupt-2024-passes/) - 4 days ago
 - [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/) - 4 days ago
 - [Supabase, a Postgres-centric developer platform, raises $80M Series C](https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c/) - 4 days ago
-- [Whatfix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/) - 4 days ago
+- [Whatfix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/) - 5 days ago
 - [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/) - 1:57 pm PDT • September 24, 2024
 - [Meet Tennibot, the tennis ball Roomba](https://techcrunch.com/podcast/meet-tennibot-the-tennis-ball-roomba/) - 12:53 pm PDT • September 24, 2024
 - [EGYM, a connected fitness startup conceived after the founder hit a wall at the gym, lands $200M at a $1.2B+ valuation](https://techcrunch.com/2024/09/24/egym-a-connected-fitness-startup-conceived-after-the-founder-hit-a-wall-at-the-gym-is-ramping-up-with-200m-at-a-1-2b-valuation/) - 12:13 pm PDT • September 24, 2024
