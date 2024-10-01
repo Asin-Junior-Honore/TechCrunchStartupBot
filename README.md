@@ -4,16 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 4 hours ago
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - 5 hours ago
-- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - 6 hours ago
-- [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - 7 hours ago
-- [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - 7 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/) - 15 hours ago
+- [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - 35 mins ago
+- [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - 1 hour ago
+- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 9 hours ago
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - 10 hours ago
+- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - 11 hours ago
+- [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - 12 hours ago
+- [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - 12 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/) - 19 hours ago
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 1 day ago
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - 2 days ago
-- [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 2 days ago
+- [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 3 days ago
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 3 days ago
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 3 days ago
 - [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 3 days ago
@@ -28,9 +30,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - 4 days ago
 - [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/) - 4 days ago
-- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 4 days ago
-- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 4 days ago
-- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 5 days ago
+- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/) - 5 days ago
+- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/) - 5 days ago
+- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/) - 10:00 pm PDT • September 25, 2024
 - [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/) - 5:05 pm PDT • September 25, 2024
 - [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/) - 4:46 pm PDT • September 25, 2024
 - [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/) - 2:52 pm PDT • September 25, 2024
@@ -62,5 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/) - 12:30 am PDT • September 23, 2024
 - [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/) - 9:32 am PDT • September 22, 2024
 - [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/) - 8:00 am PDT • September 22, 2024
-- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/) - 5:00 am PDT • September 22, 2024
-- [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/) - 8:55 am PDT • September 21, 2024
