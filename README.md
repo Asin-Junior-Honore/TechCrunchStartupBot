@@ -4,21 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 11 hours ago
-- [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 13 hours ago
-- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 16 hours ago
-- [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 16 hours ago
-- [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 16 hours ago
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 17 hours ago
-- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - 17 hours ago
-- [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/) - 23 hours ago
+- [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - 25 seconds ago
+- [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - 2 hours ago
+- [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - 2 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 15 hours ago
+- [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 17 hours ago
+- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 20 hours ago
+- [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 20 hours ago
+- [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 20 hours ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 21 hours ago
+- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - 21 hours ago
+- [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/) - 1 day ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
 - [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - 1 day ago
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - 1 day ago
-- [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - 1 day ago
+- [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - 2 days ago
 - [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 2 days ago
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 2 days ago
 - [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - 2 days ago
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - 2 days ago
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - 2 days ago
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - 2 days ago
@@ -26,10 +29,10 @@ Here are the latest articles from TechCrunch Startups:
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - 4 days ago
 - [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 4 days ago
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 4 days ago
-- [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 4 days ago
+- [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 5 days ago
 - [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 5 days ago
-- [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 5 days ago
-- [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/) - 5 days ago
+- [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 10:50 am PDT • September 27, 2024
+- [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/) - 8:00 am PDT • September 27, 2024
 - [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/) - 7:30 am PDT • September 27, 2024
 - [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/) - 11:23 pm PDT • September 26, 2024
 - [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/) - 10:36 pm PDT • September 26, 2024
@@ -61,6 +64,3 @@ Here are the latest articles from TechCrunch Startups:
 - [From dinners with Travis Kalanick to fired after maternity leave: One of CloudKitchens’ earliest employees is suing](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/) - 10:18 am PDT • September 24, 2024
 - [Data platform Airbyte can now create API connectors by reading the docs](https://techcrunch.com/2024/09/24/data-platform-airbyte-can-now-create-api-connectors-by-reading-the-docs/) - 8:00 am PDT • September 24, 2024
 - [Just 4 days left to save up to $600 on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/24/just-4-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-passes/) - 8:00 am PDT • September 24, 2024
-- [Workera’s CEO was mentored by Andrew Ng. Now he wants an AI agent to mentor you.](https://techcrunch.com/2024/09/24/workeras-ceo-was-mentored-by-andrew-ng-now-he-wants-an-ai-agent-to-mentor-you/) - 7:00 am PDT • September 24, 2024
-- [Fintech Mesa promises 1% cash back on mortgages, up to 3x on other home needs](https://techcrunch.com/2024/09/24/fintech-mesa-promises-1-cash-back-on-mortgages-up-to-3x-on-other-home-needs/) - 6:00 am PDT • September 24, 2024
-- [Torq, which automates cybersecurity workflows, raises $70M in new capital](https://techcrunch.com/2024/09/24/torq-which-automates-cybersecurity-workflows-raises-70m-in-new-cash/) - 5:30 am PDT • September 24, 2024
