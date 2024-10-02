@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 7 hours ago
-- [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 9 hours ago
-- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 12 hours ago
-- [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 12 hours ago
-- [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 12 hours ago
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 13 hours ago
-- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - 13 hours ago
-- [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/) - 19 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/) - 21 hours ago
-- [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - 24 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 11 hours ago
+- [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 13 hours ago
+- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 16 hours ago
+- [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 16 hours ago
+- [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 16 hours ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 17 hours ago
+- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - 17 hours ago
+- [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/) - 23 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
+- [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - 1 day ago
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - 1 day ago
 - [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - 1 day ago
-- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 1 day ago
+- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 2 days ago
 - [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 2 days ago
 - [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - 2 days ago
 - [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - 2 days ago
@@ -27,10 +27,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - 4 days ago
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - 4 days ago
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - 4 days ago
-- [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 4 days ago
-- [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 4 days ago
+- [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - 5 days ago
+- [Green flags for defense tech and Silicon Valley’s longevity obsession](https://techcrunch.com/podcast/green-flags-for-defense-tech-and-silicon-valleys-longevity-obsession/) - 5 days ago
 - [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/) - 5 days ago
-- [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/) - 5 days ago
+- [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/) - 7:30 am PDT • September 27, 2024
 - [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/) - 11:23 pm PDT • September 26, 2024
 - [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/) - 10:36 pm PDT • September 26, 2024
 - [Nomi’s companion chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/) - 12:49 pm PDT • September 26, 2024
