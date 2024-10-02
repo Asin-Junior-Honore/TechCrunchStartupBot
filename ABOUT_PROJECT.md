@@ -1,4 +1,4 @@
-Sure, here's the revised `PROJECT.md` file with emojis and specifying that the bot runs hourly:
+
 
 ```markdown
 # 📰 TechCrunchStartupBot
