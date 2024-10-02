@@ -13,16 +13,17 @@ exports.scrapeData = void 0;
 function scrapeData(page) {
     return __awaiter(this, void 0, void 0, function* () {
         return yield page.evaluate(() => {
-            const items = document.querySelectorAll('.wp-block-tc23-post-picker');
+            const items = document.querySelectorAll('li.wp-block-post');
             const results = [];
+            // Iterate through each item
             items.forEach(item => {
                 var _a, _b, _c;
-                const titleElement = item.querySelector('h2');
-                const linkElement = titleElement === null || titleElement === void 0 ? void 0 : titleElement.querySelector('a');
-                const timeAgoElement = item.querySelector('.wp-block-tc23-post-time-ago');
+                const titleElement = item.querySelector('.loop-card__title-link');
+                const timeAgoElement = item.querySelector('.loop-card__meta .wp-block-tc23-post-time-ago');
                 const title = (_a = titleElement === null || titleElement === void 0 ? void 0 : titleElement.innerText) !== null && _a !== void 0 ? _a : 'Title not found';
-                const link = (_b = linkElement === null || linkElement === void 0 ? void 0 : linkElement.href) !== null && _b !== void 0 ? _b : '#';
+                const link = (_b = titleElement === null || titleElement === void 0 ? void 0 : titleElement.href) !== null && _b !== void 0 ? _b : '#';
                 const timeAgo = (_c = timeAgoElement === null || timeAgoElement === void 0 ? void 0 : timeAgoElement.innerText) !== null && _c !== void 0 ? _c : 'Time not found';
+                // Push results
                 results.push({ title, link, timeAgo });
             });
             return results;
