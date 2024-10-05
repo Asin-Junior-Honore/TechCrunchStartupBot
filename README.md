@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 2 hours ago
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 18 hours ago
-- [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - 21 hours ago
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 22 hours ago
-- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 23 hours ago
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 23 hours ago
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 3 hours ago
+- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 6 hours ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 22 hours ago
+- [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - 1 day ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 1 day ago
+- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 1 day ago
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - 1 day ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/) - 2 days ago
@@ -33,30 +34,29 @@ Here are the latest articles from TechCrunch Startups:
 - [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - 3 days ago
 - [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - 3 days ago
 - [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - 3 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 4 days ago
 - [What’s in the rug? How TikTok got swept into a real-time true crime story](https://techcrunch.com/2024/10/05/whats-in-the-rug-how-tiktok-got-swept-into-a-real-time-true-crime-story/) - Time not found
 - [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/) - Time not found
+- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - Time not found
 - [5 ‘dumbphones’ that can still run WhatsApp](https://techcrunch.com/2024/10/05/5-dumbphones-that-can-still-run-whatsapp/) - Time not found
-- [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/) - Time not found
-- [Waymo picks its next robotaxi, Joby lands more Toyota bucks, and Cybertruck notches its fifth recall ](https://techcrunch.com/2024/10/04/waymo-picks-its-next-robotaxi-joby-lands-more-toyota-bucks-and-cybertruck-notches-its-fifth-recall/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - Time not found
 - [Even the ‘godmother of AI’ has no idea what AGI is](https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/) - Time not found
-- [Voyage AI is building RAG tools to make AI hallucinate less](https://techcrunch.com/2024/10/03/voyage-ai-is-building-rag-tools-to-make-ai-hallucinate-less/) - Time not found
+- [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/) - Time not found
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 4 days ago
 - [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 4 days ago
 - [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 4 days ago
 - [Acceleron Fusion has raised $15M to take a stab at colder fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 4 days ago
 - [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - 4 days ago
 - [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/) - 4 days ago
-- [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - 4 days ago
-- [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - 5 days ago
-- [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - 5 days ago
+- [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - 5 days ago
+- [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - Sep 30, 2024
+- [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - Sep 30, 2024
 - [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - Sep 30, 2024
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
 - [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - Sep 30, 2024
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
 - [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - Sep 30, 2024
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - Sep 30, 2024
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - Sep 30, 2024
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Sep 29, 2024
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - Sep 28, 2024
 - [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - Sep 28, 2024
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - Sep 27, 2024
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Subscription management platform RevenueCat acquires a ‘spicy’ audiobooks app (??!!)](https://techcrunch.com/2024/09/26/subscription-management-platform-revenuecat-acquires-a-spicy-audiobooks-app/) - Sep 26, 2024
 - [What’s in the rug? How TikTok got swept into a real-time true crime story](https://techcrunch.com/2024/10/05/whats-in-the-rug-how-tiktok-got-swept-into-a-real-time-true-crime-story/) - Time not found
 - [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/) - Time not found
+- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - Time not found
 - [5 ‘dumbphones’ that can still run WhatsApp](https://techcrunch.com/2024/10/05/5-dumbphones-that-can-still-run-whatsapp/) - Time not found
-- [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/) - Time not found
-- [Waymo picks its next robotaxi, Joby lands more Toyota bucks, and Cybertruck notches its fifth recall ](https://techcrunch.com/2024/10/04/waymo-picks-its-next-robotaxi-joby-lands-more-toyota-bucks-and-cybertruck-notches-its-fifth-recall/) - Time not found
-- [Even the ‘godmother of AI’ has no idea what AGI is](https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/) - Time not found
-- [Palmer Luckey: Every country needs a ‘warrior class’ excited to enact ‘violence on others in pursuit of good aims’](https://techcrunch.com/2024/10/01/palmer-luckey-every-country-needs-a-warrior-class-excited-to-enact-violence-on-others-in-pursuit-of-good-aims/) - Time not found
+- [YouTube apologizes for falsely banning channels for spam, canceling subscriptions](https://techcrunch.com/2024/10/04/youtube-apologizes-for-falsely-banning-channels-for-spam-canceling-subscriptions/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - Time not found
+- [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/) - Time not found
