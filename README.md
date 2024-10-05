@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 10 hours ago
-- [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - 13 hours ago
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 14 hours ago
-- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 15 hours ago
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 15 hours ago
-- [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - 17 hours ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 14 hours ago
+- [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - 17 hours ago
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 18 hours ago
+- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 19 hours ago
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 19 hours ago
+- [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - 21 hours ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
-- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 1 day ago
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 2 days ago
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/) - 2 days ago
 - [FPV Ventures, Mill, and Bullish rise above the hype at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/fpv-ventures-mill-and-bullish-rise-above-the-hype-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Wiz CEO Assaf Rappaport is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/wiz-ceo-assaf-rappaport-is-coming-to-techcrunch-disrupt-2024/) - 2 days ago
@@ -32,15 +32,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - 3 days ago
 - [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - 3 days ago
 - [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - 3 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 3 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 4 days ago
 - [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 4 days ago
 - [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/) - Time not found
 - [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - Time not found
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2024/10/04/every-fusion-startup-that-has-raised-over-100m/) - Time not found
 - [Amazon closes more of its cashierless convenience stores](https://techcrunch.com/2024/10/04/amazon-closes-more-of-its-cashierless-convenience-stores/) - Time not found
+- [Why EnergyX raised $75M from small investors, even after taking VC money from GM and others](https://techcrunch.com/2024/10/04/why-energyx-raised-75m-from-small-investors-even-after-taking-vc-money-from-gm-and-others/) - Time not found
 - [Swiggy escalates India quick-commerce battle with 10-minute meals](https://techcrunch.com/2024/10/04/swiggy-escalates-india-quick-commerce-battle-with-10-minute-meals/) - Time not found
-- [Kenya fines Baltic fintech Eleving’s local arm for misleading customers](https://techcrunch.com/2024/10/04/baltic-fintech-eleving-fined-in-kenya/) - Time not found
-- [Hey, UK! Here’s how to ‘opt out’ of Meta using your Facebook and Instagram data to train its AI](https://techcrunch.com/2024/10/03/hey-uk-heres-how-to-opt-out-of-meta-using-your-facebook-and-instagram-data-to-train-its-ai/) - Time not found
+- [Even the ‘godmother of AI’ has no idea what AGI is](https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/) - Time not found
+- [Video editing app Captions launches an AI-powered social media manager for sites](https://techcrunch.com/2024/10/03/video-editing-app-captions-launches-an-ai-powered-social-media-manager-for-sites/) - Time not found
 - [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 4 days ago
 - [Acceleron Fusion has raised $15M to take a stab at colder fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 4 days ago
 - [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 4 days ago
@@ -49,10 +49,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - 4 days ago
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - 4 days ago
 - [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - 4 days ago
-- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - 5 days ago
-- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - 5 days ago
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - 5 days ago
-- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - 5 days ago
+- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - Sep 30, 2024
+- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - Sep 30, 2024
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
+- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - Sep 30, 2024
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - Sep 30, 2024
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - Sep 30, 2024
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Sep 29, 2024
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/) - Time not found
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - Time not found
 - [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - Time not found
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2024/10/04/every-fusion-startup-that-has-raised-over-100m/) - Time not found
-- [Why EnergyX raised $75M from small investors, even after taking VC money from GM and others](https://techcrunch.com/2024/10/04/why-energyx-raised-75m-from-small-investors-even-after-taking-vc-money-from-gm-and-others/) - Time not found
 - [Swiggy escalates India quick-commerce battle with 10-minute meals](https://techcrunch.com/2024/10/04/swiggy-escalates-india-quick-commerce-battle-with-10-minute-meals/) - Time not found
-- [Even the ‘godmother of AI’ has no idea what AGI is](https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/) - Time not found
+- [Kenya fines Baltic fintech Eleving’s local arm for misleading customers](https://techcrunch.com/2024/10/04/baltic-fintech-eleving-fined-in-kenya/) - Time not found
+- [Black Forest Labs, the startup behind Grok’s image generator, releases an API](https://techcrunch.com/2024/10/03/black-forest-labs-the-startup-behind-groks-image-generator-releases-an-api/) - Time not found
+- [Google can now read your doctor’s bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/) - Time not found
