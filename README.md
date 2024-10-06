@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 15 hours ago
-- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 18 hours ago
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 1 day ago
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 19 hours ago
+- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 22 hours ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 2 days ago
 - [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - 2 days ago
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 2 days ago
 - [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - 2 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
-- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 2 days ago
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 2 days ago
+- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 3 days ago
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 3 days ago
 - [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/) - 3 days ago
 - [FPV Ventures, Mill, and Bullish rise above the hype at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/fpv-ventures-mill-and-bullish-rise-above-the-hype-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Wiz CEO Assaf Rappaport is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/wiz-ceo-assaf-rappaport-is-coming-to-techcrunch-disrupt-2024/) - 3 days ago
@@ -36,24 +36,24 @@ Here are the latest articles from TechCrunch Startups:
 - [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - 4 days ago
 - [23andMe’s future prompts more worries, as genomic data analysis improves](https://techcrunch.com/2024/10/05/23andmes-future-prompts-more-worries-as-genomic-data-analysis-improves/) - Time not found
 - [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/) - Time not found
+- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - Time not found
+- [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/) - Time not found
 - [Swiggy escalates India quick-commerce battle with 10-minute meals](https://techcrunch.com/2024/10/04/swiggy-escalates-india-quick-commerce-battle-with-10-minute-meals/) - Time not found
-- [Kenya fines Baltic fintech Eleving’s local arm for misleading customers](https://techcrunch.com/2024/10/04/baltic-fintech-eleving-fined-in-kenya/) - Time not found
-- [Hey, UK! Here’s how to ‘opt out’ of Meta using your Facebook and Instagram data to train its AI](https://techcrunch.com/2024/10/03/hey-uk-heres-how-to-opt-out-of-meta-using-your-facebook-and-instagram-data-to-train-its-ai/) - Time not found
-- [Starling Bank fined $39M for ‘facilitating financial crime’](https://techcrunch.com/2024/10/02/starling-bank-fined-39-million-for-facilitating-financial-crime/) - Time not found
-- [Google can now read your doctor’s bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/) - Time not found
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 4 days ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - Time not found
+- [Google exec suggests Instagram and TikTok are eating into Google’s core products, Search and Maps](https://techcrunch.com/2022/07/12/google-exec-suggests-instagram-and-tiktok-are-eating-into-googles-core-products-search-and-maps/) - Time not found
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - 5 days ago
 - [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - 5 days ago
-- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - 5 days ago
-- [Acceleron Fusion has raised $15M to take a stab at colder fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - 5 days ago
-- [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - 5 days ago
-- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - 5 days ago
+- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - Oct 1, 2024
+- [Acceleron Fusion has raised $15M to take a stab at colder fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - Oct 1, 2024
+- [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - Oct 1, 2024
+- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/) - Oct 1, 2024
 - [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/) - Oct 1, 2024
 - [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/) - Sep 30, 2024
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - Sep 30, 2024
 - [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - Sep 30, 2024
 - [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - Sep 30, 2024
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
 - [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - Sep 30, 2024
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
 - [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - Sep 30, 2024
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - Sep 30, 2024
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - Sep 30, 2024
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [23andMe’s future prompts more worries, as genomic data analysis improves](https://techcrunch.com/2024/10/05/23andmes-future-prompts-more-worries-as-genomic-data-analysis-improves/) - Time not found
 - [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/) - Time not found
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Time not found
+- [5 ‘dumbphones’ that can still run WhatsApp](https://techcrunch.com/2024/10/05/5-dumbphones-that-can-still-run-whatsapp/) - Time not found
 - [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/) - Time not found
-- [OpenAI also secured a massive credit line](https://techcrunch.com/2024/10/03/openai-also-secured-a-massive-credit-line/) - Time not found
-- [Starling Bank fined $39M for ‘facilitating financial crime’](https://techcrunch.com/2024/10/02/starling-bank-fined-39-million-for-facilitating-financial-crime/) - Time not found
-- [Google can now read your doctor’s bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/) - Time not found
+- [YouTube apologizes for falsely banning channels for spam, canceling subscriptions](https://techcrunch.com/2024/10/04/youtube-apologizes-for-falsely-banning-channels-for-spam-canceling-subscriptions/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - Time not found
