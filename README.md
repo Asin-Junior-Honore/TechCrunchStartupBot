@@ -4,6 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 33 mins ago
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 1 day ago
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 1 day ago
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 2 days ago
@@ -19,10 +20,9 @@ Here are the latest articles from TechCrunch Startups:
 - [FPV Ventures, Mill, and Bullish rise above the hype at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/fpv-ventures-mill-and-bullish-rise-above-the-hype-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Wiz CEO Assaf Rappaport is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/wiz-ceo-assaf-rappaport-is-coming-to-techcrunch-disrupt-2024/) - 3 days ago
 - [Ollie scoops up health startup to launch a tool that analyzes dog poop](https://techcrunch.com/2024/10/03/ollie-scoops-up-health-startup-to-launch-a-tool-that-analyzes-dog-poop/) - 3 days ago
-- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 3 days ago
 - [Quoroom acquires Investory to scale up its capital-raising platform for startups](https://techcrunch.com/2024/10/03/quoroom-acquires-investory-to-scale-up-its-capital-raising-platform-for-startups/) - 3 days ago
 - [Voyage AI is building RAG tools to make AI hallucinate less](https://techcrunch.com/2024/10/03/voyage-ai-is-building-rag-tools-to-make-ai-hallucinate-less/) - 3 days ago
-- [ETH Zurich spinoff Voliro’s flying robots save lives, but don’t tell its CEO](https://techcrunch.com/2024/10/03/eth-zurich-spinoff-voliros-flying-robots-save-lives-but-dont-tell-its-ceo/) - 3 days ago
+- [ETH Zurich spinoff Voliro’s flying robots save lives, but don’t tell its CEO](https://techcrunch.com/2024/10/03/eth-zurich-spinoff-voliros-flying-robots-save-lives-but-dont-tell-its-ceo/) - 4 days ago
 - [OpenAI raises $6.6B and is now valued at $157B](https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/) - 4 days ago
 - [J.B. Hunt and UP.Labs launch venture lab to build logistics startups](https://techcrunch.com/2024/10/02/j-b-hunt-and-up-labs-launch-venture-lab-to-build-logistics-startups/) - 4 days ago
 - [AI coding startup Poolside raises $500M from eBay, Nvidia, and others](https://techcrunch.com/2024/10/02/ai-coding-startup-poolside-raises-500m-from-ebay-nvidia-and-others/) - 4 days ago
@@ -31,16 +31,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Character.AI hires a YouTube exec as CPO, says it will raise money next year with new partners](https://techcrunch.com/2024/10/02/character-ai-hires-ex-youtube-exec-as-cpo-says-will-raise-money-next-year-with-new-partners/) - 4 days ago
 - [Spill, the Black-owned Twitter alternative, scores investment from Kerry Washington](https://techcrunch.com/2024/10/02/spill-the-black-owned-twitter-alternative-scores-investment-from-kerry-washington/) - 4 days ago
 - [TuSimple founder Xiaodi Hou is back with a new autonomous truck startup](https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/) - 4 days ago
-- [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - 4 days ago
-- [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - 4 days ago
-- [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - 4 days ago
+- [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - 5 days ago
+- [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - 5 days ago
+- [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - 5 days ago
 - [AWS CEO Matt Garman on generative AI, open source, and closing services](https://techcrunch.com/2024/10/06/aws-ceo-matt-garman-on-generative-ai-open-source-and-closing-services/) - Time not found
 - [Tony Fadell-backed Plumerai brings on-device AI to home security cameras](https://techcrunch.com/2024/10/06/tony-fadell-backed-plumerai-brings-on-device-ai-to-home-security-cameras/) - Time not found
 - [New York’s top VCs under 30](https://techcrunch.com/2024/10/06/new-yorks-top-vcs-under-30/) - Time not found
 - [Website builder Squarespace says it’s training its AI tools with curation and taste](https://techcrunch.com/2024/10/06/cpo-paul-gubbay-says-squarespace-is-training-its-ai-tools-with-curation-and-taste/) - Time not found
 - [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/) - Time not found
-- [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/) - Time not found
-- [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/) - Time not found
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - Time not found
+- [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/) - Oct 1, 2024
 - [Motorway’s Harry Jones on why he co-founded five startups with the same team](https://techcrunch.com/podcast/motorways-harry-jones-on-why-he-co-founded-five-startups-with-the-same-team/) - Oct 1, 2024
 - [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - Oct 1, 2024
@@ -76,5 +76,5 @@ Here are the latest articles from TechCrunch Startups:
 - [New York’s top VCs under 30](https://techcrunch.com/2024/10/06/new-yorks-top-vcs-under-30/) - Time not found
 - [Website builder Squarespace says it’s training its AI tools with curation and taste](https://techcrunch.com/2024/10/06/cpo-paul-gubbay-says-squarespace-is-training-its-ai-tools-with-curation-and-taste/) - Time not found
 - [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/) - Time not found
-- [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/) - Time not found
-- [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - Time not found
+- [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/) - Time not found
+- [Waymo picks its next robotaxi, Joby lands more Toyota bucks, and Cybertruck notches its fifth recall ](https://techcrunch.com/2024/10/04/waymo-picks-its-next-robotaxi-joby-lands-more-toyota-bucks-and-cybertruck-notches-its-fifth-recall/) - Time not found
