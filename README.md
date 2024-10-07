@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 24 mins ago
-- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 54 mins ago
-- [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 4 hours ago
-- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 16 hours ago
+- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 3 hours ago
+- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 5 hours ago
+- [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 9 hours ago
+- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 20 hours ago
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 2 days ago
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 2 days ago
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 3 days ago
@@ -16,7 +16,7 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - 3 days ago
 - [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - 3 days ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 4 days ago
 - [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/) - 4 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Character.AI hires a YouTube exec as CPO, says it will raise money next year with new partners](https://techcrunch.com/2024/10/02/character-ai-hires-ex-youtube-exec-as-cpo-says-will-raise-money-next-year-with-new-partners/) - Oct 2, 2024
 - [Spill, the Black-owned Twitter alternative, scores investment from Kerry Washington](https://techcrunch.com/2024/10/02/spill-the-black-owned-twitter-alternative-scores-investment-from-kerry-washington/) - Oct 2, 2024
 - [TuSimple founder Xiaodi Hou is back with a new autonomous truck startup](https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/) - Oct 2, 2024
-- [Lucid Motors sets third straight quarterly sales record ahead of Gravity SUV launch](https://techcrunch.com/2024/10/07/lucid-motors-sets-third-straight-quarterly-sales-record-gravity-launch/) - Time not found
-- [Comcast says customer data stolen in ransomware attack on debt collection agency](https://techcrunch.com/2024/10/07/comcast-says-customer-data-stolen-in-ransomware-attack-on-debt-collection-agency/) - Time not found
-- [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - Time not found
-- [Flutterwave’s chief on the company’s executive hires, product focus, and IPO plans](https://techcrunch.com/2024/10/07/flutterwaves-ceo-agboola-on-hires-product-focus-and-future-plans/) - Time not found
-- [Klarna is about to oust another board member](https://techcrunch.com/2024/10/06/klarna-is-about-to-oust-another-board-member/) - Time not found
-- [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/) - Time not found
-- [Facebook launches a Gen Z-focused redesign](https://techcrunch.com/2024/10/04/facebook-launches-a-gen-z-focused-redesign/) - Time not found
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/) - Time not found
+- [The 30-year-old internet backdoor law that came back to bite](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/) - Time not found
+- [Tesla’s head of vehicle programs jumps to Waymo ahead of robotaxi reveal](https://techcrunch.com/2024/10/07/teslas-head-of-vehicle-programs-jumps-to-waymo-ahead-of-robotaxi-reveal/) - Time not found
+- [Apple fixes bugs in macOS Sequoia that broke some cybersecurity tools](https://techcrunch.com/2024/10/07/apple-fixes-bugs-in-macos-sequoia-that-broke-some-cybersecurity-tools/) - Time not found
+- [Fisker’s plan to make owners pay for recall repairs is illegal, DOJ says](https://techcrunch.com/2024/10/07/fiskers-plan-to-make-owners-pay-for-recall-repairs-is-illegal-doj-says/) - Time not found
+- [American Water warns of billing outages after finding hackers in its systems](https://techcrunch.com/2024/10/07/american-water-warns-of-billing-outages-after-finding-hackers-in-its-systems/) - Time not found
+- [KoBold Metals, which uses AI to help find critical minerals for the energy transition, raises $491M](https://techcrunch.com/2024/10/07/ai-powered-critical-mineral-startup-kobold-metals-has-raised-491m-filings-reveal/) - Time not found
 - [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - Oct 2, 2024
 - [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - Oct 2, 2024
 - [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/) - Oct 2, 2024
@@ -55,8 +55,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) - Sep 30, 2024
 - [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/) - Sep 30, 2024
 - [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/) - Sep 30, 2024
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
 - [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/) - Sep 30, 2024
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/) - Sep 30, 2024
 - [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/) - Sep 30, 2024
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - Sep 30, 2024
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - Sep 30, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/) - Sep 26, 2024
 - [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/) - Sep 26, 2024
 - [Nomi’s companion chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/) - Sep 26, 2024
-- [Lucid Motors sets third straight quarterly sales record ahead of Gravity SUV launch](https://techcrunch.com/2024/10/07/lucid-motors-sets-third-straight-quarterly-sales-record-gravity-launch/) - Time not found
-- [Comcast says customer data stolen in ransomware attack on debt collection agency](https://techcrunch.com/2024/10/07/comcast-says-customer-data-stolen-in-ransomware-attack-on-debt-collection-agency/) - Time not found
-- [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - Time not found
-- [Flutterwave’s chief on the company’s executive hires, product focus, and IPO plans](https://techcrunch.com/2024/10/07/flutterwaves-ceo-agboola-on-hires-product-focus-and-future-plans/) - Time not found
-- [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/) - Time not found
-- [GM is working on an eyes-off, hands-off driving system](https://techcrunch.com/2024/10/04/gm-is-working-on-an-eyes-off-hands-off-driving-system/) - Time not found
-- [Facebook launches a Gen Z-focused redesign](https://techcrunch.com/2024/10/04/facebook-launches-a-gen-z-focused-redesign/) - Time not found
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/) - Time not found
+- [The 30-year-old internet backdoor law that came back to bite](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/) - Time not found
+- [Tesla’s head of vehicle programs jumps to Waymo ahead of robotaxi reveal](https://techcrunch.com/2024/10/07/teslas-head-of-vehicle-programs-jumps-to-waymo-ahead-of-robotaxi-reveal/) - Time not found
+- [Apple fixes bugs in macOS Sequoia that broke some cybersecurity tools](https://techcrunch.com/2024/10/07/apple-fixes-bugs-in-macos-sequoia-that-broke-some-cybersecurity-tools/) - Time not found
+- [Fisker’s plan to make owners pay for recall repairs is illegal, DOJ says](https://techcrunch.com/2024/10/07/fiskers-plan-to-make-owners-pay-for-recall-repairs-is-illegal-doj-says/) - Time not found
+- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - Time not found
+- [KoBold Metals, which uses AI to help find critical minerals for the energy transition, raises $491M](https://techcrunch.com/2024/10/07/ai-powered-critical-mineral-startup-kobold-metals-has-raised-491m-filings-reveal/) - Time not found
