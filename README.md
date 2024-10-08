@@ -4,16 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - 10 mins ago
-- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - 10 mins ago
-- [Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - 4 hours ago
-- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/) - 6 hours ago
-- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 6 hours ago
-- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 13 hours ago
-- [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 13 hours ago
-- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 21 hours ago
+- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce 2030 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 18 mins ago
+- [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - 47 mins ago
+- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - 3 hours ago
+- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - 3 hours ago
+- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - 4 hours ago
+- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - 4 hours ago
+- [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - 8 hours ago
+- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/) - 10 hours ago
+- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 10 hours ago
+- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 17 hours ago
+- [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 17 hours ago
+- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 1 day ago
-- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 1 day ago
+- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 2 days ago
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 3 days ago
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 3 days ago
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 4 days ago
@@ -23,24 +27,24 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - 4 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
-- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - 5 days ago
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - 5 days ago
+- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - Oct 3, 2024
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - Oct 3, 2024
 - [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/) - Oct 3, 2024
 - [FPV Ventures, Mill, and Bullish rise above the hype at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/fpv-ventures-mill-and-bullish-rise-above-the-hype-at-techcrunch-disrupt-2024/) - Oct 3, 2024
 - [Wiz CEO Assaf Rappaport is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/wiz-ceo-assaf-rappaport-is-coming-to-techcrunch-disrupt-2024/) - Oct 3, 2024
 - [Ollie scoops up health startup to launch a tool that analyzes dog poop](https://techcrunch.com/2024/10/03/ollie-scoops-up-health-startup-to-launch-a-tool-that-analyzes-dog-poop/) - Oct 3, 2024
 - [Quoroom acquires Investory to scale up its capital-raising platform for startups](https://techcrunch.com/2024/10/03/quoroom-acquires-investory-to-scale-up-its-capital-raising-platform-for-startups/) - Oct 3, 2024
+- [Honda gave us a sneak peek of its 0 Series EVs — here’s what we learned](https://techcrunch.com/2024/10/08/honda-0-series-ev-sneak-peek-prototype/) - Time not found
+- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - Time not found
+- [Driver launches an AI-powered platform for creating technical documentation](https://techcrunch.com/2024/10/08/driver-launches-an-ai-powered-platform-for-creating-technical-documentation/) - Time not found
+- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - Time not found
+- [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - Time not found
+- [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - Time not found
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Time not found
 - [Voyage AI is building RAG tools to make AI hallucinate less](https://techcrunch.com/2024/10/03/voyage-ai-is-building-rag-tools-to-make-ai-hallucinate-less/) - Oct 3, 2024
 - [ETH Zurich spinoff Voliro’s flying robots save lives, but don’t tell its CEO](https://techcrunch.com/2024/10/03/eth-zurich-spinoff-voliros-flying-robots-save-lives-but-dont-tell-its-ceo/) - Oct 3, 2024
 - [OpenAI raises $6.6B and is now valued at $157B](https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/) - Oct 2, 2024
 - [J.B. Hunt and UP.Labs launch venture lab to build logistics startups](https://techcrunch.com/2024/10/02/j-b-hunt-and-up-labs-launch-venture-lab-to-build-logistics-startups/) - Oct 2, 2024
-- [Geoff Hinton and John Hopfield win Nobel Prize in Physics for their work in foundational AI](https://techcrunch.com/2024/10/08/geoff-hinton-and-john-hopfield-win-nobel-prize-in-physics-for-their-work-in-foundational-ai/) - Time not found
-- [Uber to launch OpenAI-powered AI assistant to answer driver EV questions](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/) - Time not found
-- [Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - Time not found
-- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/) - Time not found
-- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - Time not found
-- [MoneyGram says hackers stole customers’ personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/) - Time not found
-- [The 30-year-old internet backdoor law that came back to bite](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/) - Time not found
 - [AI coding startup Poolside raises $500M from eBay, Nvidia, and others](https://techcrunch.com/2024/10/02/ai-coding-startup-poolside-raises-500m-from-ebay-nvidia-and-others/) - Oct 2, 2024
 - [Instant harkens back to a pre-Google Firebase](https://techcrunch.com/2024/10/02/instant-harkens-back-to-a-pre-google-firebase/) - Oct 2, 2024
 - [Pallet uses AI to bring logistics into the 21st century](https://techcrunch.com/2024/10/02/pallet-uses-ai-to-bring-logistics-into-the-21st-century/) - Oct 2, 2024
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/) - Sep 30, 2024
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/) - Sep 30, 2024
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/) - Sep 28, 2024
-- [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/) - Sep 28, 2024
-- [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/) - Sep 27, 2024
-- [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/) - Sep 27, 2024
-- [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/) - Sep 27, 2024
+- [Honda gave us a sneak peek of its 0 Series EVs — here’s what we learned](https://techcrunch.com/2024/10/08/honda-0-series-ev-sneak-peek-prototype/) - Time not found
+- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - Time not found
+- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - Time not found
+- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - Time not found
+- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - Time not found
 - [Geoff Hinton and John Hopfield win Nobel Prize in Physics for their work in foundational AI](https://techcrunch.com/2024/10/08/geoff-hinton-and-john-hopfield-win-nobel-prize-in-physics-for-their-work-in-foundational-ai/) - Time not found
-- [Uber to launch OpenAI-powered AI assistant to answer driver EV questions](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/) - Time not found
-- [Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - Time not found
-- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/) - Time not found
-- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - Time not found
-- [MoneyGram says hackers stole customers’ personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/) - Time not found
-- [KoBold Metals, which uses AI to help find critical minerals for the energy transition, raises $491M](https://techcrunch.com/2024/10/07/ai-powered-critical-mineral-startup-kobold-metals-has-raised-491m-filings-reveal/) - Time not found
+- [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - Time not found
