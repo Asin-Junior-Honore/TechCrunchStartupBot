@@ -4,43 +4,43 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 6 mins ago
-- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 9 mins ago
-- [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 48 mins ago
-- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 1 hour ago
-- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 2 hours ago
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 3 hours ago
-- [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - 9 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/08/wordpress-vs-wp-engine-drama-explained/) - 11 hours ago
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 17 hours ago
-- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 17 hours ago
-- [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/) - 19 hours ago
-- [AI mortgage startup LoanSnap loses license to operate in Connecticut](https://techcrunch.com/2024/10/08/ai-mortgage-startup-loansnap-loses-license-to-operate-in-connecticut/) - 21 hours ago
-- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - 23 hours ago
-- [Ex Google Maps team members get Sequoia backing to build an AI-powered collaboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/) - 23 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/08/tech-layoffs-2024-list/) - 24 hours ago
-- [Sandra Oh Lin from KiwiCo talks why STEM toys are big business](https://techcrunch.com/podcast/sandra-lin-from-kiwico-talks-why-stem-toys-are-big-business/) - 24 hours ago
+- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 4 hours ago
+- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 4 hours ago
+- [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 5 hours ago
+- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 5 hours ago
+- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 6 hours ago
+- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 7 hours ago
+- [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - 12 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/08/wordpress-vs-wp-engine-drama-explained/) - 14 hours ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 20 hours ago
+- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 21 hours ago
+- [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/) - 23 hours ago
+- [AI mortgage startup LoanSnap loses license to operate in Connecticut](https://techcrunch.com/2024/10/08/ai-mortgage-startup-loansnap-loses-license-to-operate-in-connecticut/) - 1 day ago
+- [Ex Google Maps team members get Sequoia backing to build an AI-powered collaboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/) - 1 day ago
+- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - 1 day ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/08/tech-layoffs-2024-list/) - 1 day ago
+- [Sandra Oh Lin from KiwiCo talks why STEM toys are big business](https://techcrunch.com/podcast/sandra-lin-from-kiwico-talks-why-stem-toys-are-big-business/) - 1 day ago
 - [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - 1 day ago
 - [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - 1 day ago
 - [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - 1 day ago
 - [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - 1 day ago
 - [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - 1 day ago
 - [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - 1 day ago
-- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning, too](https://techcrunch.com/2024/10/07/revyze-a-tiktok-for-education-startup-draws-on-duolingo-to-add-bite-sized-learning-too/) - 1 day ago
-- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 1 day ago
+- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning, too](https://techcrunch.com/2024/10/07/revyze-a-tiktok-for-education-startup-draws-on-duolingo-to-add-bite-sized-learning-too/) - 2 days ago
+- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 2 days ago
 - [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 2 days ago
 - [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 2 days ago
 - [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 2 days ago
 - [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 3 days ago
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 4 days ago
-- [Amazon revamps Ring subscriptions with AI video search](https://techcrunch.com/2024/10/09/amazon-revamps-ring-subscriptions-with-ai-video-search/) - Time not found
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - Time not found
-- [Billionaire Robinhood co-founder launches Aetherflux, a space-based solar power startup](https://techcrunch.com/2024/10/09/billionaire-robinhood-co-founder-launches-aetherflux-a-space-based-solar-power-startup/) - Time not found
-- [DeepMind’s Demis Hassabis and John Jumper scoop Nobel Prize in Chemistry for AlphaFold](https://techcrunch.com/2024/10/09/deepminds-demis-hassabis-and-john-jumper-scoop-nobel-prize-in-chemistry-for-alphafold/) - Time not found
-- [Basecamp Research draws $60M to build a ‘GPT for biology’](https://techcrunch.com/2024/10/09/basecamp-research-taps-60m-to-build-a-gpt-for-biology/) - Time not found
-- [Atlassian’s Jira has had it with your issues](https://techcrunch.com/2024/10/09/atlassians-jira-has-had-it-with-your-issues/) - Time not found
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/08/wordpress-vs-wp-engine-drama-explained/) - Time not found
+- [After winning Nobel for foundational AI work, Geoffrey Hinton says he’s proud Ilya Sutskever ‘fired Sam Altman’](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/) - Time not found
+- [Tesla designer Franz von Holzhausen says he’s been designing a robotaxi in his mind for years](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/) - Time not found
+- [Zoom’s custom AI avatar tool may come with risks](https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/) - Time not found
+- [Palantir now owns nearly 9% of EV startup Faraday Future — here’s why](https://techcrunch.com/2024/10/09/palantir-now-owns-nearly-9-percent-of-ev-startup-faraday-future/) - Time not found
+- [Amazon makes shopping for groceries online less confusing](https://techcrunch.com/2024/10/09/amazon-makes-shopping-for-groceries-online-less-confusing/) - Time not found
+- [Hackers targeted Android users by exploiting zero-day bug in Qualcomm chips](https://techcrunch.com/2024/10/09/hackers-were-targeting-android-users-with-qualcomm-zero-day/) - Time not found
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/09/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/) - Time not found
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - 4 days ago
 - [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - Oct 4, 2024
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - Oct 4, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/) - Oct 1, 2024
 - [Acceleron Fusion has raised $15M to take a stab at colder fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/) - Oct 1, 2024
 - [The complete agenda for the Disrupt Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/announcing-the-agenda-for-the-disrupt-stage-at-techcrunch-disrupt-2024/) - Oct 1, 2024
-- [Amazon revamps Ring subscriptions with AI video search](https://techcrunch.com/2024/10/09/amazon-revamps-ring-subscriptions-with-ai-video-search/) - Time not found
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - Time not found
-- [Billionaire Robinhood co-founder launches Aetherflux, a space-based solar power startup](https://techcrunch.com/2024/10/09/billionaire-robinhood-co-founder-launches-aetherflux-a-space-based-solar-power-startup/) - Time not found
-- [Unhappy with their exit, these ex-Planetly employees are using AI to refine carbon accounting](https://techcrunch.com/2024/10/09/unhappy-with-their-exit-these-ex-planetly-employees-are-using-ai-to-refine-carbon-accounting/) - Time not found
-- [DeepMind’s Demis Hassabis and John Jumper scoop Nobel Prize in Chemistry for AlphaFold](https://techcrunch.com/2024/10/09/deepminds-demis-hassabis-and-john-jumper-scoop-nobel-prize-in-chemistry-for-alphafold/) - Time not found
-- [Atlassian’s Jira has had it with your issues](https://techcrunch.com/2024/10/09/atlassians-jira-has-had-it-with-your-issues/) - Time not found
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/08/wordpress-vs-wp-engine-drama-explained/) - Time not found
+- [After winning Nobel for foundational AI work, Geoffrey Hinton says he’s proud Ilya Sutskever ‘fired Sam Altman’](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/) - Time not found
+- [Tesla designer Franz von Holzhausen says he’s been designing a robotaxi in his mind for years](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/) - Time not found
+- [Zoom’s custom AI avatar tool may come with risks](https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/) - Time not found
+- [Palantir now owns nearly 9% of EV startup Faraday Future — here’s why](https://techcrunch.com/2024/10/09/palantir-now-owns-nearly-9-percent-of-ev-startup-faraday-future/) - Time not found
+- [Amazon makes shopping for groceries online less confusing](https://techcrunch.com/2024/10/09/amazon-makes-shopping-for-groceries-online-less-confusing/) - Time not found
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/09/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/) - Time not found
+- [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/) - Time not found
