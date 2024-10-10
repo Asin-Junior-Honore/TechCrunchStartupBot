@@ -4,22 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 31 mins ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 1 hour ago
-- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - 1 hour ago
-- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 4 hours ago
-- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - 9 hours ago
-- [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - 13 hours ago
-- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 16 hours ago
-- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 16 hours ago
-- [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 17 hours ago
-- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 17 hours ago
-- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 18 hours ago
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 19 hours ago
+- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - 41 seconds ago
+- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 4 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 5 hours ago
+- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - 5 hours ago
+- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 8 hours ago
+- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - 13 hours ago
+- [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - 17 hours ago
+- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 20 hours ago
+- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 20 hours ago
+- [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 21 hours ago
+- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 21 hours ago
+- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 22 hours ago
+- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 23 hours ago
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - 1 day ago
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 1 day ago
-- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 1 day ago
-- [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/) - 1 day ago
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 2 days ago
+- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 2 days ago
+- [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/) - 2 days ago
 - [AI mortgage startup LoanSnap loses license to operate in Connecticut](https://techcrunch.com/2024/10/08/ai-mortgage-startup-loansnap-loses-license-to-operate-in-connecticut/) - 2 days ago
 - [Ex Google Maps team members get Sequoia backing to build an AI-powered collaboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/) - 2 days ago
 - [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - 2 days ago
@@ -33,19 +34,19 @@ Here are the latest articles from TechCrunch Startups:
 - [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - 2 days ago
 - [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning, too](https://techcrunch.com/2024/10/07/revyze-a-tiktok-for-education-startup-draws-on-duolingo-to-add-bite-sized-learning-too/) - 2 days ago
 - [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 2 days ago
-- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 2 days ago
+- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - Time not found
+- [The Internet Archive slammed by DDoS attack and data breach](https://techcrunch.com/2024/10/09/the-internet-archive-slammed-by-ddos-attack-and-data-breach/) - Time not found
 - [Tyler, the Creator changes his tune on Elon Musk](https://techcrunch.com/2024/10/09/tyler-the-creator-changes-his-tune-on-elon-musk/) - Time not found
 - [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - Time not found
-- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - Time not found
-- [After winning Nobel for foundational AI work, Geoffrey Hinton says he’s proud Ilya Sutskever ‘fired Sam Altman’](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/) - Time not found
-- [Hackers targeted Android users by exploiting zero-day bug in Qualcomm chips](https://techcrunch.com/2024/10/09/hackers-were-targeting-android-users-with-qualcomm-zero-day/) - Time not found
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/09/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/) - Time not found
 - [Kaspersky says it’s closing down its UK office and laying off dozens](https://techcrunch.com/2024/10/08/kasperksy-says-its-closing-down-its-uk-office-and-laying-off-dozens/) - Time not found
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
-- [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 2 days ago
+- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 3 days ago
+- [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 3 days ago
 - [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 3 days ago
 - [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 3 days ago
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - 5 days ago
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Oct 5, 2024
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - Oct 5, 2024
 - [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/) - Oct 4, 2024
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - Oct 4, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Spill, the Black-owned Twitter alternative, scores investment from Kerry Washington](https://techcrunch.com/2024/10/02/spill-the-black-owned-twitter-alternative-scores-investment-from-kerry-washington/) - Oct 2, 2024
 - [TuSimple founder Xiaodi Hou is back with a new autonomous truck startup](https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/) - Oct 2, 2024
 - [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/) - Oct 2, 2024
-- [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/) - Oct 2, 2024
+- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - Time not found
+- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - Time not found
+- [The Internet Archive slammed by DDoS attack and data breach](https://techcrunch.com/2024/10/09/the-internet-archive-slammed-by-ddos-attack-and-data-breach/) - Time not found
 - [Tyler, the Creator changes his tune on Elon Musk](https://techcrunch.com/2024/10/09/tyler-the-creator-changes-his-tune-on-elon-musk/) - Time not found
 - [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - Time not found
-- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - Time not found
-- [Hackers targeted Android users by exploiting zero-day bug in Qualcomm chips](https://techcrunch.com/2024/10/09/hackers-were-targeting-android-users-with-qualcomm-zero-day/) - Time not found
-- [Meta is testing a feature to let you post Instagram Reels directly on Threads](https://techcrunch.com/2024/10/09/meta-is-testing-a-feature-to-let-you-post-instagram-reels-directly-on-threads/) - Time not found
-- [Code in Meta’s Threads app references a communities feature, similar to Elon Musk’s X](https://techcrunch.com/2024/10/08/metas-threads-app-references-a-communities-feature-similar-to-elon-musks-x/) - Time not found
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
+- [Kaspersky says it’s closing down its UK office and laying off dozens](https://techcrunch.com/2024/10/08/kasperksy-says-its-closing-down-its-uk-office-and-laying-off-dozens/) - Time not found
