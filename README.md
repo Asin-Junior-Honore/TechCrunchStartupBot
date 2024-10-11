@@ -4,23 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/) - 1 hour ago
-- [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - 4 hours ago
-- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - 5 hours ago
-- [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - 8 hours ago
-- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 12 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 13 hours ago
-- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - 13 hours ago
-- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 16 hours ago
-- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - 21 hours ago
+- [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/) - 6 hours ago
+- [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - 9 hours ago
+- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - 10 hours ago
+- [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - 13 hours ago
+- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 17 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 18 hours ago
+- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - 18 hours ago
+- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 21 hours ago
+- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - 1 day ago
 - [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - 1 day ago
 - [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 1 day ago
 - [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 1 day ago
 - [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 1 day ago
 - [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 1 day ago
 - [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 1 day ago
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 1 day ago
+- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 2 days ago
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - 2 days ago
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 2 days ago
 - [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 2 days ago
@@ -33,22 +33,21 @@ Here are the latest articles from TechCrunch Startups:
 - [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - 2 days ago
 - [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - 2 days ago
 - [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - 2 days ago
-- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - 2 days ago
-- [Bluesky joins Threads to court users frustrated by Meta’s moderation issues](https://techcrunch.com/2024/10/10/bluesky-joins-threads-to-court-users-frustrated-by-metas-moderation-issues/) - Time not found
+- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - 3 days ago
+- [Tesla Robotaxi event: How to watch the reveal live](https://techcrunch.com/2024/10/10/tesla-robotaxi-event-how-to-watch-the-reveal-live/) - Time not found
+- [Amazon team in charge of Just Walk Out loses three execs, gains one](https://techcrunch.com/2024/10/10/amazon-team-in-charge-of-just-walk-out-loses-three-execs-gains-one/) - Time not found
+- [Tesla Robotaxi reveal: What to expect](https://techcrunch.com/2024/10/10/tesla-robotaxi-reveal-what-to-expect/) - Time not found
+- [FTX’s Ryan Salame posts jokes on LinkedIn as he heads to prison](https://techcrunch.com/2024/10/10/ftxs-ryan-salame-posts-jokes-on-linkedin-as-he-heads-to-prison/) - Time not found
 - [Tesla’s Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs](https://techcrunch.com/2024/10/10/teslas-robotaxi-reveal-palantir-owns-some-of-faraday-future-and-the-strava-for-evs/) - Time not found
-- [LinkedIn says 10M people have signed up as freelancers on its Services Marketplace](https://techcrunch.com/2024/10/10/linkedin-says-10m-people-have-signed-up-as-freelancers-on-its-services-marketplace/) - Time not found
-- [How stuck is the startup exit market? Pretty stuck, says Pitchbook](https://techcrunch.com/2024/10/10/how-stuck-is-the-startup-exit-market-pretty-stuck-says-pitchbook/) - Time not found
-- [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - Time not found
-- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - Time not found
 - [Fidelity says data breach exposed personal data of 77,000 customers](https://techcrunch.com/2024/10/10/fidelity-says-data-breach-exposed-personal-data-of-77000-customers/) - Time not found
-- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - 2 days ago
+- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - 3 days ago
 - [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - 3 days ago
 - [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning, too](https://techcrunch.com/2024/10/07/revyze-a-tiktok-for-education-startup-draws-on-duolingo-to-add-bite-sized-learning-too/) - 3 days ago
 - [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 3 days ago
 - [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 3 days ago
 - [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 3 days ago
 - [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 3 days ago
-- [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 3 days ago
+- [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 4 days ago
 - [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - 4 days ago
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Oct 5, 2024
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/) - Oct 5, 2024
@@ -71,10 +70,9 @@ Here are the latest articles from TechCrunch Startups:
 - [AI coding startup Poolside raises $500M from eBay, Nvidia, and others](https://techcrunch.com/2024/10/02/ai-coding-startup-poolside-raises-500m-from-ebay-nvidia-and-others/) - Oct 2, 2024
 - [Instant harkens back to a pre-Google Firebase](https://techcrunch.com/2024/10/02/instant-harkens-back-to-a-pre-google-firebase/) - Oct 2, 2024
 - [Pallet uses AI to bring logistics into the 21st century](https://techcrunch.com/2024/10/02/pallet-uses-ai-to-bring-logistics-into-the-21st-century/) - Oct 2, 2024
-- [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/) - Time not found
-- [Bluesky joins Threads to court users frustrated by Meta’s moderation issues](https://techcrunch.com/2024/10/10/bluesky-joins-threads-to-court-users-frustrated-by-metas-moderation-issues/) - Time not found
+- [Tesla Robotaxi event: How to watch the reveal live](https://techcrunch.com/2024/10/10/tesla-robotaxi-event-how-to-watch-the-reveal-live/) - Time not found
+- [Amazon team in charge of Just Walk Out loses three execs, gains one](https://techcrunch.com/2024/10/10/amazon-team-in-charge-of-just-walk-out-loses-three-execs-gains-one/) - Time not found
+- [FTX’s Ryan Salame posts jokes on LinkedIn as he heads to prison](https://techcrunch.com/2024/10/10/ftxs-ryan-salame-posts-jokes-on-linkedin-as-he-heads-to-prison/) - Time not found
 - [Tesla’s Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs](https://techcrunch.com/2024/10/10/teslas-robotaxi-reveal-palantir-owns-some-of-faraday-future-and-the-strava-for-evs/) - Time not found
-- [LinkedIn says 10M people have signed up as freelancers on its Services Marketplace](https://techcrunch.com/2024/10/10/linkedin-says-10m-people-have-signed-up-as-freelancers-on-its-services-marketplace/) - Time not found
 - [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - Time not found
-- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - Time not found
-- [Someone claims to have used AI to apply to 2,843 jobs](https://techcrunch.com/2024/10/10/a-reporter-used-ai-to-apply-to-2843-jobs/) - Time not found
+- [Fidelity says data breach exposed personal data of 77,000 customers](https://techcrunch.com/2024/10/10/fidelity-says-data-breach-exposed-personal-data-of-77000-customers/) - Time not found
