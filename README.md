@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/) - 3 hours ago
-- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - 6 hours ago
-- [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 9 hours ago
-- [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/) - 10 hours ago
-- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - 15 hours ago
+- [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 6 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/) - 7 hours ago
+- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - 9 hours ago
+- [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 12 hours ago
+- [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/) - 13 hours ago
+- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - 19 hours ago
 - [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/) - 1 day ago
-- [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - 1 day ago
-- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - 1 day ago
-- [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - 2 days ago
+- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - 2 days ago
+- [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/) - 2 days ago
 - [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - 2 days ago
 - [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 2 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
@@ -21,12 +21,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 2 days ago
 - [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - 2 days ago
 - [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - 2 days ago
-- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 2 days ago
-- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 2 days ago
-- [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 2 days ago
-- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 2 days ago
-- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 2 days ago
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 2 days ago
+- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - 3 days ago
+- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - 3 days ago
+- [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - 3 days ago
+- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - 3 days ago
+- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - 3 days ago
+- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - 3 days ago
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - 3 days ago
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - 3 days ago
 - [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - 3 days ago
@@ -38,13 +38,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Researchers question AI’s ‘reasoning’ ability as models stumble on math problems with trivial changes](https://techcrunch.com/2024/10/11/researchers-question-ais-reasoning-ability-as-models-stumble-on-math-problems-with-trivial-changes/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/) - Time not found
 - [Khosla Ventures just backed OpenAI with $405M more, but not necessarily with its own capital](https://techcrunch.com/2024/10/11/khosla-ventures-just-backed-openai-with-405m-more-but-not-necessarily-with-its-own-capital/) - Time not found
+- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - Time not found
+- [Instagram blames some moderation issues on human reviewers, not AI](https://techcrunch.com/2024/10/11/instagram-blames-moderation-issues-on-human-reviewers-not-ai/) - Time not found
 - [Silicon Valley is debating if AI weapons should be allowed to decide to kill](https://techcrunch.com/2024/10/11/silicon-valley-is-debating-if-ai-weapons-should-be-allowed-to-decide-to-kill/) - Time not found
-- [ByteDance lays off hundreds of TikTok employees in shift to AI content moderation](https://techcrunch.com/2024/10/11/bytedance-lays-off-hundreds-of-tiktok-employees-in-shift-to-ai-content-moderation/) - Time not found
-- [Tesla’s We, Robot event: How to recap the Cybercab, Robovan reveals](https://techcrunch.com/2024/10/10/teslas-we-robot-event-how-to-recap-the-cybercab-robovan-reveals/) - Time not found
 - [Sandra Oh Lin from KiwiCo talks why STEM toys are big business](https://techcrunch.com/podcast/sandra-lin-from-kiwico-talks-why-stem-toys-are-big-business/) - 3 days ago
-- [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - 3 days ago
-- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - 3 days ago
-- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - 3 days ago
+- [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - 4 days ago
+- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - 4 days ago
+- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - 4 days ago
 - [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - 4 days ago
 - [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - 4 days ago
 - [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - 4 days ago
@@ -52,7 +52,7 @@ Here are the latest articles from TechCrunch Startups:
 - [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/) - 4 days ago
 - [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/) - 4 days ago
 - [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/) - 4 days ago
-- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 4 days ago
+- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/) - 5 days ago
 - [Fintech OpenBB aims to be more than an ‘open source Bloomberg Terminal’](https://techcrunch.com/2024/10/07/fintech-openbb-aims-to-be-more-than-an-open-source-bloomberg-terminal/) - 5 days ago
 - [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/) - Oct 6, 2024
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/) - Oct 5, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Quoroom acquires Investory to scale up its capital-raising platform for startups](https://techcrunch.com/2024/10/03/quoroom-acquires-investory-to-scale-up-its-capital-raising-platform-for-startups/) - Oct 3, 2024
 - [Voyage AI is building RAG tools to make AI hallucinate less](https://techcrunch.com/2024/10/03/voyage-ai-is-building-rag-tools-to-make-ai-hallucinate-less/) - Oct 3, 2024
 - [ETH Zurich spinoff Voliro’s flying robots save lives, but don’t tell its CEO](https://techcrunch.com/2024/10/03/eth-zurich-spinoff-voliros-flying-robots-save-lives-but-dont-tell-its-ceo/) - Oct 3, 2024
+- [Anthropic CEO goes full techno-optimist in 15,000-word paean to AI](https://techcrunch.com/2024/10/11/anthropic-ceo-goes-full-techno-optimist-in-15000-word-paean-to-ai/) - Time not found
+- [Researchers question AI’s ‘reasoning’ ability as models stumble on math problems with trivial changes](https://techcrunch.com/2024/10/11/researchers-question-ais-reasoning-ability-as-models-stumble-on-math-problems-with-trivial-changes/) - Time not found
 - [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
+- [Khosla Ventures just backed OpenAI with $405M more, but not necessarily with its own capital](https://techcrunch.com/2024/10/11/khosla-ventures-just-backed-openai-with-405m-more-but-not-necessarily-with-its-own-capital/) - Time not found
 - [Fearless Fund has made a big deal since settling its controversial lawsuit](https://techcrunch.com/2024/10/11/fearless-fund-has-made-its-first-big-deal-since-settling-its-controversial-lawsuit/) - Time not found
+- [Instagram blames some moderation issues on human reviewers, not AI](https://techcrunch.com/2024/10/11/instagram-blames-moderation-issues-on-human-reviewers-not-ai/) - Time not found
 - [Silicon Valley is debating if AI weapons should be allowed to decide to kill](https://techcrunch.com/2024/10/11/silicon-valley-is-debating-if-ai-weapons-should-be-allowed-to-decide-to-kill/) - Time not found
-- [HubSpot acquires Cacheflow, a platform that helps close software sales](https://techcrunch.com/2024/10/11/hubspot-acquires-cacheflow-a-platform-that-helps-close-software-sales/) - Time not found
-- [Anthony Levandowski buys Elon Musk’s vision for the future](https://techcrunch.com/2024/10/11/anthony-levandowski-buys-elon-musks-vision-for-the-future/) - Time not found
-- [Aktiia trained AI on 11 billion data points of blood pressure, and now a clinically certified app is coming](https://techcrunch.com/2024/10/11/aktiia-trained-ai-on-11-billion-data-points-of-blood-pressure-and-now-a-clinically-certified-app-is-coming/) - Time not found
-- [ByteDance lays off hundreds of TikTok employees in shift to AI content moderation](https://techcrunch.com/2024/10/11/bytedance-lays-off-hundreds-of-tiktok-employees-in-shift-to-ai-content-moderation/) - Time not found
