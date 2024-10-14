@@ -4,9 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/) - 4 hours ago
-- [Data center tech is exploding but adoption won’t be easy for startups](https://techcrunch.com/2024/10/13/data-center-tech-is-exploding-but-adoption-wont-be-easy-for-startups/) - 21 hours ago
-- [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 24 hours ago
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 59 mins ago
+- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/14/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 2 hours ago
+- [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - 3 hours ago
+- [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/) - 8 hours ago
+- [Data center tech is exploding but adoption won’t be easy for startups](https://techcrunch.com/2024/10/13/data-center-tech-is-exploding-but-adoption-wont-be-easy-for-startups/) - 1 day ago
+- [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 1 day ago
 - [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - 2 days ago
 - [The most interesting unicorns to come out of Japan](https://techcrunch.com/2024/10/12/the-most-interesting-unicorns-to-come-out-of-japan/) - 2 days ago
 - [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
@@ -23,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 4 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
 - [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - 4 days ago
-- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 4 days ago
+- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 5 days ago
 - [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - 5 days ago
 - [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - Oct 9, 2024
 - [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - Oct 9, 2024
@@ -31,21 +34,21 @@ Here are the latest articles from TechCrunch Startups:
 - [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - Oct 9, 2024
 - [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - Oct 9, 2024
 - [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - Oct 9, 2024
+- [Casio confirms customer data compromised in ransomware attack](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/) - Time not found
+- [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - Time not found
+- [Adobe invites you to ’embrace the tech’ with Firefly’s new video generator](https://techcrunch.com/2024/10/14/adobe-invites-you-to-embrace-the-tech-with-fireflys-new-video-generator/) - Time not found
+- [Aerleum plans to turn CO2 directly into fuel for cargo ships and, eventually, airplanes](https://techcrunch.com/2024/10/14/aerleum-plans-to-turn-co2-directly-into-fuel-for-cargo-ships-and-eventually-airplanes/) - Time not found
+- [After selling his last AI startup to Meta, Beyond Presence’s founder nabs $3.1M to build lifelike avatars](https://techcrunch.com/2024/10/14/after-selling-his-last-ai-startup-to-meta-beyond-presences-founder-nabs-3-1m-to-build-realistic-avatars/) - Time not found
+- [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - Time not found
 - [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - Oct 9, 2024
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - Oct 9, 2024
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - Oct 8, 2024
-- [Constellation Technologies & Operations wants to work with telecom operators to deliver 5G internet from space](https://techcrunch.com/2024/10/14/constellation-technologies-operations-wants-to-work-with-telecom-operators-to-deliver-5g-internet-from-space/) - Time not found
-- [Rerail is a new fintech-focused angel fund from Cocoa’s Anthony Danon](https://techcrunch.com/2024/10/14/rerail-is-a-new-fintech-focused-angel-fund-from-cocoas-anthony-danon/) - Time not found
-- [The promise and perils of synthetic data](https://techcrunch.com/2024/10/13/the-promise-and-perils-of-synthetic-data/) - Time not found
-- [The original source code for Backyard Baseball is long gone. Mega Cat Studios remastered the game anyway.](https://techcrunch.com/2024/10/13/the-original-source-code-for-backyard-baseball-is-long-gone-mega-cat-studios-remastered-the-game-anyway/) - Time not found
-- [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - Time not found
-- [‘Chat control’: The EU’s controversial CSAM-scanning legal proposal explained](https://techcrunch.com/2024/10/12/chat-control-the-eus-controversial-csam-scanning-legal-proposal-explained/) - Time not found
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - Time not found
 - [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - Oct 8, 2024
 - [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/) - Oct 8, 2024
 - [AI mortgage startup LoanSnap loses license to operate in Connecticut](https://techcrunch.com/2024/10/08/ai-mortgage-startup-loansnap-loses-license-to-operate-in-connecticut/) - Oct 8, 2024
-- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - Oct 8, 2024
 - [Ex Google Maps team members get Sequoia backing to build an AI-powered collaboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/) - Oct 8, 2024
+- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - Oct 8, 2024
 - [Sandra Oh Lin from KiwiCo talks why STEM toys are big business](https://techcrunch.com/podcast/sandra-lin-from-kiwico-talks-why-stem-toys-are-big-business/) - Oct 8, 2024
 - [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - Oct 8, 2024
 - [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - Oct 8, 2024
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - Oct 4, 2024
 - [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - Oct 4, 2024
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - Oct 3, 2024
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/) - Oct 3, 2024
-- [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/) - Oct 3, 2024
-- [FPV Ventures, Mill, and Bullish rise above the hype at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/fpv-ventures-mill-and-bullish-rise-above-the-hype-at-techcrunch-disrupt-2024/) - Oct 3, 2024
+- [Casio confirms customer data compromised in ransomware attack](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/) - Time not found
+- [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - Time not found
+- [Adobe invites you to ’embrace the tech’ with Firefly’s new video generator](https://techcrunch.com/2024/10/14/adobe-invites-you-to-embrace-the-tech-with-fireflys-new-video-generator/) - Time not found
+- [Aerleum plans to turn CO2 directly into fuel for cargo ships and, eventually, airplanes](https://techcrunch.com/2024/10/14/aerleum-plans-to-turn-co2-directly-into-fuel-for-cargo-ships-and-eventually-airplanes/) - Time not found
+- [After selling his last AI startup to Meta, Beyond Presence’s founder nabs $3.1M to build lifelike avatars](https://techcrunch.com/2024/10/14/after-selling-his-last-ai-startup-to-meta-beyond-presences-founder-nabs-3-1m-to-build-realistic-avatars/) - Time not found
 - [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/) - Time not found
-- [Constellation Technologies & Operations wants to work with telecom operators to deliver 5G internet from space](https://techcrunch.com/2024/10/14/constellation-technologies-operations-wants-to-work-with-telecom-operators-to-deliver-5g-internet-from-space/) - Time not found
-- [Rerail is a new fintech-focused angel fund from Cocoa’s Anthony Danon](https://techcrunch.com/2024/10/14/rerail-is-a-new-fintech-focused-angel-fund-from-cocoas-anthony-danon/) - Time not found
-- [The promise and perils of synthetic data](https://techcrunch.com/2024/10/13/the-promise-and-perils-of-synthetic-data/) - Time not found
 - [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - Time not found
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - Time not found
-- [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/) - Time not found
