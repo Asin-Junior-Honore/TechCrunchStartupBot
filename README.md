@@ -4,43 +4,45 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 5 hours ago
-- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/14/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 6 hours ago
-- [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - 7 hours ago
-- [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/) - 12 hours ago
+- [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - 2 hours ago
+- [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - 3 hours ago
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 10 hours ago
+- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/14/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 10 hours ago
+- [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - 12 hours ago
+- [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/) - 17 hours ago
 - [Data center tech is exploding but adoption won’t be easy for startups](https://techcrunch.com/2024/10/13/data-center-tech-is-exploding-but-adoption-wont-be-easy-for-startups/) - 1 day ago
-- [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 1 day ago
-- [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - 2 days ago
+- [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 2 days ago
+- [In latest move against WP Engine, WordPress takes control of ACF plug-in](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - 2 days ago
 - [The most interesting unicorns to come out of Japan](https://techcrunch.com/2024/10/12/the-most-interesting-unicorns-to-come-out-of-japan/) - 2 days ago
 - [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/) - 3 days ago
 - [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - 3 days ago
 - [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/) - 3 days ago
-- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - 3 days ago
+- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - 4 days ago
 - [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/) - 4 days ago
 - [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - 4 days ago
 - [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - 4 days ago
 - [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/) - 4 days ago
-- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - 4 days ago
-- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - 5 days ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - 5 days ago
-- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - 5 days ago
-- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - 5 days ago
+- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - 5 days ago
+- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - Oct 10, 2024
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/) - Oct 10, 2024
+- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - Oct 10, 2024
+- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - Oct 9, 2024
 - [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - Oct 9, 2024
 - [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - Oct 9, 2024
 - [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - Oct 9, 2024
 - [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - Oct 9, 2024
 - [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - Oct 9, 2024
+- [Meet Alarmo, Nintendo’s $100 sleep-tracking alarm clock](https://techcrunch.com/video/meet-alarmo-nintendos-100-sleep-tracking-alarm-clock/) - Time not found
+- [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - Time not found
+- [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/) - Time not found
+- [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/) - Time not found
+- [Aerleum plans to turn CO2 directly into fuel for cargo ships and, eventually, airplanes](https://techcrunch.com/2024/10/14/aerleum-plans-to-turn-co2-directly-into-fuel-for-cargo-ships-and-eventually-airplanes/) - Time not found
+- [Apple might release a $2,000 Vision headset next year](https://techcrunch.com/2024/10/13/apple-might-release-a-2000-vision-headset-next-year/) - Time not found
+- [‘Where we are today in biology AI is similar to GPT in 2020’: An interview with the CEO of Africa’s biggest AI startup](https://techcrunch.com/2024/10/12/where-we-are-today-in-biology-ai-is-similar-to-gpt-in-2020-an-interview-with-the-ceo-of-africas-biggest-ai-startup/) - Time not found
 - [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/) - Oct 9, 2024
 - [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/) - Oct 9, 2024
-- [The biggest data breaches in 2024: 1 billion stolen records and rising](https://techcrunch.com/2024/10/14/2024-in-data-breaches-1-billion-stolen-records-and-rising/) - Time not found
-- [TechCrunch Space: SpaceX alums raising a massive new fund for deep tech and more](https://techcrunch.com/2024/10/14/techcrunch-space-spacex-alums-raising-a-massive-new-fund-for-deep-tech-and-more/) - Time not found
-- [Omnea raises $25M to tackle the painfully annoying procurement market](https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/) - Time not found
-- [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/) - Time not found
-- [Casio confirms customer data compromised in ransomware attack](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/) - Time not found
-- [‘Where we are today in biology AI is similar to GPT in 2020’: An interview with the CEO of Africa’s biggest AI startup](https://techcrunch.com/2024/10/12/where-we-are-today-in-biology-ai-is-similar-to-gpt-in-2020-an-interview-with-the-ceo-of-africas-biggest-ai-startup/) - Time not found
-- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - Time not found
 - [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/) - Oct 9, 2024
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/) - Oct 9, 2024
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/) - Oct 8, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/) - Oct 4, 2024
 - [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/) - Oct 4, 2024
 - [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/) - Oct 4, 2024
-- [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/) - Oct 4, 2024
-- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/) - Oct 3, 2024
+- [Meet Alarmo, Nintendo’s $100 sleep-tracking alarm clock](https://techcrunch.com/video/meet-alarmo-nintendos-100-sleep-tracking-alarm-clock/) - Time not found
+- [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - Time not found
+- [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - Time not found
+- [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/) - Time not found
+- [Former Product Hunt CEO Josh Buckley is looking to raise a fourth $250M fund](https://techcrunch.com/2024/10/14/former-product-hunt-ceo-josh-buckley-is-looking-to-raise-a-fourth-250m-fund/) - Time not found
 - [TechCrunch Space: SpaceX alums raising a massive new fund for deep tech and more](https://techcrunch.com/2024/10/14/techcrunch-space-spacex-alums-raising-a-massive-new-fund-for-deep-tech-and-more/) - Time not found
-- [Omnea raises $25M to tackle the painfully annoying procurement market](https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/) - Time not found
 - [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/) - Time not found
-- [Casio confirms customer data compromised in ransomware attack](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/) - Time not found
-- [Aerleum plans to turn CO2 directly into fuel for cargo ships and, eventually, airplanes](https://techcrunch.com/2024/10/14/aerleum-plans-to-turn-co2-directly-into-fuel-for-cargo-ships-and-eventually-airplanes/) - Time not found
-- [‘Where we are today in biology AI is similar to GPT in 2020’: An interview with the CEO of Africa’s biggest AI startup](https://techcrunch.com/2024/10/12/where-we-are-today-in-biology-ai-is-similar-to-gpt-in-2020-an-interview-with-the-ceo-of-africas-biggest-ai-startup/) - Time not found
-- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - Time not found
