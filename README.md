@@ -4,19 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - 5 hours ago
-- [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - 7 hours ago
-- [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - 12 hours ago
-- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 15 hours ago
-- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - 18 hours ago
-- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - 18 hours ago
-- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - 23 hours ago
-- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - 23 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/15/wordpress-vs-wp-engine-drama-explained/) - 23 hours ago
-- [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 23 hours ago
-- [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 23 hours ago
-- [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 23 hours ago
-- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 24 hours ago
+- [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/) - 16 mins ago
+- [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/) - 1 hour ago
+- [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - 3 hours ago
+- [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - 9 hours ago
+- [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - 11 hours ago
+- [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - 16 hours ago
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 19 hours ago
+- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - 22 hours ago
+- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - 22 hours ago
+- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - 1 day ago
+- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - 1 day ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/15/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
+- [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 1 day ago
+- [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 1 day ago
+- [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 1 day ago
+- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 1 day ago
 - [Xscape is building multicolor lasers to connect chips within data centers](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 1 day ago
 - [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 1 day ago
 - [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 1 day ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 3 days ago
 - [In latest move against WP Engine, WordPress takes control of ACF plug-in](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - 4 days ago
 - [The most interesting unicorns to come out of Japan](https://techcrunch.com/2024/10/12/the-most-interesting-unicorns-to-come-out-of-japan/) - 4 days ago
-- [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 5 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/) - 5 days ago
-- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - Oct 11, 2024
+- [The woman who filmed Waymo’s honking robotaxis got an apology promo—then spent all day using it](https://techcrunch.com/2024/10/15/the-woman-who-filmed-waymos-honking-robotaxis-got-an-apology-promo-then-spent-all-day-using-it/) - Time not found
 - [How Tesla’s plans for ‘unsupervised FSD’ and robotaxis could run into red tape](https://techcrunch.com/2024/10/15/how-teslas-plans-for-unsupervised-fsd-and-robotaxis-could-run-into-red-tape/) - Time not found
 - [White House considers expanding Nvidia and AMD’s AI chip export limits to additional countries](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/) - Time not found
 - [Elon Musk’s X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/) - Time not found
 - [Internal blog post reveals Automattic’s plan to enforce the WordPress trademark using ‘nice and not nice lawyers’](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/) - Time not found
-- [The New York Times has had it with generative AI companies using its content ](https://techcrunch.com/2024/10/15/new-york-times-sends-perplexity-cease-and-desist-letter-demands-it-stops-using-its-content-in-ai-summaries/) - Time not found
-- [Oura Ring 4 isn’t an Apple Watch replacement, but that’s not the point](https://techcrunch.com/2024/10/15/oura-ring-4-isnt-an-apple-watch-replacement-but-thats-not-the-point/) - Time not found
+- [Google adds new features for Pixel along with Android 15 rollout](https://techcrunch.com/2024/10/15/google-adds-new-features-for-pixel-along-with-android-15-and-theft-detection-roll-out/) - Time not found
 - [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/) - Time not found
+- [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Oct 11, 2024
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/) - Oct 11, 2024
+- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - Oct 11, 2024
 - [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/) - Oct 11, 2024
 - [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/) - Oct 11, 2024
 - [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - Oct 11, 2024
@@ -65,16 +68,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/) - Oct 8, 2024
 - [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/) - Oct 8, 2024
 - [AI mortgage startup LoanSnap loses license to operate in Connecticut](https://techcrunch.com/2024/10/08/ai-mortgage-startup-loansnap-loses-license-to-operate-in-connecticut/) - Oct 8, 2024
-- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - Oct 8, 2024
 - [Ex Google Maps team members get Sequoia backing to build an AI-powered collaboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/) - Oct 8, 2024
+- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/) - Oct 8, 2024
 - [Sandra Oh Lin from KiwiCo talks why STEM toys are big business](https://techcrunch.com/podcast/sandra-lin-from-kiwico-talks-why-stem-toys-are-big-business/) - Oct 8, 2024
-- [Alaska Airlines’ venture lab spins out its first startup: Odysee](https://techcrunch.com/2024/10/08/alaska-airlines-venture-lab-spins-out-its-first-startup-odysee/) - Oct 8, 2024
-- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/) - Oct 8, 2024
-- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - Oct 8, 2024
+- [The woman who filmed Waymo’s honking robotaxis got an apology promo—then spent all day using it](https://techcrunch.com/2024/10/15/the-woman-who-filmed-waymos-honking-robotaxis-got-an-apology-promo-then-spent-all-day-using-it/) - Time not found
 - [How Tesla’s plans for ‘unsupervised FSD’ and robotaxis could run into red tape](https://techcrunch.com/2024/10/15/how-teslas-plans-for-unsupervised-fsd-and-robotaxis-could-run-into-red-tape/) - Time not found
 - [White House considers expanding Nvidia and AMD’s AI chip export limits to additional countries](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/) - Time not found
+- [Elon Musk’s X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/) - Time not found
 - [Internal blog post reveals Automattic’s plan to enforce the WordPress trademark using ‘nice and not nice lawyers’](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/) - Time not found
 - [Google adds new features for Pixel along with Android 15 rollout](https://techcrunch.com/2024/10/15/google-adds-new-features-for-pixel-along-with-android-15-and-theft-detection-roll-out/) - Time not found
-- [The New York Times has had it with generative AI companies using its content ](https://techcrunch.com/2024/10/15/new-york-times-sends-perplexity-cease-and-desist-letter-demands-it-stops-using-its-content-in-ai-summaries/) - Time not found
-- [Oura Ring 4 isn’t an Apple Watch replacement, but that’s not the point](https://techcrunch.com/2024/10/15/oura-ring-4-isnt-an-apple-watch-replacement-but-thats-not-the-point/) - Time not found
 - [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/) - Time not found
