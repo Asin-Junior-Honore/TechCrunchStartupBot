@@ -4,28 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - 2 hours ago
-- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - 2 hours ago
-- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - 7 hours ago
-- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - 7 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/15/wordpress-vs-wp-engine-drama-explained/) - 7 hours ago
-- [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 7 hours ago
-- [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 7 hours ago
-- [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 7 hours ago
-- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 8 hours ago
-- [Xscape is building multicolor lasers to connect chips within datacenters](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 8 hours ago
-- [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 8 hours ago
-- [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 9 hours ago
-- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/) - 10 hours ago
-- [European cyber insurance startup Stoïk secures $27M](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/) - 15 hours ago
-- [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - 22 hours ago
-- [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - 22 hours ago
-- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 1 day ago
+- [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - 1 hour ago
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 3 hours ago
+- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - 6 hours ago
+- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - 6 hours ago
+- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - 12 hours ago
+- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - 12 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/15/wordpress-vs-wp-engine-drama-explained/) - 12 hours ago
+- [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 12 hours ago
+- [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 12 hours ago
+- [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 12 hours ago
+- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 12 hours ago
+- [Xscape is building multicolor lasers to connect chips within data centers](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 13 hours ago
+- [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 13 hours ago
+- [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 14 hours ago
+- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/) - 15 hours ago
+- [European cyber insurance startup Stoïk secures $27M](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/) - 20 hours ago
+- [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - 1 day ago
+- [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - 1 day ago
 - [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/14/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 1 day ago
 - [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - 1 day ago
 - [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/) - 2 days ago
 - [Data center tech is exploding but adoption won’t be easy for startups](https://techcrunch.com/2024/10/13/data-center-tech-is-exploding-but-adoption-wont-be-easy-for-startups/) - 2 days ago
-- [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 2 days ago
+- [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/) - 3 days ago
 - [In latest move against WP Engine, WordPress takes control of ACF plug-in](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - 3 days ago
 - [The most interesting unicorns to come out of Japan](https://techcrunch.com/2024/10/12/the-most-interesting-unicorns-to-come-out-of-japan/) - 3 days ago
 - [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 4 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/) - 4 days ago
 - [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/) - 4 days ago
-- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - 4 days ago
+- [Oura Ring 4 isn’t an Apple Watch replacement, but that’s not the point](https://techcrunch.com/2024/10/15/oura-ring-4-isnt-an-apple-watch-replacement-but-thats-not-the-point/) - Time not found
 - [Nvidia, the AI chipmaker, just hit another record high](https://techcrunch.com/2024/10/14/nvidia-the-ai-chipmaker-just-hit-another-record-high/) - Time not found
 - [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - Time not found
 - [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/) - Time not found
 - [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/) - Time not found
 - [Apple might release a $2,000 Vision headset next year](https://techcrunch.com/2024/10/13/apple-might-release-a-2000-vision-headset-next-year/) - Time not found
-- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2024/10/13/meet-the-chinese-typhoon-hackers-preparing-for-war/) - Time not found
 - [In latest move against WP Engine, WordPress takes control of ACF plug-in](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - Time not found
+- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/) - 5 days ago
 - [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/) - Oct 10, 2024
 - [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/) - Oct 10, 2024
 - [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - Oct 10, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/) - Oct 8, 2024
 - [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/) - Oct 8, 2024
 - [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/) - Oct 8, 2024
-- [Open source Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/) - Oct 8, 2024
+- [Oura Ring 4 isn’t an Apple Watch replacement, but that’s not the point](https://techcrunch.com/2024/10/15/oura-ring-4-isnt-an-apple-watch-replacement-but-thats-not-the-point/) - Time not found
 - [Nvidia, the AI chipmaker, just hit another record high](https://techcrunch.com/2024/10/14/nvidia-the-ai-chipmaker-just-hit-another-record-high/) - Time not found
 - [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - Time not found
 - [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/) - Time not found
 - [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/) - Time not found
 - [Apple might release a $2,000 Vision headset next year](https://techcrunch.com/2024/10/13/apple-might-release-a-2000-vision-headset-next-year/) - Time not found
-- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2024/10/13/meet-the-chinese-typhoon-hackers-preparing-for-war/) - Time not found
 - [In latest move against WP Engine, WordPress takes control of ACF plug-in](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/) - Time not found
