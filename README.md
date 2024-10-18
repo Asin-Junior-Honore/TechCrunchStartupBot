@@ -4,22 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 4 hours ago
-- [With $11.9 million in funding, Dottxt tells AI models how to answer](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/) - 4 hours ago
-- [Databricks, Snowflake, and Battery Ventures discuss when to cash out or scale your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/databricks-snowflake-and-battery-ventures-discuss-when-to-cash-out-or-scale-your-startup-at-techcrunch-disrupt-2024/) - 5 hours ago
-- [Announcing the final group of top VCs to judge the Startup Battlefield 200 Final at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/announcing-the-top-vcs-to-judge-the-startup-battlefield-final-at-techcrunch-disrupt/) - 6 hours ago
-- [UK digital ‘end-of-life’ services startup Farewill acquired for $16.8M](https://techcrunch.com/2024/10/17/uk-digital-end-of-life-services-startup-farewill-acquired-for-16-8m/) - 6 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/17/tech-layoffs-2024-list/) - 6 hours ago
-- [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/) - 7 hours ago
-- [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/) - 13 hours ago
-- [Accel eyes stake in India’s Truemeds at $330M valuation](https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/) - 15 hours ago
-- [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi nuclear power plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/) - 20 hours ago
-- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - 23 hours ago
-- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - 24 hours ago
+- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 9 hours ago
+- [With $11.9 million in funding, Dottxt tells AI models how to answer](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/) - 9 hours ago
+- [Databricks, Snowflake, and Battery Ventures discuss when to cash out or scale your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/databricks-snowflake-and-battery-ventures-discuss-when-to-cash-out-or-scale-your-startup-at-techcrunch-disrupt-2024/) - 10 hours ago
+- [Announcing the final group of top VCs to judge the Startup Battlefield 200 Final at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/announcing-the-top-vcs-to-judge-the-startup-battlefield-final-at-techcrunch-disrupt/) - 10 hours ago
+- [UK digital ‘end-of-life’ services startup Farewill acquired for $16.8M](https://techcrunch.com/2024/10/17/uk-digital-end-of-life-services-startup-farewill-acquired-for-16-8m/) - 11 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/17/tech-layoffs-2024-list/) - 11 hours ago
+- [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/) - 12 hours ago
+- [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/) - 18 hours ago
+- [Accel eyes stake in India’s Truemeds at $330M valuation](https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/) - 20 hours ago
+- [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi nuclear power plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/) - 1 day ago
+- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - 1 day ago
+- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - 1 day ago
 - [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/) - 1 day ago
 - [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/) - 1 day ago
 - [Lightmatter’s $400M round has AI hyperscalers hyped for photonic data centers](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/) - 1 day ago
-- [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - 1 day ago
+- [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - 2 days ago
 - [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - 2 days ago
 - [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - 2 days ago
 - [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - 2 days ago
@@ -32,18 +32,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 2 days ago
 - [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 2 days ago
 - [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 2 days ago
-- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 2 days ago
-- [Xscape is building multicolor lasers to connect chips within data centers](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 2 days ago
+- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 3 days ago
+- [Xscape is building multicolor lasers to connect chips within data centers](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 3 days ago
+- [ChatGPT comes to Windows](https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/) - Time not found
 - [Apple says support for redeeming rewards with more partners is coming to Apple Pay](https://techcrunch.com/2024/10/17/apple-says-support-for-redeeming-rewards-will-later-come-to-apple-pay/) - Time not found
+- [Casio says ‘no prospect of recovery yet’ after ransomware attack ](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/) - Time not found
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
 - [Apple reportedly worked with a Chinese automaker to develop a battery for its now-canceled car](https://techcrunch.com/2024/10/16/apple-reportedly-worked-with-a-chinese-automaker-to-develop-a-battery-for-its-now-canceled-car/) - Time not found
 - [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - Time not found
-- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - Time not found
-- [Mistral releases new AI models optimized for laptops and phones](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/) - Time not found
 - [The woman who filmed Waymo’s honking robotaxis got an apology promo — then spent all day using it](https://techcrunch.com/2024/10/15/the-woman-who-filmed-waymos-honking-robotaxis-got-an-apology-promo-then-spent-all-day-using-it/) - Time not found
-- [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 2 days ago
-- [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 2 days ago
-- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/) - 2 days ago
+- [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 3 days ago
+- [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 3 days ago
+- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/) - 3 days ago
 - [European cyber insurance startup Stoïk secures $27M](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/) - 3 days ago
 - [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - 3 days ago
 - [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - 3 days ago
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - Oct 9, 2024
 - [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - Oct 9, 2024
 - [Investors are betting on user-generated content in video games. Gamebeast’s founder explains why](https://techcrunch.com/podcast/investors-are-betting-on-user-generated-content-in-video-games-gamebeasts-founder-explains-why/) - Oct 9, 2024
+- [ChatGPT comes to Windows](https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/) - Time not found
 - [Apple says support for redeeming rewards with more partners is coming to Apple Pay](https://techcrunch.com/2024/10/17/apple-says-support-for-redeeming-rewards-will-later-come-to-apple-pay/) - Time not found
+- [Casio says ‘no prospect of recovery yet’ after ransomware attack ](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/) - Time not found
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
 - [Apple reportedly worked with a Chinese automaker to develop a battery for its now-canceled car](https://techcrunch.com/2024/10/16/apple-reportedly-worked-with-a-chinese-automaker-to-develop-a-battery-for-its-now-canceled-car/) - Time not found
 - [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - Time not found
-- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - Time not found
-- [Mistral releases new AI models optimized for laptops and phones](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/) - Time not found
 - [The woman who filmed Waymo’s honking robotaxis got an apology promo — then spent all day using it](https://techcrunch.com/2024/10/15/the-woman-who-filmed-waymos-honking-robotaxis-got-an-apology-promo-then-spent-all-day-using-it/) - Time not found
