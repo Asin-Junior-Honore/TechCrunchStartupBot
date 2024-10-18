@@ -4,14 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - 6 hours ago
-- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 20 hours ago
-- [With $11.9 million in funding, Dottxt tells AI models how to answer](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/) - 20 hours ago
-- [Databricks, Snowflake, and Battery Ventures discuss when to cash out or scale your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/databricks-snowflake-and-battery-ventures-discuss-when-to-cash-out-or-scale-your-startup-at-techcrunch-disrupt-2024/) - 21 hours ago
-- [Announcing the final group of top VCs to judge the Startup Battlefield 200 Final at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/announcing-the-top-vcs-to-judge-the-startup-battlefield-final-at-techcrunch-disrupt/) - 22 hours ago
-- [UK digital ‘end-of-life’ services startup Farewill acquired for $16.8M](https://techcrunch.com/2024/10/17/uk-digital-end-of-life-services-startup-farewill-acquired-for-16-8m/) - 22 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/17/tech-layoffs-2024-list/) - 22 hours ago
-- [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/) - 23 hours ago
+- [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/) - 1 hour ago
+- [Investor FOMO returns, and what happened with WordPress and WP Engine?](https://techcrunch.com/podcast/investor-fomo-returns-and-what-happened-with-wordpress-and-wp-engine/) - 1 hour ago
+- [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - 9 hours ago
+- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/) - 24 hours ago
+- [With $11.9 million in funding, Dottxt tells AI models how to answer](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/) - 1 day ago
+- [Databricks, Snowflake, and Battery Ventures discuss when to cash out or scale your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/databricks-snowflake-and-battery-ventures-discuss-when-to-cash-out-or-scale-your-startup-at-techcrunch-disrupt-2024/) - 1 day ago
+- [Announcing the final group of top VCs to judge the Startup Battlefield 200 Final at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/announcing-the-top-vcs-to-judge-the-startup-battlefield-final-at-techcrunch-disrupt/) - 1 day ago
+- [UK digital ‘end-of-life’ services startup Farewill acquired for $16.8M](https://techcrunch.com/2024/10/17/uk-digital-end-of-life-services-startup-farewill-acquired-for-16-8m/) - 1 day ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/17/tech-layoffs-2024-list/) - 1 day ago
+- [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/) - 1 day ago
 - [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/) - 1 day ago
 - [Accel eyes stake in India’s Truemeds at $330M valuation](https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/) - 1 day ago
 - [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi nuclear power plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/) - 2 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/15/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
 - [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 3 days ago
 - [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 3 days ago
-- [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 3 days ago
-- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 3 days ago
+- [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - Time not found
 - [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/) - Time not found
-- [Google replaces executive in charge of Search and advertising](https://techcrunch.com/2024/10/17/google-replaces-executive-in-charge-of-search-and-advertising/) - Time not found
+- [Microsoft said it lost weeks of security logs for its customers’ cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/) - Time not found
 - [ChatGPT comes to Windows](https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/) - Time not found
 - [From Elon Musk to cop car chases, how a software engineer launched a police AI startup](https://techcrunch.com/2024/10/17/from-elon-musk-to-cop-car-chases-how-a-software-engineer-launched-a-police-ai-startup/) - Time not found
 - [Casio says ‘no prospect of recovery yet’ after ransomware attack ](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/) - Time not found
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
-- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - Time not found
+- [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 3 days ago
+- [Monogoto, an innovator in ‘connectivity as a service,’ raises $27M](https://techcrunch.com/2024/10/15/monogoto-an-innovator-in-connectivity-as-a-service-raises-27m/) - 3 days ago
 - [Xscape is building multicolor lasers to connect chips within data centers](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 3 days ago
 - [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 3 days ago
 - [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 3 days ago
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - Oct 9, 2024
 - [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/) - Oct 9, 2024
 - [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/) - Oct 9, 2024
-- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/) - Oct 9, 2024
-- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/) - Oct 9, 2024
+- [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - Time not found
 - [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/) - Time not found
-- [Google replaces executive in charge of Search and advertising](https://techcrunch.com/2024/10/17/google-replaces-executive-in-charge-of-search-and-advertising/) - Time not found
+- [Microsoft said it lost weeks of security logs for its customers’ cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/) - Time not found
 - [ChatGPT comes to Windows](https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/) - Time not found
 - [From Elon Musk to cop car chases, how a software engineer launched a police AI startup](https://techcrunch.com/2024/10/17/from-elon-musk-to-cop-car-chases-how-a-software-engineer-launched-a-police-ai-startup/) - Time not found
 - [Casio says ‘no prospect of recovery yet’ after ransomware attack ](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/) - Time not found
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
-- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - Time not found
