@@ -4,8 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/19/wordpress-vs-wp-engine-drama-explained/) - 2 hours ago
-- [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - 24 hours ago
+- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 3 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/19/wordpress-vs-wp-engine-drama-explained/) - 7 hours ago
+- [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - 1 day ago
 - [Investors bet on the power of light, diamonds in the trash, and more](https://techcrunch.com/2024/10/18/investors-bet-on-the-power-of-light-diamonds-in-the-trash-and-more/) - 1 day ago
 - [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/) - 1 day ago
 - [Investor FOMO returns, and what happened with WordPress and WP Engine?](https://techcrunch.com/podcast/investor-fomo-returns-and-what-happened-with-wordpress-and-wp-engine/) - 1 day ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - 4 days ago
 - [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - 4 days ago
 - [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - 4 days ago
-- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - 4 days ago
+- [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/) - Time not found
+- [I just spent my first week ever with an EV, the Chevy Equinox — here’s what it was like](https://techcrunch.com/2024/10/19/i-just-spent-my-first-week-ever-with-an-ev-the-chevy-equinox-heres-what-it-was-like/) - Time not found
 - [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/) - Time not found
-- [SpaceX wins $733M Space Force launch contract](https://techcrunch.com/2024/10/18/spacex-wins-733m-space-force-launch-contract/) - Time not found
 - [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - Time not found
 - [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/) - Time not found
-- [Automattic offered employees another chance to quit — this time with nine months’ severance](https://techcrunch.com/2024/10/17/automattic-offered-employees-another-chance-to-quit-this-time-with-nine-months-severance/) - Time not found
 - [Casio says ‘no prospect of recovery yet’ after ransomware attack ](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/) - Time not found
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
+- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - 4 days ago
 - [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - 4 days ago
 - [How customer service AI startup Neuron7 convinced Keith Block to invest](https://techcrunch.com/2024/10/15/how-customer-service-ai-startup-neuron7-convinced-keith-block-to-invest/) - 4 days ago
 - [Early automates code testing for developers](https://techcrunch.com/2024/10/15/early-automates-code-testing-for-developers/) - 4 days ago
@@ -48,8 +49,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Xscape is building multicolor lasers to connect chips within data centers](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/) - 4 days ago
 - [Port hosts internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/) - 4 days ago
 - [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/) - 4 days ago
-- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/) - 4 days ago
-- [European cyber insurance startup Stoïk secures $27M](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/) - 5 days ago
+- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/) - 5 days ago
+- [European cyber insurance startup Stoïk secures $27M](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/) - Oct 14, 2024
 - [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/) - Oct 14, 2024
 - [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/) - Oct 14, 2024
 - [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/) - Oct 14, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - Oct 10, 2024
 - [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - Oct 10, 2024
 - [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/) - Oct 10, 2024
-- [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/) - Oct 9, 2024
+- [I just spent my first week ever with an EV, the Chevy Equinox — here’s what it was like](https://techcrunch.com/2024/10/19/i-just-spent-my-first-week-ever-with-an-ev-the-chevy-equinox-heres-what-it-was-like/) - Time not found
+- [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/) - Time not found
 - [SpaceX wins $733M Space Force launch contract](https://techcrunch.com/2024/10/18/spacex-wins-733m-space-force-launch-contract/) - Time not found
-- [Microsoft could end up with substantial equity in the restructured, for-profit OpenAI](https://techcrunch.com/2024/10/18/microsoft-could-end-up-with-substantial-equity-in-the-restructured-for-profit-openai/) - Time not found
 - [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - Time not found
 - [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/) - Time not found
-- [Automattic offered employees another chance to quit — this time with nine months’ severance](https://techcrunch.com/2024/10/17/automattic-offered-employees-another-chance-to-quit-this-time-with-nine-months-severance/) - Time not found
 - [Casio says ‘no prospect of recovery yet’ after ransomware attack ](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/) - Time not found
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
