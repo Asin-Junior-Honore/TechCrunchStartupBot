@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 10 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/19/wordpress-vs-wp-engine-drama-explained/) - 14 hours ago
-- [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - 1 day ago
+- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 15 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/19/wordpress-vs-wp-engine-drama-explained/) - 18 hours ago
+- [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - 2 days ago
 - [Investors bet on the power of light, diamonds in the trash, and more](https://techcrunch.com/2024/10/18/investors-bet-on-the-power-of-light-diamonds-in-the-trash-and-more/) - 2 days ago
 - [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/) - 2 days ago
 - [Investor FOMO returns, and what happened with WordPress and WP Engine?](https://techcrunch.com/podcast/investor-fomo-returns-and-what-happened-with-wordpress-and-wp-engine/) - 2 days ago
@@ -20,19 +20,19 @@ Here are the latest articles from TechCrunch Startups:
 - [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/) - 3 days ago
 - [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/) - 3 days ago
 - [Accel eyes stake in India’s Truemeds at $330M valuation](https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/) - 3 days ago
-- [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi nuclear power plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/) - 3 days ago
-- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - 3 days ago
-- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - 3 days ago
+- [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi nuclear power plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/) - 4 days ago
+- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - 4 days ago
+- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - 4 days ago
 - [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/) - 4 days ago
 - [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/) - 4 days ago
 - [Lightmatter’s $400M round has AI hyperscalers hyped for photonic data centers](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/) - 4 days ago
 - [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - 4 days ago
 - [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - 4 days ago
 - [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - 4 days ago
-- [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - 4 days ago
-- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 4 days ago
-- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - 5 days ago
-- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - 5 days ago
+- [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - 5 days ago
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - 5 days ago
+- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - Oct 15, 2024
+- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - Oct 15, 2024
 - [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - Oct 15, 2024
 - [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/) - Time not found
 - [What we know about the layoffs at Meta](https://techcrunch.com/2024/10/19/what-we-know-about-the-layoffs-at-meta/) - Time not found
