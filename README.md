@@ -4,8 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/) - 4 hours ago
-- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 22 hours ago
+- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 3 hours ago
+- [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/) - 9 hours ago
+- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 1 day ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/19/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
 - [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - 2 days ago
 - [Investors bet on the power of light, diamonds in the trash, and more](https://techcrunch.com/2024/10/18/investors-bet-on-the-power-of-light-diamonds-in-the-trash-and-more/) - 2 days ago
@@ -28,19 +29,19 @@ Here are the latest articles from TechCrunch Startups:
 - [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/) - 4 days ago
 - [Lightmatter’s $400M round has AI hyperscalers hyped for photonic data centers](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/) - 4 days ago
 - [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - 4 days ago
-- [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - 5 days ago
-- [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - 5 days ago
+- [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - Oct 16, 2024
+- [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - Oct 15, 2024
 - [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - Oct 15, 2024
 - [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - Oct 15, 2024
 - [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - Oct 15, 2024
-- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - Oct 15, 2024
+- [Throne’s toilet camera takes pictures of your poop](https://techcrunch.com/2024/10/20/thrones-toilet-camera-takes-pictures-of-your-poop/) - Time not found
 - [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - Time not found
 - [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/) - Time not found
 - [What we know about the layoffs at Meta](https://techcrunch.com/2024/10/19/what-we-know-about-the-layoffs-at-meta/) - Time not found
 - [I just spent my first week ever with an EV, the Chevy Equinox — here’s what it was like](https://techcrunch.com/2024/10/19/i-just-spent-my-first-week-ever-with-an-ev-the-chevy-equinox-heres-what-it-was-like/) - Time not found
 - [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/) - Time not found
 - [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - Time not found
-- [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
+- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - Oct 15, 2024
 - [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - Oct 15, 2024
 - [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/) - Oct 15, 2024
 - [Inversion Space gets reentry license for orbital cargo delivery capsule demo](https://techcrunch.com/2024/10/15/inversion-space-gets-reentry-license-for-demonstrator-cargo-delivery-capsule/) - Oct 15, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks ](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/) - Oct 10, 2024
 - [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/) - Oct 10, 2024
 - [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/) - Oct 10, 2024
-- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/) - Oct 10, 2024
+- [Throne’s toilet camera takes pictures of your poop](https://techcrunch.com/2024/10/20/thrones-toilet-camera-takes-pictures-of-your-poop/) - Time not found
 - [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - Time not found
 - [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/) - Time not found
 - [What we know about the layoffs at Meta](https://techcrunch.com/2024/10/19/what-we-know-about-the-layoffs-at-meta/) - Time not found
 - [I just spent my first week ever with an EV, the Chevy Equinox — here’s what it was like](https://techcrunch.com/2024/10/19/i-just-spent-my-first-week-ever-with-an-ev-the-chevy-equinox-heres-what-it-was-like/) - Time not found
 - [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/) - Time not found
 - [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/) - Time not found
-- [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/) - Time not found
