@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/) - 8 hours ago
-- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 11 hours ago
-- [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/) - 16 hours ago
-- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 1 day ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/) - 11 hours ago
+- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 15 hours ago
+- [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/) - 20 hours ago
+- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 2 days ago
 - [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - 3 days ago
 - [Investors bet on the power of light, diamonds in the trash, and more](https://techcrunch.com/2024/10/18/investors-bet-on-the-power-of-light-diamonds-in-the-trash-and-more/) - 3 days ago
 - [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/) - 3 days ago
@@ -23,9 +23,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/) - 4 days ago
 - [Accel eyes stake in India’s Truemeds at $330M valuation](https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/) - 4 days ago
 - [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi nuclear power plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/) - 4 days ago
-- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - 4 days ago
-- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - 4 days ago
-- [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/) - 5 days ago
+- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/) - 5 days ago
+- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/) - 5 days ago
+- [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/) - Oct 16, 2024
 - [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/) - Oct 16, 2024
 - [Lightmatter’s $400M round has AI hyperscalers hyped for photonic data centers](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/) - Oct 16, 2024
 - [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - Oct 16, 2024
