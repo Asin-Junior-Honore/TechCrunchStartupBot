@@ -4,17 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - 36 mins ago
-- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/) - 48 mins ago
-- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 1 hour ago
-- [Promise Bio exits stealth backed by Pfizer and AstraZeneca](https://techcrunch.com/2024/10/23/promise-bio-exits-stealth-backed-by-pfizer-and-astrazeneca/) - 1 hour ago
-- [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/) - 1 hour ago
-- [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 2 hours ago
-- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 2 hours ago
-- [Andreessen Horowitz helps founders meet compute needs with Oxygen private GPU cluster](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - 2 hours ago
-- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 4 hours ago
-- [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - 19 hours ago
-- [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - 21 hours ago
+- [Flock Safety paid over $300M for 17-month-old drone startup Aerodome](https://techcrunch.com/2024/10/23/flock-safety-paid-over-300-million-for-17-month-old-drone-startup-aerodome/) - 2 hours ago
+- [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - 4 hours ago
+- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/) - 4 hours ago
+- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 5 hours ago
+- [Promise Bio exits stealth backed by Pfizer and AstraZeneca](https://techcrunch.com/2024/10/23/promise-bio-exits-stealth-backed-by-pfizer-and-astrazeneca/) - 5 hours ago
+- [Wiz hopes to hit $1B in ARR in 2025 before an IPO, after turning down Google’s $23B](https://techcrunch.com/2024/10/23/wiz-hopes-to-hit-1b-in-arr-in-2025-before-an-ipo-after-turning-down-googles-23b/) - 5 hours ago
+- [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/) - 5 hours ago
+- [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 5 hours ago
+- [Andreessen Horowitz is renting a bunch of Nvidia GPUs to its portfolio companies](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - 6 hours ago
+- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 6 hours ago
+- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 7 hours ago
+- [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - 22 hours ago
+- [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - 1 day ago
 - [6 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/22/6-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 1 day ago
 - [Artiphon’s new Orba instrument can sample sounds live](https://techcrunch.com/2024/10/22/artiphons-new-orba-instrument-can-sample-sounds-live/) - 1 day ago
 - [Footwork, Construct Capital, and Bessemer Venture Partners discuss how to raise capital in 2025 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/22/footwork-construct-capital-and-bessemer-venture-partners-discuss-how-to-raise-capital-in-2025-at-techcrunch-disrupt-2024/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Uprise wants to help small businesses make better financial decisions](https://techcrunch.com/2024/10/21/uprise-wants-to-help-small-businesses-make-better-financial-decisions/) - 2 days ago
 - [Groww pays $160M tax as it returns to India amid a startup relocation wave](https://techcrunch.com/2024/10/21/groww-pays-160m-tax-as-it-returns-to-india-amid-a-startup-relocation-wave/) - 2 days ago
 - [DataCrunch wants to be Europe’s first AI cloud hyperscaler — powered by renewable energy](https://techcrunch.com/2024/10/21/datacrunch-wants-to-be-europes-first-ai-cloud-hyperscaler-powered-by-renewable-energy/) - 2 days ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
-- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 3 days ago
+- [Amazon adds gasoline discounts for Prime members, EV charging savings to follow](https://techcrunch.com/2024/10/23/amazon-gives-prime-members-discount-on-gasoline/) - Time not found
 - [Lawsuit blames Character.AI in death of 14-year-old boy](https://techcrunch.com/2024/10/23/lawsuit-blames-character-ai-in-death-of-14-year-old-boy/) - Time not found
 - [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - Time not found
 - [Anthropic’s new AI model can control your PC](https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/) - Time not found
 - [Marc Andreessen says AI model makers are in ‘a race to the bottom’ and it’s not good for business](https://techcrunch.com/2024/10/22/marc-andreessen-says-ai-model-makers-are-in-a-race-to-the-bottom-and-its-not-god-for-business/) - Time not found
-- [WhatsApp introduces contact storing directly within the app, teases usernames](https://techcrunch.com/2024/10/22/whatsapp-introduces-contact-saving-directly-within-the-app-teases-usernames/) - Time not found
 - [After learning that you can name group chats, Tim Cook chose the safest name possible](https://techcrunch.com/2024/10/22/after-learning-that-you-can-name-group-chats-tim-cook-chose-the-safest-name-possible/) - Time not found
 - [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/) - Time not found
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
+- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 3 days ago
 - [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/) - 3 days ago
 - [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 4 days ago
 - [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - Oct 18, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - Oct 15, 2024
 - [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/) - Oct 15, 2024
 - [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/) - Oct 15, 2024
-- [Why Gusto has stayed focused on serving small businesses](https://techcrunch.com/podcast/why-gusto-has-stayed-focused-on-serving-small-businesses/) - Oct 15, 2024
-- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/) - Oct 15, 2024
+- [Amazon adds gasoline discounts for Prime members, EV charging savings to follow](https://techcrunch.com/2024/10/23/amazon-gives-prime-members-discount-on-gasoline/) - Time not found
 - [Lawsuit blames Character.AI in death of 14-year-old boy](https://techcrunch.com/2024/10/23/lawsuit-blames-character-ai-in-death-of-14-year-old-boy/) - Time not found
 - [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - Time not found
 - [Anthropic’s new AI model can control your PC](https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/) - Time not found
 - [Marc Andreessen says AI model makers are in ‘a race to the bottom’ and it’s not good for business](https://techcrunch.com/2024/10/22/marc-andreessen-says-ai-model-makers-are-in-a-race-to-the-bottom-and-its-not-god-for-business/) - Time not found
-- [WhatsApp introduces contact storing directly within the app, teases usernames](https://techcrunch.com/2024/10/22/whatsapp-introduces-contact-saving-directly-within-the-app-teases-usernames/) - Time not found
 - [After learning that you can name group chats, Tim Cook chose the safest name possible](https://techcrunch.com/2024/10/22/after-learning-that-you-can-name-group-chats-tim-cook-chose-the-safest-name-possible/) - Time not found
 - [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/) - Time not found
