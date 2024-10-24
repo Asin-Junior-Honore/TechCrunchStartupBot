@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 2 hours ago
-- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 3 hours ago
-- [Beleaguered startup Humane drops Ai Pin price by $200](https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/) - 11 hours ago
-- [Flock Safety paid over $300M for 17-month-old drone startup Aerodome](https://techcrunch.com/2024/10/23/flock-safety-paid-over-300-million-for-17-month-old-drone-startup-aerodome/) - 15 hours ago
-- [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - 16 hours ago
-- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/) - 17 hours ago
-- [Promise Bio exits stealth backed by Pfizer and AstraZeneca](https://techcrunch.com/2024/10/23/promise-bio-exits-stealth-backed-by-pfizer-and-astrazeneca/) - 17 hours ago
-- [Wiz hopes to hit $1B in ARR in 2025 before an IPO, after turning down Google’s $23B](https://techcrunch.com/2024/10/23/wiz-hopes-to-hit-1b-in-arr-in-2025-before-an-ipo-after-turning-down-googles-23b/) - 17 hours ago
-- [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/) - 17 hours ago
-- [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 18 hours ago
-- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 18 hours ago
-- [Andreessen Horowitz is renting a bunch of Nvidia GPUs to its portfolio companies](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - 18 hours ago
-- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 20 hours ago
-- [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - 1 day ago
+- [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/) - 2 hours ago
+- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 6 hours ago
+- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 8 hours ago
+- [Beleaguered startup Humane drops Ai Pin price by $200](https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/) - 16 hours ago
+- [Flock Safety paid over $300M for 17-month-old drone startup Aerodome](https://techcrunch.com/2024/10/23/flock-safety-paid-over-300-million-for-17-month-old-drone-startup-aerodome/) - 19 hours ago
+- [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - 21 hours ago
+- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/) - 21 hours ago
+- [Promise Bio exits stealth backed by Pfizer and AstraZeneca](https://techcrunch.com/2024/10/23/promise-bio-exits-stealth-backed-by-pfizer-and-astrazeneca/) - 21 hours ago
+- [Wiz hopes to hit $1B in ARR in 2025 before an IPO, after turning down Google’s $23B](https://techcrunch.com/2024/10/23/wiz-hopes-to-hit-1b-in-arr-in-2025-before-an-ipo-after-turning-down-googles-23b/) - 21 hours ago
+- [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/) - 21 hours ago
+- [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 22 hours ago
+- [Andreessen Horowitz is renting a bunch of Nvidia GPUs to its portfolio companies](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - 22 hours ago
+- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 22 hours ago
+- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 24 hours ago
+- [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - 2 days ago
 - [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - 2 days ago
 - [6 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/22/6-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 2 days ago
 - [Artiphon’s new Orba instrument can sample sounds live](https://techcrunch.com/2024/10/22/artiphons-new-orba-instrument-can-sample-sounds-live/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/) - 3 days ago
 - [ShoBizzy, a networking app for the TV industry, aims to open new doors for freelancers](https://techcrunch.com/2024/10/21/shobizzy-networking-app-for-freelancers-in-tv-film-industry/) - 3 days ago
 - [Final countdown: 7 days until TechCrunch Disrupt 2024 kicks off](https://techcrunch.com/2024/10/21/final-countdown-7-days-until-techcrunch-disrupt-2024-kicks-off/) - 3 days ago
-- [Uprise wants to help small businesses make better financial decisions](https://techcrunch.com/2024/10/21/uprise-wants-to-help-small-businesses-make-better-financial-decisions/) - 3 days ago
 - [Bookcase can turn an iPhone into an e-reader](https://techcrunch.com/2024/10/23/bookcase-can-turn-an-iphone-into-an-e-reader/) - Time not found
 - [Google releases tech to watermark AI-generated text](https://techcrunch.com/2024/10/23/google-releases-tech-to-watermark-ai-generated-text/) - Time not found
 - [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - Time not found
@@ -41,12 +41,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Lawsuit blames Character.AI in death of 14-year-old boy](https://techcrunch.com/2024/10/23/lawsuit-blames-character-ai-in-death-of-14-year-old-boy/) - Time not found
 - [Anthropic’s new AI model can control your PC](https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/) - Time not found
 - [After learning that you can name group chats, Tim Cook chose the safest name possible](https://techcrunch.com/2024/10/22/after-learning-that-you-can-name-group-chats-tim-cook-chose-the-safest-name-possible/) - Time not found
+- [Uprise wants to help small businesses make better financial decisions](https://techcrunch.com/2024/10/21/uprise-wants-to-help-small-businesses-make-better-financial-decisions/) - 3 days ago
 - [Groww pays $160M tax as it returns to India amid a startup relocation wave](https://techcrunch.com/2024/10/21/groww-pays-160m-tax-as-it-returns-to-india-amid-a-startup-relocation-wave/) - 3 days ago
 - [DataCrunch wants to be Europe’s first AI cloud hyperscaler — powered by renewable energy](https://techcrunch.com/2024/10/21/datacrunch-wants-to-be-europes-first-ai-cloud-hyperscaler-powered-by-renewable-energy/) - 3 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
-- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 3 days ago
+- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) - 4 days ago
 - [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/) - 4 days ago
-- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 4 days ago
+- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) - 5 days ago
 - [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/) - Oct 18, 2024
 - [Investors bet on the power of light, diamonds in the trash, and more](https://techcrunch.com/2024/10/18/investors-bet-on-the-power-of-light-diamonds-in-the-trash-and-more/) - Oct 18, 2024
 - [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/) - Oct 18, 2024
@@ -70,7 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Fable adds cognitive and hearing impairments to its accessibility tools with $25M round](https://techcrunch.com/2024/10/16/fable-adds-cognitive-and-hearing-impairments-to-its-accessibility-tools-with-25m-round/) - Oct 16, 2024
 - [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/) - Oct 16, 2024
 - [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/) - Oct 15, 2024
-- [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/) - Oct 15, 2024
+- [Bookcase can turn an iPhone into an e-reader](https://techcrunch.com/2024/10/23/bookcase-can-turn-an-iphone-into-an-e-reader/) - Time not found
+- [Google releases tech to watermark AI-generated text](https://techcrunch.com/2024/10/23/google-releases-tech-to-watermark-ai-generated-text/) - Time not found
+- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - Time not found
 - [Amazon adds gasoline discounts for Prime members, EV charging savings to follow](https://techcrunch.com/2024/10/23/amazon-gives-prime-members-discount-on-gasoline/) - Time not found
 - [Lawsuit blames Character.AI in death of 14-year-old boy](https://techcrunch.com/2024/10/23/lawsuit-blames-character-ai-in-death-of-14-year-old-boy/) - Time not found
 - [Anthropic’s new AI model can control your PC](https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/) - Time not found
+- [After learning that you can name group chats, Tim Cook chose the safest name possible](https://techcrunch.com/2024/10/22/after-learning-that-you-can-name-group-chats-tim-cook-chose-the-safest-name-possible/) - Time not found
