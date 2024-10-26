@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Final Countdown: 2 days until TechCrunch Disrupt 2024 begins and ticket prices increase](https://techcrunch.com/2024/10/26/final-countdown-2-days-until-techcrunch-disrupt-2024-begins-and-ticket-prices-increase/) - 2 hours ago
-- [User’s guide to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/26/users-guide-to-techcrunch-disrupt-2024/) - 3 hours ago
-- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - 3 hours ago
-- [Not all startups mourn IPOs, but liquidity still must flow](https://techcrunch.com/2024/10/25/not-all-startups-mourn-ipos-but-liquidity-still-must-flow/) - 21 hours ago
-- [Techcrunch Disrupt 2024 starts Monday — our partners have helped us create an unforgettable experience that you shouldn’t miss](https://techcrunch.com/2024/10/25/disrupt-starts-monday-our-partners-have-helped-us-create-an-unforgettable-experience-that-you-shouldnt-miss/) - 23 hours ago
+- [Final Countdown: 2 days until TechCrunch Disrupt 2024 begins and ticket prices increase](https://techcrunch.com/2024/10/26/final-countdown-2-days-until-techcrunch-disrupt-2024-begins-and-ticket-prices-increase/) - 6 hours ago
+- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - 7 hours ago
+- [User’s guide to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/26/users-guide-to-techcrunch-disrupt-2024/) - 7 hours ago
+- [Not all startups mourn IPOs, but liquidity still must flow](https://techcrunch.com/2024/10/25/not-all-startups-mourn-ipos-but-liquidity-still-must-flow/) - 1 day ago
+- [Techcrunch Disrupt 2024 starts Monday — our partners have helped us create an unforgettable experience that you shouldn’t miss](https://techcrunch.com/2024/10/25/disrupt-starts-monday-our-partners-have-helped-us-create-an-unforgettable-experience-that-you-shouldnt-miss/) - 1 day ago
 - [YC startup Pharos lands a $5M seed led by Felicis to bring AI to hospital quality reporting](https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/) - 1 day ago
 - [Stripe’s biggest acquisition yet, and what’s a16z doing with all of those Nvidia GPUs?](https://techcrunch.com/podcast/stripes-biggest-acquisition-yet-and-whats-a16z-doing-with-all-of-those-nvidia-gpus/) - 1 day ago
 - [3 days left: TechCrunch Disrupt 2024 kicks off and ticket prices increase](https://techcrunch.com/2024/10/25/3-days-left-techcrunch-disrupt-2024-kicks-off-and-ticket-prices-increase/) - 1 day ago
@@ -23,13 +23,13 @@ Here are the latest articles from TechCrunch Startups:
 - [StrictlyVC joins its first TechCrunch Disrupt](https://techcrunch.com/2024/10/24/strictlyvc-joins-its-first-techcrunch-disrupt-2024/) - 2 days ago
 - [4 days left: The doors to TechCrunch Disrupt 2024 open and ticket prices rise](https://techcrunch.com/2024/10/24/4-days-left-the-doors-to-techcrunch-disrupt-2024-open-and-ticket-prices-rise/) - 2 days ago
 - [After selling Anchor to Spotify, co-founders reunite to build AI educational startup Oboe](https://techcrunch.com/2024/10/24/after-selling-anchor-to-spotify-co-founders-reunite-to-build-ai-educational-startup-oboe/) - 2 days ago
-- [Finix raises $75M to take on Stripe as a payment processor](https://techcrunch.com/2024/10/24/finix-raises-75-million-to-take-on-stripe-as-a-payment-processor/) - 2 days ago
 - [AI networking startup Boardy raises $3M pre-seed](https://techcrunch.com/2024/10/24/ai-networking-startup-boardy-raises-3m-pre-seed/) - 2 days ago
+- [Finix raises $75M to take on Stripe as a payment processor](https://techcrunch.com/2024/10/24/finix-raises-75-million-to-take-on-stripe-as-a-payment-processor/) - 2 days ago
 - [Supply chain startup Interos lands new customers, cash](https://techcrunch.com/2024/10/24/supply-chain-startup-interos-lands-new-customers-cash/) - 2 days ago
 - [General Catalyst raises $8B in fresh funds to back startups globally](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/) - 2 days ago
 - [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/) - 2 days ago
-- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 2 days ago
-- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 2 days ago
+- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 3 days ago
+- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 3 days ago
 - [Beleaguered startup Humane drops Ai Pin price by $200](https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/) - 3 days ago
 - [Flock Safety paid over $300M for 17-month-old drone startup Aerodome](https://techcrunch.com/2024/10/23/flock-safety-paid-over-300-million-for-17-month-old-drone-startup-aerodome/) - 3 days ago
 - [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - 3 days ago
@@ -37,16 +37,16 @@ Here are the latest articles from TechCrunch Startups:
 - [McDonald’s broken ice cream machines could get fixed faster thanks to new federal rule](https://techcrunch.com/2024/10/25/mcdonalds-broken-ice-cream-machines-could-get-fixed-faster-thanks-to-new-federal-rule/) - Time not found
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/) - Time not found
 - [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/) - Time not found
-- [Waymo raises $5.6B from Alphabet, a16z, Silver Lake, and more](https://techcrunch.com/2024/10/25/waymo-raises-5-6b-from-alphabet-a16z-silver-lake-and-more/) - Time not found
-- [Apple adds a menu in iOS 18.2 to change default apps including messages and calls](https://techcrunch.com/2024/10/25/apple-adds-a-menu-in-ios-18-2-to-change-default-apps-including-messages-and-calls/) - Time not found
+- [What is Apple Intelligence, when is it coming and who will get it?](https://techcrunch.com/2024/10/25/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/) - Time not found
+- [YouTube brings its affilate program to India, partners with Flipkart](https://techcrunch.com/2024/10/24/youtube-brings-its-affilate-program-to-india-partners-with-walmart-owned-flipkart/) - Time not found
 - [UnitedHealth says Change Healthcare hack affects over 100 million, the largest-ever US healthcare data breach](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/) - Time not found
 - [Anthropic’s AI can now run and write code](https://techcrunch.com/2024/10/24/anthropics-ai-can-now-run-and-write-code/) - Time not found
 - [Promise Bio exits stealth backed by Pfizer and AstraZeneca](https://techcrunch.com/2024/10/23/promise-bio-exits-stealth-backed-by-pfizer-and-astrazeneca/) - 3 days ago
 - [Wiz hopes to hit $1B in ARR in 2025 before an IPO, after turning down Google’s $23B](https://techcrunch.com/2024/10/23/wiz-hopes-to-hit-1b-in-arr-in-2025-before-an-ipo-after-turning-down-googles-23b/) - 3 days ago
 - [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/) - 3 days ago
 - [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 3 days ago
-- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 3 days ago
 - [Andreessen Horowitz is renting a bunch of Nvidia GPUs to its portfolio companies](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - 3 days ago
+- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 3 days ago
 - [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 3 days ago
 - [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - 4 days ago
 - [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - 4 days ago
@@ -59,7 +59,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Paccurate helps companies ship in smaller boxes, saving them money while helping the earth](https://techcrunch.com/2024/10/22/paccurate-is-helping-brands-ship-with-less-packaging/) - 4 days ago
 - [Socket lands a fresh $40M to scan software for security flaws](https://techcrunch.com/2024/10/22/socket-lands-a-fresh-40m-to-scan-software-for-security-flaws/) - 4 days ago
 - [CrewAI uses third-party models to automate business tasks](https://techcrunch.com/2024/10/22/crewai-uses-third-party-models-to-automate-business-tasks/) - 4 days ago
-- [India’s Neysa bags $30M to compete with global AI hyperscalers](https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/) - 5 days ago
+- [India’s Neysa bags $30M to compete with global AI hyperscalers](https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/) - Oct 21, 2024
 - [Nevoya wants to break the EV truck adoption logjam](https://techcrunch.com/2024/10/21/nevoya-wants-to-break-the-ev-truck-adoption-logjam/) - Oct 21, 2024
 - [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/) - Oct 21, 2024
 - [ShoBizzy, a networking app for the TV industry, aims to open new doors for freelancers](https://techcrunch.com/2024/10/21/shobizzy-networking-app-for-freelancers-in-tv-film-industry/) - Oct 21, 2024
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [McDonald’s broken ice cream machines could get fixed faster thanks to new federal rule](https://techcrunch.com/2024/10/25/mcdonalds-broken-ice-cream-machines-could-get-fixed-faster-thanks-to-new-federal-rule/) - Time not found
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/) - Time not found
 - [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/) - Time not found
-- [Waymo raises $5.6B from Alphabet, a16z, Silver Lake, and more](https://techcrunch.com/2024/10/25/waymo-raises-5-6b-from-alphabet-a16z-silver-lake-and-more/) - Time not found
-- [Apple adds a menu in iOS 18.2 to change default apps including messages and calls](https://techcrunch.com/2024/10/25/apple-adds-a-menu-in-ios-18-2-to-change-default-apps-including-messages-and-calls/) - Time not found
+- [What is Apple Intelligence, when is it coming and who will get it?](https://techcrunch.com/2024/10/25/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/) - Time not found
+- [YouTube brings its affilate program to India, partners with Flipkart](https://techcrunch.com/2024/10/24/youtube-brings-its-affilate-program-to-india-partners-with-walmart-owned-flipkart/) - Time not found
 - [UnitedHealth says Change Healthcare hack affects over 100 million, the largest-ever US healthcare data breach](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/) - Time not found
 - [Anthropic’s AI can now run and write code](https://techcrunch.com/2024/10/24/anthropics-ai-can-now-run-and-write-code/) - Time not found
