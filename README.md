@@ -4,17 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/) - 1 hour ago
-- [Remote ropes in Carta to simplify equity grants for distributed teams](https://techcrunch.com/2024/10/28/remote-partners-with-carta-for-global-equity-grants-issuance-and-management/) - 4 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/28/wordpress-vs-wp-engine-drama-explained/) - 8 hours ago
-- [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/) - 10 hours ago
-- [Founders and VCs back a pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 21 hours ago
+- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/) - 37 mins ago
+- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/) - 1 hour ago
+- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/) - 1 hour ago
+- [SpiralWave’s pulsing plasma towers transform carbon dioxide into liquid fuel](https://techcrunch.com/2024/10/28/spiralwaves-pulsing-plasma-towers-transform-carbon-dioxide-into-liquid-fuel/) - 2 hours ago
+- [Wiz CEO explains why he turned down a $23 billion deal](https://techcrunch.com/2024/10/28/wiz-ceo-explains-why-he-turned-down-a-23-billion-deal/) - 2 hours ago
+- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/) - 2 hours ago
+- [NitroFix wants to use electricity to make ammonia without the pollution](https://techcrunch.com/2024/10/28/nitrofix-wants-to-use-electricity-to-make-ammonia-without-the-pollution/) - 2 hours ago
+- [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/) - 5 hours ago
+- [Remote ropes in Carta to simplify equity grants for distributed teams](https://techcrunch.com/2024/10/28/remote-partners-with-carta-for-global-equity-grants-issuance-and-management/) - 8 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/28/wordpress-vs-wp-engine-drama-explained/) - 12 hours ago
+- [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/) - 14 hours ago
+- [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - 16 hours ago
+- [Founders and VCs back a Pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 1 day ago
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - 1 day ago
-- [Get Ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/) - 1 day ago
-- [NASDAQ CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/) - 1 day ago
+- [Get ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/) - 1 day ago
+- [Nasdaq CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/) - 1 day ago
 - [Final Countdown: 2 days until TechCrunch Disrupt 2024 begins and ticket prices increase](https://techcrunch.com/2024/10/26/final-countdown-2-days-until-techcrunch-disrupt-2024-begins-and-ticket-prices-increase/) - 2 days ago
-- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - 2 days ago
 - [User’s guide to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/26/users-guide-to-techcrunch-disrupt-2024/) - 2 days ago
+- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - 2 days ago
 - [Not all startups mourn IPOs, but liquidity still must flow](https://techcrunch.com/2024/10/25/not-all-startups-mourn-ipos-but-liquidity-still-must-flow/) - 3 days ago
 - [Techcrunch Disrupt 2024 starts Monday — our partners have helped us create an unforgettable experience that you shouldn’t miss](https://techcrunch.com/2024/10/25/disrupt-starts-monday-our-partners-have-helped-us-create-an-unforgettable-experience-that-you-shouldnt-miss/) - 3 days ago
 - [YC startup Pharos lands a $5M seed led by Felicis to bring AI to hospital quality reporting](https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/) - 3 days ago
@@ -26,14 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Bluesky raises $15M Series A, plans to launch subscriptions](https://techcrunch.com/2024/10/24/bluesky-raises-15m-series-a-plans-to-launch-subscriptions/) - 4 days ago
 - [WordPress co-founder Matt Mullenweg is joining TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/24/wordpress-co-founder-matt-mullenweg-is-joining-techcrunch-disrupt-2024/) - 4 days ago
 - [Medtech Alimetry gases up with $18M for a wearable to help diagnose gastric disorders](https://techcrunch.com/2024/10/24/medtech-alimetry-gases-up-with-18-million-for-a-wearable-to-help-diagnose-gastric-disorders/) - 4 days ago
-- [Cheers lets you play matchmaker with friends](https://techcrunch.com/2024/10/24/cheers-lets-you-play-matchmaker-with-friends/) - 4 days ago
-- [Concentric helps companies keep track of their sensitive data](https://techcrunch.com/2024/10/24/concentric-helps-companies-keep-track-of-their-sensitive-data/) - 4 days ago
-- [StrictlyVC joins its first TechCrunch Disrupt](https://techcrunch.com/2024/10/24/strictlyvc-joins-its-first-techcrunch-disrupt-2024/) - 4 days ago
-- [4 days left: The doors to TechCrunch Disrupt 2024 open and ticket prices rise](https://techcrunch.com/2024/10/24/4-days-left-the-doors-to-techcrunch-disrupt-2024-open-and-ticket-prices-rise/) - 4 days ago
-- [After selling Anchor to Spotify, co-founders reunite to build AI educational startup Oboe](https://techcrunch.com/2024/10/24/after-selling-anchor-to-spotify-co-founders-reunite-to-build-ai-educational-startup-oboe/) - 4 days ago
-- [AI networking startup Boardy raises $3M pre-seed](https://techcrunch.com/2024/10/24/ai-networking-startup-boardy-raises-3m-pre-seed/) - 4 days ago
-- [Finix raises $75M to take on Stripe as a payment processor](https://techcrunch.com/2024/10/24/finix-raises-75-million-to-take-on-stripe-as-a-payment-processor/) - 4 days ago
-- [Supply chain startup Interos lands new customers, cash](https://techcrunch.com/2024/10/24/supply-chain-startup-interos-lands-new-customers-cash/) - 4 days ago
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - Time not found
 - [Meta releases an ‘open’ version of Google’s podcast generator](https://techcrunch.com/2024/10/27/meta-releases-an-open-version-of-googles-podcast-generator/) - Time not found
 - [Merlin Solar bets twisty panels will help it land on rooftops everywhere](https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/) - Time not found
@@ -41,10 +41,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple wins $250 from Masimo in watch patent trial](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/) - Time not found
 - [VC megadeals are booming — and AI is surprisingly not the top category](https://techcrunch.com/2024/10/26/vc-megadeals-are-booming-and-ai-is-surprisingly-not-the-top-category/) - Time not found
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/) - Time not found
+- [Cheers lets you play matchmaker with friends](https://techcrunch.com/2024/10/24/cheers-lets-you-play-matchmaker-with-friends/) - 4 days ago
+- [Concentric helps companies keep track of their sensitive data](https://techcrunch.com/2024/10/24/concentric-helps-companies-keep-track-of-their-sensitive-data/) - 4 days ago
+- [StrictlyVC joins its first TechCrunch Disrupt](https://techcrunch.com/2024/10/24/strictlyvc-joins-its-first-techcrunch-disrupt-2024/) - 4 days ago
+- [4 days left: The doors to TechCrunch Disrupt 2024 open and ticket prices rise](https://techcrunch.com/2024/10/24/4-days-left-the-doors-to-techcrunch-disrupt-2024-open-and-ticket-prices-rise/) - 4 days ago
+- [After selling Anchor to Spotify, co-founders reunite to build AI educational startup Oboe](https://techcrunch.com/2024/10/24/after-selling-anchor-to-spotify-co-founders-reunite-to-build-ai-educational-startup-oboe/) - 4 days ago
+- [Finix raises $75M to take on Stripe as a payment processor](https://techcrunch.com/2024/10/24/finix-raises-75-million-to-take-on-stripe-as-a-payment-processor/) - 4 days ago
+- [AI networking startup Boardy raises $3M pre-seed](https://techcrunch.com/2024/10/24/ai-networking-startup-boardy-raises-3m-pre-seed/) - 4 days ago
+- [Supply chain startup Interos lands new customers, cash](https://techcrunch.com/2024/10/24/supply-chain-startup-interos-lands-new-customers-cash/) - 4 days ago
 - [General Catalyst raises $8B in fresh funds to back startups globally](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/) - 4 days ago
 - [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/) - 4 days ago
-- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 4 days ago
-- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 4 days ago
+- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 5 days ago
+- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 5 days ago
 - [Beleaguered startup Humane drops Ai Pin price by $200](https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/) - Oct 23, 2024
 - [Flock Safety paid over $300M for 17-month-old drone startup Aerodome](https://techcrunch.com/2024/10/23/flock-safety-paid-over-300-million-for-17-month-old-drone-startup-aerodome/) - Oct 23, 2024
 - [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - Oct 23, 2024
@@ -53,8 +61,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Wiz hopes to hit $1B in ARR in 2025 before an IPO, after turning down Google’s $23B](https://techcrunch.com/2024/10/23/wiz-hopes-to-hit-1b-in-arr-in-2025-before-an-ipo-after-turning-down-googles-23b/) - Oct 23, 2024
 - [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/) - Oct 23, 2024
 - [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - Oct 23, 2024
-- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - Oct 23, 2024
 - [Andreessen Horowitz is renting a bunch of Nvidia GPUs to its portfolio companies](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - Oct 23, 2024
+- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - Oct 23, 2024
 - [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - Oct 23, 2024
 - [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - Oct 22, 2024
 - [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - Oct 22, 2024
@@ -63,14 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Footwork, Construct Capital, and Bessemer Venture Partners discuss how to raise capital in 2025 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/22/footwork-construct-capital-and-bessemer-venture-partners-discuss-how-to-raise-capital-in-2025-at-techcrunch-disrupt-2024/) - Oct 22, 2024
 - [Ex-SpaceX engineers land $14M to scale new method for 3D printing metal](https://techcrunch.com/2024/10/22/ex-spacex-engineers-land-14m-to-scale-new-method-for-3d-printing-metal/) - Oct 22, 2024
 - [Interface.ai raises $30M to help banks field customer requests](https://techcrunch.com/2024/10/22/interface-ai-raises-30m-to-help-banks-field-customer-requests/) - Oct 22, 2024
-- [As Ozlo’s Sleepbuds go on sale, company raises funds for tinnitus treatment](https://techcrunch.com/2024/10/22/as-ozlos-sleepbuds-go-on-sale-company-raises-funds-for-tinnitus-treatment/) - Oct 22, 2024
-- [Paccurate helps companies ship in smaller boxes, saving them money while helping the earth](https://techcrunch.com/2024/10/22/paccurate-is-helping-brands-ship-with-less-packaging/) - Oct 22, 2024
-- [Socket lands a fresh $40M to scan software for security flaws](https://techcrunch.com/2024/10/22/socket-lands-a-fresh-40m-to-scan-software-for-security-flaws/) - Oct 22, 2024
-- [CrewAI uses third-party models to automate business tasks](https://techcrunch.com/2024/10/22/crewai-uses-third-party-models-to-automate-business-tasks/) - Oct 22, 2024
-- [India’s Neysa bags $30M to compete with global AI hyperscalers](https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/) - Oct 21, 2024
-- [Nevoya wants to break the EV truck adoption logjam](https://techcrunch.com/2024/10/21/nevoya-wants-to-break-the-ev-truck-adoption-logjam/) - Oct 21, 2024
-- [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/) - Oct 21, 2024
-- [ShoBizzy, a networking app for the TV industry, aims to open new doors for freelancers](https://techcrunch.com/2024/10/21/shobizzy-networking-app-for-freelancers-in-tv-film-industry/) - Oct 21, 2024
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - Time not found
 - [Meta releases an ‘open’ version of Google’s podcast generator](https://techcrunch.com/2024/10/27/meta-releases-an-open-version-of-googles-podcast-generator/) - Time not found
 - [Merlin Solar bets twisty panels will help it land on rooftops everywhere](https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/) - Time not found
