@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Founders and VCs back a pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 34 mins ago
-- [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - 6 hours ago
-- [Get Ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/) - 7 hours ago
-- [NASDAQ CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/) - 8 hours ago
+- [Founders and VCs back a pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 6 hours ago
+- [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - 11 hours ago
+- [Get Ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/) - 12 hours ago
+- [NASDAQ CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/) - 13 hours ago
 - [Final Countdown: 2 days until TechCrunch Disrupt 2024 begins and ticket prices increase](https://techcrunch.com/2024/10/26/final-countdown-2-days-until-techcrunch-disrupt-2024-begins-and-ticket-prices-increase/) - 1 day ago
 - [User’s guide to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/26/users-guide-to-techcrunch-disrupt-2024/) - 1 day ago
 - [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - 1 day ago
@@ -30,17 +30,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Finix raises $75M to take on Stripe as a payment processor](https://techcrunch.com/2024/10/24/finix-raises-75-million-to-take-on-stripe-as-a-payment-processor/) - 3 days ago
 - [AI networking startup Boardy raises $3M pre-seed](https://techcrunch.com/2024/10/24/ai-networking-startup-boardy-raises-3m-pre-seed/) - 3 days ago
 - [Supply chain startup Interos lands new customers, cash](https://techcrunch.com/2024/10/24/supply-chain-startup-interos-lands-new-customers-cash/) - 3 days ago
-- [General Catalyst raises $8B in fresh funds to back startups globally](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/) - 3 days ago
-- [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/) - 3 days ago
+- [General Catalyst raises $8B in fresh funds to back startups globally](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/) - 4 days ago
+- [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/) - 4 days ago
 - [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/) - 4 days ago
 - [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/) - 4 days ago
+- [Meta releases an ‘open’ version of Google’s podcast generator](https://techcrunch.com/2024/10/27/meta-releases-an-open-version-of-googles-podcast-generator/) - Time not found
+- [Merlin Solar bets twisty panels will help it land on rooftops everywhere](https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/) - Time not found
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - Time not found
 - [Apple wins $250 from Masimo in watch patent trial](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/) - Time not found
 - [VC megadeals are booming — and AI is surprisingly not the top category](https://techcrunch.com/2024/10/26/vc-megadeals-are-booming-and-ai-is-surprisingly-not-the-top-category/) - Time not found
-- [The Hisense C2 Ultra is a well-rounded, great-looking home projector](https://techcrunch.com/2024/10/26/the-hisense-c2-ultra-is-a-well-rounded-great-looking-home-projector/) - Time not found
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/) - Time not found
 - [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/) - Time not found
-- [UnitedHealth says Change Healthcare hack affects over 100 million, the largest-ever US healthcare data breach](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/) - Time not found
 - [Beleaguered startup Humane drops Ai Pin price by $200](https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/) - 4 days ago
 - [Flock Safety paid over $300M for 17-month-old drone startup Aerodome](https://techcrunch.com/2024/10/23/flock-safety-paid-over-300-million-for-17-month-old-drone-startup-aerodome/) - 4 days ago
 - [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/) - 4 days ago
@@ -51,7 +51,7 @@ Here are the latest articles from TechCrunch Startups:
 - [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - 4 days ago
 - [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/) - 4 days ago
 - [Andreessen Horowitz is renting a bunch of Nvidia GPUs to its portfolio companies](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/) - 4 days ago
-- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 4 days ago
+- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/) - 5 days ago
 - [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/) - Oct 22, 2024
 - [Feds clear way for EVTOL startups to bring flying vehicles to U.S. airspace](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/) - Oct 22, 2024
 - [6 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/22/6-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/) - Oct 22, 2024
@@ -71,10 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Uprise wants to help small businesses make better financial decisions](https://techcrunch.com/2024/10/21/uprise-wants-to-help-small-businesses-make-better-financial-decisions/) - Oct 21, 2024
 - [Groww pays $160M tax as it returns to India amid a startup relocation wave](https://techcrunch.com/2024/10/21/groww-pays-160m-tax-as-it-returns-to-india-amid-a-startup-relocation-wave/) - Oct 21, 2024
 - [DataCrunch wants to be Europe’s first AI cloud hyperscaler — powered by renewable energy](https://techcrunch.com/2024/10/21/datacrunch-wants-to-be-europes-first-ai-cloud-hyperscaler-powered-by-renewable-energy/) - Oct 21, 2024
-- [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - Time not found
 - [Apple wins $250 from Masimo in watch patent trial](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/) - Time not found
 - [VC megadeals are booming — and AI is surprisingly not the top category](https://techcrunch.com/2024/10/26/vc-megadeals-are-booming-and-ai-is-surprisingly-not-the-top-category/) - Time not found
-- [The Hisense C2 Ultra is a well-rounded, great-looking home projector](https://techcrunch.com/2024/10/26/the-hisense-c2-ultra-is-a-well-rounded-great-looking-home-projector/) - Time not found
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/) - Time not found
-- [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/) - Time not found
-- [UnitedHealth says Change Healthcare hack affects over 100 million, the largest-ever US healthcare data breach](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/) - Time not found
