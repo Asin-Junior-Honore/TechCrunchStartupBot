@@ -4,43 +4,47 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 11 mins ago
-- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 2 hours ago
-- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 3 hours ago
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 5 hours ago
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 9 hours ago
-- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 14 hours ago
-- [Tony Fadell on mission-driven a**holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 16 hours ago
-- [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - 18 hours ago
-- [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/) - 18 hours ago
-- [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/) - 18 hours ago
-- [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/) - 18 hours ago
-- [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/) - 19 hours ago
-- [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - 19 hours ago
-- [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - 19 hours ago
-- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 21 hours ago
-- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 22 hours ago
-- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 22 hours ago
-- [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - 22 hours ago
-- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - 23 hours ago
-- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - 23 hours ago
-- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - 23 hours ago
-- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - 24 hours ago
+- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/) - 2 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/) - 3 hours ago
+- [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - 3 hours ago
+- [VCs on how to raise in 2025 if you’ve taken a flat, down, or extension round](https://techcrunch.com/video/vcs-on-how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-round/) - 4 hours ago
+- [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 4 hours ago
+- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 6 hours ago
+- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 7 hours ago
+- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 9 hours ago
+- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 13 hours ago
+- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 18 hours ago
+- [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 20 hours ago
+- [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - 22 hours ago
+- [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/) - 22 hours ago
+- [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/) - 22 hours ago
+- [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/) - 22 hours ago
+- [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/) - 23 hours ago
+- [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - 23 hours ago
+- [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - 23 hours ago
+- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 1 day ago
+- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 1 day ago
+- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 1 day ago
+- [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - 1 day ago
+- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - 1 day ago
+- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - 1 day ago
+- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - 1 day ago
+- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - 1 day ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/29/wordpress-vs-wp-engine-drama-explained/) - 1 day ago
 - [EU boosts EIC budget for supporting deep tech R&D and strategic scale-ups](https://techcrunch.com/2024/10/29/eu-boosts-eic-budget-for-supporting-deeptech-rd-and-strategic-scale-ups/) - 1 day ago
 - [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/) - 1 day ago
 - [Brightwave’s AI agent helps asset managers find signal, and it’s fundraising fast](https://techcrunch.com/2024/10/29/brightwaves-ai-agent-helps-asset-managers-find-signal-and-its-fundraising-fast/) - 1 day ago
-- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - 1 day ago
-- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - 1 day ago
-- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - 1 day ago
-- [What’s driving the boom in national interest startups in Silicon Valley?](https://techcrunch.com/video/whats-driving-the-boom-in-national-interest-startups-in-silicon-valley/) - 2 days ago
+- [Dropbox is laying off 20% of its staff](https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/) - Time not found
 - [Google says its next-gen AI agents won’t launch until 2025 at the earliest](https://techcrunch.com/2024/10/29/google-says-its-next-gen-ai-agents-wont-launch-until-2025-at-the-earliest/) - Time not found
 - [Actor and director Olivia Wilde launches a VC firm](https://techcrunch.com/2024/10/29/actor-and-director-olivia-wilde-launches-a-vc-firm/) - Time not found
 - [LinkedIn launches its first AI agent to take on the role of job recruiters](https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/) - Time not found
 - [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/) - Time not found
-- [A mysterious new image generation model has appeared](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/) - Time not found
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - Time not found
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - Time not found
+- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - 1 day ago
+- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - 2 days ago
+- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - 2 days ago
+- [What’s driving the boom in national interest startups in Silicon Valley?](https://techcrunch.com/video/whats-driving-the-boom-in-national-interest-startups-in-silicon-valley/) - 2 days ago
 - [This veteran couldn’t share 3D scans of a burnt naval ship, so he created a startup that can](https://techcrunch.com/2024/10/28/this-veteran-couldnt-share-3d-scans-of-a-burnt-naval-ship-so-he-created-a-startup-that-can/) - 2 days ago
 - [MabLab’s improved drug and drink testing strips could make for safer streets and venues](https://techcrunch.com/2024/10/28/mablabs-improved-drug-and-drink-testing-strips-could-make-for-safer-streets-and-venues/) - 2 days ago
 - [Step aside, Zoom fatigue, VRTL wants to make virtual fan events fun again](https://techcrunch.com/2024/10/28/step-aside-zoom-fatigue-vrtl-wants-to-make-virtual-fan-events-fun-again/) - 2 days ago
@@ -56,7 +60,7 @@ Here are the latest articles from TechCrunch Startups:
 - [NitroFix wants to use electricity to make ammonia without the pollution](https://techcrunch.com/2024/10/28/nitrofix-wants-to-use-electricity-to-make-ammonia-without-the-pollution/) - 2 days ago
 - [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/) - 2 days ago
 - [Remote ropes in Carta to simplify equity grants for distributed teams](https://techcrunch.com/2024/10/28/remote-partners-with-carta-for-global-equity-grants-issuance-and-management/) - 2 days ago
-- [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/) - 2 days ago
+- [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/) - 3 days ago
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - 3 days ago
 - [Founders and VCs back a Pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 3 days ago
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - 3 days ago
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [User’s guide to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/26/users-guide-to-techcrunch-disrupt-2024/) - 4 days ago
 - [Not all startups mourn IPOs, but liquidity still must flow](https://techcrunch.com/2024/10/25/not-all-startups-mourn-ipos-but-liquidity-still-must-flow/) - Oct 25, 2024
 - [Techcrunch Disrupt 2024 starts Monday — our partners have helped us create an unforgettable experience that you shouldn’t miss](https://techcrunch.com/2024/10/25/disrupt-starts-monday-our-partners-have-helped-us-create-an-unforgettable-experience-that-you-shouldnt-miss/) - Oct 25, 2024
-- [YC startup Pharos lands a $5M seed led by Felicis to bring AI to hospital quality reporting](https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/) - Oct 25, 2024
-- [Stripe’s biggest acquisition yet, and what’s a16z doing with all of those Nvidia GPUs?](https://techcrunch.com/podcast/stripes-biggest-acquisition-yet-and-whats-a16z-doing-with-all-of-those-nvidia-gpus/) - Oct 25, 2024
-- [3 days left: TechCrunch Disrupt 2024 kicks off and ticket prices increase](https://techcrunch.com/2024/10/25/3-days-left-techcrunch-disrupt-2024-kicks-off-and-ticket-prices-increase/) - Oct 25, 2024
-- [Screenable’s app turns any iPhone into a starter phone for kids](https://techcrunch.com/2024/10/25/screenables-app-turns-any-iphone-into-a-starter-phone-for-kids/) - Oct 25, 2024
 - [Dropbox is laying off 20% of its staff](https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/) - Time not found
+- [Google says its next-gen AI agents won’t launch until 2025 at the earliest](https://techcrunch.com/2024/10/29/google-says-its-next-gen-ai-agents-wont-launch-until-2025-at-the-earliest/) - Time not found
 - [Actor and director Olivia Wilde launches a VC firm](https://techcrunch.com/2024/10/29/actor-and-director-olivia-wilde-launches-a-vc-firm/) - Time not found
 - [LinkedIn launches its first AI agent to take on the role of job recruiters](https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/) - Time not found
 - [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/) - Time not found
-- [A mysterious new image generation model has appeared](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/) - Time not found
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - Time not found
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - Time not found
