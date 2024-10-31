@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [And the winner of Startup Battlefield at Disrupt 2024 is . . . Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - 5 hours ago
-- [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/) - 5 hours ago
-- [Announcing the winner of Startup Battlefield 200](https://techcrunch.com/video/announcing-the-winner-of-startup-battlefield-200/) - 5 hours ago
-- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/) - 10 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/) - 11 hours ago
-- [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - 12 hours ago
-- [VCs on how to raise in 2025 if you’ve taken a flat, down, or extension round](https://techcrunch.com/video/vcs-on-how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-round/) - 12 hours ago
-- [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 12 hours ago
-- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 14 hours ago
-- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 15 hours ago
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 17 hours ago
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 21 hours ago
+- [And the winner of Startup Battlefield at Disrupt 2024 is . . . Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - 9 hours ago
+- [Announcing the winner of Startup Battlefield 200](https://techcrunch.com/video/announcing-the-winner-of-startup-battlefield-200/) - 9 hours ago
+- [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/) - 9 hours ago
+- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/) - 14 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/) - 15 hours ago
+- [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - 15 hours ago
+- [VCs on how to raise in 2025 if you’ve taken a flat, down, or extension round](https://techcrunch.com/video/vcs-on-how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-round/) - 16 hours ago
+- [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 16 hours ago
+- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 18 hours ago
+- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 19 hours ago
+- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 21 hours ago
+- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 1 day ago
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 1 day ago
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 1 day ago
 - [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - 1 day ago
@@ -25,14 +25,14 @@ Here are the latest articles from TechCrunch Startups:
 - [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/) - 1 day ago
 - [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - 1 day ago
 - [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - 1 day ago
-- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 1 day ago
-- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 1 day ago
-- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 1 day ago
-- [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - 1 day ago
-- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - 1 day ago
-- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - 1 day ago
-- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - 1 day ago
-- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - 1 day ago
+- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 2 days ago
+- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 2 days ago
+- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 2 days ago
+- [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - 2 days ago
+- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - 2 days ago
+- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - 2 days ago
+- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - 2 days ago
+- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - 2 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/29/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
 - [Rivian’s chief software officer says in-car buttons are ‘an anomaly’](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/) - Time not found
 - [Zoox co-founder on Tesla self-driving: ‘they don’t have technology that works’](https://techcrunch.com/2024/10/30/zoox-co-founder-on-tesla-self-driving-they-dont-have-technology-that-works/) - Time not found
@@ -54,23 +54,23 @@ Here are the latest articles from TechCrunch Startups:
 - [DGLegacy wants to help you ensure your loved ones inherit your assets](https://techcrunch.com/2024/10/28/dglegacy-wants-to-help-you-ensure-your-loved-ones-inherit-your-assets/) - 2 days ago
 - [How Advex creates synthetic data to improve machine vision for manufacturers](https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/) - 2 days ago
 - [Bret Taylor’s customer service AI startup just raised $175M](https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/) - 2 days ago
-- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/) - 2 days ago
-- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/) - 2 days ago
-- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/) - 2 days ago
-- [SpiralWave’s pulsing plasma towers transform carbon dioxide into liquid fuel](https://techcrunch.com/2024/10/28/spiralwaves-pulsing-plasma-towers-transform-carbon-dioxide-into-liquid-fuel/) - 2 days ago
-- [Wiz CEO explains why he turned down a $23 billion deal](https://techcrunch.com/2024/10/28/wiz-ceo-explains-why-he-turned-down-a-23-billion-deal/) - 2 days ago
-- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/) - 2 days ago
-- [NitroFix wants to use electricity to make ammonia without the pollution](https://techcrunch.com/2024/10/28/nitrofix-wants-to-use-electricity-to-make-ammonia-without-the-pollution/) - 2 days ago
+- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/) - 3 days ago
+- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/) - 3 days ago
+- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/) - 3 days ago
+- [SpiralWave’s pulsing plasma towers transform carbon dioxide into liquid fuel](https://techcrunch.com/2024/10/28/spiralwaves-pulsing-plasma-towers-transform-carbon-dioxide-into-liquid-fuel/) - 3 days ago
+- [Wiz CEO explains why he turned down a $23 billion deal](https://techcrunch.com/2024/10/28/wiz-ceo-explains-why-he-turned-down-a-23-billion-deal/) - 3 days ago
+- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/) - 3 days ago
+- [NitroFix wants to use electricity to make ammonia without the pollution](https://techcrunch.com/2024/10/28/nitrofix-wants-to-use-electricity-to-make-ammonia-without-the-pollution/) - 3 days ago
 - [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/) - 3 days ago
 - [Remote ropes in Carta to simplify equity grants for distributed teams](https://techcrunch.com/2024/10/28/remote-partners-with-carta-for-global-equity-grants-issuance-and-management/) - 3 days ago
 - [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/) - 3 days ago
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/) - 3 days ago
-- [Founders and VCs back a Pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 3 days ago
+- [Founders and VCs back a Pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/) - 4 days ago
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) - 4 days ago
 - [Get ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/) - 4 days ago
 - [Nasdaq CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/) - 4 days ago
-- [Final Countdown: 2 days until TechCrunch Disrupt 2024 begins and ticket prices increase](https://techcrunch.com/2024/10/26/final-countdown-2-days-until-techcrunch-disrupt-2024-begins-and-ticket-prices-increase/) - 5 days ago
-- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - 5 days ago
+- [Final Countdown: 2 days until TechCrunch Disrupt 2024 begins and ticket prices increase](https://techcrunch.com/2024/10/26/final-countdown-2-days-until-techcrunch-disrupt-2024-begins-and-ticket-prices-increase/) - Oct 26, 2024
+- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/) - Oct 26, 2024
 - [Rivian’s chief software officer says in-car buttons are ‘an anomaly’](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/) - Time not found
 - [Zoox co-founder on Tesla self-driving: ‘they don’t have technology that works’](https://techcrunch.com/2024/10/30/zoox-co-founder-on-tesla-self-driving-they-dont-have-technology-that-works/) - Time not found
 - [Boston Dynamics’ electric Atlas humanoid executes autonomous automotive parts picking](https://techcrunch.com/2024/10/30/boston-dynamics-electric-atlas-humanoid-executes-autonomous-automotive-parts-picking/) - Time not found
