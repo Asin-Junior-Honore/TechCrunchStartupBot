@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 11 mins ago
-- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 3 hours ago
-- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 3 hours ago
-- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - 22 hours ago
-- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 23 hours ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 31 seconds ago
+- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 1 hour ago
+- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 4 hours ago
+- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 7 hours ago
+- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 7 hours ago
+- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - 1 day ago
+- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 1 day ago
 - [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - 1 day ago
 - [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - 1 day ago
 - [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - 2 days ago
@@ -24,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 2 days ago
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 2 days ago
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 2 days ago
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 2 days ago
+- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 3 days ago
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 3 days ago
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 3 days ago
 - [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - 3 days ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/) - 3 days ago
 - [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/) - 3 days ago
 - [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/) - 3 days ago
-- [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - 3 days ago
-- [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - 3 days ago
 - [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
 - [Amazon CEO Andy Jassy hints at an ‘agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/) - Time not found
 - [Female Founders Fund returns its Fund I](https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Carl Pei says Nothing could build its own operating system](https://techcrunch.com/2024/10/31/carl-pei-says-nothing-could-build-its-own-operating-system/) - Time not found
 - [Ford pauses F-150 Lightning production as Tesla Cybertruck heats up](https://techcrunch.com/2024/10/31/ford-pauses-f-150-lightning-production-as-tesla-cybertruck-heats-up/) - Time not found
 - [Rivian’s chief software officer says in-car buttons are ‘an anomaly’](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/) - Time not found
+- [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - 3 days ago
+- [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - 3 days ago
 - [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 3 days ago
 - [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 3 days ago
 - [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 3 days ago
@@ -54,8 +56,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Brightwave’s AI agent helps asset managers find signal, and it’s fundraising fast](https://techcrunch.com/2024/10/29/brightwaves-ai-agent-helps-asset-managers-find-signal-and-its-fundraising-fast/) - 3 days ago
 - [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/) - 3 days ago
 - [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - 3 days ago
-- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - 3 days ago
-- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - 3 days ago
+- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - 4 days ago
+- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - 4 days ago
 - [What’s driving the boom in national interest startups in Silicon Valley?](https://techcrunch.com/video/whats-driving-the-boom-in-national-interest-startups-in-silicon-valley/) - 4 days ago
 - [This veteran couldn’t share 3D scans of a burnt naval ship, so he created a startup that can](https://techcrunch.com/2024/10/28/this-veteran-couldnt-share-3d-scans-of-a-burnt-naval-ship-so-he-created-a-startup-that-can/) - 4 days ago
 - [MabLab’s improved drug and drink testing strips could make for safer streets and venues](https://techcrunch.com/2024/10/28/mablabs-improved-drug-and-drink-testing-strips-could-make-for-safer-streets-and-venues/) - 4 days ago
@@ -69,8 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [SpiralWave’s pulsing plasma towers transform carbon dioxide into liquid fuel](https://techcrunch.com/2024/10/28/spiralwaves-pulsing-plasma-towers-transform-carbon-dioxide-into-liquid-fuel/) - 4 days ago
 - [Wiz CEO explains why he turned down a $23 billion deal](https://techcrunch.com/2024/10/28/wiz-ceo-explains-why-he-turned-down-a-23-billion-deal/) - 4 days ago
 - [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/) - 4 days ago
-- [NitroFix wants to use electricity to make ammonia without the pollution](https://techcrunch.com/2024/10/28/nitrofix-wants-to-use-electricity-to-make-ammonia-without-the-pollution/) - 4 days ago
-- [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/) - 4 days ago
 - [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
 - [Amazon CEO Andy Jassy hints at an ‘agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/) - Time not found
 - [Female Founders Fund returns its Fund I](https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/) - Time not found
