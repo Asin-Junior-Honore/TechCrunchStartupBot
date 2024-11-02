@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 1 hour ago
-- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 2 hours ago
-- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 3 hours ago
-- [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 4 hours ago
-- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 20 hours ago
-- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 21 hours ago
+- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 5 hours ago
+- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 6 hours ago
+- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 7 hours ago
+- [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 8 hours ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 24 hours ago
+- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 1 day ago
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 1 day ago
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 1 day ago
 - [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 1 day ago
@@ -30,14 +30,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 3 days ago
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 3 days ago
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 3 days ago
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 3 days ago
+- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 4 days ago
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 4 days ago
 - [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - 4 days ago
 - [SpaceX wants to test refueling Starships in space early next year](https://techcrunch.com/2024/11/01/spacex-wants-to-test-refueling-starships-in-space-early-next-year/) - Time not found
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
-- [Apple is buying photo-editing app Pixelmator](https://techcrunch.com/2024/11/01/apple-is-buying-photo-editing-app-pixelmator/) - Time not found
 - [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
+- [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
 - [Female Founders Fund returns its Fund I](https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/) - Time not found
 - [Carl Pei says Nothing could build its own operating system](https://techcrunch.com/2024/10/31/carl-pei-says-nothing-could-build-its-own-operating-system/) - Time not found
 - [Ford pauses F-150 Lightning production as Tesla Cybertruck heats up](https://techcrunch.com/2024/10/31/ford-pauses-f-150-lightning-production-as-tesla-cybertruck-heats-up/) - Time not found
