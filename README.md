@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 8 hours ago
-- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 9 hours ago
-- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 12 hours ago
-- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 15 hours ago
-- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 15 hours ago
-- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - 1 day ago
-- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 1 day ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 12 hours ago
+- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 13 hours ago
+- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 16 hours ago
+- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 19 hours ago
+- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 19 hours ago
+- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - 2 days ago
+- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 2 days ago
 - [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - 2 days ago
 - [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - 2 days ago
 - [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - 2 days ago
@@ -18,10 +18,10 @@ Here are the latest articles from TechCrunch Startups:
 - [And the winner of Startup Battlefield at Disrupt 2024 is: Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - 2 days ago
 - [Announcing the winner of Startup Battlefield 200](https://techcrunch.com/video/announcing-the-winner-of-startup-battlefield-200/) - 2 days ago
 - [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/) - 2 days ago
-- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/) - 2 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/) - 2 days ago
-- [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - 2 days ago
-- [VCs on how to raise in 2025 if you’ve taken a flat, down, or extension round](https://techcrunch.com/video/vcs-on-how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-round/) - 2 days ago
+- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/) - 3 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/) - 3 days ago
+- [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - 3 days ago
+- [VCs on how to raise in 2025 if you’ve taken a flat, down, or extension round](https://techcrunch.com/video/vcs-on-how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-round/) - 3 days ago
 - [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 3 days ago
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 3 days ago
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 3 days ago
@@ -43,15 +43,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Ford pauses F-150 Lightning production as Tesla Cybertruck heats up](https://techcrunch.com/2024/10/31/ford-pauses-f-150-lightning-production-as-tesla-cybertruck-heats-up/) - Time not found
 - [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - 3 days ago
 - [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - 3 days ago
-- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 3 days ago
-- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 3 days ago
-- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 3 days ago
-- [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - 3 days ago
-- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - 3 days ago
-- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - 3 days ago
-- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - 3 days ago
-- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - 3 days ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/29/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
+- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - 4 days ago
+- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - 4 days ago
+- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - 4 days ago
+- [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - 4 days ago
+- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - 4 days ago
+- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - 4 days ago
+- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - 4 days ago
+- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - 4 days ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/29/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
 - [EU boosts EIC budget for supporting deep tech R&D and strategic scale-ups](https://techcrunch.com/2024/10/29/eu-boosts-eic-budget-for-supporting-deeptech-rd-and-strategic-scale-ups/) - 4 days ago
 - [Brightwave’s AI agent helps asset managers find signal, and it’s fundraising fast](https://techcrunch.com/2024/10/29/brightwaves-ai-agent-helps-asset-managers-find-signal-and-its-fundraising-fast/) - 4 days ago
 - [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/) - 4 days ago
@@ -65,12 +65,12 @@ Here are the latest articles from TechCrunch Startups:
 - [DGLegacy wants to help you ensure your loved ones inherit your assets](https://techcrunch.com/2024/10/28/dglegacy-wants-to-help-you-ensure-your-loved-ones-inherit-your-assets/) - 4 days ago
 - [How Advex creates synthetic data to improve machine vision for manufacturers](https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/) - 4 days ago
 - [Bret Taylor’s customer service AI startup just raised $175M](https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/) - 4 days ago
-- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/) - 4 days ago
-- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/) - 4 days ago
-- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/) - 4 days ago
-- [SpiralWave’s pulsing plasma towers transform carbon dioxide into liquid fuel](https://techcrunch.com/2024/10/28/spiralwaves-pulsing-plasma-towers-transform-carbon-dioxide-into-liquid-fuel/) - 4 days ago
-- [Wiz CEO explains why he turned down a $23 billion deal](https://techcrunch.com/2024/10/28/wiz-ceo-explains-why-he-turned-down-a-23-billion-deal/) - 4 days ago
-- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/) - 4 days ago
+- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/) - 5 days ago
+- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/) - 5 days ago
+- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/) - 5 days ago
+- [SpiralWave’s pulsing plasma towers transform carbon dioxide into liquid fuel](https://techcrunch.com/2024/10/28/spiralwaves-pulsing-plasma-towers-transform-carbon-dioxide-into-liquid-fuel/) - 5 days ago
+- [Wiz CEO explains why he turned down a $23 billion deal](https://techcrunch.com/2024/10/28/wiz-ceo-explains-why-he-turned-down-a-23-billion-deal/) - 5 days ago
+- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/) - 5 days ago
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
 - [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
 - [Amazon CEO Andy Jassy hints at an ‘agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/) - Time not found
