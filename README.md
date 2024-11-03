@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 5 hours ago
-- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 6 hours ago
-- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 7 hours ago
-- [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 8 hours ago
-- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 24 hours ago
+- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 10 hours ago
+- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 11 hours ago
+- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 12 hours ago
+- [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 13 hours ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 1 day ago
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 1 day ago
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 1 day ago
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 1 day ago
@@ -29,7 +29,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 3 days ago
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 3 days ago
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 3 days ago
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 3 days ago
+- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 4 days ago
 - [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 4 days ago
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 4 days ago
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 4 days ago
@@ -60,8 +60,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Brightwave’s AI agent helps asset managers find signal, and it’s fundraising fast](https://techcrunch.com/2024/10/29/brightwaves-ai-agent-helps-asset-managers-find-signal-and-its-fundraising-fast/) - 4 days ago
 - [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/) - 4 days ago
 - [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - 4 days ago
-- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - 4 days ago
-- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - 4 days ago
+- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - Oct 29, 2024
+- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - Oct 29, 2024
 - [What’s driving the boom in national interest startups in Silicon Valley?](https://techcrunch.com/video/whats-driving-the-boom-in-national-interest-startups-in-silicon-valley/) - Oct 28, 2024
 - [This veteran couldn’t share 3D scans of a burnt naval ship, so he created a startup that can](https://techcrunch.com/2024/10/28/this-veteran-couldnt-share-3d-scans-of-a-burnt-naval-ship-so-he-created-a-startup-that-can/) - Oct 28, 2024
 - [MabLab’s improved drug and drink testing strips could make for safer streets and venues](https://techcrunch.com/2024/10/28/mablabs-improved-drug-and-drink-testing-strips-could-make-for-safer-streets-and-venues/) - Oct 28, 2024
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/) - Oct 28, 2024
 - [SpaceX wants to test refueling Starships in space early next year](https://techcrunch.com/2024/11/01/spacex-wants-to-test-refueling-starships-in-space-early-next-year/) - Time not found
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
-- [Apple is buying photo-editing app Pixelmator](https://techcrunch.com/2024/11/01/apple-is-buying-photo-editing-app-pixelmator/) - Time not found
 - [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
+- [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
 - [Female Founders Fund returns its Fund I](https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/) - Time not found
 - [Carl Pei says Nothing could build its own operating system](https://techcrunch.com/2024/10/31/carl-pei-says-nothing-could-build-its-own-operating-system/) - Time not found
 - [Ford pauses F-150 Lightning production as Tesla Cybertruck heats up](https://techcrunch.com/2024/10/31/ford-pauses-f-150-lightning-production-as-tesla-cybertruck-heats-up/) - Time not found
