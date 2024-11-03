@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 17 seconds ago
+- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 4 hours ago
 - [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 1 day ago
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 1 day ago
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 1 day ago
@@ -32,15 +32,15 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 4 days ago
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 4 days ago
 - [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 4 days ago
-- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - 5 days ago
-- [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - 5 days ago
+- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - Oct 29, 2024
+- [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - Oct 29, 2024
 - [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/) - Time not found
 - [Quantum Machines and Nvidia use machine learning to get closer to an error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/) - Time not found
 - [MIT debuts a large language model-inspired method for teaching robots new skills](https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/) - Time not found
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - Time not found
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
-- [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
+- [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/) - Time not found
 - [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - Oct 29, 2024
 - [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/) - Oct 29, 2024
 - [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/) - Oct 29, 2024
@@ -76,5 +76,5 @@ Here are the latest articles from TechCrunch Startups:
 - [MIT debuts a large language model-inspired method for teaching robots new skills](https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/) - Time not found
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - Time not found
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
-- [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
+- [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/) - Time not found
