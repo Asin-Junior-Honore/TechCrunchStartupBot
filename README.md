@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 4 hours ago
+- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 9 hours ago
 - [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 1 day ago
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 1 day ago
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 1 day ago
-- [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 1 day ago
+- [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 2 days ago
 - [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 2 days ago
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 2 days ago
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 2 days ago
@@ -30,8 +30,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 4 days ago
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 4 days ago
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 4 days ago
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 4 days ago
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - 4 days ago
+- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 5 days ago
+- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - Oct 29, 2024
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - Oct 29, 2024
 - [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/) - Time not found
