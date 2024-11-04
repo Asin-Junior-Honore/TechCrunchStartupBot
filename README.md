@@ -4,9 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - 2 hours ago
-- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - 3 hours ago
-- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 24 hours ago
+- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - 2 hours ago
+- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/04/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 3 hours ago
+- [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - 6 hours ago
+- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - 7 hours ago
+- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 1 day ago
 - [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 2 days ago
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 2 days ago
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 2 days ago
@@ -20,11 +22,11 @@ Here are the latest articles from TechCrunch Startups:
 - [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 4 days ago
 - [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - 4 days ago
 - [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - 4 days ago
-- [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - 5 days ago
-- [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/) - 5 days ago
-- [And the winner of Startup Battlefield at Disrupt 2024 is: Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - 5 days ago
-- [Announcing the winner of Startup Battlefield 200](https://techcrunch.com/video/announcing-the-winner-of-startup-battlefield-200/) - 5 days ago
-- [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/) - 5 days ago
+- [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - Oct 30, 2024
+- [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/) - Oct 30, 2024
+- [And the winner of Startup Battlefield at Disrupt 2024 is: Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - Oct 30, 2024
+- [Announcing the winner of Startup Battlefield 200](https://techcrunch.com/video/announcing-the-winner-of-startup-battlefield-200/) - Oct 30, 2024
+- [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/) - Oct 30, 2024
 - [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/) - Oct 30, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/) - Oct 30, 2024
 - [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - Oct 30, 2024
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - Oct 30, 2024
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - Oct 30, 2024
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - Oct 30, 2024
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
+- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - Time not found
+- [Vanguard cuts Indian rideshare startup Ola’s valuation to $2B](https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/) - Time not found
+- [Threads now has 275M monthly active users](https://techcrunch.com/2024/11/03/threads-now-has-275m-monthly-active-users/) - Time not found
 - [OpenAI has hired the co-founder of Twitter challenger Pebble](https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/) - Time not found
 - [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/) - Time not found
-- [Quantum Machines and Nvidia use machine learning to get closer to an error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/) - Time not found
-- [MIT debuts a large language model-inspired method for teaching robots new skills](https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/) - Time not found
-- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - Time not found
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
+- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
+- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - Oct 29, 2024
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - Oct 29, 2024
 - [VCs offer live feedback on audience members’ startup pitch decks](https://techcrunch.com/video/vcs-offer-live-feedback-on-audience-members-startup-pitch-decks/) - Oct 29, 2024
@@ -60,21 +62,19 @@ Here are the latest articles from TechCrunch Startups:
 - [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - Oct 29, 2024
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/29/wordpress-vs-wp-engine-drama-explained/) - Oct 29, 2024
 - [EU boosts EIC budget for supporting deep tech R&D and strategic scale-ups](https://techcrunch.com/2024/10/29/eu-boosts-eic-budget-for-supporting-deeptech-rd-and-strategic-scale-ups/) - Oct 29, 2024
+- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - Oct 29, 2024
 - [Brightwave’s AI agent helps asset managers find signal, and it’s fundraising fast](https://techcrunch.com/2024/10/29/brightwaves-ai-agent-helps-asset-managers-find-signal-and-its-fundraising-fast/) - Oct 29, 2024
 - [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/) - Oct 29, 2024
-- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - Oct 29, 2024
 - [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - Oct 29, 2024
 - [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - Oct 29, 2024
 - [What’s driving the boom in national interest startups in Silicon Valley?](https://techcrunch.com/video/whats-driving-the-boom-in-national-interest-startups-in-silicon-valley/) - Oct 28, 2024
 - [This veteran couldn’t share 3D scans of a burnt naval ship, so he created a startup that can](https://techcrunch.com/2024/10/28/this-veteran-couldnt-share-3d-scans-of-a-burnt-naval-ship-so-he-created-a-startup-that-can/) - Oct 28, 2024
 - [MabLab’s improved drug and drink testing strips could make for safer streets and venues](https://techcrunch.com/2024/10/28/mablabs-improved-drug-and-drink-testing-strips-could-make-for-safer-streets-and-venues/) - Oct 28, 2024
 - [Step aside, Zoom fatigue, VRTL wants to make virtual fan events fun again](https://techcrunch.com/2024/10/28/step-aside-zoom-fatigue-vrtl-wants-to-make-virtual-fan-events-fun-again/) - Oct 28, 2024
-- [DGLegacy wants to help you ensure your loved ones inherit your assets](https://techcrunch.com/2024/10/28/dglegacy-wants-to-help-you-ensure-your-loved-ones-inherit-your-assets/) - Oct 28, 2024
-- [How Advex creates synthetic data to improve machine vision for manufacturers](https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/) - Oct 28, 2024
+- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - Time not found
+- [Vanguard cuts Indian rideshare startup Ola’s valuation to $2B](https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/) - Time not found
+- [Threads now has 275M monthly active users](https://techcrunch.com/2024/11/03/threads-now-has-275m-monthly-active-users/) - Time not found
 - [OpenAI has hired the co-founder of Twitter challenger Pebble](https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/) - Time not found
 - [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/) - Time not found
-- [Quantum Machines and Nvidia use machine learning to get closer to an error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/) - Time not found
-- [MIT debuts a large language model-inspired method for teaching robots new skills](https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/) - Time not found
-- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - Time not found
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
