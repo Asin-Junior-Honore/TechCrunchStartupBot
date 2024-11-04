@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 9 hours ago
-- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 1 day ago
-- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 1 day ago
-- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 1 day ago
+- [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 12 hours ago
+- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 2 days ago
+- [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 2 days ago
+- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 2 days ago
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 2 days ago
 - [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 2 days ago
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 2 days ago
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 2 days ago
-- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 2 days ago
-- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 2 days ago
+- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 3 days ago
+- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 3 days ago
 - [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - 3 days ago
 - [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 3 days ago
-- [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - 3 days ago
-- [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - 3 days ago
+- [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - 4 days ago
+- [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - 4 days ago
 - [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - 4 days ago
 - [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/) - 4 days ago
 - [And the winner of Startup Battlefield at Disrupt 2024 is: Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - 4 days ago
@@ -28,9 +28,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Equity Live: Bret Taylor’s $4.5 billion startup and Waymo’s $5.6 billion round](https://techcrunch.com/podcast/equity-live-bret-taylors-4-5-billion-startup-and-waymos-5-6-billion-round/) - 4 days ago
 - [VCs on how to raise in 2025 if you’ve taken a flat, down, or extension round](https://techcrunch.com/video/vcs-on-how-to-raise-in-2025-if-youve-taken-a-flat-down-or-extension-round/) - 4 days ago
 - [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/) - 4 days ago
-- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 4 days ago
-- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 4 days ago
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - 5 days ago
+- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - 5 days ago
+- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - 5 days ago
+- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
 - [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - Oct 29, 2024
 - [Tony Fadell on mission-driven a–holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/) - Oct 29, 2024
