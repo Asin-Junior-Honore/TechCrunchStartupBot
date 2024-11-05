@@ -4,24 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - 8 hours ago
-- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - 9 hours ago
-- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - 14 hours ago
-- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/04/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 15 hours ago
-- [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - 18 hours ago
-- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - 19 hours ago
+- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - 12 hours ago
+- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - 14 hours ago
+- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - 18 hours ago
+- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/04/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 19 hours ago
+- [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - 22 hours ago
+- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - 23 hours ago
 - [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - 2 days ago
 - [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - 3 days ago
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 3 days ago
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 3 days ago
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 3 days ago
-- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 3 days ago
-- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 3 days ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 4 days ago
+- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 4 days ago
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 4 days ago
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - 4 days ago
 - [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - 4 days ago
-- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - 5 days ago
-- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - 5 days ago
+- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - Oct 31, 2024
+- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - Oct 31, 2024
 - [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - Oct 31, 2024
 - [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - Oct 31, 2024
 - [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - Oct 30, 2024
@@ -38,7 +38,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity CEO offers AI company’s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/) - Time not found
 - [Regulators deliver successive blows to Amazon and Meta’s nuclear power ambitions](https://techcrunch.com/2024/11/04/regulators-deliver-successive-blows-to-amazon-and-metas-nuclear-power-ambitions/) - Time not found
 - [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/) - Time not found
-- [Vanguard cuts Indian rideshare startup Ola’s valuation to $2B](https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/) - Time not found
+- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - Time not found
 - [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - Oct 30, 2024
@@ -64,9 +64,9 @@ Here are the latest articles from TechCrunch Startups:
 - [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - Oct 29, 2024
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/29/wordpress-vs-wp-engine-drama-explained/) - Oct 29, 2024
 - [EU boosts EIC budget for supporting deep tech R&D and strategic scale-ups](https://techcrunch.com/2024/10/29/eu-boosts-eic-budget-for-supporting-deeptech-rd-and-strategic-scale-ups/) - Oct 29, 2024
-- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - Oct 29, 2024
 - [Brightwave’s AI agent helps asset managers find signal, and it’s fundraising fast](https://techcrunch.com/2024/10/29/brightwaves-ai-agent-helps-asset-managers-find-signal-and-its-fundraising-fast/) - Oct 29, 2024
 - [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/) - Oct 29, 2024
+- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/) - Oct 29, 2024
 - [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/) - Oct 29, 2024
 - [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/) - Oct 29, 2024
 - [What’s driving the boom in national interest startups in Silicon Valley?](https://techcrunch.com/video/whats-driving-the-boom-in-national-interest-startups-in-silicon-valley/) - Oct 28, 2024
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity CEO offers AI company’s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/) - Time not found
 - [Regulators deliver successive blows to Amazon and Meta’s nuclear power ambitions](https://techcrunch.com/2024/11/04/regulators-deliver-successive-blows-to-amazon-and-metas-nuclear-power-ambitions/) - Time not found
 - [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/) - Time not found
+- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - Time not found
 - [Vanguard cuts Indian rideshare startup Ola’s valuation to $2B](https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/) - Time not found
-- [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
