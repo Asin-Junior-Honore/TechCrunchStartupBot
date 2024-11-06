@@ -4,17 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 12 hours ago
-- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 14 hours ago
-- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - 17 hours ago
-- [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - 17 hours ago
-- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - 18 hours ago
-- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - 19 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/) - 20 hours ago
-- [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/) - 21 hours ago
-- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 21 hours ago
-- [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - 22 hours ago
-- [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - 22 hours ago
+- [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 19 mins ago
+- [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 19 mins ago
+- [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/) - 3 hours ago
+- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 16 hours ago
+- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 18 hours ago
+- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - 21 hours ago
+- [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - 22 hours ago
+- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - 22 hours ago
+- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - 23 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/) - 1 day ago
+- [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/) - 1 day ago
+- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 1 day ago
+- [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - 1 day ago
+- [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - 1 day ago
 - [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - 2 days ago
 - [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - 2 days ago
 - [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - 2 days ago
@@ -25,15 +28,12 @@ Here are the latest articles from TechCrunch Startups:
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 4 days ago
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 4 days ago
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 4 days ago
-- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 5 days ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - Nov 1, 2024
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - Nov 1, 2024
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - Nov 1, 2024
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - Nov 1, 2024
 - [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - Nov 1, 2024
 - [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - Oct 31, 2024
-- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - Oct 31, 2024
-- [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - Oct 31, 2024
-- [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - Oct 31, 2024
 - [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/) - Time not found
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/) - Time not found
 - [Apple’s new widget puts Election Day updates on your Lock Screen and Home Screen](https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity CEO offers AI company’s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/) - Time not found
 - [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
+- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/how-to-court-and-retain-gen-z-workers/) - Oct 31, 2024
+- [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/) - Oct 31, 2024
+- [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/) - Oct 31, 2024
 - [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/) - Oct 30, 2024
 - [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/) - Oct 30, 2024
 - [And the winner of Startup Battlefield at Disrupt 2024 is: Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/) - Oct 30, 2024
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - Oct 29, 2024
 - [Luna wants to help young girls navigate their health and well-being  ](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/) - Oct 29, 2024
 - [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/) - Oct 29, 2024
-- [How to build a company while protecting your mental health](https://techcrunch.com/video/how-to-build-a-company-while-protecting-your-mental-health/) - Oct 29, 2024
-- [HILOS is making footwear more sustainable without skimping on style](https://techcrunch.com/2024/10/29/hilos-is-making-footwear-more-sustainable-without-skimping-on-style/) - Oct 29, 2024
-- [How startups can do more than rack up huge valuations and maybe save the world](https://techcrunch.com/video/how-startups-can-do-more-than-rack-up-huge-valuations-and-maybe-save-the-world/) - Oct 29, 2024
 - [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/) - Time not found
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/) - Time not found
 - [Apple’s new widget puts Election Day updates on your Lock Screen and Home Screen](https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/) - Time not found
