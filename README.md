@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 8 hours ago
-- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 9 hours ago
-- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - 12 hours ago
-- [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - 13 hours ago
-- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - 14 hours ago
-- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - 15 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/) - 16 hours ago
-- [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/) - 16 hours ago
-- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 17 hours ago
-- [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - 17 hours ago
-- [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - 18 hours ago
-- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - 1 day ago
-- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - 1 day ago
+- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 12 hours ago
+- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 14 hours ago
+- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - 17 hours ago
+- [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - 17 hours ago
+- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - 18 hours ago
+- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - 19 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/) - 20 hours ago
+- [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/) - 21 hours ago
+- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 21 hours ago
+- [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - 22 hours ago
+- [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - 22 hours ago
+- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - 2 days ago
+- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - 2 days ago
 - [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - 2 days ago
 - [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - 2 days ago
 - [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - 2 days ago
@@ -25,9 +25,9 @@ Here are the latest articles from TechCrunch Startups:
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - 4 days ago
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - 4 days ago
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - 4 days ago
-- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 4 days ago
-- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - 4 days ago
-- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - 5 days ago
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - 5 days ago
+- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - Nov 1, 2024
+- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - Nov 1, 2024
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - Nov 1, 2024
 - [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - Nov 1, 2024
 - [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - Oct 31, 2024
