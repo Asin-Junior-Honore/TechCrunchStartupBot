@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 2 hours ago
-- [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/) - 2 hours ago
-- [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/) - 8 hours ago
-- [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/) - 20 hours ago
-- [Pinstripe wants to redefine the way online sellers sell secondhand clothing](https://techcrunch.com/2024/11/06/pinstripe-wants-to-redefine-the-way-online-sellers-sell-secondhand-clothing/) - 22 hours ago
-- [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 24 hours ago
-- [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 24 hours ago
+- [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 6 hours ago
+- [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/) - 6 hours ago
+- [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/) - 12 hours ago
+- [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/) - 24 hours ago
+- [Pinstripe wants to redefine the way online sellers sell secondhand clothing](https://techcrunch.com/2024/11/06/pinstripe-wants-to-redefine-the-way-online-sellers-sell-secondhand-clothing/) - 1 day ago
+- [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 1 day ago
+- [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 1 day ago
 - [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/) - 1 day ago
 - [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 2 days ago
 - [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 2 days ago
@@ -34,11 +34,11 @@ Here are the latest articles from TechCrunch Startups:
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - Nov 2, 2024
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - Nov 2, 2024
 - [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - Nov 1, 2024
+- [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/) - Time not found
 - [SpaceX to launch Starship for the sixth time this month](https://techcrunch.com/2024/11/06/spacex-to-launch-starship-for-the-sixth-time-this-month/) - Time not found
 - [The other election night winner: Perplexity](https://techcrunch.com/2024/11/06/the-other-election-night-winner-perplexity/) - Time not found
 - [OpenAI acquired Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) - Time not found
 - [What Trump’s win might mean for Elon Musk](https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/) - Time not found
-- [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/) - Time not found
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - Nov 1, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/) - Oct 29, 2024
 - [BANF’s smart tires for trucks promise to save fuel and lives](https://techcrunch.com/2024/10/29/banfs-smart-tires-for-trucks-promise-to-save-fuel-and-lives/) - Oct 29, 2024
 - [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/) - Oct 29, 2024
+- [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/) - Time not found
 - [SpaceX to launch Starship for the sixth time this month](https://techcrunch.com/2024/11/06/spacex-to-launch-starship-for-the-sixth-time-this-month/) - Time not found
 - [The other election night winner: Perplexity](https://techcrunch.com/2024/11/06/the-other-election-night-winner-perplexity/) - Time not found
 - [OpenAI acquired Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) - Time not found
 - [What Trump’s win might mean for Elon Musk](https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/) - Time not found
-- [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/) - Time not found
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
