@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/) - 10 seconds ago
-- [Pinstripe wants to redefine the way online sellers sell secondhand clothing](https://techcrunch.com/2024/11/06/pinstripe-wants-to-redefine-the-way-online-sellers-sell-secondhand-clothing/) - 2 hours ago
-- [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 4 hours ago
-- [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 4 hours ago
-- [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/) - 7 hours ago
-- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 20 hours ago
-- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 22 hours ago
+- [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/) - 5 hours ago
+- [Pinstripe wants to redefine the way online sellers sell secondhand clothing](https://techcrunch.com/2024/11/06/pinstripe-wants-to-redefine-the-way-online-sellers-sell-secondhand-clothing/) - 7 hours ago
+- [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 9 hours ago
+- [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 9 hours ago
+- [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/) - 12 hours ago
+- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 1 day ago
+- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 1 day ago
 - [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - 1 day ago
 - [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - 1 day ago
 - [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - 1 day ago
@@ -34,12 +34,12 @@ Here are the latest articles from TechCrunch Startups:
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - Nov 1, 2024
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/) - Nov 1, 2024
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/) - Nov 1, 2024
+- [What Trump’s win might mean for Elon Musk](https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/) - Time not found
 - [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/) - Time not found
 - [Nvidia just became the world’s largest company amid AI boom](https://techcrunch.com/2024/11/05/nvidia-just-became-the-worlds-largest-company-amid-ai-boom/) - Time not found
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/) - Time not found
-- [Apple’s new widget puts Election Day updates on your Lock Screen and Home Screen](https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/) - Time not found
+- [Oil giant BP is killing 18 hydrogen projects, chilling the nascent industry](https://techcrunch.com/2024/11/05/oil-giant-bp-is-killing-18-hydrogen-projects-chilling-the-nascent-industry/) - Time not found
 - [Perplexity CEO offers AI company’s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/) - Time not found
-- [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
 - [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/) - Nov 1, 2024
 - [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/) - Oct 31, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) - Oct 29, 2024
 - [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/) - Oct 29, 2024
 - [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/) - Oct 29, 2024
+- [What Trump’s win might mean for Elon Musk](https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/) - Time not found
 - [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/) - Time not found
 - [Nvidia just became the world’s largest company amid AI boom](https://techcrunch.com/2024/11/05/nvidia-just-became-the-worlds-largest-company-amid-ai-boom/) - Time not found
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/) - Time not found
-- [Apple’s new widget puts Election Day updates on your Lock Screen and Home Screen](https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/) - Time not found
+- [Oil giant BP is killing 18 hydrogen projects, chilling the nascent industry](https://techcrunch.com/2024/11/05/oil-giant-bp-is-killing-18-hydrogen-projects-chilling-the-nascent-industry/) - Time not found
 - [Perplexity CEO offers AI company’s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/) - Time not found
-- [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
