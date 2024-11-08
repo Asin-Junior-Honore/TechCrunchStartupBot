@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - 14 hours ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - 18 hours ago
-- [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 22 hours ago
-- [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/) - 22 hours ago
+- [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - 1 min ago
+- [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - 18 hours ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - 22 hours ago
+- [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 1 day ago
+- [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/) - 1 day ago
 - [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/) - 1 day ago
 - [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/) - 2 days ago
 - [Pinstripe wants to redefine the way online sellers sell secondhand clothing](https://techcrunch.com/2024/11/06/pinstripe-wants-to-redefine-the-way-online-sellers-sell-secondhand-clothing/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - Nov 3, 2024
 - [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/) - Nov 2, 2024
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/) - Nov 2, 2024
-- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - Nov 2, 2024
+- [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/) - Time not found
 - [Hacker says they banned ‘thousands’ of Call of Duty gamers by abusing anti-cheat flaw](https://techcrunch.com/2024/11/07/hacker-says-they-banned-thousands-of-call-of-duty-gamers-by-abusing-anti-cheat-flaw/) - Time not found
 - [Apple 16-inch MacBook Pro (M4 Pro) review: A powerful desktop replacement](https://techcrunch.com/2024/11/07/apple-16-inch-macbook-pro-m4-pro-review-a-powerful-desktop-replacement/) - Time not found
 - [Lucid Motors starts taking orders for its existential Gravity SUV](https://techcrunch.com/2024/11/07/lucid-motors-starts-taking-orders-for-its-existential-gravity-suv/) - Time not found
 - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/) - Time not found
-- [SpaceX to launch Starship for the sixth time this month](https://techcrunch.com/2024/11/06/spacex-to-launch-starship-for-the-sixth-time-this-month/) - Time not found
 - [OpenAI acquired Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
+- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/) - Nov 2, 2024
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/) - Nov 2, 2024
 - [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/) - Nov 1, 2024
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/) - Nov 1, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/) - Oct 29, 2024
 - [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/) - Oct 29, 2024
 - [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/) - Oct 29, 2024
-- [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/) - Oct 29, 2024
+- [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/) - Time not found
+- [Amazon may up its investment in Anthropic — on one condition](https://techcrunch.com/2024/11/07/amazon-may-up-its-investment-in-anthropic-on-one-condition/) - Time not found
 - [Hacker says they banned ‘thousands’ of Call of Duty gamers by abusing anti-cheat flaw](https://techcrunch.com/2024/11/07/hacker-says-they-banned-thousands-of-call-of-duty-gamers-by-abusing-anti-cheat-flaw/) - Time not found
-- [Apple 16-inch MacBook Pro (M4 Pro) review: A powerful desktop replacement](https://techcrunch.com/2024/11/07/apple-16-inch-macbook-pro-m4-pro-review-a-powerful-desktop-replacement/) - Time not found
 - [Lucid Motors starts taking orders for its existential Gravity SUV](https://techcrunch.com/2024/11/07/lucid-motors-starts-taking-orders-for-its-existential-gravity-suv/) - Time not found
 - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/) - Time not found
-- [SpaceX to launch Starship for the sixth time this month](https://techcrunch.com/2024/11/06/spacex-to-launch-starship-for-the-sixth-time-this-month/) - Time not found
 - [OpenAI acquired Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
