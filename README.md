@@ -4,12 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 14 hours ago
-- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 16 hours ago
-- [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/) - 16 hours ago
-- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - 17 hours ago
-- [How AI startup Conflixis is protecting hospitals from corrupt doctors ](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/) - 19 hours ago
-- [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - 20 hours ago
+- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 1 hour ago
+- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 18 hours ago
+- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 19 hours ago
+- [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/) - 20 hours ago
+- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - 21 hours ago
+- [How AI startup Conflixis is protecting hospitals from corrupt doctors ](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/) - 23 hours ago
+- [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - 1 day ago
 - [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - 2 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
 - [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 2 days ago
@@ -31,16 +32,16 @@ Here are the latest articles from TechCrunch Startups:
 - [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - 4 days ago
 - [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - 4 days ago
 - [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - 4 days ago
-- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - 5 days ago
-- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - 5 days ago
-- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - Nov 4, 2024
+- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - Nov 4, 2024
+- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - Nov 4, 2024
+- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - Time not found
 - [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - Time not found
+- [Trump included Elon Musk on call with Zelenskyy](https://techcrunch.com/2024/11/08/trump-included-elon-musk-on-call-with-zelenskyy/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
-- [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/) - Time not found
 - [Hacker says they banned ‘thousands’ of Call of Duty gamers by abusing anti-cheat flaw](https://techcrunch.com/2024/11/07/hacker-says-they-banned-thousands-of-call-of-duty-gamers-by-abusing-anti-cheat-flaw/) - Time not found
-- [Lucid Motors starts taking orders for its existential Gravity SUV](https://techcrunch.com/2024/11/07/lucid-motors-starts-taking-orders-for-its-existential-gravity-suv/) - Time not found
 - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
+- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - Nov 4, 2024
 - [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - Nov 4, 2024
 - [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - Nov 4, 2024
 - [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/) - Nov 3, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - Oct 30, 2024
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
 - [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
-- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/) - Oct 29, 2024
+- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - Time not found
 - [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - Time not found
+- [Trump included Elon Musk on call with Zelenskyy](https://techcrunch.com/2024/11/08/trump-included-elon-musk-on-call-with-zelenskyy/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
-- [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/) - Time not found
 - [Hacker says they banned ‘thousands’ of Call of Duty gamers by abusing anti-cheat flaw](https://techcrunch.com/2024/11/07/hacker-says-they-banned-thousands-of-call-of-duty-gamers-by-abusing-anti-cheat-flaw/) - Time not found
 - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/) - Time not found
-- [OpenAI acquired Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) - Time not found
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/) - Time not found
