@@ -4,6 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/) - 31 mins ago
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 1 day ago
 - [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 2 days ago
 - [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 2 days ago
@@ -15,7 +16,7 @@ Here are the latest articles from TechCrunch Startups:
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
 - [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 3 days ago
 - [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/) - 3 days ago
-- [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/) - 3 days ago
+- [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/) - 4 days ago
 - [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/) - 4 days ago
 - [Pinstripe wants to redefine the way online sellers sell secondhand clothing](https://techcrunch.com/2024/11/06/pinstripe-wants-to-redefine-the-way-online-sellers-sell-secondhand-clothing/) - 4 days ago
 - [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 4 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - Nov 5, 2024
 - [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - Nov 5, 2024
 - [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - Nov 4, 2024
-- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - Nov 4, 2024
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/) - Time not found
 - [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) - Time not found
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/) - Time not found
-- [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/) - Time not found
+- [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/) - Time not found
 - [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/) - Time not found
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
+- [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - Nov 4, 2024
 - [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - Nov 4, 2024
 - [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - Nov 4, 2024
 - [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/) - Nov 4, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - Oct 30, 2024
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - Oct 30, 2024
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/) - Time not found
 - [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) - Time not found
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/) - Time not found
-- [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/) - Time not found
+- [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/) - Time not found
 - [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/) - Time not found
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
