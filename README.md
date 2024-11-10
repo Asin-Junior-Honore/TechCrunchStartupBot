@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 21 hours ago
+- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 1 day ago
 - [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 2 days ago
 - [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 2 days ago
 - [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/) - 2 days ago
@@ -21,8 +21,8 @@ Here are the latest articles from TechCrunch Startups:
 - [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 4 days ago
 - [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 4 days ago
 - [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/) - 4 days ago
-- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 5 days ago
-- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 5 days ago
+- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - Nov 5, 2024
+- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - Nov 5, 2024
 - [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - Nov 5, 2024
 - [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - Nov 5, 2024
 - [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - Nov 5, 2024
