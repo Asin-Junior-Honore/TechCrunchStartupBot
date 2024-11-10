@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 17 hours ago
-- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 1 day ago
-- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 1 day ago
+- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 21 hours ago
+- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 2 days ago
+- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 2 days ago
 - [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/) - 2 days ago
 - [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - 2 days ago
 - [How AI startup Conflixis is protecting hospitals from corrupt doctors ](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/) - 2 days ago
 - [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - 2 days ago
-- [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - 2 days ago
+- [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - 3 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
 - [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/) - 3 days ago
 - [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/) - 3 days ago
@@ -21,13 +21,13 @@ Here are the latest articles from TechCrunch Startups:
 - [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/) - 4 days ago
 - [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/) - 4 days ago
 - [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/) - 4 days ago
-- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 4 days ago
-- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 4 days ago
-- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - 5 days ago
-- [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - 5 days ago
-- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - 5 days ago
-- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - 5 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/) - 5 days ago
+- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/) - 5 days ago
+- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/) - 5 days ago
+- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/) - Nov 5, 2024
+- [What the Chainsmokers bring to the cap table for cybersecurity startup Chainguard](https://techcrunch.com/podcast/what-the-chainsmokers-bring-to-the-cap-table-for-cybersecurity-startup-chainguard/) - Nov 5, 2024
+- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/) - Nov 5, 2024
+- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - Nov 5, 2024
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/) - Nov 5, 2024
 - [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/) - Nov 5, 2024
 - [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - Nov 5, 2024
 - [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - Nov 5, 2024
@@ -35,11 +35,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - Nov 4, 2024
 - [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - Nov 4, 2024
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/) - Time not found
+- [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) - Time not found
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/) - Time not found
 - [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/) - Time not found
 - [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/) - Time not found
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Time not found
-- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
 - [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/) - Nov 4, 2024
 - [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/) - Nov 4, 2024
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
 - [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/) - Oct 30, 2024
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/) - Time not found
+- [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) - Time not found
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/) - Time not found
 - [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/) - Time not found
 - [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/) - Time not found
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Time not found
-- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
