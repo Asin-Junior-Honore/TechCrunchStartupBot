@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/) - 31 mins ago
+- [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/) - 5 hours ago
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 1 day ago
 - [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/) - 2 days ago
 - [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - 2 days ago
@@ -34,11 +34,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - Nov 5, 2024
 - [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - Nov 5, 2024
 - [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - Nov 4, 2024
+- [These are the top apps Gen Z young adults downloaded this year](https://techcrunch.com/2024/11/10/these-are-the-top-apps-gen-z-young-adults-downloaded-this-year/) - Time not found
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/) - Time not found
 - [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) - Time not found
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/) - Time not found
 - [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/) - Time not found
-- [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/) - Time not found
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
 - [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/) - Nov 4, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/) - Oct 30, 2024
 - [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/) - Oct 30, 2024
 - [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/) - Oct 30, 2024
+- [These are the top apps Gen Z young adults downloaded this year](https://techcrunch.com/2024/11/10/these-are-the-top-apps-gen-z-young-adults-downloaded-this-year/) - Time not found
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/) - Time not found
 - [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) - Time not found
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/) - Time not found
 - [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/) - Time not found
-- [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/) - Time not found
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Time not found
 - [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/) - Time not found
