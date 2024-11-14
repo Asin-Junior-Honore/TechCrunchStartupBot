@@ -4,18 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/) - 2 hours ago
-- [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/) - 2 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - 3 hours ago
-- [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/) - 4 hours ago
-- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - 5 hours ago
-- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - 5 hours ago
-- [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - 6 hours ago
-- [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - 9 hours ago
-- [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - 10 hours ago
-- [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - 12 hours ago
-- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - 14 hours ago
-- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - 15 hours ago
+- [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - 37 mins ago
+- [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/) - 7 hours ago
+- [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/) - 7 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - 8 hours ago
+- [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/) - 8 hours ago
+- [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/) - 9 hours ago
+- [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/) - 9 hours ago
+- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - 10 hours ago
+- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - 10 hours ago
+- [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - 11 hours ago
+- [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - 14 hours ago
+- [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - 15 hours ago
+- [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - 17 hours ago
+- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - 19 hours ago
+- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - 20 hours ago
 - [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/) - 1 day ago
 - [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/) - 1 day ago
 - [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/) - 1 day ago
@@ -25,23 +28,23 @@ Here are the latest articles from TechCrunch Startups:
 - [ScaleOps aims to take the frustration out of cloud management](https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/) - 1 day ago
 - [How two brothers went from growing up on a sailboat to making underwater military vehicles ](https://techcrunch.com/2024/11/12/how-two-brothers-went-from-growing-up-on-a-sailboat-to-making-underwater-military-vehicles/) - 1 day ago
 - [General Catalyst and Khosla Ventures back data mapping startup Lume](https://techcrunch.com/2024/11/12/general-catalyst-and-khosla-ventures-back-data-mapping-startup-lume/) - 1 day ago
-- [PointFive snaps up $20M for breakthrough tech to track usage across multiple clouds](https://techcrunch.com/2024/11/12/pointfive-snaps-up-20m-for-breakthrough-tech-to-track-usage-across-multiple-clouds/) - 1 day ago
-- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/) - 1 day ago
-- [Conduktor looks to gatekeep ‘bad data’ out of company’s apps](https://techcrunch.com/2024/11/12/conduktor-aims-to-gatekeep-bad-data-out-of-companys-apps/) - 1 day ago
-- [Fleek, a marketplace for wholesale secondhand clothes, sews up $20.4M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/) - 1 day ago
+- [PointFive snaps up $20M for breakthrough tech to track usage across multiple clouds](https://techcrunch.com/2024/11/12/pointfive-snaps-up-20m-for-breakthrough-tech-to-track-usage-across-multiple-clouds/) - 2 days ago
+- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/) - 2 days ago
+- [Conduktor looks to gatekeep ‘bad data’ out of company’s apps](https://techcrunch.com/2024/11/12/conduktor-aims-to-gatekeep-bad-data-out-of-companys-apps/) - 2 days ago
+- [Fleek, a marketplace for wholesale secondhand clothes, sews up $20.4M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/) - 2 days ago
 - [Agicap secures $48 million for its cash flow management platform](https://techcrunch.com/2024/11/11/agicap-secures-48-million-for-its-cash-flow-management-platform/) - 2 days ago
 - [As demand for lithium explodes, battery recycling startup Tozero sprints to scale with $11.7M seed](https://techcrunch.com/2024/11/11/as-demand-for-lithium-explodes-battery-recycling-startup-tozero-sprints-to-scale-with-11-7m-seed/) - 2 days ago
-- [SmartBank secures $26M for its personal finance management app](https://techcrunch.com/2024/11/11/smartbank-secures-18-8m-for-its-personal-finance-management-app/) - 2 days ago
-- [Lightspeed doubles down on Wheelocity as it pivots to rural India commerce](https://techcrunch.com/2024/11/11/lightspeed-doubles-down-on-wheelocity-as-it-pivots-to-rural-india-commerce/) - 2 days ago
-- [Swiggy’s public debut will test India’s appetite for $1B+ IPOs](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/) - 2 days ago
+- [Amazon takes on Temu and Shein with discount ‘Amazon Haul’ store](https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/) - Time not found
 - [Donald Trump announces Elon Musk will co-lead Department of Government Efficiency](https://techcrunch.com/2024/11/12/donald-trump-announces-elon-musk-will-co-lead-department-of-government-efficiency/) - Time not found
-- [Apple reportedly releasing a wall-mounted smart home tablet in 2025 – and yes, it does AI](https://techcrunch.com/2024/11/12/apple-reportedly-releasing-a-wall-mounted-smart-home-tablet-in-2025-and-yes-it-does-ai/) - Time not found
-- [The Rivian-Volkswagen joint venture deal is now up to $5.8B](https://techcrunch.com/2024/11/12/the-rivian-volkswagen-joint-venture-deal-is-now-up-to-5-8b/) - Time not found
+- [Apple reportedly releasing a wall-mounted smart home tablet in 2025 — and yes, it does AI](https://techcrunch.com/2024/11/12/apple-reportedly-releasing-a-wall-mounted-smart-home-tablet-in-2025-and-yes-it-does-ai/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [Bluesky is seeing an exodus of unhappy X users following the election](https://techcrunch.com/2024/11/12/bluesky-is-seeing-an-exodus-of-unhappy-x-users-following-the-election/) - Time not found
 - [Sam Bankman-Fried is coming to the big screen ](https://techcrunch.com/2024/11/12/sam-bankman-fried-is-coming-to-the-big-screen/) - Time not found
 - [Snowflake hackers identified and charged with stealing 50 billion AT&T records](https://techcrunch.com/2024/11/12/snowflake-hackers-identified-and-charged-with-stealing-50-billion-att-records/) - Time not found
-- [Brazilian fintech Tako emerges from stealth with sizable seed round led by a16z and Ribbit Capital](https://techcrunch.com/2024/11/11/brazilian-fintech-tako-emerges-from-stealth-with-sizable-seed-round-led-by-a16z-and-ribbit-capital/) - 2 days ago
+- [SmartBank secures $26M for its personal finance management app](https://techcrunch.com/2024/11/11/smartbank-secures-18-8m-for-its-personal-finance-management-app/) - 2 days ago
+- [Lightspeed doubles down on Wheelocity as it pivots to rural India commerce](https://techcrunch.com/2024/11/11/lightspeed-doubles-down-on-wheelocity-as-it-pivots-to-rural-india-commerce/) - 2 days ago
+- [Swiggy’s public debut will test India’s appetite for $1B+ IPOs](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/) - 3 days ago
+- [Brazilian fintech Tako emerges from stealth with sizable seed round led by a16z and Ribbit Capital](https://techcrunch.com/2024/11/11/brazilian-fintech-tako-emerges-from-stealth-with-sizable-seed-round-led-by-a16z-and-ribbit-capital/) - 3 days ago
 - [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/) - 3 days ago
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - 4 days ago
 - [Ben Horowitz’s cozy relationship with the Las Vegas Police Department aided a16z portfolio company Skydio](https://techcrunch.com/2024/11/08/ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department-aided-a16z-portfolio-company-skydio/) - Nov 8, 2024
@@ -68,12 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/) - Nov 5, 2024
 - [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/) - Nov 5, 2024
 - [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/) - Nov 5, 2024
-- [Flash, founded by ex-Flipkart exec, launches in the US to help shoppers juggle multiple online orders ](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/) - Nov 5, 2024
-- [AI safety advocates tell founders to slow down](https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/) - Nov 5, 2024
-- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/) - Nov 4, 2024
+- [Amazon takes on Temu and Shein with discount ‘Amazon Haul’ store](https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/) - Time not found
 - [Donald Trump announces Elon Musk will co-lead Department of Government Efficiency](https://techcrunch.com/2024/11/12/donald-trump-announces-elon-musk-will-co-lead-department-of-government-efficiency/) - Time not found
-- [Apple reportedly releasing a wall-mounted smart home tablet in 2025 – and yes, it does AI](https://techcrunch.com/2024/11/12/apple-reportedly-releasing-a-wall-mounted-smart-home-tablet-in-2025-and-yes-it-does-ai/) - Time not found
-- [The Rivian-Volkswagen joint venture deal is now up to $5.8B](https://techcrunch.com/2024/11/12/the-rivian-volkswagen-joint-venture-deal-is-now-up-to-5-8b/) - Time not found
+- [Apple reportedly releasing a wall-mounted smart home tablet in 2025 — and yes, it does AI](https://techcrunch.com/2024/11/12/apple-reportedly-releasing-a-wall-mounted-smart-home-tablet-in-2025-and-yes-it-does-ai/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [Bluesky is seeing an exodus of unhappy X users following the election](https://techcrunch.com/2024/11/12/bluesky-is-seeing-an-exodus-of-unhappy-x-users-following-the-election/) - Time not found
 - [Sam Bankman-Fried is coming to the big screen ](https://techcrunch.com/2024/11/12/sam-bankman-fried-is-coming-to-the-big-screen/) - Time not found
