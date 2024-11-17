@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 15 hours ago
-- [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 1 day ago
+- [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 19 hours ago
+- [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 2 days ago
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - 2 days ago
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - 2 days ago
 - [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - 2 days ago
 - [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/) - 2 days ago
 - [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/) - 2 days ago
 - [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/) - 2 days ago
-- [How to use Bluesky, the Twitter-like app that’s taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/) - 2 days ago
-- [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/) - 2 days ago
+- [How to use Bluesky, the Twitter-like app that’s taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/) - 3 days ago
+- [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/) - 3 days ago
 - [Mission Space launches next quarter to provide real-time space weather forecasts](https://techcrunch.com/2024/11/14/mission-space-launches-next-quarter-to-provide-real-time-space-weather-forecasts/) - 3 days ago
 - [Sales tax automation startup Kintsugi doubled its valuation this year](https://techcrunch.com/2024/11/14/sales-tax-automation-startup-kintsugi-doubled-its-valuation-this-year/) - 3 days ago
 - [German travel startup Tourlane raises $26M led by Sequoia](https://techcrunch.com/2024/11/14/tourlane-the-german-travel-startup-raises-26m-led-by-sequoia/) - 3 days ago
@@ -36,23 +36,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - 4 days ago
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
-- [‘AI Granny’ is happy to talk with phone scammers all day](https://techcrunch.com/2024/11/15/ai-granny-is-happy-to-talk-with-phone-scammers-all-day/) - Time not found
+- [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/) - Time not found
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/) - Time not found
 - [Google tests removing news articles from search in EU, but it’s already backfiring](https://techcrunch.com/2024/11/15/google-wants-to-test-removing-news-articles-from-search-in-eu-but-it-is-already-backfiring/) - Time not found
 - [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - 4 days ago
-- [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/) - 4 days ago
-- [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/) - 5 days ago
-- [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/) - 5 days ago
-- [Bounce bags $19M to expand its traveler convenience network](https://techcrunch.com/2024/11/12/bounce-grabs-19m-to-expand-its-traveller-convenience-network/) - 5 days ago
-- [This USB-C mouthpiece turns your phone into a musical instrument](https://techcrunch.com/2024/11/12/this-usb-c-mouthpiece-turns-your-phone-into-a-woodwind-instrument/) - 5 days ago
-- [Generative AI startup Writer raises $200M at a $1.9B valuation](https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/) - 5 days ago
-- [ScaleOps aims to take the frustration out of cloud management](https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/) - 5 days ago
-- [How two brothers went from growing up on a sailboat to making underwater military vehicles ](https://techcrunch.com/2024/11/12/how-two-brothers-went-from-growing-up-on-a-sailboat-to-making-underwater-military-vehicles/) - 5 days ago
-- [General Catalyst and Khosla Ventures back data mapping startup Lume](https://techcrunch.com/2024/11/12/general-catalyst-and-khosla-ventures-back-data-mapping-startup-lume/) - 5 days ago
-- [PointFive snaps up $20M for breakthrough tech to track usage across multiple clouds](https://techcrunch.com/2024/11/12/pointfive-snaps-up-20m-for-breakthrough-tech-to-track-usage-across-multiple-clouds/) - 5 days ago
-- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/) - 5 days ago
+- [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/) - 5 days ago
+- [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/) - Nov 12, 2024
+- [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/) - Nov 12, 2024
+- [Bounce bags $19M to expand its traveler convenience network](https://techcrunch.com/2024/11/12/bounce-grabs-19m-to-expand-its-traveller-convenience-network/) - Nov 12, 2024
+- [This USB-C mouthpiece turns your phone into a musical instrument](https://techcrunch.com/2024/11/12/this-usb-c-mouthpiece-turns-your-phone-into-a-woodwind-instrument/) - Nov 12, 2024
+- [Generative AI startup Writer raises $200M at a $1.9B valuation](https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/) - Nov 12, 2024
+- [ScaleOps aims to take the frustration out of cloud management](https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/) - Nov 12, 2024
+- [How two brothers went from growing up on a sailboat to making underwater military vehicles ](https://techcrunch.com/2024/11/12/how-two-brothers-went-from-growing-up-on-a-sailboat-to-making-underwater-military-vehicles/) - Nov 12, 2024
+- [General Catalyst and Khosla Ventures back data mapping startup Lume](https://techcrunch.com/2024/11/12/general-catalyst-and-khosla-ventures-back-data-mapping-startup-lume/) - Nov 12, 2024
+- [PointFive snaps up $20M for breakthrough tech to track usage across multiple clouds](https://techcrunch.com/2024/11/12/pointfive-snaps-up-20m-for-breakthrough-tech-to-track-usage-across-multiple-clouds/) - Nov 12, 2024
+- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/) - Nov 12, 2024
 - [Conduktor looks to gatekeep ‘bad data’ out of company’s apps](https://techcrunch.com/2024/11/12/conduktor-aims-to-gatekeep-bad-data-out-of-companys-apps/) - Nov 12, 2024
 - [Fleek, a marketplace for wholesale secondhand clothes, sews up $20.4M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/) - Nov 12, 2024
 - [Agicap secures $48 million for its cash flow management platform](https://techcrunch.com/2024/11/11/agicap-secures-48-million-for-its-cash-flow-management-platform/) - Nov 11, 2024
@@ -71,9 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - Nov 8, 2024
 - [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - Nov 7, 2024
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - Nov 7, 2024
+- [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
-- [‘AI Granny’ is happy to talk with phone scammers all day](https://techcrunch.com/2024/11/15/ai-granny-is-happy-to-talk-with-phone-scammers-all-day/) - Time not found
-- [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
+- [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/) - Time not found
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/) - Time not found
