@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 23 hours ago
+- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 3 hours ago
+- [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 1 day ago
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 2 days ago
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - 2 days ago
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - 2 days ago
@@ -33,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - 4 days ago
 - [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - 4 days ago
 - [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - 4 days ago
-- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - 4 days ago
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
+- [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/) - Time not found
 - [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/) - Time not found
-- [Google tests removing news articles from search in EU, but it’s already backfiring](https://techcrunch.com/2024/11/15/google-wants-to-test-removing-news-articles-from-search-in-eu-but-it-is-already-backfiring/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
-- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - 4 days ago
+- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - 5 days ago
+- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - 5 days ago
 - [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/) - Nov 12, 2024
 - [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/) - Nov 12, 2024
 - [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/) - Nov 12, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [How AI startup Conflixis is protecting hospitals from corrupt doctors ](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/) - Nov 8, 2024
 - [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - Nov 8, 2024
 - [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - Nov 7, 2024
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/11/07/wordpress-vs-wp-engine-drama-explained/) - Nov 7, 2024
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
+- [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/) - Time not found
 - [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/) - Time not found
-- [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/) - Time not found
-- [Google tests removing news articles from search in EU, but it’s already backfiring](https://techcrunch.com/2024/11/15/google-wants-to-test-removing-news-articles-from-search-in-eu-but-it-is-already-backfiring/) - Time not found
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
