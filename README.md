@@ -4,10 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 2 hours ago
-- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 3 hours ago
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 7 hours ago
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 19 hours ago
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 41 seconds ago
+- [SuperAnnotate helps companies manage their AI data sets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 2 hours ago
+- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 3 hours ago
+- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 6 hours ago
+- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 7 hours ago
+- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 11 hours ago
+- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 23 hours ago
 - [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 2 days ago
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - 3 days ago
@@ -24,23 +27,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Team-GPT raises $4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/) - 4 days ago
 - [Influur wants to stand out from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/) - 4 days ago
 - [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/) - 4 days ago
-- [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - 4 days ago
+- [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - 5 days ago
 - [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/) - Nov 13, 2024
 - [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/) - Nov 13, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Nov 13, 2024
 - [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/) - Nov 13, 2024
 - [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/) - Nov 13, 2024
 - [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/) - Nov 13, 2024
-- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - Nov 13, 2024
-- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - Nov 13, 2024
-- [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - Nov 13, 2024
 - [What is Bluesky when it’s not the underdog?](https://techcrunch.com/2024/11/17/what-is-bluesky-when-its-not-the-underdog/) - Time not found
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - Time not found
 - [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
+- [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
-- [‘Hawk Tuah’ girl launches Pookie Tools, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
+- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - Nov 13, 2024
+- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - Nov 13, 2024
+- [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - Nov 13, 2024
 - [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - Nov 13, 2024
 - [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - Nov 13, 2024
 - [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - Nov 13, 2024
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/) - Nov 10, 2024
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Nov 9, 2024
 - [Ben Horowitz’s cozy relationship with the Las Vegas Police Department aided a16z portfolio company Skydio](https://techcrunch.com/2024/11/08/ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department-aided-a16z-portfolio-company-skydio/) - Nov 8, 2024
-- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/) - Nov 8, 2024
-- [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/) - Nov 8, 2024
-- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/) - Nov 8, 2024
 - [What is Bluesky when it’s not the underdog?](https://techcrunch.com/2024/11/17/what-is-bluesky-when-its-not-the-underdog/) - Time not found
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - Time not found
 - [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
+- [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
-- [‘Hawk Tuah’ girl launches Pookie Tools, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
