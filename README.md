@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 3 hours ago
+- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 8 hours ago
 - [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 1 day ago
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 2 days ago
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - 2 days ago
@@ -20,7 +20,7 @@ Here are the latest articles from TechCrunch Startups:
 - [German travel startup Tourlane raises $26M led by Sequoia](https://techcrunch.com/2024/11/14/tourlane-the-german-travel-startup-raises-26m-led-by-sequoia/) - 3 days ago
 - [Team-GPT raises $4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/) - 3 days ago
 - [Influur wants to stand out from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/) - 3 days ago
-- [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/) - 3 days ago
+- [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/) - 4 days ago
 - [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - 4 days ago
 - [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/) - 4 days ago
 - [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/) - 4 days ago
@@ -31,18 +31,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - 4 days ago
 - [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - 4 days ago
 - [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - 4 days ago
-- [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - 4 days ago
-- [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - 4 days ago
-- [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - 4 days ago
+- [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - 5 days ago
+- [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - 5 days ago
+- [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - Nov 13, 2024
+- [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/) - Time not found
+- [Consumer tech is bouncing back, and consumer founders like Brynn Putnam are bouncing back with it](https://techcrunch.com/2024/11/16/consumer-tech-is-bouncing-back-and-consumer-founders-like-brynn-putnam-are-bouncing-back-with-it/) - Time not found
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
-- [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/) - Time not found
-- [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
-- [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/) - Time not found
+- [‘Hawk Tuah’ girl launches Pookie Tools, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
-- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - 5 days ago
-- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - 5 days ago
+- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - Nov 12, 2024
+- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - Nov 12, 2024
 - [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/) - Nov 12, 2024
 - [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/) - Nov 12, 2024
 - [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/) - Nov 12, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [How AI startup Conflixis is protecting hospitals from corrupt doctors ](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/) - Nov 8, 2024
 - [Trump’s election throws tech regulation a curveball](https://techcrunch.com/podcast/trumps-election-throws-tech-regulation-a-curveball/) - Nov 8, 2024
 - [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/) - Nov 7, 2024
+- [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/) - Time not found
+- [Consumer tech is bouncing back, and consumer founders like Brynn Putnam are bouncing back with it](https://techcrunch.com/2024/11/16/consumer-tech-is-bouncing-back-and-consumer-founders-like-brynn-putnam-are-bouncing-back-with-it/) - Time not found
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
-- [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/) - Time not found
-- [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
-- [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/) - Time not found
+- [‘Hawk Tuah’ girl launches Pookie Tools, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
