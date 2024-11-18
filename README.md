@@ -4,14 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 41 seconds ago
-- [SuperAnnotate helps companies manage their AI data sets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 2 hours ago
-- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 3 hours ago
-- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 6 hours ago
-- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 7 hours ago
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 11 hours ago
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 23 hours ago
-- [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 2 days ago
+- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 3 hours ago
+- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 3 hours ago
+- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 3 hours ago
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 4 hours ago
+- [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 6 hours ago
+- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 7 hours ago
+- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 10 hours ago
+- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 11 hours ago
+- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 15 hours ago
+- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 1 day ago
+- [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 2 days ago
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - 3 days ago
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - 3 days ago
@@ -26,21 +29,21 @@ Here are the latest articles from TechCrunch Startups:
 - [German travel startup Tourlane raises $26M led by Sequoia](https://techcrunch.com/2024/11/14/tourlane-the-german-travel-startup-raises-26m-led-by-sequoia/) - 4 days ago
 - [Team-GPT raises $4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/) - 4 days ago
 - [Influur wants to stand out from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/) - 4 days ago
-- [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/) - 4 days ago
-- [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - 5 days ago
+- [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/) - 5 days ago
+- [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - Nov 13, 2024
 - [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/) - Nov 13, 2024
 - [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/) - Nov 13, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Nov 13, 2024
-- [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/) - Nov 13, 2024
-- [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/) - Nov 13, 2024
-- [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/) - Nov 13, 2024
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
+- [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
 - [What is Bluesky when it’s not the underdog?](https://techcrunch.com/2024/11/17/what-is-bluesky-when-its-not-the-underdog/) - Time not found
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - Time not found
-- [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
 - [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
+- [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/) - Nov 13, 2024
+- [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/) - Nov 13, 2024
+- [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/) - Nov 13, 2024
 - [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - Nov 13, 2024
 - [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - Nov 13, 2024
 - [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - Nov 13, 2024
@@ -68,12 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Lightspeed doubles down on Wheelocity as it pivots to rural India commerce](https://techcrunch.com/2024/11/11/lightspeed-doubles-down-on-wheelocity-as-it-pivots-to-rural-india-commerce/) - Nov 11, 2024
 - [Swiggy’s public debut will test India’s appetite for $1B+ IPOs](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/) - Nov 11, 2024
 - [Brazilian fintech Tako emerges from stealth with sizable seed round led by a16z and Ribbit Capital](https://techcrunch.com/2024/11/11/brazilian-fintech-tako-emerges-from-stealth-with-sizable-seed-round-led-by-a16z-and-ribbit-capital/) - Nov 11, 2024
-- [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/) - Nov 10, 2024
-- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/) - Nov 9, 2024
-- [Ben Horowitz’s cozy relationship with the Las Vegas Police Department aided a16z portfolio company Skydio](https://techcrunch.com/2024/11/08/ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department-aided-a16z-portfolio-company-skydio/) - Nov 8, 2024
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
+- [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
 - [What is Bluesky when it’s not the underdog?](https://techcrunch.com/2024/11/17/what-is-bluesky-when-its-not-the-underdog/) - Time not found
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - Time not found
-- [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/) - Time not found
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/) - Time not found
 - [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
