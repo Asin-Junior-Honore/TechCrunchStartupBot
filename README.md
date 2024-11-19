@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Venture funding in Europe in 2024 fell to $45 billion, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - 53 mins ago
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - 4 hours ago
-- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 8 hours ago
-- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 8 hours ago
-- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 8 hours ago
-- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 9 hours ago
-- [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 11 hours ago
-- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 12 hours ago
-- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 15 hours ago
-- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 16 hours ago
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 20 hours ago
+- [Venture funding in Europe in 2024 fell to $45 billion, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - 4 hours ago
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - 7 hours ago
+- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 11 hours ago
+- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 11 hours ago
+- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 11 hours ago
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 12 hours ago
+- [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 14 hours ago
+- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 15 hours ago
+- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 18 hours ago
+- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 19 hours ago
+- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 23 hours ago
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 1 day ago
 - [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 2 days ago
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
@@ -22,25 +22,25 @@ Here are the latest articles from TechCrunch Startups:
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - 3 days ago
 - [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - 3 days ago
 - [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/) - 3 days ago
-- [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/) - 3 days ago
-- [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/) - 3 days ago
+- [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/) - 4 days ago
+- [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/) - 4 days ago
 - [How to use Bluesky, the Twitter-like social app taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/) - 4 days ago
 - [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/) - 4 days ago
-- [Mission Space launches next quarter to provide real-time space weather forecasts](https://techcrunch.com/2024/11/14/mission-space-launches-next-quarter-to-provide-real-time-space-weather-forecasts/) - 4 days ago
-- [Sales tax automation startup Kintsugi doubled its valuation this year](https://techcrunch.com/2024/11/14/sales-tax-automation-startup-kintsugi-doubled-its-valuation-this-year/) - 4 days ago
-- [German travel startup Tourlane raises $26M led by Sequoia](https://techcrunch.com/2024/11/14/tourlane-the-german-travel-startup-raises-26m-led-by-sequoia/) - 4 days ago
-- [Team-GPT raises $4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/) - 4 days ago
-- [Influur wants to stand out from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/) - 4 days ago
+- [Mission Space launches next quarter to provide real-time space weather forecasts](https://techcrunch.com/2024/11/14/mission-space-launches-next-quarter-to-provide-real-time-space-weather-forecasts/) - 5 days ago
+- [Sales tax automation startup Kintsugi doubled its valuation this year](https://techcrunch.com/2024/11/14/sales-tax-automation-startup-kintsugi-doubled-its-valuation-this-year/) - 5 days ago
+- [German travel startup Tourlane raises $26M led by Sequoia](https://techcrunch.com/2024/11/14/tourlane-the-german-travel-startup-raises-26m-led-by-sequoia/) - 5 days ago
+- [Team-GPT raises $4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/) - 5 days ago
+- [Influur wants to stand out from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/) - 5 days ago
 - [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/) - Nov 14, 2024
 - [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/) - Nov 13, 2024
 - [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/) - Nov 13, 2024
 - [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Time not found
+- [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) - Time not found
 - [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
 - [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
 - [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [Bluesky says 1 million people signed up for the platform in last 24 hours](https://techcrunch.com/2024/11/14/bluesky-says-1-million-people-signed-up-for-the-platform-in-last-24-hours/) - Time not found
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
 - [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/) - Nov 13, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Nov 13, 2024
 - [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/) - Nov 13, 2024
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [SmartBank secures $26M for its personal finance management app](https://techcrunch.com/2024/11/11/smartbank-secures-18-8m-for-its-personal-finance-management-app/) - Nov 11, 2024
 - [Lightspeed doubles down on Wheelocity as it pivots to rural India commerce](https://techcrunch.com/2024/11/11/lightspeed-doubles-down-on-wheelocity-as-it-pivots-to-rural-india-commerce/) - Nov 11, 2024
 - [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Time not found
+- [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) - Time not found
 - [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
 - [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
 - [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) - Time not found
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [Bluesky says 1 million people signed up for the platform in last 24 hours](https://techcrunch.com/2024/11/14/bluesky-says-1-million-people-signed-up-for-the-platform-in-last-24-hours/) - Time not found
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/) - Time not found
