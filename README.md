@@ -4,25 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Physical AI startup BrightAI bootstraps to $80m in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - 14 mins ago
-- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - 2 hours ago
-- [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - 2 hours ago
-- [Selector automatically spots IT issues and recommends fixes](https://techcrunch.com/2024/11/19/selector-automatically-spots-it-issues-and-recommends-fixes/) - 3 hours ago
-- [Lightyear is on a mission to modernize network procurement](https://techcrunch.com/2024/11/19/lightyear-is-on-a-mission-to-modernize-network-procurement/) - 3 hours ago
-- [Agentio raises $12 million from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/) - 3 hours ago
-- [Workbrew makes open-source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/) - 3 hours ago
-- [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/) - 4 hours ago
-- [Venture funding in Europe fell to $45B in 2024, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - 16 hours ago
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - 19 hours ago
-- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 23 hours ago
-- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 23 hours ago
-- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 23 hours ago
+- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 12 mins ago
+- [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 3 hours ago
+- [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 3 hours ago
+- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 3 hours ago
+- [Physical AI startup BrightAI bootstraps to $80M in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - 4 hours ago
+- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - 6 hours ago
+- [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - 6 hours ago
+- [Selector automatically spots IT issues and recommends fixes](https://techcrunch.com/2024/11/19/selector-automatically-spots-it-issues-and-recommends-fixes/) - 7 hours ago
+- [Agentio raises $12M from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/) - 7 hours ago
+- [Lightyear is on a mission to modernize network procurement](https://techcrunch.com/2024/11/19/lightyear-is-on-a-mission-to-modernize-network-procurement/) - 7 hours ago
+- [Workbrew makes open source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/) - 7 hours ago
+- [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/) - 8 hours ago
+- [Venture funding in Europe fell to $45B in 2024, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - 20 hours ago
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - 23 hours ago
+- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 1 day ago
+- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 1 day ago
+- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 1 day ago
 - [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 1 day ago
 - [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 1 day ago
 - [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 1 day ago
 - [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 1 day ago
 - [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 1 day ago
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 1 day ago
+- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 2 days ago
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 2 days ago
 - [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 3 days ago
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 4 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - 4 days ago
 - [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - 4 days ago
 - [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/) - 4 days ago
+- [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/) - Time not found
+- [Windows comes to the Meta Quest](https://techcrunch.com/2024/11/19/microsoft-is-bringing-windows-11-to-the-meta-quest/) - Time not found
+- [Justice Department reportedly pushing Google to spin off Chrome](https://techcrunch.com/2024/11/18/justice-department-reportedly-pushing-google-to-spin-off-chrome/) - Time not found
+- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Time not found
+- [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) - Time not found
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
+- [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
 - [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/) - 4 days ago
 - [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/) - 4 days ago
 - [How to use Bluesky, the Twitter-like social app taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/) - Nov 14, 2024
 - [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/) - Nov 14, 2024
-- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Time not found
-- [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) - Time not found
-- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - Time not found
-- [Mistral unveils new AI models and chat features](https://techcrunch.com/2024/11/18/mistral-unveils-new-ai-models-and-chat-features/) - Time not found
-- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
-- [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [Mission Space launches next quarter to provide real-time space weather forecasts](https://techcrunch.com/2024/11/14/mission-space-launches-next-quarter-to-provide-real-time-space-weather-forecasts/) - Nov 14, 2024
 - [Sales tax automation startup Kintsugi doubled its valuation this year](https://techcrunch.com/2024/11/14/sales-tax-automation-startup-kintsugi-doubled-its-valuation-this-year/) - Nov 14, 2024
 - [German travel startup Tourlane raises $26M led by Sequoia](https://techcrunch.com/2024/11/14/tourlane-the-german-travel-startup-raises-26m-led-by-sequoia/) - Nov 14, 2024
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/) - Nov 12, 2024
 - [Bounce bags $19M to expand its traveler convenience network](https://techcrunch.com/2024/11/12/bounce-grabs-19m-to-expand-its-traveller-convenience-network/) - Nov 12, 2024
 - [This USB-C mouthpiece turns your phone into a musical instrument](https://techcrunch.com/2024/11/12/this-usb-c-mouthpiece-turns-your-phone-into-a-woodwind-instrument/) - Nov 12, 2024
-- [Generative AI startup Writer raises $200M at a $1.9B valuation](https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/) - Nov 12, 2024
-- [ScaleOps aims to take the frustration out of cloud management](https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/) - Nov 12, 2024
-- [How two brothers went from growing up on a sailboat to making underwater military vehicles ](https://techcrunch.com/2024/11/12/how-two-brothers-went-from-growing-up-on-a-sailboat-to-making-underwater-military-vehicles/) - Nov 12, 2024
-- [General Catalyst and Khosla Ventures back data mapping startup Lume](https://techcrunch.com/2024/11/12/general-catalyst-and-khosla-ventures-back-data-mapping-startup-lume/) - Nov 12, 2024
+- [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/) - Time not found
+- [Windows comes to the Meta Quest](https://techcrunch.com/2024/11/19/microsoft-is-bringing-windows-11-to-the-meta-quest/) - Time not found
+- [Justice Department reportedly pushing Google to spin off Chrome](https://techcrunch.com/2024/11/18/justice-department-reportedly-pushing-google-to-spin-off-chrome/) - Time not found
 - [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Time not found
 - [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) - Time not found
-- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - Time not found
-- [Mistral unveils new AI models and chat features](https://techcrunch.com/2024/11/18/mistral-unveils-new-ai-models-and-chat-features/) - Time not found
 - [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Time not found
 - [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/) - Time not found
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
