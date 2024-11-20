@@ -4,14 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 21 mins ago
-- [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 1 hour ago
-- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 1 hour ago
-- [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 19 hours ago
-- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 20 hours ago
-- [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 23 hours ago
-- [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 23 hours ago
-- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 23 hours ago
+- [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/) - 8 mins ago
+- [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/) - 1 hour ago
+- [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/) - 1 hour ago
+- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/) - 4 hours ago
+- [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/) - 4 hours ago
+- [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 4 hours ago
+- [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 5 hours ago
+- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 5 hours ago
+- [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 23 hours ago
+- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 1 day ago
+- [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 1 day ago
+- [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 1 day ago
+- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 1 day ago
 - [Physical AI startup BrightAI bootstraps to $80M in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - 1 day ago
 - [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - 1 day ago
 - [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - 1 day ago
@@ -29,11 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 2 days ago
 - [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 2 days ago
 - [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 2 days ago
-- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 2 days ago
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 2 days ago
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 3 days ago
-- [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 4 days ago
-- [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Nov 15, 2024
 - [Apple says Mac users targeted in zero-day cyberattacks](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/) - Time not found
 - [PSA: You shouldn’t upload your medical images to AI chatbots](https://techcrunch.com/2024/11/19/psa-you-shouldnt-upload-your-medical-images-to-ai-chatbots/) - Time not found
 - [Meta hires Salesforce’s CEO of AI, Clara Shih, to lead new business AI group](https://techcrunch.com/2024/11/19/meta-hires-salesforces-ceo-of-ai-clara-shih-to-lead-new-business-ai-group/) - Time not found
@@ -41,6 +41,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Bluesky tops 20M users, narrowing gap with Instagram Threads](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/) - Time not found
 - [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/) - Time not found
 - [Windows comes to the Meta Quest](https://techcrunch.com/2024/11/19/microsoft-is-bringing-windows-11-to-the-meta-quest/) - Time not found
+- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 2 days ago
+- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 3 days ago
+- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - 3 days ago
+- [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - 4 days ago
+- [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Nov 15, 2024
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - Nov 15, 2024
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - Nov 15, 2024
 - [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - Nov 15, 2024
@@ -66,11 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - Nov 13, 2024
 - [Prosus eyes PayU IPO in 2025 after stellar Swiggy listing](https://techcrunch.com/2024/11/13/prosus-eyes-payu-ipo-in-2025-after-stellar-swiggy-listing/) - Nov 13, 2024
 - [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) - Nov 13, 2024
-- [Klarna kickstarts US IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/) - Nov 13, 2024
-- [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/) - Nov 13, 2024
-- [Just Eat Takeaway finally offloads Grubhub, sells to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/) - Nov 12, 2024
-- [India’s Swiggy defies weak market in largest 2024 tech IPO globally](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/) - Nov 12, 2024
-- [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/) - Nov 12, 2024
 - [Apple says Mac users targeted in zero-day cyberattacks](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/) - Time not found
 - [PSA: You shouldn’t upload your medical images to AI chatbots](https://techcrunch.com/2024/11/19/psa-you-shouldnt-upload-your-medical-images-to-ai-chatbots/) - Time not found
 - [Meta hires Salesforce’s CEO of AI, Clara Shih, to lead new business AI group](https://techcrunch.com/2024/11/19/meta-hires-salesforces-ceo-of-ai-clara-shih-to-lead-new-business-ai-group/) - Time not found
