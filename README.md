@@ -4,24 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - 2 hours ago
-- [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/) - 5 hours ago
-- [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/) - 6 hours ago
-- [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/) - 6 hours ago
-- [H, the AI startup that raised $220M, launches its first product: Runner H for ‘agentic’ applications](https://techcrunch.com/2024/11/20/h-the-ai-startup-that-raised-220m-launches-its-first-product-runner-h-for-agentic-applications/) - 7 hours ago
-- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/) - 9 hours ago
-- [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/) - 9 hours ago
-- [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 9 hours ago
-- [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 10 hours ago
-- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 10 hours ago
+- [OneCell Diagnostics bags $16M to help limit cancer reoccurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-reoccurrence-using-ai/) - 26 seconds ago
+- [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/) - 59 mins ago
+- [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - 5 hours ago
+- [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/) - 8 hours ago
+- [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/) - 9 hours ago
+- [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/) - 9 hours ago
+- [H, the AI startup that raised $220M, launches its first product: Runner H for ‘agentic’ applications](https://techcrunch.com/2024/11/20/h-the-ai-startup-that-raised-220m-launches-its-first-product-runner-h-for-agentic-applications/) - 10 hours ago
+- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/) - 11 hours ago
+- [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/) - 12 hours ago
+- [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 12 hours ago
+- [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 13 hours ago
+- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 13 hours ago
 - [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 1 day ago
 - [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 1 day ago
 - [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 1 day ago
 - [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 1 day ago
 - [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 1 day ago
-- [Physical AI startup BrightAI bootstraps to $80M in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - 1 day ago
-- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - 1 day ago
-- [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - 1 day ago
+- [Physical AI startup BrightAI bootstraps to $80M in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - 2 days ago
+- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - 2 days ago
+- [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - 2 days ago
 - [Selector automatically spots IT issues and recommends fixes](https://techcrunch.com/2024/11/19/selector-automatically-spots-it-issues-and-recommends-fixes/) - 2 days ago
 - [Lightyear is on a mission to modernize network procurement](https://techcrunch.com/2024/11/19/lightyear-is-on-a-mission-to-modernize-network-procurement/) - 2 days ago
 - [Agentio raises $12M from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/) - 2 days ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 2 days ago
 - [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 2 days ago
 - [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 2 days ago
-- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 2 days ago
-- [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 2 days ago
 - [OpenAI releases a teacher’s guide to ChatGPT, but some educators are skeptical](https://techcrunch.com/2024/11/20/openai-releases-a-teachers-guide-to-chatgpt-but-some-educators-are-skeptical/) - Time not found
 - [Apple says Mac users targeted in zero-day cyberattacks](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/) - Time not found
 - [PSA: You shouldn’t upload your medical images to AI chatbots](https://techcrunch.com/2024/11/19/psa-you-shouldnt-upload-your-medical-images-to-ai-chatbots/) - Time not found
@@ -41,7 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Bluesky tops 20M users, narrowing gap with Instagram Threads](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/) - Time not found
 - [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/) - Time not found
 - [Windows comes to the Meta Quest](https://techcrunch.com/2024/11/19/microsoft-is-bringing-windows-11-to-the-meta-quest/) - Time not found
-- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 2 days ago
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 3 days ago
+- [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - 3 days ago
+- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 3 days ago
 - [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 3 days ago
 - [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 3 days ago
 - [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 3 days ago
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/) - Nov 13, 2024
 - [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/) - Nov 13, 2024
 - [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/) - Nov 13, 2024
-- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/) - Nov 13, 2024
-- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/) - Nov 13, 2024
+- [Nvidia’s CEO defends his moat as AI labs change how they improve their AI models](https://techcrunch.com/2024/11/20/nvidias-ceo-defends-his-moat-as-ai-labs-change-how-they-improve-their-ai-models/) - Time not found
+- [OpenAI releases a teacher’s guide to ChatGPT, but some educators are skeptical](https://techcrunch.com/2024/11/20/openai-releases-a-teachers-guide-to-chatgpt-but-some-educators-are-skeptical/) - Time not found
 - [Apple says Mac users targeted in zero-day cyberattacks](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/) - Time not found
 - [PSA: You shouldn’t upload your medical images to AI chatbots](https://techcrunch.com/2024/11/19/psa-you-shouldnt-upload-your-medical-images-to-ai-chatbots/) - Time not found
 - [Meta hires Salesforce’s CEO of AI, Clara Shih, to lead new business AI group](https://techcrunch.com/2024/11/19/meta-hires-salesforces-ceo-of-ai-clara-shih-to-lead-new-business-ai-group/) - Time not found
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/19/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
 - [Bluesky tops 20M users, narrowing gap with Instagram Threads](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/) - Time not found
 - [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/) - Time not found
-- [Windows comes to the Meta Quest](https://techcrunch.com/2024/11/19/microsoft-is-bringing-windows-11-to-the-meta-quest/) - Time not found
