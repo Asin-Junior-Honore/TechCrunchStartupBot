@@ -4,15 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 11 mins ago
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 12 mins ago
-- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 1 hour ago
-- [Anthropic raises an additional $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 2 hours ago
-- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 18 hours ago
-- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 19 hours ago
-- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - 23 hours ago
-- [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - 23 hours ago
-- [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - 24 hours ago
+- [Fondo wants to mitigate the US’ accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 5 mins ago
+- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 3 hours ago
+- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 4 hours ago
+- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 4 hours ago
+- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 5 hours ago
+- [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 6 hours ago
+- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 22 hours ago
+- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 23 hours ago
+- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - 1 day ago
+- [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - 1 day ago
+- [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - 1 day ago
 - [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - 1 day ago
 - [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - 1 day ago
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - 1 day ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 3 days ago
 - [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 3 days ago
 - [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 3 days ago
-- [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 3 days ago
-- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 3 days ago
 - [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/) - Time not found
 - [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [Hackers break into Andrew Tate’s online ‘university,’ steal user data and flood chats with emojis](https://techcrunch.com/2024/11/21/hackers-break-into-andrew-tates-online-university-steal-user-data-and-flood-chats-with-emojis/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple Pay, Cash App, PayPal and other apps to be treated more like banks](https://techcrunch.com/2024/11/21/apple-pay-paypal-cash-app-will-be-treated-more-like-banks/) - Time not found
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/) - Time not found
 - [OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/) - Time not found
+- [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 3 days ago
+- [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 3 days ago
+- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 3 days ago
 - [Physical AI startup BrightAI bootstraps to $80M in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - 3 days ago
 - [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - 3 days ago
 - [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - 3 days ago
@@ -59,7 +62,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - 4 days ago
 - [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - 4 days ago
 - [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - 4 days ago
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 4 days ago
+- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - 5 days ago
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - Nov 17, 2024
 - [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - Nov 16, 2024
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Nov 15, 2024
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - Nov 15, 2024
 - [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/) - Nov 15, 2024
 - [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/) - Nov 15, 2024
-- [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/) - Nov 15, 2024
-- [How to use Bluesky, the Twitter-like social app taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/) - Nov 14, 2024
-- [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/) - Nov 14, 2024
 - [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/) - Time not found
 - [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [Hackers break into Andrew Tate’s online ‘university,’ steal user data and flood chats with emojis](https://techcrunch.com/2024/11/21/hackers-break-into-andrew-tates-online-university-steal-user-data-and-flood-chats-with-emojis/) - Time not found
