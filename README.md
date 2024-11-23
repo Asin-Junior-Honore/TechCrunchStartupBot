@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - 3 hours ago
-- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 18 hours ago
-- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 20 hours ago
-- [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 20 hours ago
-- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 23 hours ago
-- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 24 hours ago
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 24 hours ago
+- [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 1 hour ago
+- [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - 7 hours ago
+- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 22 hours ago
+- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 1 day ago
+- [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 1 day ago
+- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 1 day ago
+- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 1 day ago
+- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 1 day ago
 - [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 1 day ago
 - [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 1 day ago
 - [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 2 days ago
@@ -21,7 +22,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - 2 days ago
 - [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - 2 days ago
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - 2 days ago
-- [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 2 days ago
+- [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 3 days ago
 - [OneCell Diagnostics bags $16M to help limit cancer recurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-recurrence-using-ai/) - 3 days ago
 - [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/) - 3 days ago
 - [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - 3 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/) - 3 days ago
 - [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 3 days ago
 - [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 3 days ago
-- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 3 days ago
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Time not found
 - [Hyundai and Kia recall 208,000 EVs](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/) - Time not found
 - [Revolut to launch mortgages, smart ATMs, and business credit products](https://techcrunch.com/2024/11/22/revolut-to-launch-mortgages-smart-atms-and-business-credit-products/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/) - Time not found
 - [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/) - Time not found
+- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 3 days ago
 - [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 4 days ago
 - [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 4 days ago
 - [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 4 days ago
@@ -54,7 +55,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Agentio raises $12M from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/) - 4 days ago
 - [Workbrew makes open source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/) - 4 days ago
 - [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/) - 4 days ago
-- [Venture funding in Europe fell to $45B in 2024, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - 5 days ago
+- [Venture funding in Europe fell to $45B in 2024, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - Nov 18, 2024
 - [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - Nov 18, 2024
 - [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Nov 18, 2024
 - [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - Nov 18, 2024
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Nov 15, 2024
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - Nov 15, 2024
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - Nov 15, 2024
-- [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - Nov 15, 2024
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Time not found
 - [Hyundai and Kia recall 208,000 EVs](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/) - Time not found
 - [Revolut to launch mortgages, smart ATMs, and business credit products](https://techcrunch.com/2024/11/22/revolut-to-launch-mortgages-smart-atms-and-business-credit-products/) - Time not found
