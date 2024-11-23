@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 10 hours ago
-- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 12 hours ago
-- [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 12 hours ago
-- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 15 hours ago
-- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 16 hours ago
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 16 hours ago
-- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 17 hours ago
-- [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 18 hours ago
-- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 1 day ago
-- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 1 day ago
+- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 14 hours ago
+- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 16 hours ago
+- [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 16 hours ago
+- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 19 hours ago
+- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 20 hours ago
+- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 20 hours ago
+- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 21 hours ago
+- [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 22 hours ago
+- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 2 days ago
+- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 2 days ago
 - [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - 2 days ago
 - [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - 2 days ago
 - [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - 2 days ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 2 days ago
 - [OneCell Diagnostics bags $16M to help limit cancer recurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-recurrence-using-ai/) - 2 days ago
 - [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/) - 2 days ago
-- [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - 2 days ago
+- [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - 3 days ago
 - [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/) - 3 days ago
 - [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/) - 3 days ago
 - [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/) - 3 days ago
@@ -33,15 +33,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 3 days ago
 - [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 3 days ago
 - [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 3 days ago
-- [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 3 days ago
+- [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - 4 days ago
+- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Time not found
 - [Hyundai and Kia recall 208,000 EVs](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/) - Time not found
 - [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - Time not found
 - [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/) - Time not found
 - [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [Hackers break into Andrew Tate’s online ‘university,’ steal user data and flood chats with emojis](https://techcrunch.com/2024/11/21/hackers-break-into-andrew-tates-online-university-steal-user-data-and-flood-chats-with-emojis/) - Time not found
-- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - Time not found
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/) - Time not found
-- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 3 days ago
+- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - 4 days ago
 - [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - 4 days ago
 - [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - 4 days ago
 - [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - 4 days ago
@@ -54,11 +54,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Workbrew makes open source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/) - 4 days ago
 - [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/) - 4 days ago
 - [Venture funding in Europe fell to $45B in 2024, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/) - 4 days ago
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - 4 days ago
-- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - 5 days ago
-- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - 5 days ago
-- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - 5 days ago
-- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - 5 days ago
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/) - 5 days ago
+- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/) - Nov 18, 2024
+- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/) - Nov 18, 2024
+- [Ex-Duolingo execs raise $13M for a startup that’s making it easier to access a college education](https://techcrunch.com/2024/11/18/ex-duolingo-execs-raise-13m-to-launch-startup-democratize-access-to-college-education/) - Nov 18, 2024
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/) - Nov 18, 2024
 - [SuperAnnotate helps companies manage their AI datasets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/) - Nov 18, 2024
 - [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/) - Nov 18, 2024
 - [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) - Nov 18, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/) - Nov 15, 2024
 - [After raising nearly half a billion dollars, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-dollars-abl-space-pivots-from-launch-vehicles-to-missiles/) - Nov 15, 2024
 - [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/) - Nov 15, 2024
-- [OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit (updated)](https://techcrunch.com/2024/11/22/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/) - Time not found
+- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Time not found
+- [Hyundai and Kia recall 208,000 EVs](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/) - Time not found
 - [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - Time not found
 - [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/) - Time not found
 - [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [Hackers break into Andrew Tate’s online ‘university,’ steal user data and flood chats with emojis](https://techcrunch.com/2024/11/21/hackers-break-into-andrew-tates-online-university-steal-user-data-and-flood-chats-with-emojis/) - Time not found
-- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - Time not found
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/) - Time not found
