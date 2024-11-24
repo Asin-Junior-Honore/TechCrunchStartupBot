@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 1 min ago
-- [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 21 hours ago
+- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 4 hours ago
+- [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 1 day ago
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - 1 day ago
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 2 days ago
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 2 days ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - 3 days ago
 - [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - 3 days ago
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - 3 days ago
-- [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 3 days ago
+- [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 4 days ago
 - [OneCell Diagnostics bags $16M to help limit cancer recurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-recurrence-using-ai/) - 4 days ago
 - [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/) - 4 days ago
 - [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - 4 days ago
@@ -34,12 +34,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/) - 4 days ago
 - [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/) - 4 days ago
 - [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - 4 days ago
-- [How a digital “you” can sit through your agonizing web conference calls](https://techcrunch.com/2024/11/23/how-a-digital-you-can-sit-through-your-agonizing-web-conference-calls/) - Time not found
+- [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
+- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
 - [‘Wolfs’ sequel canceled because director ‘no longer trusted’ Apple](https://techcrunch.com/2024/11/23/wolfs-sequel-canceled-because-director-no-longer-trusted-apple/) - Time not found
 - [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/) - Time not found
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Time not found
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Time not found
-- [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/) - Time not found
 - [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - 4 days ago
 - [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - 4 days ago
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - Nov 16, 2024
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Nov 15, 2024
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/) - Nov 15, 2024
-- [How a digital “you” can sit through your agonizing web conference calls](https://techcrunch.com/2024/11/23/how-a-digital-you-can-sit-through-your-agonizing-web-conference-calls/) - Time not found
+- [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
+- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
 - [‘Wolfs’ sequel canceled because director ‘no longer trusted’ Apple](https://techcrunch.com/2024/11/23/wolfs-sequel-canceled-because-director-no-longer-trusted-apple/) - Time not found
 - [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/) - Time not found
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Time not found
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Time not found
-- [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/) - Time not found
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/) - Time not found
