@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 4 hours ago
-- [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 18 hours ago
-- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 24 hours ago
+- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 3 mins ago
+- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 8 hours ago
+- [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 22 hours ago
+- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 1 day ago
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 2 days ago
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - 2 days ago
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 3 days ago
@@ -25,22 +26,22 @@ Here are the latest articles from TechCrunch Startups:
 - [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - 4 days ago
 - [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - 4 days ago
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - 4 days ago
-- [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 4 days ago
-- [OneCell Diagnostics bags $16M to help limit cancer recurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-recurrence-using-ai/) - 4 days ago
-- [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/) - 5 days ago
+- [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - 5 days ago
+- [OneCell Diagnostics bags $16M to help limit cancer recurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-recurrence-using-ai/) - Nov 20, 2024
+- [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/) - Nov 20, 2024
 - [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/) - Nov 20, 2024
 - [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/) - Nov 20, 2024
 - [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/) - Nov 20, 2024
 - [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/) - Nov 20, 2024
 - [H, the AI startup that raised $220M, launches its first product: Runner H for ‘agentic’ applications](https://techcrunch.com/2024/11/20/h-the-ai-startup-that-raised-220m-launches-its-first-product-runner-h-for-agentic-applications/) - Nov 20, 2024
-- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/) - Nov 20, 2024
+- [Anthropic proposes a new way to connect data to AI chatbots](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/) - Time not found
+- [Appcharge raises $26M to help gaming apps cut out Apple and Google from virtual goods revenues ](https://techcrunch.com/2024/11/25/appcharge-raises-26m-to-help-gaming-apps-cut-out-apple-and-google-from-virtual-goods-revenues/) - Time not found
 - [Apple will never stop thinking about making a TV](https://techcrunch.com/2024/11/24/apple-will-never-stop-thinking-about-making-a-tv/) - Time not found
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
-- [The curious case of Nebius, the publicly traded AI infrastructure ‘startup’](https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/) - Time not found
-- [‘Wolfs’ sequel canceled because director ‘no longer trusted’ Apple](https://techcrunch.com/2024/11/23/wolfs-sequel-canceled-because-director-no-longer-trusted-apple/) - Time not found
 - [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/) - Time not found
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Time not found
+- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/) - Nov 20, 2024
 - [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/) - Nov 20, 2024
 - [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - Nov 20, 2024
 - [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - Nov 20, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/) - Nov 18, 2024
 - [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/) - Nov 17, 2024
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/) - Nov 17, 2024
-- [TikTok parent ByteDance reportedly values itself at $300B](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/) - Nov 16, 2024
+- [Anthropic proposes a new way to connect data to AI chatbots](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/) - Time not found
+- [Appcharge raises $26M to help gaming apps cut out Apple and Google from virtual goods revenues ](https://techcrunch.com/2024/11/25/appcharge-raises-26m-to-help-gaming-apps-cut-out-apple-and-google-from-virtual-goods-revenues/) - Time not found
 - [Apple will never stop thinking about making a TV](https://techcrunch.com/2024/11/24/apple-will-never-stop-thinking-about-making-a-tv/) - Time not found
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
-- [The curious case of Nebius, the publicly traded AI infrastructure ‘startup’](https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/) - Time not found
-- [‘Wolfs’ sequel canceled because director ‘no longer trusted’ Apple](https://techcrunch.com/2024/11/23/wolfs-sequel-canceled-because-director-no-longer-trusted-apple/) - Time not found
 - [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/) - Time not found
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Time not found
