@@ -4,28 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 3 mins ago
-- [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 1 hour ago
-- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 1 hour ago
-- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 12 hours ago
-- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 20 hours ago
-- [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 1 day ago
+- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 4 hours ago
+- [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 5 hours ago
+- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 5 hours ago
+- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 16 hours ago
+- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 1 day ago
+- [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 2 days ago
 - [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 2 days ago
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 3 days ago
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - 3 days ago
-- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 3 days ago
-- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 3 days ago
+- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 4 days ago
+- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 4 days ago
 - [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 4 days ago
 - [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 4 days ago
 - [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 4 days ago
 - [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 4 days ago
 - [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 4 days ago
 - [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 4 days ago
-- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 4 days ago
-- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 4 days ago
-- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - 5 days ago
-- [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - 5 days ago
-- [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - 5 days ago
+- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 5 days ago
+- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 5 days ago
+- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - Nov 21, 2024
+- [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - Nov 21, 2024
+- [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - Nov 21, 2024
 - [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - Nov 21, 2024
 - [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - Nov 21, 2024
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - Nov 21, 2024
@@ -38,8 +38,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic proposes a new way to connect data to AI chatbots](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/) - Time not found
 - [Appcharge raises $26M to help gaming apps cut out Apple and Google from virtual goods revenues ](https://techcrunch.com/2024/11/25/appcharge-raises-26m-to-help-gaming-apps-cut-out-apple-and-google-from-virtual-goods-revenues/) - Time not found
 - [Bending Spoons is taking video platform Brightcove private in $233M acquisition](https://techcrunch.com/2024/11/25/bending-spoons-is-taking-video-platform-brightcove-private-in-233m-acquisition/) - Time not found
+- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - Time not found
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
-- [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/) - Time not found
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Time not found
 - [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/) - Nov 20, 2024
 - [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/) - Nov 20, 2024
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic proposes a new way to connect data to AI chatbots](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/) - Time not found
 - [Appcharge raises $26M to help gaming apps cut out Apple and Google from virtual goods revenues ](https://techcrunch.com/2024/11/25/appcharge-raises-26m-to-help-gaming-apps-cut-out-apple-and-google-from-virtual-goods-revenues/) - Time not found
 - [Bending Spoons is taking video platform Brightcove private in $233M acquisition](https://techcrunch.com/2024/11/25/bending-spoons-is-taking-video-platform-brightcove-private-in-233m-acquisition/) - Time not found
+- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - Time not found
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
-- [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/) - Time not found
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Time not found
