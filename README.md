@@ -4,27 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 5 hours ago
-- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 13 hours ago
+- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 8 hours ago
+- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 16 hours ago
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 1 day ago
-- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 1 day ago
+- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 2 days ago
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 2 days ago
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - 3 days ago
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - 3 days ago
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - 3 days ago
 - [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - 3 days ago
 - [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - 3 days ago
-- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 3 days ago
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 3 days ago
-- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 3 days ago
-- [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 3 days ago
+- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - 4 days ago
+- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - 4 days ago
+- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - 4 days ago
+- [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - 4 days ago
 - [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - 4 days ago
 - [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - 4 days ago
 - [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - 4 days ago
 - [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - 4 days ago
 - [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - 4 days ago
-- [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - 4 days ago
-- [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - 4 days ago
+- [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - 5 days ago
+- [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - 5 days ago
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - 5 days ago
 - [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - Nov 21, 2024
 - [OneCell Diagnostics bags $16M to help limit cancer recurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-recurrence-using-ai/) - Nov 20, 2024
