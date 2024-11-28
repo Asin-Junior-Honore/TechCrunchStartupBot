@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - 5 hours ago
-- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 15 hours ago
-- [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - 17 hours ago
-- [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - 20 hours ago
+- [From pond scum to premium skincare? Deep Blue Biotech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - 36 mins ago
+- [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - 9 hours ago
+- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 19 hours ago
+- [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - 21 hours ago
+- [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - 24 hours ago
 - [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - 2 days ago
 - [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - 2 days ago
 - [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - 2 days ago
@@ -19,9 +20,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 2 days ago
 - [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 3 days ago
 - [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 3 days ago
-- [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 3 days ago
+- [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 4 days ago
 - [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 4 days ago
-- [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 5 days ago
+- [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Nov 23, 2024
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - Nov 23, 2024
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Nov 22, 2024
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - Nov 22, 2024
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - Nov 22, 2024
 - [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - Nov 21, 2024
 - [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - Nov 21, 2024
-- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - Nov 21, 2024
 - [Meta’s Threads is developing its own take on Bluesky’s ‘Starter Packs’](https://techcrunch.com/2024/11/27/metas-threads-is-developing-its-own-take-on-blueskys-starter-packs/) - Time not found
+- [Marc Andreessen, Joe Lonsdale, and all the other VCs reportedly in the running for DOGE and other Trump committees](https://techcrunch.com/2024/11/27/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/) - Time not found
 - [Bluesky’s open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) - Time not found
 - [Raspberry Pi launches Compute Module 5 for embedded apps](https://techcrunch.com/2024/11/27/raspberry-pi-launches-compute-module-5-for-embedded-applications/) - Time not found
 - [Roblox will now give users 25% more of its in-game currency if you buy Robux on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/) - Time not found
-- [ServiceTitan could be the first of many ‘dirty’ term-sheet IPOs, VCs believe](https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/) - Time not found
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Time not found
 - [OpenAI’s Sora video generator appears to have leaked](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/) - Time not found
+- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/) - Nov 21, 2024
 - [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - Nov 21, 2024
 - [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/) - Nov 21, 2024
 - [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/) - Nov 21, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Selector automatically spots IT issues and recommends fixes](https://techcrunch.com/2024/11/19/selector-automatically-spots-it-issues-and-recommends-fixes/) - Nov 19, 2024
 - [Lightyear is on a mission to modernize network procurement](https://techcrunch.com/2024/11/19/lightyear-is-on-a-mission-to-modernize-network-procurement/) - Nov 19, 2024
 - [Agentio raises $12M from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/) - Nov 19, 2024
-- [Workbrew makes open source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/) - Nov 19, 2024
 - [Meta’s Threads is developing its own take on Bluesky’s ‘Starter Packs’](https://techcrunch.com/2024/11/27/metas-threads-is-developing-its-own-take-on-blueskys-starter-packs/) - Time not found
+- [Marc Andreessen, Joe Lonsdale, and all the other VCs reportedly in the running for DOGE and other Trump committees](https://techcrunch.com/2024/11/27/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/) - Time not found
 - [Bluesky’s open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) - Time not found
 - [Raspberry Pi launches Compute Module 5 for embedded apps](https://techcrunch.com/2024/11/27/raspberry-pi-launches-compute-module-5-for-embedded-applications/) - Time not found
 - [Roblox will now give users 25% more of its in-game currency if you buy Robux on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/) - Time not found
-- [ServiceTitan could be the first of many ‘dirty’ term-sheet IPOs, VCs believe](https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/) - Time not found
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Time not found
 - [OpenAI’s Sora video generator appears to have leaked](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/) - Time not found
