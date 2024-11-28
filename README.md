@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 3 hours ago
-- [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - 5 hours ago
-- [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - 7 hours ago
+- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 8 hours ago
+- [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - 10 hours ago
+- [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - 12 hours ago
 - [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - 1 day ago
 - [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - 1 day ago
 - [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - 1 day ago
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - 1 day ago
 - [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) - 1 day ago
 - [Inflection AI CEO says it’s done trying to make next-generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) - 1 day ago
-- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 1 day ago
+- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 2 days ago
 - [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 2 days ago
 - [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 2 days ago
 - [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 2 days ago
-- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 2 days ago
+- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 3 days ago
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - 3 days ago
 - [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - 3 days ago
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - 4 days ago
@@ -36,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/) - Nov 21, 2024
 - [Raspberry Pi launches Compute Module 5 for embedded apps](https://techcrunch.com/2024/11/27/raspberry-pi-launches-compute-module-5-for-embedded-applications/) - Time not found
 - [Roblox will now give users 25% more of its in-game currency if you buy Robux on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/) - Time not found
-- [Elon Musk wants to block the transfer of InfoWars’ X accounts to The Onion](https://techcrunch.com/2024/11/26/elon-musk-wants-to-block-the-transfer-of-infowars-x-accounts-to-the-onion/) - Time not found
+- [Elon Musk wants to block the transfer of Infowars’ X accounts to The Onion](https://techcrunch.com/2024/11/26/elon-musk-wants-to-block-the-transfer-of-infowars-x-accounts-to-the-onion/) - Time not found
 - [SpaceX gets FCC green light for Starlink direct-to-phone deal with T-Mobile](https://techcrunch.com/2024/11/26/spacex-gets-fcc-green-light-for-starlink-direct-to-phone-deal-with-t-mobile/) - Time not found
 - [ServiceTitan could be the first of many ‘dirty’ term-sheet IPOs, VCs believe](https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/) - Time not found
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Time not found
@@ -73,7 +73,7 @@ Here are the latest articles from TechCrunch Startups:
 - [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/) - Nov 19, 2024
 - [Raspberry Pi launches Compute Module 5 for embedded apps](https://techcrunch.com/2024/11/27/raspberry-pi-launches-compute-module-5-for-embedded-applications/) - Time not found
 - [Roblox will now give users 25% more of its in-game currency if you buy Robux on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/) - Time not found
-- [Elon Musk wants to block the transfer of InfoWars’ X accounts to The Onion](https://techcrunch.com/2024/11/26/elon-musk-wants-to-block-the-transfer-of-infowars-x-accounts-to-the-onion/) - Time not found
+- [Elon Musk wants to block the transfer of Infowars’ X accounts to The Onion](https://techcrunch.com/2024/11/26/elon-musk-wants-to-block-the-transfer-of-infowars-x-accounts-to-the-onion/) - Time not found
 - [SpaceX gets FCC green light for Starlink direct-to-phone deal with T-Mobile](https://techcrunch.com/2024/11/26/spacex-gets-fcc-green-light-for-starlink-direct-to-phone-deal-with-t-mobile/) - Time not found
 - [ServiceTitan could be the first of many ‘dirty’ term-sheet IPOs, VCs believe](https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/) - Time not found
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Time not found
