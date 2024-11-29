@@ -4,8 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 2 hours ago
-- [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - 24 hours ago
+- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 5 mins ago
+- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 2 hours ago
+- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 6 hours ago
+- [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - 1 day ago
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - 1 day ago
 - [From pond scum to premium skincare? Deep Blue Biotech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - 1 day ago
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - 2 days ago
@@ -18,9 +20,9 @@ Here are the latest articles from TechCrunch Startups:
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - 3 days ago
 - [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) - 3 days ago
 - [Inflection AI CEO says it’s done trying to make next-generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) - 3 days ago
-- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 3 days ago
-- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 3 days ago
-- [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 3 days ago
+- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 4 days ago
+- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 4 days ago
+- [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 4 days ago
 - [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - 4 days ago
 - [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - 4 days ago
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - Nov 24, 2024
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - Nov 22, 2024
 - [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - Nov 22, 2024
 - [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - Nov 22, 2024
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - Nov 22, 2024
-- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - Nov 22, 2024
 - [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
 - [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/) - Time not found
 - [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [North Korean hackers have stolen billions in crypto by posing as VCs, recruiters and IT workers](https://techcrunch.com/2024/11/28/north-korean-hackers-have-stolen-billions-in-crypto-by-posing-as-vcs-recruiters-and-it-workers/) - Time not found
 - [Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/) - Time not found
 - [ElevenLabs’ new feature is a NotebookLM competitor for creating GenAI podcasts](https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/) - Time not found
+- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - Nov 22, 2024
+- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - Nov 22, 2024
 - [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - Nov 22, 2024
 - [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - Nov 21, 2024
 - [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/) - Nov 21, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - Nov 19, 2024
 - [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - Nov 19, 2024
 - [Physical AI startup BrightAI bootstraps to $80M in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/) - Nov 19, 2024
-- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/) - Nov 19, 2024
-- [Database startup Neo4j embraces AI to supercharge growth](https://techcrunch.com/2024/11/19/database-startup-neo4j-embraces-ai-to-supercharge-growth/) - Nov 19, 2024
+- [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
 - [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/) - Time not found
 - [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/) - Time not found
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - Time not found
 - [North Korean hackers have stolen billions in crypto by posing as VCs, recruiters and IT workers](https://techcrunch.com/2024/11/28/north-korean-hackers-have-stolen-billions-in-crypto-by-posing-as-vcs-recruiters-and-it-workers/) - Time not found
 - [Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/) - Time not found
-- [Spotify cuts developer access to several of its recommendation features](https://techcrunch.com/2024/11/27/spotify-cuts-developer-access-to-several-of-its-recommendation-features/) - Time not found
 - [ElevenLabs’ new feature is a NotebookLM competitor for creating GenAI podcasts](https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/) - Time not found
