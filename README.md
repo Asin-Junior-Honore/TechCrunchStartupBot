@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 8 hours ago
-- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 10 hours ago
-- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 14 hours ago
-- [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - 1 day ago
+- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 12 hours ago
+- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 14 hours ago
+- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 18 hours ago
+- [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - 2 days ago
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - 2 days ago
 - [From pond scum to premium skincare? Deep Blue Biotech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - 2 days ago
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - 2 days ago
-- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 2 days ago
+- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 3 days ago
 - [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - 3 days ago
 - [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - 3 days ago
-- [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - 3 days ago
-- [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - 3 days ago
-- [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - 3 days ago
-- [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - 3 days ago
+- [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - 4 days ago
+- [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - 4 days ago
+- [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - 4 days ago
+- [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - 4 days ago
 - [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) - 4 days ago
 - [Inflection AI CEO says it’s done trying to make next-generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) - 4 days ago
 - [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 4 days ago
@@ -35,8 +35,8 @@ Here are the latest articles from TechCrunch Startups:
 - [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - Nov 22, 2024
 - [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - Nov 22, 2024
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
+- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
 - [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
-- [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/) - Time not found
 - [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/) - Time not found
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - Time not found
 - [North Korean hackers have stolen billions in crypto by posing as VCs, recruiters and IT workers](https://techcrunch.com/2024/11/28/north-korean-hackers-have-stolen-billions-in-crypto-by-posing-as-vcs-recruiters-and-it-workers/) - Time not found
