@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 1 hour ago
-- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 20 hours ago
-- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 22 hours ago
+- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - 3 hours ago
+- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 5 hours ago
+- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 24 hours ago
+- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 1 day ago
 - [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 1 day ago
 - [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - 2 days ago
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - 2 days ago
@@ -22,8 +23,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) - 4 days ago
 - [Inflection AI CEO says it’s done trying to make next-generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) - 4 days ago
 - [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - 4 days ago
-- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 4 days ago
-- [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 4 days ago
+- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - 5 days ago
+- [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - 5 days ago
 - [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - Nov 25, 2024
 - [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - Nov 25, 2024
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - Nov 24, 2024
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Nov 22, 2024
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - Nov 22, 2024
 - [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - Nov 22, 2024
-- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - Nov 22, 2024
+- [Climate VCs are cautiously optimistic about a second Trump term — here’s why](https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/) - Time not found
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
-- [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/) - Time not found
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
 - [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
 - [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/) - Time not found
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - Time not found
 - [North Korean hackers have stolen billions in crypto by posing as VCs, recruiters and IT workers](https://techcrunch.com/2024/11/28/north-korean-hackers-have-stolen-billions-in-crypto-by-posing-as-vcs-recruiters-and-it-workers/) - Time not found
+- [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - Nov 22, 2024
 - [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - Nov 22, 2024
 - [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - Nov 22, 2024
 - [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - Nov 22, 2024
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - Nov 19, 2024
 - [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/) - Nov 19, 2024
 - [YC-backed Formal brings a clever security reverse-proxy out of stealth](https://techcrunch.com/2024/11/19/formal-secures-access-to-databases-and-internal-applications-at-the-network-level/) - Nov 19, 2024
-- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/) - Nov 19, 2024
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
 - [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/) - Time not found
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
