@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 18 hours ago
-- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 19 hours ago
-- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - 23 hours ago
+- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 22 hours ago
+- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 23 hours ago
+- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - 1 day ago
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 1 day ago
 - [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 2 days ago
 - [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 2 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Nov 23, 2024
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - Nov 23, 2024
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Nov 22, 2024
+- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - Time not found
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - Time not found
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - Time not found
-- [Climate VCs are cautiously optimistic about a second Trump term — here’s why](https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/) - Time not found
-- [Black Friday hits a record $74.4B in sales online, up 5% on last year](https://techcrunch.com/2024/11/30/black-friday-hits-a-record-74-4b-in-sales-online-up-5-on-last-year/) - Time not found
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
 - [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
+- [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/) - Time not found
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - Nov 22, 2024
 - [Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/) - Nov 22, 2024
 - [The AI industry’s ‘next big bet,’ and should we just buy Chrome?](https://techcrunch.com/podcast/the-ai-industrys-next-big-bet-and-should-we-just-buy-chrome/) - Nov 22, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - Nov 20, 2024
 - [Chroma, backed by Pinterest and Twitter co-founders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/) - Nov 19, 2024
 - [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/) - Nov 19, 2024
+- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - Time not found
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - Time not found
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - Time not found
-- [Climate VCs are cautiously optimistic about a second Trump term — here’s why](https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/) - Time not found
-- [Black Friday hits a record $74.4B in sales online, up 5% on last year](https://techcrunch.com/2024/11/30/black-friday-hits-a-record-74-4b-in-sales-online-up-5-on-last-year/) - Time not found
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/) - Time not found
 - [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
+- [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/) - Time not found
