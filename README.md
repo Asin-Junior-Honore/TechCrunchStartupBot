@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 10 hours ago
-- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 12 hours ago
-- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - 15 hours ago
-- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 17 hours ago
+- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 14 hours ago
+- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 16 hours ago
+- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - 19 hours ago
+- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 21 hours ago
 - [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 2 days ago
 - [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 2 days ago
 - [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 2 days ago
@@ -18,10 +18,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 4 days ago
 - [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - 4 days ago
 - [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - 4 days ago
-- [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - 5 days ago
-- [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - 5 days ago
-- [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - 5 days ago
-- [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - 5 days ago
+- [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - Nov 26, 2024
+- [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - Nov 26, 2024
+- [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - Nov 26, 2024
+- [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Nov 26, 2024
 - [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) - Nov 26, 2024
 - [Inflection AI CEO says it’s done trying to make next-generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) - Nov 26, 2024
 - [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - Nov 26, 2024
