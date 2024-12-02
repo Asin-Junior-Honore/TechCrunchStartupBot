@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Y Combinator’s Demo Day is back in person](https://techcrunch.com/2024/12/01/y-combinators-demo-day-is-back-in-person/) - 7 hours ago
-- [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/) - 11 hours ago
-- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 1 day ago
-- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 1 day ago
+- [Y Combinator’s Demo Day is back in person](https://techcrunch.com/2024/12/01/y-combinators-demo-day-is-back-in-person/) - 11 hours ago
+- [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/) - 15 hours ago
+- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 2 days ago
+- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 2 days ago
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - 2 days ago
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 2 days ago
 - [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 3 days ago
@@ -17,7 +17,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - 4 days ago
 - [From pond scum to premium skincare? Deep Blue Biotech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - 4 days ago
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - 4 days ago
-- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - 5 days ago
+- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - Nov 27, 2024
 - [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - Nov 27, 2024
 - [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - Nov 27, 2024
 - [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - Nov 26, 2024
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/) - Nov 24, 2024
 - [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/) - Nov 24, 2024
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Nov 23, 2024
+- [AWS launches an incident response service to combat cybersecurity threats](https://techcrunch.com/2024/12/01/aws-launches-an-incident-response-service-to-combat-cybersecurity-threats/) - Time not found
 - [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/) - Time not found
 - [Fidelity reportedly marked up its X stake by 32 percent](https://techcrunch.com/2024/12/01/fidelity-reportedly-marked-up-its-x-stake-by-32-percent/) - Time not found
 - [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2024/12/01/best-apple-watch-apps-for-boosting-your-productivity/) - Time not found
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - Time not found
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - Time not found
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
-- [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - Nov 23, 2024
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Nov 22, 2024
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - Nov 22, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Building trust in crypto with Jonathan Levin of Chainalysis](https://techcrunch.com/podcast/building-trust-in-crypto-with-jonathan-levin-of-chainalysis/) - Nov 20, 2024
 - [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/) - Nov 20, 2024
 - [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/) - Nov 20, 2024
+- [AWS launches an incident response service to combat cybersecurity threats](https://techcrunch.com/2024/12/01/aws-launches-an-incident-response-service-to-combat-cybersecurity-threats/) - Time not found
 - [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/) - Time not found
 - [Fidelity reportedly marked up its X stake by 32 percent](https://techcrunch.com/2024/12/01/fidelity-reportedly-marked-up-its-x-stake-by-32-percent/) - Time not found
 - [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2024/12/01/best-apple-watch-apps-for-boosting-your-productivity/) - Time not found
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - Time not found
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/) - Time not found
 - [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/) - Time not found
-- [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/) - Time not found
