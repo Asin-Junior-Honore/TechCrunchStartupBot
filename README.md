@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - 9 hours ago
-- [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - 10 hours ago
-- [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - 11 hours ago
-- [SpinLaunch raises $11M but hoped to raise much more, source says](https://techcrunch.com/2024/12/03/once-buzzy-space-startup-spinlaunch-raises-11m-but-hoped-to-raise-more-sources-say/) - 12 hours ago
-- [AI comes to software reviews as Stackfix raises $3M](https://techcrunch.com/2024/12/03/ai-comes-to-software-reviews-as-stackfix-raises-3m/) - 12 hours ago
-- [FireDome launches projectiles filled with fire retardants to stop wildfires](https://techcrunch.com/2024/12/03/firedome-launches-projectiles-filled-with-fire-retardants-to-stop-wildfires/) - 14 hours ago
-- [Yurts raises $40 million to be the DoD’s AI chatbot ](https://techcrunch.com/2024/12/03/yurts-raises-40-million-to-be-the-dods-ai-chatbot/) - 14 hours ago
-- [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/) - 20 hours ago
+- [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - 13 hours ago
+- [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - 14 hours ago
+- [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - 15 hours ago
+- [SpinLaunch raises $11M but hoped to raise much more, source says](https://techcrunch.com/2024/12/03/once-buzzy-space-startup-spinlaunch-raises-11m-but-hoped-to-raise-more-sources-say/) - 16 hours ago
+- [AI comes to software reviews as Stackfix raises $3M](https://techcrunch.com/2024/12/03/ai-comes-to-software-reviews-as-stackfix-raises-3m/) - 16 hours ago
+- [FireDome launches projectiles filled with fire retardants to stop wildfires](https://techcrunch.com/2024/12/03/firedome-launches-projectiles-filled-with-fire-retardants-to-stop-wildfires/) - 18 hours ago
+- [Yurts raises $40 million to be the DoD’s AI chatbot ](https://techcrunch.com/2024/12/03/yurts-raises-40-million-to-be-the-dods-ai-chatbot/) - 18 hours ago
+- [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/) - 1 day ago
 - [Jeff Bezos backs AI chipmaker Tenstorrent](https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/02/tech-layoffs-2024-list/) - 1 day ago
 - [The average early startup CEO makes less than you think: $132K](https://techcrunch.com/2024/12/02/the-average-early-startup-ceo-makes-less-than-you-think-132k/) - 2 days ago
@@ -19,11 +19,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/) - 2 days ago
 - [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - 3 days ago
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - 3 days ago
-- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/why-olympic-champion-cyclist-sir-chris-hoy-is-backing-skarper-to-make-any-bike-an-ebike/) - 3 days ago
+- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/why-olympic-champion-cyclist-sir-chris-hoy-is-backing-skarper-to-make-any-bike-an-ebike/) - 4 days ago
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - 4 days ago
-- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 4 days ago
-- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 4 days ago
-- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - 5 days ago
+- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - 5 days ago
+- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - 5 days ago
+- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - Nov 29, 2024
 - [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/) - Nov 29, 2024
 - [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - Nov 28, 2024
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - Nov 28, 2024
@@ -35,11 +35,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Alloy Women’s Health is making menopausal care accessible](https://techcrunch.com/podcast/alloy-womens-health-is-making-menopausal-care-accessible/) - Nov 26, 2024
 - [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - Nov 26, 2024
 - [‘Surreal Elderhood’ using OpenAI’s text-to-video model, Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/) - Time not found
+- [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/) - Time not found
 - [Amazon announces Nova, a new family of multimodal AI models](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/) - Time not found
 - [AWS announces Aurora DSQL, a new distributed SQL database that promises virtually unlimited scalability](https://techcrunch.com/2024/12/03/aws-announces-aurora-dsql-a-new-distributed-sql-database-that-promises-virtually-unlimited-scalability/) - Time not found
 - [Spotify Wrapped 2024 is almost here, but first let’s explore all the copycats ](https://techcrunch.com/2024/12/03/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/) - Time not found
 - [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/) - Time not found
-- [World Labs’ AI can generate interactive 3D scenes from a single photo](https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/) - Time not found
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - Time not found
 - [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - Nov 26, 2024
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Nov 26, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/) - Nov 21, 2024
 - [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/) - Nov 21, 2024
 - [Lighthouse, an analytics provider for the hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/) - Nov 21, 2024
-- [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/) - Time not found
+- [‘Surreal Elderhood’ using OpenAI’s text-to-video model, Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/) - Time not found
+- [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/) - Time not found
 - [Amazon announces Nova, a new family of multimodal AI models](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/) - Time not found
 - [AWS announces Aurora DSQL, a new distributed SQL database that promises virtually unlimited scalability](https://techcrunch.com/2024/12/03/aws-announces-aurora-dsql-a-new-distributed-sql-database-that-promises-virtually-unlimited-scalability/) - Time not found
 - [Spotify Wrapped 2024 is almost here, but first let’s explore all the copycats ](https://techcrunch.com/2024/12/03/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/) - Time not found
 - [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/) - Time not found
-- [World Labs’ AI can generate interactive 3D scenes from a single photo](https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/) - Time not found
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - Time not found
