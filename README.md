@@ -4,16 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 3 hours ago
-- [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - 3 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - 3 hours ago
-- [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - 6 hours ago
-- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - 6 hours ago
-- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - 6 hours ago
-- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - 7 hours ago
-- [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - 8 hours ago
-- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - 8 hours ago
-- [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - 9 hours ago
+- [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/) - 2 hours ago
+- [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - 4 hours ago
+- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 8 hours ago
+- [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - 8 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - 8 hours ago
+- [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - 11 hours ago
+- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - 11 hours ago
+- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - 11 hours ago
+- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - 12 hours ago
+- [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - 13 hours ago
+- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - 13 hours ago
+- [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - 14 hours ago
 - [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - 1 day ago
 - [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - 1 day ago
 - [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - Nov 29, 2024
 - [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/) - Nov 29, 2024
 - [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/) - Nov 29, 2024
-- [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/) - Nov 29, 2024
-- [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - Nov 28, 2024
-- [The pope gets his first electric popemobile from Mercedes-Benz](https://techcrunch.com/2024/12/04/the-pope-gets-his-first-electric-popemobile-from-mercedes-benz/) - Time not found
+- [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/) - Time not found
 - [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/) - Time not found
 - [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/) - Time not found
 - [Why does the name ‘David Mayer’ crash ChatGPT? OpenAI says privacy tool went rogue](https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/) - Time not found
 - [Amazon announces Nova, a new family of multimodal AI models](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/) - Time not found
 - [AWS announces Aurora DSQL, a new distributed SQL database that promises virtually unlimited scalability](https://techcrunch.com/2024/12/03/aws-announces-aurora-dsql-a-new-distributed-sql-database-that-promises-virtually-unlimited-scalability/) - Time not found
-- [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/) - Time not found
+- [YouTube Music’s 2024 Recaps are out — here’s how to see yours](https://techcrunch.com/2024/11/25/youtube-musics-2024-recaps-are-out-heres-how-to-see-yours/) - Time not found
+- [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/) - Nov 29, 2024
+- [Linkup connects LLMs with premium content sources (legally)](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/) - Nov 28, 2024
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - Nov 28, 2024
 - [From pond scum to premium skincare? Deep Blue BioTech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - Nov 28, 2024
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - Nov 27, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/) - Nov 22, 2024
 - [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/) - Nov 22, 2024
 - [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/) - Nov 22, 2024
-- [Anthropic raises another $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/) - Nov 22, 2024
-- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/) - Nov 21, 2024
 - [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/) - Time not found
 - [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/) - Time not found
 - [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/) - Time not found
 - [Why does the name ‘David Mayer’ crash ChatGPT? OpenAI says privacy tool went rogue](https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/) - Time not found
 - [Amazon announces Nova, a new family of multimodal AI models](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/) - Time not found
 - [AWS announces Aurora DSQL, a new distributed SQL database that promises virtually unlimited scalability](https://techcrunch.com/2024/12/03/aws-announces-aurora-dsql-a-new-distributed-sql-database-that-promises-virtually-unlimited-scalability/) - Time not found
-- [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/) - Time not found
+- [YouTube Music’s 2024 Recaps are out — here’s how to see yours](https://techcrunch.com/2024/11/25/youtube-musics-2024-recaps-are-out-heres-how-to-see-yours/) - Time not found
