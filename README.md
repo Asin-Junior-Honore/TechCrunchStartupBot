@@ -4,23 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Elon Musk’s xAI lands billions in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 12 mins ago
-- [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - 3 hours ago
-- [ARX launches firestick-like platform to make military trucks autonomous](https://techcrunch.com/2024/12/05/arx-launches-firestick-like-platform-to-make-military-trucks-autonomous/) - 3 hours ago
-- [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/) - 3 hours ago
-- [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/) - 6 hours ago
-- [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/) - 22 hours ago
-- [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - 24 hours ago
+- [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - 2 hours ago
+- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 5 hours ago
+- [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - 8 hours ago
+- [ARX launches firestick-like platform to make military trucks autonomous](https://techcrunch.com/2024/12/05/arx-launches-firestick-like-platform-to-make-military-trucks-autonomous/) - 8 hours ago
+- [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/) - 8 hours ago
+- [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/) - 11 hours ago
+- [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/) - 1 day ago
+- [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - 1 day ago
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 1 day ago
 - [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - 1 day ago
 - [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - 1 day ago
 - [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - 1 day ago
 - [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - 1 day ago
-- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - 1 day ago
-- [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - 1 day ago
-- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - 1 day ago
-- [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - 1 day ago
+- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - 2 days ago
+- [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - 2 days ago
+- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - 2 days ago
+- [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - 2 days ago
 - [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - 2 days ago
 - [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - 2 days ago
 - [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Y Combinator’s Demo Day is back in person](https://techcrunch.com/2024/12/01/y-combinators-demo-day-is-back-in-person/) - 4 days ago
 - [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/) - 4 days ago
 - [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/) - Nov 30, 2024
-- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - Nov 30, 2024
 - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/) - Time not found
-- [LLMs may have a killer enterprise app: ‘digital labor’ — at least if Salesforce Agentforce is any indicator](https://techcrunch.com/2024/12/04/llms-may-have-a-killer-enterprise-app-digital-labor-at-least-if-salesforce-agentforce-is-any-indicator/) - Time not found
+- [OpenAI may be planning a ChatGPT Pro plan for $200 per month](https://techcrunch.com/2024/12/05/openai-may-be-planning-a-chatgpt-pro-plan-for-200-per-month/) - Time not found
+- [Apple to shell out $1 billion on a manufacturing plant in Indonesia](https://techcrunch.com/2024/12/05/apple-will-spend-1-billion-for-new-manufacturing-plant-in-indonesia/) - Time not found
 - [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - Time not found
 - [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/) - Time not found
 - [OpenAI CEO Sam Altman says it’d be ‘un-American’ for Elon Musk to wield political influence to harm rivals](https://techcrunch.com/2024/12/04/openai-ceo-sam-altman-says-itd-be-un-american-for-elon-musk-to-wield-political-influence-to-harm-rivals/) - Time not found
-- [DeepMind’s Genie 2 can generate interactive worlds that look like video games](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/) - Time not found
 - [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/) - Time not found
+- [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/) - Nov 30, 2024
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/why-olympic-champion-cyclist-sir-chris-hoy-is-backing-skarper-to-make-any-bike-an-ebike/) - Nov 30, 2024
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - Nov 30, 2024
 - [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/) - Nov 29, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/) - Nov 23, 2024
 - [Meet three incoming EU lawmakers in charge of key tech policy areas](https://techcrunch.com/2024/11/23/meet-three-incoming-eu-lawmakers-in-charge-of-key-tech-policy-areas/) - Nov 23, 2024
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/) - Nov 22, 2024
-- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/) - Nov 22, 2024
 - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/) - Time not found
-- [LLMs may have a killer enterprise app: ‘digital labor’ — at least if Salesforce Agentforce is any indicator](https://techcrunch.com/2024/12/04/llms-may-have-a-killer-enterprise-app-digital-labor-at-least-if-salesforce-agentforce-is-any-indicator/) - Time not found
+- [OpenAI may be planning a ChatGPT Pro plan for $200 per month](https://techcrunch.com/2024/12/05/openai-may-be-planning-a-chatgpt-pro-plan-for-200-per-month/) - Time not found
+- [Apple to shell out $1 billion on a manufacturing plant in Indonesia](https://techcrunch.com/2024/12/05/apple-will-spend-1-billion-for-new-manufacturing-plant-in-indonesia/) - Time not found
 - [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - Time not found
 - [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/) - Time not found
 - [OpenAI CEO Sam Altman says it’d be ‘un-American’ for Elon Musk to wield political influence to harm rivals](https://techcrunch.com/2024/12/04/openai-ceo-sam-altman-says-itd-be-un-american-for-elon-musk-to-wield-political-influence-to-harm-rivals/) - Time not found
-- [DeepMind’s Genie 2 can generate interactive worlds that look like video games](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/) - Time not found
 - [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/) - Time not found
