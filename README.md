@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 16 hours ago
-- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 19 hours ago
-- [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 21 hours ago
+- [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - 1 hour ago
+- [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - 1 hour ago
+- [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 20 hours ago
+- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 23 hours ago
+- [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 1 day ago
 - [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 1 day ago
-- [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - 1 day ago
+- [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - 2 days ago
 - [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - 2 days ago
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 2 days ago
 - [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - 2 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - 4 days ago
 - [SpinLaunch raises $11M but hoped to raise much more, source says](https://techcrunch.com/2024/12/03/once-buzzy-space-startup-spinlaunch-raises-11m-but-hoped-to-raise-more-sources-say/) - 4 days ago
 - [AI comes to software reviews as Stackfix raises $3M](https://techcrunch.com/2024/12/03/ai-comes-to-software-reviews-as-stackfix-raises-3m/) - 4 days ago
-- [FireDome launches projectiles filled with fire retardants to stop wildfires](https://techcrunch.com/2024/12/03/firedome-launches-projectiles-filled-with-fire-retardants-to-stop-wildfires/) - 4 days ago
-- [Yurts raises $40 million to be the DoD’s AI chatbot ](https://techcrunch.com/2024/12/03/yurts-raises-40-million-to-be-the-dods-ai-chatbot/) - 4 days ago
 - [Will people really pay $200 a month for OpenAI’s new chatbot?](https://techcrunch.com/2024/12/06/will-people-really-pay-200-a-month-for-openais-new-chatbot/) - Time not found
+- [If you can make this AI bot fall in love, you could win thousands of dollars](https://techcrunch.com/2024/12/06/if-you-can-make-this-ai-bot-fall-in-love-you-could-win-thousands-of-dollars/) - Time not found
 - [Rivian’s EVs ranked last on Consumer Reports reliability list](https://techcrunch.com/2024/12/06/rivians-evs-ranked-last-on-consumer-reports-reliability-list/) - Time not found
 - [Meta unveils a new, more efficient Llama model](https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model/) - Time not found
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - Time not found
 - [Lucid Motors completes its first Gravity SUV](https://techcrunch.com/2024/12/05/lucid-motors-completes-its-first-gravity-suv/) - Time not found
 - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/) - Time not found
-- [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - Time not found
+- [FireDome launches projectiles filled with fire retardants to stop wildfires](https://techcrunch.com/2024/12/03/firedome-launches-projectiles-filled-with-fire-retardants-to-stop-wildfires/) - 4 days ago
+- [Yurts raises $40 million to be the DoD’s AI chatbot ](https://techcrunch.com/2024/12/03/yurts-raises-40-million-to-be-the-dods-ai-chatbot/) - 4 days ago
 - [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/) - 4 days ago
 - [Jeff Bezos backs AI chipmaker Tenstorrent](https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/) - Dec 2, 2024
 - [Y Combinator’s Demo Day is back in person](https://techcrunch.com/2024/12/01/y-combinators-demo-day-is-back-in-person/) - Dec 1, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/) - Nov 26, 2024
 - [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/) - Nov 25, 2024
 - [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/) - Nov 25, 2024
-- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/) - Nov 25, 2024
-- [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/) - Nov 25, 2024
 - [Will people really pay $200 a month for OpenAI’s new chatbot?](https://techcrunch.com/2024/12/06/will-people-really-pay-200-a-month-for-openais-new-chatbot/) - Time not found
+- [If you can make this AI bot fall in love, you could win thousands of dollars](https://techcrunch.com/2024/12/06/if-you-can-make-this-ai-bot-fall-in-love-you-could-win-thousands-of-dollars/) - Time not found
 - [Rivian’s EVs ranked last on Consumer Reports reliability list](https://techcrunch.com/2024/12/06/rivians-evs-ranked-last-on-consumer-reports-reliability-list/) - Time not found
 - [Meta unveils a new, more efficient Llama model](https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model/) - Time not found
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - Time not found
 - [Lucid Motors completes its first Gravity SUV](https://techcrunch.com/2024/12/05/lucid-motors-completes-its-first-gravity-suv/) - Time not found
 - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/) - Time not found
-- [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - Time not found
