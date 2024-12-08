@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 1 hour ago
+- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 5 hours ago
 - [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - 1 day ago
 - [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - 1 day ago
 - [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 2 days ago
 - [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 2 days ago
 - [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 2 days ago
-- [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 2 days ago
+- [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 3 days ago
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - 3 days ago
 - [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - 3 days ago
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 3 days ago
