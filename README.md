@@ -4,32 +4,32 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/) - 6 hours ago
-- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 13 hours ago
+- [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/) - 10 hours ago
+- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 17 hours ago
 - [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - 2 days ago
 - [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - 2 days ago
 - [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 2 days ago
-- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 2 days ago
+- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 3 days ago
 - [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 3 days ago
 - [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 3 days ago
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - 3 days ago
 - [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - 3 days ago
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 3 days ago
-- [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - 3 days ago
-- [ARX launches firestick-like platform to make military trucks autonomous](https://techcrunch.com/2024/12/05/arx-launches-firestick-like-platform-to-make-military-trucks-autonomous/) - 3 days ago
-- [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/) - 3 days ago
+- [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - 4 days ago
+- [ARX launches firestick-like platform to make military trucks autonomous](https://techcrunch.com/2024/12/05/arx-launches-firestick-like-platform-to-make-military-trucks-autonomous/) - 4 days ago
+- [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/) - 4 days ago
 - [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/) - 4 days ago
 - [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/) - 4 days ago
 - [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - 4 days ago
-- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 4 days ago
-- [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - 4 days ago
-- [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - 5 days ago
-- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - 5 days ago
-- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - 5 days ago
-- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - 5 days ago
-- [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - 5 days ago
-- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - 5 days ago
+- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 5 days ago
+- [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - 5 days ago
+- [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - Dec 4, 2024
+- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - Dec 4, 2024
+- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - Dec 4, 2024
+- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - Dec 4, 2024
+- [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - Dec 4, 2024
+- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - Dec 4, 2024
 - [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - Dec 4, 2024
 - [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - Dec 3, 2024
 - [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - Dec 3, 2024
@@ -39,8 +39,8 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI bets you’ll pay $200 a month for ChatGPT](https://techcrunch.com/2024/12/07/openai-bets-youll-pay-200-a-month-for-chatgpt/) - Time not found
 - [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/) - Time not found
 - [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - Time not found
+- [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/) - Time not found
 - [Will people really pay $200 a month for OpenAI’s new chatbot?](https://techcrunch.com/2024/12/06/will-people-really-pay-200-a-month-for-openais-new-chatbot/) - Time not found
-- [Rivian’s EVs ranked last on Consumer Reports reliability list](https://techcrunch.com/2024/12/06/rivians-evs-ranked-last-on-consumer-reports-reliability-list/) - Time not found
 - [SpinLaunch raises $11M but hoped to raise much more, source says](https://techcrunch.com/2024/12/03/once-buzzy-space-startup-spinlaunch-raises-11m-but-hoped-to-raise-more-sources-say/) - Dec 3, 2024
 - [AI comes to software reviews as Stackfix raises $3M](https://techcrunch.com/2024/12/03/ai-comes-to-software-reviews-as-stackfix-raises-3m/) - Dec 3, 2024
 - [FireDome launches projectiles filled with fire retardants to stop wildfires](https://techcrunch.com/2024/12/03/firedome-launches-projectiles-filled-with-fire-retardants-to-stop-wildfires/) - Dec 3, 2024
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Google says its new AI model outperforms the top weather forecast system](https://techcrunch.com/2024/12/07/google-says-its-new-ai-model-outperforms-the-top-weather-forecast-system/) - Time not found
 - [OpenAI bets you’ll pay $200 a month for ChatGPT](https://techcrunch.com/2024/12/07/openai-bets-youll-pay-200-a-month-for-chatgpt/) - Time not found
 - [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/) - Time not found
+- [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - Time not found
 - [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - Time not found
 - [Will people really pay $200 a month for OpenAI’s new chatbot?](https://techcrunch.com/2024/12/06/will-people-really-pay-200-a-month-for-openais-new-chatbot/) - Time not found
-- [Rivian’s EVs ranked last on Consumer Reports reliability list](https://techcrunch.com/2024/12/06/rivians-evs-ranked-last-on-consumer-reports-reliability-list/) - Time not found
