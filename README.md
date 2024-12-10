@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 1 hour ago
-- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 2 hours ago
-- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 3 hours ago
-- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 3 hours ago
-- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 12 hours ago
+- [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 31 mins ago
+- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 2 hours ago
+- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 5 hours ago
+- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 6 hours ago
+- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 6 hours ago
+- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 7 hours ago
+- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 16 hours ago
 - [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - 1 day ago
 - [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - 1 day ago
 - [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/) - 2 days ago
@@ -18,8 +20,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 4 days ago
 - [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 4 days ago
 - [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 4 days ago
-- [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 4 days ago
-- [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - 5 days ago
+- [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 5 days ago
+- [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - Dec 5, 2024
 - [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - Dec 5, 2024
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Dec 5, 2024
 - [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - Dec 5, 2024
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - Dec 4, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - Dec 4, 2024
 - [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - Dec 4, 2024
-- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - Dec 4, 2024
-- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - Dec 4, 2024
 - [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/) - Time not found
+- [From Liam Payne to Crowdstrike, here are the top trending searches of 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/) - Time not found
 - [Spotify has disabled Car Thing streaming devices](https://techcrunch.com/2024/12/09/spotify-car-thing-units-are-officially-disabled/) - Time not found
 - [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/) - Time not found
 - [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/) - Time not found
-- [OpenAI’s Sora is launching today — here are highlights from the first review](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/) - Time not found
 - [Troubled electric truckmaker Nikola offers up to $100 million in common stock](https://techcrunch.com/2024/12/09/troubled-electric-truckmaker-nikola-offers-up-to-100-million-in-common-stock/) - Time not found
 - [It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/) - Time not found
+- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/) - Dec 4, 2024
+- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/) - Dec 4, 2024
 - [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - Dec 4, 2024
 - [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - Dec 4, 2024
 - [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - Dec 4, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [From pond scum to premium skincare? Deep Blue BioTech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - Nov 28, 2024
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - Nov 27, 2024
 - [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/) - Nov 27, 2024
-- [Aerospace Corp’s CEO talks literal moonshots and Space Agenda 2025](https://techcrunch.com/podcast/aerospace-corps-ceo-talks-literal-moonshots-and-space-agenda-2025/) - Nov 27, 2024
-- [Scaling startups is top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-is-top-priority-as-eu-reboots-its-top-team/) - Nov 27, 2024
 - [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/) - Time not found
+- [From Liam Payne to Crowdstrike, here are the top trending searches of 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/) - Time not found
 - [Spotify has disabled Car Thing streaming devices](https://techcrunch.com/2024/12/09/spotify-car-thing-units-are-officially-disabled/) - Time not found
 - [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/) - Time not found
 - [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/) - Time not found
-- [OpenAI’s Sora is launching today — here are highlights from the first review](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/) - Time not found
 - [Troubled electric truckmaker Nikola offers up to $100 million in common stock](https://techcrunch.com/2024/12/09/troubled-electric-truckmaker-nikola-offers-up-to-100-million-in-common-stock/) - Time not found
 - [It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/) - Time not found
