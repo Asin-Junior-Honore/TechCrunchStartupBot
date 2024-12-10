@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - 10 hours ago
-- [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - 11 hours ago
+- [Automattic acquires WPAI, a startup that creates AI solutions for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 34 mins ago
+- [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - 13 hours ago
+- [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - 14 hours ago
 - [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/) - 1 day ago
-- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 1 day ago
-- [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - 2 days ago
-- [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - 2 days ago
+- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 2 days ago
+- [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - 3 days ago
+- [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - 3 days ago
 - [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 3 days ago
 - [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 3 days ago
-- [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 3 days ago
+- [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 4 days ago
 - [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - 4 days ago
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - 4 days ago
 - [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - 4 days ago
@@ -20,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Fitness startup Ladder comes after Peloton for allegedly copying their app](https://techcrunch.com/2024/12/05/fitness-startup-ladder-comes-after-peloton-for-allegedly-copying-their-app/) - 4 days ago
 - [ARX launches firestick-like platform to make military trucks autonomous](https://techcrunch.com/2024/12/05/arx-launches-firestick-like-platform-to-make-military-trucks-autonomous/) - 4 days ago
 - [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/) - 4 days ago
-- [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/) - 4 days ago
+- [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/) - 5 days ago
 - [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/) - Dec 4, 2024
 - [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) - Dec 4, 2024
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Dec 4, 2024
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - Dec 4, 2024
 - [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - Dec 4, 2024
 - [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - Dec 4, 2024
-- [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - Dec 3, 2024
 - [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/) - Time not found
 - [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/) - Time not found
 - [OpenAI’s Sora is launching today — here are highlights from the first review](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/) - Time not found
 - [Troubled electric truckmaker Nikola offers up to $100 million in common stock](https://techcrunch.com/2024/12/09/troubled-electric-truckmaker-nikola-offers-up-to-100-million-in-common-stock/) - Time not found
+- [Reddit tests a conversational AI search tool](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/) - Time not found
 - [It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/) - Time not found
 - [Apple sued over abandoning CSAM detection for iCloud](https://techcrunch.com/2024/12/08/apple-sued-over-abandoning-csam-detection-for-icloud/) - Time not found
-- [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/) - Time not found
+- [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - Dec 3, 2024
 - [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - Dec 3, 2024
 - [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - Dec 3, 2024
 - [SpinLaunch raises $11M but hoped to raise much more, source says](https://techcrunch.com/2024/12/03/once-buzzy-space-startup-spinlaunch-raises-11m-but-hoped-to-raise-more-sources-say/) - Dec 3, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/) - Nov 26, 2024
 - [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/) - Nov 26, 2024
 - [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/anduril-salaries-palmer-luckey-other-execs-how-much-do-they-make/) - Nov 26, 2024
-- [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) - Nov 26, 2024
 - [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/) - Time not found
 - [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/) - Time not found
 - [OpenAI’s Sora is launching today — here are highlights from the first review](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/) - Time not found
 - [Troubled electric truckmaker Nikola offers up to $100 million in common stock](https://techcrunch.com/2024/12/09/troubled-electric-truckmaker-nikola-offers-up-to-100-million-in-common-stock/) - Time not found
+- [Reddit tests a conversational AI search tool](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/) - Time not found
 - [It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/) - Time not found
 - [Apple sued over abandoning CSAM detection for iCloud](https://techcrunch.com/2024/12/08/apple-sued-over-abandoning-csam-detection-for-icloud/) - Time not found
-- [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/) - Time not found
