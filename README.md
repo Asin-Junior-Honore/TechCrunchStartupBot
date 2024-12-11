@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 6 hours ago
-- [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 9 hours ago
-- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 10 hours ago
-- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 13 hours ago
-- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 14 hours ago
-- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 14 hours ago
-- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 15 hours ago
+- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 10 hours ago
+- [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 13 hours ago
+- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 14 hours ago
+- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 17 hours ago
+- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 18 hours ago
+- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 19 hours ago
+- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 19 hours ago
 - [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 1 day ago
 - [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - 2 days ago
 - [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - 2 days ago
@@ -18,9 +18,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - 3 days ago
 - [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - 4 days ago
 - [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/) - 4 days ago
-- [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 4 days ago
-- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 4 days ago
-- [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - 5 days ago
+- [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/) - 5 days ago
+- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/) - 5 days ago
+- [Who knew you could get a $500 million valuation without launching a product?](https://techcrunch.com/podcast/who-knew-you-could-get-a-500-million-valuation-without-launching-a-product/) - Dec 6, 2024
 - [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/) - Dec 5, 2024
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/) - Dec 5, 2024
 - [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/) - Dec 5, 2024
@@ -34,11 +34,11 @@ Here are the latest articles from TechCrunch Startups:
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Dec 4, 2024
 - [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - Dec 4, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/) - Dec 4, 2024
+- [Cruise employees ‘blindsided’ by GM’s plan to end robotaxi program](https://techcrunch.com/2024/12/10/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/) - Time not found
 - [GM is giving up on Cruise robotaxis, pivots to personal autonomous vehicles](https://techcrunch.com/2024/12/10/gm-is-giving-up-on-cruise-robotaxis-pivots-to-personal-autonomous-vehicles/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
 - [Lucid Motors’ Gravity SUV nabs 450-mile EPA range estimate](https://techcrunch.com/2024/12/10/lucid-motors-gravity-suv-nabs-450-mile-epa-range-estimate/) - Time not found
 - [Amazon is officially in the online car sales business](https://techcrunch.com/2024/12/10/amazon-is-officially-in-the-online-car-sales-business/) - Time not found
-- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - Time not found
 - [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/) - Time not found
 - [From Liam Payne to Crowdstrike, here are the top trending searches of 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/) - Time not found
 - [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - Dec 4, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) - Nov 28, 2024
 - [From pond scum to premium skincare? Deep Blue BioTech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/) - Nov 28, 2024
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/) - Nov 27, 2024
+- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - Time not found
 - [GM is giving up on Cruise robotaxis, pivots to personal autonomous vehicles](https://techcrunch.com/2024/12/10/gm-is-giving-up-on-cruise-robotaxis-pivots-to-personal-autonomous-vehicles/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
 - [Lucid Motors’ Gravity SUV nabs 450-mile EPA range estimate](https://techcrunch.com/2024/12/10/lucid-motors-gravity-suv-nabs-450-mile-epa-range-estimate/) - Time not found
 - [Amazon is officially in the online car sales business](https://techcrunch.com/2024/12/10/amazon-is-officially-in-the-online-car-sales-business/) - Time not found
-- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - Time not found
 - [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/) - Time not found
 - [From Liam Payne to Crowdstrike, here are the top trending searches of 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/) - Time not found
