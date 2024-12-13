@@ -4,18 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 30 mins ago
-- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 3 hours ago
-- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 18 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 19 hours ago
-- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 20 hours ago
+- [What failed before might succeed now — or fail again — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 3 mins ago
+- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 52 mins ago
+- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 3 hours ago
+- [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 4 hours ago
+- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 7 hours ago
+- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 22 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 23 hours ago
+- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 23 hours ago
 - [Evinced’s $55M C round will help bring its accessibility dev tools (and AI) to Europe](https://techcrunch.com/2024/12/12/evinceds-55m-c-round-will-help-bring-its-accessibility-dev-tools-and-ai-to-europe/) - 1 day ago
 - [The founders of SlideShare are making sharing docs more social with their new platform, Jaunt](https://techcrunch.com/2024/12/12/the-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jauntthe-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jaunt/) - 1 day ago
 - [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/) - 1 day ago
 - [Cartesia claims its AI is efficient enough to run pretty much anywhere](https://techcrunch.com/2024/12/12/cartesia-claims-its-ai-is-efficient-enough-to-run-pretty-much-anywhere/) - 1 day ago
 - [Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand](https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/) - 1 day ago
-- [Upvest, a stock trading API used by N26, Revolut and others, raises $105 million](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - 1 day ago
-- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - 1 day ago
+- [Upvest, a stock trading API used by N26, Revolut, and others, raises $105M](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - 2 days ago
+- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - 2 days ago
 - [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/) - 2 days ago
 - [200 VCs wanted to get into Lumen Orbit’s $11M seed round](https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/) - 2 days ago
 - [Mantel’s app lets collectors show off their sports cards and other treasures](https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/) - 2 days ago
@@ -23,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Numia’s software brings offline and online customer interaction data into one place](https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/) - 2 days ago
 - [Albert Invent hopes to revolutionize the chemicals sector with its AI platform](https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/) - 2 days ago
 - [Mynt raises a cool $23M at $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/) - 2 days ago
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
 - [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 3 days ago
 - [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 3 days ago
 - [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 3 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 3 days ago
 - [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 3 days ago
 - [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 3 days ago
-- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 4 days ago
-- [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - 4 days ago
-- [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - 4 days ago
+- [A Waymo robotaxi got stuck in a roundabout loop](https://techcrunch.com/2024/12/12/a-waymo-robotaxi-got-stuck-in-a-roundabout-loop/) - Time not found
 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - Time not found
 - [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/) - Time not found
 - [ChatGPT now understands real-time video, seven months after OpenAI first demoed it](https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/) - Time not found
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/) - Time not found
-- [Google unveils Project Mariner: AI agents to use the web for you](https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you/) - Time not found
 - [Researchers uncover Chinese spyware used to target Android devices](https://techcrunch.com/2024/12/11/researchers-uncover-chinese-spyware-used-to-target-android-devices/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
+- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 4 days ago
+- [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - 4 days ago
+- [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - 4 days ago
 - [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/) - Dec 8, 2024
 - [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/) - Dec 8, 2024
 - [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/) - Dec 7, 2024
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - Dec 4, 2024
 - [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - Dec 4, 2024
 - [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers ](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/) - Dec 3, 2024
-- [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/) - Dec 3, 2024
-- [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/) - Dec 3, 2024
-- [SpinLaunch raises $11M but hoped to raise much more, source says](https://techcrunch.com/2024/12/03/once-buzzy-space-startup-spinlaunch-raises-11m-but-hoped-to-raise-more-sources-say/) - Dec 3, 2024
+- [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/) - Time not found
+- [A Waymo robotaxi got stuck in a roundabout loop](https://techcrunch.com/2024/12/12/a-waymo-robotaxi-got-stuck-in-a-roundabout-loop/) - Time not found
 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - Time not found
 - [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/) - Time not found
 - [ChatGPT now understands real-time video, seven months after OpenAI first demoed it](https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/) - Time not found
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/) - Time not found
-- [Google unveils Project Mariner: AI agents to use the web for you](https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you/) - Time not found
-- [Researchers uncover Chinese spyware used to target Android devices](https://techcrunch.com/2024/12/11/researchers-uncover-chinese-spyware-used-to-target-android-devices/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
