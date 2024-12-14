@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 9 hours ago
-- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 12 hours ago
-- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 13 hours ago
-- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 15 hours ago
-- [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 16 hours ago
-- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 18 hours ago
-- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 1 day ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 1 day ago
-- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 1 day ago
+- [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 13 hours ago
+- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 16 hours ago
+- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 17 hours ago
+- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 19 hours ago
+- [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 21 hours ago
+- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 23 hours ago
+- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 2 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 2 days ago
+- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 2 days ago
 - [Evinced’s $55M C round will help bring its accessibility dev tools (and AI) to Europe](https://techcrunch.com/2024/12/12/evinceds-55m-c-round-will-help-bring-its-accessibility-dev-tools-and-ai-to-europe/) - 2 days ago
 - [The founders of SlideShare are making sharing docs more social with their new platform, Jaunt](https://techcrunch.com/2024/12/12/the-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jauntthe-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jaunt/) - 2 days ago
 - [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/) - 2 days ago
@@ -28,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Albert Invent hopes to revolutionize the chemicals sector with its AI platform](https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/) - 3 days ago
 - [Mynt raises a cool $23M at $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/) - 3 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
-- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 3 days ago
+- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 4 days ago
 - [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 4 days ago
 - [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 4 days ago
 - [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 4 days ago
@@ -36,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 4 days ago
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
-- [The federal crash-reporting rule Tesla opposes could be on the chopping block](https://techcrunch.com/2024/12/13/the-federal-crash-reporting-rule-tesla-opposes-could-be-on-the-chopping-block/) - Time not found
+- [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/) - Time not found
 - [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/) - Time not found
 - [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/) - Time not found
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/) - Time not found
@@ -73,7 +73,7 @@ Here are the latest articles from TechCrunch Startups:
 - [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - Dec 4, 2024
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
-- [The federal crash-reporting rule Tesla opposes could be on the chopping block](https://techcrunch.com/2024/12/13/the-federal-crash-reporting-rule-tesla-opposes-could-be-on-the-chopping-block/) - Time not found
+- [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/) - Time not found
 - [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/) - Time not found
 - [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/) - Time not found
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/) - Time not found
