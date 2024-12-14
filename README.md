@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 13 hours ago
-- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 16 hours ago
-- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 17 hours ago
-- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 19 hours ago
-- [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 21 hours ago
-- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 23 hours ago
+- [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 17 hours ago
+- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 20 hours ago
+- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 21 hours ago
+- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 23 hours ago
+- [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 1 day ago
+- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 1 day ago
 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 2 days ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 2 days ago
 - [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 2 days ago
@@ -34,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 4 days ago
 - [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 4 days ago
 - [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 4 days ago
+- [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/) - Time not found
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
-- [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/) - Time not found
+- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Time not found
 - [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/) - Time not found
-- [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/) - Time not found
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
 - [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 4 days ago
-- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 4 days ago
+- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - 5 days ago
 - [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - Dec 9, 2024
 - [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - Dec 9, 2024
 - [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/) - Dec 8, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - Dec 4, 2024
 - [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - Dec 4, 2024
 - [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/) - Dec 4, 2024
+- [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/) - Time not found
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
-- [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/) - Time not found
+- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Time not found
 - [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/) - Time not found
-- [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/) - Time not found
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
