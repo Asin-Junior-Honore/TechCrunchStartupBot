@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/) - 9 hours ago
+- [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/) - 13 hours ago
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 1 day ago
-- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 1 day ago
-- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 1 day ago
-- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 1 day ago
+- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 2 days ago
+- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 2 days ago
+- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 2 days ago
 - [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 2 days ago
 - [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 2 days ago
 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 2 days ago
@@ -21,8 +21,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand](https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/) - 3 days ago
 - [Upvest, a stock trading API used by N26, Revolut, and others, raises $105M](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - 3 days ago
 - [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - 3 days ago
-- [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/) - 3 days ago
-- [200 VCs wanted to get into Lumen Orbit’s $11M seed round](https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/) - 3 days ago
+- [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/) - 4 days ago
+- [200 VCs wanted to get into Lumen Orbit’s $11M seed round](https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/) - 4 days ago
 - [Mantel’s app lets collectors show off their sports cards and other treasures](https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/) - 4 days ago
 - [Flare raises $30M to thwart info-stealers like those used on Snowflake customers](https://techcrunch.com/2024/12/11/flare-raises-30m-to-thwart-info-stealers-like-those-used-on-snowflake-customers/) - 4 days ago
 - [Numia’s software brings offline and online customer interaction data into one place](https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/) - 4 days ago
@@ -30,10 +30,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Mynt raises a cool $23M at $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/) - 4 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
 - [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 4 days ago
-- [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 4 days ago
-- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 4 days ago
-- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - 5 days ago
-- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - 5 days ago
+- [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - 5 days ago
+- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - 5 days ago
+- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - Dec 10, 2024
+- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - Dec 10, 2024
 - [Why Marc Andreessen was ‘very scared’ after meeting with the Biden administration about AI](https://techcrunch.com/2024/12/14/why-marc-andreessen-was-very-scared-after-meeting-with-the-biden-administration-about-ai/) - Time not found
 - [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/) - Time not found
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
@@ -41,8 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Time not found
 - [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/) - Time not found
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/) - Time not found
-- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - 5 days ago
-- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - 5 days ago
+- [OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud](https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/) - Dec 10, 2024
+- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - Dec 10, 2024
 - [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - Dec 9, 2024
 - [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - Dec 9, 2024
 - [The creator of ChatGPT’s voice wants to build the tech from ‘Her,’ minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/) - Dec 9, 2024
