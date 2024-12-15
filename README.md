@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/) - 17 hours ago
+- [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/) - 21 hours ago
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 2 days ago
 - [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 2 days ago
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 2 days ago
@@ -29,13 +29,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Albert Invent hopes to revolutionize the chemicals sector with its AI platform](https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/) - 4 days ago
 - [Mynt raises a cool $23M at $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/) - 4 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
-- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - 5 days ago
+- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/) - Dec 10, 2024
 - [Former Bonobos founder is rethinking social media](https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/) - Dec 10, 2024
 - [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/) - Dec 10, 2024
 - [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/) - Dec 10, 2024
 - [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/) - Dec 10, 2024
+- [What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/) - Time not found
 - [Why Marc Andreessen was ‘very scared’ after meeting with the Biden administration about AI](https://techcrunch.com/2024/12/14/why-marc-andreessen-was-very-scared-after-meeting-with-the-biden-administration-about-ai/) - Time not found
-- [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/) - Time not found
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Time not found
@@ -71,8 +71,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/) - Dec 4, 2024
 - [Google’s Gradient backs Cake, a managed open source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/) - Dec 4, 2024
 - [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/) - Dec 4, 2024
+- [What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/) - Time not found
 - [Why Marc Andreessen was ‘very scared’ after meeting with the Biden administration about AI](https://techcrunch.com/2024/12/14/why-marc-andreessen-was-very-scared-after-meeting-with-the-biden-administration-about-ai/) - Time not found
-- [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/) - Time not found
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Time not found
