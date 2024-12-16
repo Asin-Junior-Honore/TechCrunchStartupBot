@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/) - 2 hours ago
-- [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - 3 hours ago
-- [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - 7 hours ago
-- [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/) - 16 hours ago
-- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tune-ups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - 20 hours ago
-- [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/) - 2 days ago
+- [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/) - 6 hours ago
+- [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - 7 hours ago
+- [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - 11 hours ago
+- [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/) - 20 hours ago
+- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - 24 hours ago
+- [Meta asks California attorney general to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-attorney-general-to-block-openais-conversion-to-for-profit/) - 2 days ago
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 3 days ago
 - [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 3 days ago
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 3 days ago
@@ -24,8 +24,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/) - 4 days ago
 - [Cartesia claims its AI is efficient enough to run pretty much anywhere](https://techcrunch.com/2024/12/12/cartesia-claims-its-ai-is-efficient-enough-to-run-pretty-much-anywhere/) - 4 days ago
 - [Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand](https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/) - 4 days ago
-- [Upvest, a stock trading API used by N26, Revolut, and others, raises $105M](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - 4 days ago
-- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - 4 days ago
+- [Upvest, a stock trading API used by N26, Revolut, and others, raises $105M](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - 5 days ago
+- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - 5 days ago
 - [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/) - Dec 11, 2024
 - [200 VCs wanted to get into Lumen Orbit’s $11M seed round](https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/) - Dec 11, 2024
 - [Mantel’s app lets collectors show off their sports cards and other treasures](https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/) - Dec 11, 2024
@@ -35,7 +35,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Mynt raises a cool $23M at $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/) - Dec 11, 2024
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/) - Dec 10, 2024
 - [NeurIPS keynote speaker apologizes for reference to Chinese student](https://techcrunch.com/2024/12/15/neurips-keynote-speaker-apologizes-for-reference-to-chinese-student/) - Time not found
-- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tune-ups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - Time not found
+- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - Time not found
 - [What exactly is an AI agent?](https://techcrunch.com/2024/12/15/what-exactly-is-an-ai-agent/) - Time not found
 - [Apple reportedly developing foldable iPhone and iPad](https://techcrunch.com/2024/12/15/apple-reportedly-developing-foldable-iphone-and-ipad/) - Time not found
 - [Open source software companies that go proprietary: A timeline](https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/) - Time not found
@@ -72,7 +72,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/) - Dec 4, 2024
 - [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/) - Dec 4, 2024
 - [NeurIPS keynote speaker apologizes for reference to Chinese student](https://techcrunch.com/2024/12/15/neurips-keynote-speaker-apologizes-for-reference-to-chinese-student/) - Time not found
-- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tune-ups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - Time not found
+- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - Time not found
 - [What exactly is an AI agent?](https://techcrunch.com/2024/12/15/what-exactly-is-an-ai-agent/) - Time not found
 - [Apple reportedly developing foldable iPhone and iPad](https://techcrunch.com/2024/12/15/apple-reportedly-developing-foldable-iphone-and-ipad/) - Time not found
 - [Open source software companies that go proprietary: A timeline](https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/) - Time not found
