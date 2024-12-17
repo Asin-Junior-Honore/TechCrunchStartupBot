@@ -4,25 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Alphabet-backed Indian lender files for IPO](https://techcrunch.com/2024/12/17/aye-finance-ipo/) - 13 mins ago
-- [Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups](https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/) - 2 hours ago
-- [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/) - 10 hours ago
-- [TuSimple’s former CEO wants a new board that will liquidate the company](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/) - 11 hours ago
-- [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/) - 18 hours ago
-- [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - 19 hours ago
-- [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - 23 hours ago
+- [Alphabet-backed Indian lender files for $171M IPO](https://techcrunch.com/2024/12/17/aye-finance-ipo/) - 4 hours ago
+- [Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups](https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/) - 6 hours ago
+- [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/) - 14 hours ago
+- [TuSimple’s former CEO wants a new board that will liquidate the company](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/) - 15 hours ago
+- [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/) - 22 hours ago
+- [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - 23 hours ago
+- [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - 1 day ago
 - [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/) - 1 day ago
 - [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - 2 days ago
 - [Meta asks California attorney general to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-attorney-general-to-block-openais-conversion-to-for-profit/) - 3 days ago
-- [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 3 days ago
+- [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - 4 days ago
 - [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - 4 days ago
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - 4 days ago
 - [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - 4 days ago
 - [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - 4 days ago
 - [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - 4 days ago
-- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 4 days ago
-- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 4 days ago
+- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/) - 5 days ago
+- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/) - 5 days ago
 - [Evinced’s $55M C round will help bring its accessibility dev tools (and AI) to Europe](https://techcrunch.com/2024/12/12/evinceds-55m-c-round-will-help-bring-its-accessibility-dev-tools-and-ai-to-europe/) - Dec 12, 2024
 - [The founders of SlideShare are making sharing docs more social with their new platform, Jaunt](https://techcrunch.com/2024/12/12/the-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jauntthe-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jaunt/) - Dec 12, 2024
 - [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/) - Dec 12, 2024
@@ -37,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Tesla offers free Supercharging for Model S with a catch](https://techcrunch.com/2024/12/16/tesla-offers-free-supercharging-for-model-s-with-a-catch/) - Time not found
 - [Meta updates its smart glasses with real-time AI video](https://techcrunch.com/2024/12/16/meta-updates-its-smart-glasses-with-real-time-ai-video/) - Time not found
 - [Google DeepMind unveils a new video model to rival Sora](https://techcrunch.com/2024/12/16/google-deepmind-unveils-a-new-video-model-to-rival-sora/) - Time not found
+- [BlackBerry sells Cylance for $160M, a fraction of the $1.4B it paid in 2018](https://techcrunch.com/2024/12/16/blackberry-sells-cylance-for-160m-a-fraction-of-the-1-4b-it-paid-in-2018/) - Time not found
 - [Google names its new India chief](https://techcrunch.com/2024/12/16/google-names-new-india-chief/) - Time not found
 - [Open source software companies that go proprietary: A timeline](https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/) - Time not found
-- [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
 - [Numia’s software brings offline and online customer interaction data into one place](https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/) - Dec 11, 2024
 - [Albert Invent hopes to revolutionize the chemicals sector with its AI platform](https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/) - Dec 11, 2024
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Tesla offers free Supercharging for Model S with a catch](https://techcrunch.com/2024/12/16/tesla-offers-free-supercharging-for-model-s-with-a-catch/) - Time not found
 - [Meta updates its smart glasses with real-time AI video](https://techcrunch.com/2024/12/16/meta-updates-its-smart-glasses-with-real-time-ai-video/) - Time not found
 - [Google DeepMind unveils a new video model to rival Sora](https://techcrunch.com/2024/12/16/google-deepmind-unveils-a-new-video-model-to-rival-sora/) - Time not found
+- [BlackBerry sells Cylance for $160M, a fraction of the $1.4B it paid in 2018](https://techcrunch.com/2024/12/16/blackberry-sells-cylance-for-160m-a-fraction-of-the-1-4b-it-paid-in-2018/) - Time not found
 - [Google names its new India chief](https://techcrunch.com/2024/12/16/google-names-new-india-chief/) - Time not found
 - [Open source software companies that go proprietary: A timeline](https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/) - Time not found
-- [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) - Time not found
 - [UnitedHealth’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/) - Time not found
