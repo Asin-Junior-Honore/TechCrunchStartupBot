@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - 38 mins ago
-- [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - 15 hours ago
-- [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - 15 hours ago
-- [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - 15 hours ago
-- [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - 16 hours ago
-- [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - 16 hours ago
-- [AI is burying company websites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/) - 23 hours ago
-- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - 1 day ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - 1 day ago
+- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - 5 hours ago
+- [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - 19 hours ago
+- [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - 19 hours ago
+- [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - 19 hours ago
+- [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - 20 hours ago
+- [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - 20 hours ago
+- [AI is burying company websites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/) - 1 day ago
+- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - 2 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - 2 days ago
 - [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) - 2 days ago
 - [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - 2 days ago
 - [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - 2 days ago
@@ -24,21 +24,21 @@ Here are the latest articles from TechCrunch Startups:
 - [As account-to-account payments startups falter, Volume raises fresh cash](https://techcrunch.com/2024/12/17/while-some-account-to-account-payments-players-falter-volume-raises-fresh-cash/) - 2 days ago
 - [Alphabet-backed Indian lender files for $171M IPO](https://techcrunch.com/2024/12/17/aye-finance-ipo/) - 2 days ago
 - [Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups](https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/) - 2 days ago
-- [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/) - 2 days ago
-- [TuSimple’s former CEO wants a new board that will liquidate the company](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/) - 2 days ago
+- [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/) - 3 days ago
+- [TuSimple’s former CEO wants a new board that will liquidate the company](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/) - 3 days ago
 - [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/) - 3 days ago
 - [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - 3 days ago
 - [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - 3 days ago
 - [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/) - 3 days ago
-- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - 3 days ago
-- [Meta asks California attorney general to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-attorney-general-to-block-openais-conversion-to-for-profit/) - 5 days ago
+- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - 4 days ago
+- [Meta asks California attorney general to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-attorney-general-to-block-openais-conversion-to-for-profit/) - Dec 14, 2024
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - Dec 13, 2024
 - [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - Dec 13, 2024
+- [Perplexity acquires Carbon to connect AI search to your work files](https://techcrunch.com/2024/12/18/perplexity-acquires-carbon-to-connect-ai-search-to-your-work-files/) - Time not found
 - [Microsoft bought nearly 500K Nvidia Hopper chips this year](https://techcrunch.com/2024/12/18/microsoft-bought-nearly-500000-nvidia-hopper-chips-this-year/) - Time not found
 - [OpenAI brings ChatGPT to your landline](https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/) - Time not found
 - [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/) - Time not found
 - [‘It’s dumb to IPO this year’: Databricks CEO explains why he’s waiting to go public](https://techcrunch.com/2024/12/17/its-dumb-to-ipo-this-year-databricks-ceo-explains-why-hes-waiting-to-go-public/) - Time not found
-- [Insight VC describes Databricks’ wild $10B deal and the bad advice the CEO ignored](https://techcrunch.com/2024/12/17/insight-vc-describes-databricks-wild-10b-deal-and-the-bad-advice-the-ceo-ignored/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - Time not found
 - [This fintech processed $1B in payments through word-of-mouth](https://techcrunch.com/2024/12/17/this-fintech-processed-1b-in-payments-through-word-of-mouth/) - Time not found
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Dec 13, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/) - Dec 10, 2024
 - [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/) - Dec 9, 2024
 - [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/) - Dec 9, 2024
+- [Perplexity acquires Carbon to connect AI search to your work files](https://techcrunch.com/2024/12/18/perplexity-acquires-carbon-to-connect-ai-search-to-your-work-files/) - Time not found
 - [Microsoft bought nearly 500K Nvidia Hopper chips this year](https://techcrunch.com/2024/12/18/microsoft-bought-nearly-500000-nvidia-hopper-chips-this-year/) - Time not found
 - [OpenAI brings ChatGPT to your landline](https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/) - Time not found
 - [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/) - Time not found
 - [‘It’s dumb to IPO this year’: Databricks CEO explains why he’s waiting to go public](https://techcrunch.com/2024/12/17/its-dumb-to-ipo-this-year-databricks-ceo-explains-why-hes-waiting-to-go-public/) - Time not found
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - Time not found
 - [This fintech processed $1B in payments through word-of-mouth](https://techcrunch.com/2024/12/17/this-fintech-processed-1b-in-payments-through-word-of-mouth/) - Time not found
-- [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Time not found
