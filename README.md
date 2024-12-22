@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 22 hours ago
+- [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/) - 2 hours ago
+- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 1 day ago
 - [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - 1 day ago
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - 2 days ago
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - 2 days ago
@@ -20,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - 3 days ago
 - [Decart nabs $32M at $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/) - 3 days ago
 - [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/) - 3 days ago
-- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - 3 days ago
+- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - 4 days ago
 - [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - 4 days ago
 - [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - 4 days ago
 - [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - 4 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - Dec 17, 2024
 - [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - Dec 17, 2024
 - [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/) - Dec 17, 2024
-- [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/) - Dec 17, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Time not found
 - [OpenAI announces new o3 model — but you can’t use it yet](https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/) - Time not found
 - [EV startup Canoo places remaining employees on a ‘mandatory unpaid break’](https://techcrunch.com/2024/12/20/ev-startup-canoo-places-remaining-employees-on-a-mandatory-unpaid-break/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
 - [OpenAI announces new o3 models](https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/) - Time not found
 - [Ransomware attack on health giant Ascension hits 5.6 million patients](https://techcrunch.com/2024/12/20/ransomware-attack-on-health-giant-ascension-hits-5-6-million-patients/) - Time not found
+- [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/) - Dec 17, 2024
 - [Popular LatAm digital payment service AstroPay launches multi-currency wallet](https://techcrunch.com/2024/12/17/popular-latam-digital-payment-service-astropay-launches-multi-currency-wallet/) - Dec 17, 2024
 - [Focused Energy buys two of the world’s most powerful lasers for its fusion quest](https://techcrunch.com/2024/12/17/focused-energy-buys-two-of-the-worlds-most-powerful-lasers-for-its-fusion-quest/) - Dec 17, 2024
 - [Nuon helps companies deploy their software into their customers’ cloud accounts](https://techcrunch.com/2024/12/17/nuon-helps-companies-deploy-their-software-into-their-customers-cloud-accounts/) - Dec 17, 2024
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand](https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/) - Dec 12, 2024
 - [Upvest, a stock trading API used by N26, Revolut, and others, raises $105M](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - Dec 11, 2024
 - [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - Dec 11, 2024
-- [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/) - Dec 11, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Time not found
 - [OpenAI announces new o3 model — but you can’t use it yet](https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/) - Time not found
 - [EV startup Canoo places remaining employees on a ‘mandatory unpaid break’](https://techcrunch.com/2024/12/20/ev-startup-canoo-places-remaining-employees-on-a-mandatory-unpaid-break/) - Time not found
