@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 18 hours ago
-- [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - 22 hours ago
+- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 22 hours ago
+- [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - 1 day ago
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - 2 days ago
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - 2 days ago
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - 2 days ago
@@ -27,17 +27,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - 4 days ago
 - [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - 4 days ago
 - [AI is burying company websites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/) - 4 days ago
-- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - 5 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - 5 days ago
+- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - Dec 17, 2024
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - Dec 17, 2024
 - [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) - Dec 17, 2024
 - [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - Dec 17, 2024
 - [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - Dec 17, 2024
 - [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/) - Dec 17, 2024
 - [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/) - Dec 17, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Time not found
+- [OpenAI announces new o3 model — but you can’t use it yet](https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/) - Time not found
 - [EV startup Canoo places remaining employees on a ‘mandatory unpaid break’](https://techcrunch.com/2024/12/20/ev-startup-canoo-places-remaining-employees-on-a-mandatory-unpaid-break/) - Time not found
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - Time not found
-- [Feds clear the way for robotaxis without steering wheels and pedals](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/) - Time not found
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
 - [OpenAI announces new o3 models](https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/) - Time not found
 - [Ransomware attack on health giant Ascension hits 5.6 million patients](https://techcrunch.com/2024/12/20/ransomware-attack-on-health-giant-ascension-hits-5-6-million-patients/) - Time not found
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - Dec 11, 2024
 - [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/) - Dec 11, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Time not found
+- [OpenAI announces new o3 model — but you can’t use it yet](https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/) - Time not found
 - [EV startup Canoo places remaining employees on a ‘mandatory unpaid break’](https://techcrunch.com/2024/12/20/ev-startup-canoo-places-remaining-employees-on-a-mandatory-unpaid-break/) - Time not found
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - Time not found
-- [Feds clear the way for robotaxis without steering wheels and pedals](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/) - Time not found
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Time not found
 - [OpenAI announces new o3 models](https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/) - Time not found
 - [Ransomware attack on health giant Ascension hits 5.6 million patients](https://techcrunch.com/2024/12/20/ransomware-attack-on-health-giant-ascension-hits-5-6-million-patients/) - Time not found
