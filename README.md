@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 14 hours ago
-- [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - 18 hours ago
-- [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - 1 day ago
+- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 18 hours ago
+- [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - 22 hours ago
+- [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - 2 days ago
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - 2 days ago
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - 2 days ago
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 2 days ago
 - [Are AI companies just defense tech now?](https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/) - 2 days ago
 - [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - 2 days ago
-- [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - 2 days ago
-- [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - 2 days ago
-- [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - 2 days ago
+- [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - 3 days ago
+- [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - 3 days ago
+- [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - 3 days ago
 - [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/) - 3 days ago
 - [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/) - 3 days ago
 - [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - 3 days ago
@@ -27,11 +27,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - 4 days ago
 - [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - 4 days ago
 - [AI is burying company websites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/) - 4 days ago
-- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - 4 days ago
-- [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) - 5 days ago
-- [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - 5 days ago
-- [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - 5 days ago
+- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - 5 days ago
+- [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) - Dec 17, 2024
+- [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - Dec 17, 2024
+- [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - Dec 17, 2024
 - [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/) - Dec 17, 2024
 - [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/) - Dec 17, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Time not found
