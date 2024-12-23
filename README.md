@@ -4,7 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/) - 22 hours ago
+- [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/) - 58 mins ago
+- [Coralogix acquires AI observability platform Aporia](https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/) - 1 hour ago
+- [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - 3 hours ago
+- [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/) - 1 day ago
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 2 days ago
 - [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - 2 days ago
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - 3 days ago
@@ -12,7 +15,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - 3 days ago
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 3 days ago
 - [Are AI companies just defense tech now?](https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/) - 3 days ago
-- [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - 3 days ago
+- [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - 4 days ago
 - [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - 4 days ago
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - 4 days ago
 - [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - 4 days ago
@@ -21,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - 4 days ago
 - [Decart nabs $32M at $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/) - 4 days ago
 - [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/) - 4 days ago
-- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - 4 days ago
+- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - 5 days ago
 - [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - Dec 18, 2024
 - [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
 - [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - Dec 17, 2024
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - Dec 17, 2024
 - [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) - Dec 17, 2024
-- [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - Dec 17, 2024
-- [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - Dec 17, 2024
-- [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/) - Dec 17, 2024
 - [X jacks up Premium+ prices by 37.5%, hits some markets harder](https://techcrunch.com/2024/12/22/x-jacks-up-premium-prices-37-5-hits-some-markets-harder/) - Time not found
 - [Sriram Krishnan named Trump’s senior policy advisor for AI](https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/) - Time not found
 - [Palantir and Anduril reportedly building a tech consortium to bid on defense contracts](https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple might be working on a smart doorbell](https://techcrunch.com/2024/12/22/apple-might-be-working-on-a-smart-doorbell/) - Time not found
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Time not found
 - [OpenAI announces new o3 models](https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/) - Time not found
+- [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - Dec 17, 2024
+- [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - Dec 17, 2024
+- [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/) - Dec 17, 2024
 - [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/) - Dec 17, 2024
 - [Popular LatAm digital payment service AstroPay launches multi-currency wallet](https://techcrunch.com/2024/12/17/popular-latam-digital-payment-service-astropay-launches-multi-currency-wallet/) - Dec 17, 2024
 - [Focused Energy buys two of the world’s most powerful lasers for its fusion quest](https://techcrunch.com/2024/12/17/focused-energy-buys-two-of-the-worlds-most-powerful-lasers-for-its-fusion-quest/) - Dec 17, 2024
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The founders of SlideShare are making sharing docs more social with their new platform, Jaunt](https://techcrunch.com/2024/12/12/the-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jauntthe-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jaunt/) - Dec 12, 2024
 - [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/) - Dec 12, 2024
 - [Cartesia claims its AI is efficient enough to run pretty much anywhere](https://techcrunch.com/2024/12/12/cartesia-claims-its-ai-is-efficient-enough-to-run-pretty-much-anywhere/) - Dec 12, 2024
-- [Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand](https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/) - Dec 12, 2024
-- [Upvest, a stock trading API used by N26, Revolut, and others, raises $105M](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/) - Dec 11, 2024
-- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/) - Dec 11, 2024
 - [X jacks up Premium+ prices by 37.5%, hits some markets harder](https://techcrunch.com/2024/12/22/x-jacks-up-premium-prices-37-5-hits-some-markets-harder/) - Time not found
 - [Sriram Krishnan named Trump’s senior policy advisor for AI](https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/) - Time not found
 - [Palantir and Anduril reportedly building a tech consortium to bid on defense contracts](https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/) - Time not found
