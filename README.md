@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 19 hours ago
-- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - 21 hours ago
-- [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - 24 hours ago
+- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 2 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 23 hours ago
+- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - 1 day ago
+- [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - 1 day ago
 - [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - 1 day ago
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - 2 days ago
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/) - Dec 19, 2024
 - [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
 - [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - Dec 18, 2024
-- [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Time not found
 - [OpenAI ‘considered’ building a humanoid robot: Report](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/) - Time not found
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Shuttered electric air taxi startup Lilium may be saved after all](https://techcrunch.com/2024/12/24/shuttered-electric-air-taxi-startup-lilium-may-be-saved-after-all/) - Time not found
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - Time not found
 - [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/) - Time not found
+- [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
 - [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
 - [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - Dec 18, 2024
 - [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - Dec 18, 2024
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Dec 13, 2024
 - [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - Dec 13, 2024
 - [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - Dec 13, 2024
-- [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - Dec 13, 2024
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Time not found
 - [OpenAI ‘considered’ building a humanoid robot: Report](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/) - Time not found
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
