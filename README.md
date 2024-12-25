@@ -4,12 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - 59 mins ago
-- [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - 4 hours ago
-- [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - 12 hours ago
-- [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - 20 hours ago
-- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 22 hours ago
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/) - 23 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 4 hours ago
+- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - 6 hours ago
+- [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - 9 hours ago
+- [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - 17 hours ago
+- [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - 1 day ago
+- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 1 day ago
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/) - 1 day ago
 - [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/) - 1 day ago
 - [Coralogix acquires AI observability platform Aporia](https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/) - 1 day ago
 - [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - 1 day ago
@@ -21,7 +22,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - 4 days ago
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - 4 days ago
 - [Are AI companies just defense tech now?](https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/) - 4 days ago
-- [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - 5 days ago
+- [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - Dec 20, 2024
 - [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - Dec 19, 2024
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - Dec 19, 2024
 - [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - Dec 19, 2024
@@ -33,19 +34,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
 - [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - Dec 18, 2024
 - [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
-- [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
+- [Watch Boston Dynamics’ electric Atlas do a backflip](https://techcrunch.com/2024/12/24/watch-boston-dynamics-electric-atlas-do-a-backflip/) - Time not found
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - Time not found
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Time not found
-- [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2024/12/23/nvidias-ces-2025-keynote-how-to-watch/) - Time not found
 - [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/) - Time not found
 - [Yoast’s former CEO calls for a ‘federated’ approach to WordPress repository](https://techcrunch.com/2024/12/23/yoasts-former-ceo-calls-for-a-federated-approach-to-wordpress-repository/) - Time not found
 - [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - Time not found
+- [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
 - [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - Dec 18, 2024
 - [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - Dec 18, 2024
 - [AI is burying company websites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/) - Dec 18, 2024
 - [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/) - Dec 17, 2024
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/) - Dec 17, 2024
 - [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) - Dec 17, 2024
 - [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, DC](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/) - Dec 17, 2024
 - [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/) - Dec 17, 2024
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [It’s the end of the road for Cruise, and Bluesky is still taking off](https://techcrunch.com/podcast/its-the-end-of-the-road-for-cruise-and-bluesky-is-still-taking-off/) - Dec 13, 2024
 - [Activate and The Engine Accelerator team up to train scientists to become founders ](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/) - Dec 13, 2024
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
+- [Watch Boston Dynamics’ electric Atlas do a backflip](https://techcrunch.com/2024/12/24/watch-boston-dynamics-electric-atlas-do-a-backflip/) - Time not found
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - Time not found
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Time not found
-- [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2024/12/23/nvidias-ces-2025-keynote-how-to-watch/) - Time not found
 - [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/) - Time not found
 - [Yoast’s former CEO calls for a ‘federated’ approach to WordPress repository](https://techcrunch.com/2024/12/23/yoasts-former-ceo-calls-for-a-federated-approach-to-wordpress-repository/) - Time not found
 - [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - Time not found
