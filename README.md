@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 1 hour ago
-- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 12 hours ago
-- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 15 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 1 day ago
+- [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 5 hours ago
+- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 16 hours ago
+- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 18 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 2 days ago
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - 2 days ago
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - 2 days ago
 - [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - 2 days ago
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - 2 days ago
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/) - 2 days ago
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/) - 3 days ago
 - [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/) - 3 days ago
 - [Coralogix acquires AI observability platform Aporia](https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/) - 3 days ago
 - [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - 3 days ago
 - [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/) - 4 days ago
-- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - 5 days ago
+- [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Dec 21, 2024
 - [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - Dec 21, 2024
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - Dec 20, 2024
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - Dec 20, 2024
@@ -36,8 +36,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Time not found
 - [GV, the VC team backed by Google, has a broad remit, but it can’t do one thing](https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/) - Time not found
+- [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/) - Time not found
 - [Home for the holidays? Share this top cybersecurity advice with friends and family](https://techcrunch.com/2024/12/25/home-for-the-holidays-share-this-top-cybersecurity-advice-with-friends-and-family/) - Time not found
-- [OpenAI ‘considered’ building a humanoid robot: Report](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/) - Time not found
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
 - [Watch Boston Dynamics’ electric Atlas do a backflip](https://techcrunch.com/2024/12/24/watch-boston-dynamics-electric-atlas-do-a-backflip/) - Time not found
 - [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/) - Time not found
