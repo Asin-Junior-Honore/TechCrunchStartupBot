@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 9 hours ago
-- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 20 hours ago
-- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 23 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 hours ago
+- [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 13 hours ago
+- [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 24 hours ago
+- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 2 days ago
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - 2 days ago
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - 2 days ago
-- [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - 2 days ago
+- [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - 3 days ago
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - 3 days ago
 - [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/) - 3 days ago
 - [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/) - 3 days ago
@@ -28,19 +29,19 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - Dec 19, 2024
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - Dec 19, 2024
 - [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - Dec 19, 2024
-- [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/) - Dec 19, 2024
+- [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.6B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/) - Dec 19, 2024
 - [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/) - Dec 19, 2024
 - [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - Dec 19, 2024
 - [Decart nabs $32M at $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/) - Dec 19, 2024
 - [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/) - Dec 19, 2024
-- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
+- [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/) - Time not found
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Time not found
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Time not found
 - [GV, the VC team backed by Google, has a broad remit, but it can’t do one thing](https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/) - Time not found
 - [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/) - Time not found
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
 - [Watch Boston Dynamics’ electric Atlas do a backflip](https://techcrunch.com/2024/12/24/watch-boston-dynamics-electric-atlas-do-a-backflip/) - Time not found
-- [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/) - Time not found
+- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
 - [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - Dec 18, 2024
 - [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
 - [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - Dec 13, 2024
 - [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - Dec 13, 2024
 - [The 51 most disruptive startups of 2024](https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/) - Dec 13, 2024
-- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/) - Dec 13, 2024
+- [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/) - Time not found
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Time not found
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Time not found
 - [GV, the VC team backed by Google, has a broad remit, but it can’t do one thing](https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/) - Time not found
 - [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/) - Time not found
 - [Google is using Anthropic’s Claude to improve its Gemini AI](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) - Time not found
 - [Watch Boston Dynamics’ electric Atlas do a backflip](https://techcrunch.com/2024/12/24/watch-boston-dynamics-electric-atlas-do-a-backflip/) - Time not found
-- [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/) - Time not found
