@@ -4,8 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 12 hours ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 18 hours ago
+- [2024: Founder Mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - 1 hour ago
+- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 16 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 22 hours ago
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 1 day ago
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 2 days ago
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.6B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/) - Dec 19, 2024
 - [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/) - Dec 19, 2024
 - [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - Dec 19, 2024
-- [Decart nabs $32M at $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/) - Dec 19, 2024
 - [Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar](https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/) - Time not found
 - [DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet](https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/) - Time not found
 - [Microsoft and OpenAI have a financial definition of AGI: Report](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/) - Time not found
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/12/26/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
 - [Elon Musk’s jets made 355 trips in 2024, including 31 to or from the Mar-a-Lago area ](https://techcrunch.com/2024/12/26/elon-musks-jets-made-355-trips-in-2024-including-31-to-or-from-the-mar-a-lago-area/) - Time not found
 - [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/) - Time not found
-- [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/) - Time not found
+- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/12/03/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
+- [Decart nabs $32M at $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/) - Dec 19, 2024
 - [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/) - Dec 19, 2024
 - [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
 - [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - Dec 18, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tuneups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/) - Dec 15, 2024
 - [Meta asks California attorney general to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-attorney-general-to-block-openais-conversion-to-for-profit/) - Dec 14, 2024
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/) - Dec 13, 2024
-- [What failed before might succeed now — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/) - Dec 13, 2024
 - [Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar](https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/) - Time not found
 - [DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet](https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/) - Time not found
 - [Microsoft and OpenAI have a financial definition of AGI: Report](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/) - Time not found
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/12/26/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/) - Time not found
 - [Elon Musk’s jets made 355 trips in 2024, including 31 to or from the Mar-a-Lago area ](https://techcrunch.com/2024/12/26/elon-musks-jets-made-355-trips-in-2024-including-31-to-or-from-the-mar-a-lago-area/) - Time not found
 - [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/) - Time not found
-- [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/) - Time not found
+- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/12/03/what-is-bluesky-everything-to-know-about-the-x-competitor/) - Time not found
