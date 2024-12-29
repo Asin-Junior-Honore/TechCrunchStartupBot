@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - 19 hours ago
+- [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - 23 hours ago
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - 2 days ago
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - 2 days ago
 - [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - 2 days ago
@@ -13,7 +13,7 @@ Here are the latest articles from TechCrunch Startups:
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 3 days ago
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - 4 days ago
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - 4 days ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - 5 days ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/) - Dec 24, 2024
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Dec 24, 2024
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - Dec 24, 2024
 - [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - Dec 24, 2024
@@ -34,7 +34,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - Dec 19, 2024
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - Dec 19, 2024
 - [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - Dec 19, 2024
-- [Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/) - Time not found
+- [Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/) - Time not found
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) - Time not found
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Time not found
 - [Cyber firm’s Chrome extension hijacked to steal user passwords](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/) - Time not found
@@ -71,7 +71,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - Dec 16, 2024
 - [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - Dec 16, 2024
 - [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/) - Dec 15, 2024
-- [Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/) - Time not found
+- [Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/) - Time not found
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) - Time not found
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Time not found
 - [Cyber firm’s Chrome extension hijacked to steal user passwords](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/) - Time not found
