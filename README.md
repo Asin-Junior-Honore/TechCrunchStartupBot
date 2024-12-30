@@ -7,7 +7,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - 1 day ago
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - 2 days ago
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - 2 days ago
-- [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - 2 days ago
+- [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - 3 days ago
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - 3 days ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 3 days ago
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - 4 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/) - Dec 19, 2024
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - Dec 19, 2024
 - [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - Dec 19, 2024
+- [Nvidia’s next move: powering humanoid robots](https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/) - Time not found
+- [India’s mobile payments dilemma](https://techcrunch.com/2024/12/29/indias-mobile-payments-dilemma/) - Time not found
 - [Africa’s newest fintech unicorns are winning by keeping their feet on the ground](https://techcrunch.com/2024/12/29/africas-fintech-unicorns-blend-digital-banking-and-physical-touchpoints/) - Time not found
 - [Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/) - Time not found
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) - Time not found
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Time not found
-- [Cyber firm’s Chrome extension hijacked to steal user passwords](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/) - Time not found
 - [Why DeepSeek’s new AI model thinks it’s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/) - Time not found
-- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - Time not found
 - [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.6B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/) - Dec 19, 2024
 - [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/) - Dec 19, 2024
 - [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - Dec 19, 2024
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/) - Dec 16, 2024
 - [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/) - Dec 16, 2024
 - [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/) - Dec 15, 2024
+- [Nvidia’s next move: powering humanoid robots](https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/) - Time not found
+- [India’s mobile payments dilemma](https://techcrunch.com/2024/12/29/indias-mobile-payments-dilemma/) - Time not found
 - [Africa’s newest fintech unicorns are winning by keeping their feet on the ground](https://techcrunch.com/2024/12/29/africas-fintech-unicorns-blend-digital-banking-and-physical-touchpoints/) - Time not found
 - [Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/) - Time not found
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) - Time not found
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Time not found
-- [Cyber firm’s Chrome extension hijacked to steal user passwords](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/) - Time not found
 - [Why DeepSeek’s new AI model thinks it’s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/) - Time not found
-- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/) - Time not found
