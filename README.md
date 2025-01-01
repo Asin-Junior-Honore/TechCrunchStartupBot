@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - 15 hours ago
-- [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - 22 hours ago
+- [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - 19 hours ago
+- [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - 1 day ago
 - [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - 1 day ago
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - 2 days ago
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/) - 2 days ago
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - 2 days ago
 - [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/) - 2 days ago
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - 4 days ago
-- [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - 5 days ago
+- [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Dec 27, 2024
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - Dec 27, 2024
 - [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - Dec 27, 2024
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - Dec 26, 2024
@@ -38,9 +38,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s promises for Tesla in 2024, from robotaxis to Optimus bots](https://techcrunch.com/2024/12/31/elon-musks-promises-for-tesla-in-2024-from-robotaxis-to-optimus-bots/) - Time not found
 - [A Waymo robotaxi and a Serve delivery robot collided in Los Angeles](https://techcrunch.com/2024/12/31/a-waymo-robotaxi-and-a-serve-delivery-robot-collided-in-los-angeles/) - Time not found
 - [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
+- [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/) - Time not found
 - [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/) - Time not found
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - Time not found
-- [AT&T and Verizon say networks are secure after being breached by China-linked Salt Typhoon hackers](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/) - Time not found
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - Dec 20, 2024
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Dec 20, 2024
 - [Are AI companies just defense tech now?](https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/) - Dec 20, 2024
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s promises for Tesla in 2024, from robotaxis to Optimus bots](https://techcrunch.com/2024/12/31/elon-musks-promises-for-tesla-in-2024-from-robotaxis-to-optimus-bots/) - Time not found
 - [A Waymo robotaxi and a Serve delivery robot collided in Los Angeles](https://techcrunch.com/2024/12/31/a-waymo-robotaxi-and-a-serve-delivery-robot-collided-in-los-angeles/) - Time not found
 - [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
+- [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/) - Time not found
 - [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/) - Time not found
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - Time not found
-- [AT&T and Verizon say networks are secure after being breached by China-linked Salt Typhoon hackers](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/) - Time not found
