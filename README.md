@@ -4,12 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - 6 hours ago
-- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - 12 hours ago
+- [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - 4 hours ago
+- [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - 11 hours ago
+- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - 17 hours ago
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - 1 day ago
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/) - 1 day ago
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - 1 day ago
-- [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/) - 1 day ago
+- [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/) - 2 days ago
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - 3 days ago
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - 4 days ago
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - 4 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - Dec 21, 2024
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - Dec 20, 2024
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - Dec 20, 2024
-- [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - Dec 20, 2024
+- [Elon Musk’s promises for Tesla in 2024, from robotaxis to Optimus bots](https://techcrunch.com/2024/12/31/elon-musks-promises-for-tesla-in-2024-from-robotaxis-to-optimus-bots/) - Time not found
+- [A Waymo robotaxi and a Serve delivery robot collided in Los Angeles](https://techcrunch.com/2024/12/31/a-waymo-robotaxi-and-a-serve-delivery-robot-collided-in-los-angeles/) - Time not found
 - [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
-- [US Treasury says China accessed government documents in ‘major’ cyberattack](https://techcrunch.com/2024/12/30/us-treasury-says-china-stole-documents-in-major-cyberattack/) - Time not found
 - [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/) - Time not found
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - Time not found
-- [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - Time not found
 - [AT&T and Verizon say networks are secure after being breached by China-linked Salt Typhoon hackers](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/) - Time not found
 - [Nvidia’s next move: Powering humanoid robots](https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/) - Time not found
+- [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - Dec 20, 2024
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Dec 20, 2024
 - [Are AI companies just defense tech now?](https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/) - Dec 20, 2024
 - [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - Dec 20, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Nuon helps companies deploy their software into their customers’ cloud accounts](https://techcrunch.com/2024/12/17/nuon-helps-companies-deploy-their-software-into-their-customers-cloud-accounts/) - Dec 17, 2024
 - [As account-to-account payments startups falter, Volume raises fresh cash](https://techcrunch.com/2024/12/17/while-some-account-to-account-payments-players-falter-volume-raises-fresh-cash/) - Dec 17, 2024
 - [Alphabet-backed Indian lender files for $171M IPO](https://techcrunch.com/2024/12/17/aye-finance-ipo/) - Dec 17, 2024
-- [Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups](https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/) - Dec 16, 2024
+- [Elon Musk’s promises for Tesla in 2024, from robotaxis to Optimus bots](https://techcrunch.com/2024/12/31/elon-musks-promises-for-tesla-in-2024-from-robotaxis-to-optimus-bots/) - Time not found
+- [A Waymo robotaxi and a Serve delivery robot collided in Los Angeles](https://techcrunch.com/2024/12/31/a-waymo-robotaxi-and-a-serve-delivery-robot-collided-in-los-angeles/) - Time not found
 - [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
-- [US Treasury says China accessed government documents in ‘major’ cyberattack](https://techcrunch.com/2024/12/30/us-treasury-says-china-stole-documents-in-major-cyberattack/) - Time not found
 - [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/) - Time not found
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - Time not found
-- [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - Time not found
 - [AT&T and Verizon say networks are secure after being breached by China-linked Salt Typhoon hackers](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/) - Time not found
 - [Nvidia’s next move: Powering humanoid robots](https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/) - Time not found
