@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - 18 hours ago
-- [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) - 18 hours ago
-- [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - 2 days ago
+- [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/) - 37 mins ago
+- [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - 22 hours ago
+- [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) - 22 hours ago
+- [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - 3 days ago
 - [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - 3 days ago
 - [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - 3 days ago
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - 4 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - Dec 23, 2024
 - [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/) - Dec 22, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Dec 21, 2024
-- [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - Dec 21, 2024
 - [xAI’s next-gen AI model didn’t arrive on time, adding to a trend](https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/) - Time not found
-- [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-55-robotics-companies-are-hiring/) - Time not found
 - [CES 2025: What to expect from the year’s first and biggest tech show](https://techcrunch.com/2025/01/02/ces-2025-what-to-expect-from-the-years-first-and-biggest-tech-show/) - Time not found
 - [Tesla Cybertruck fails to boost 2024 sales as annual deliveries fall for first time](https://techcrunch.com/2025/01/02/tesla-cybertruck-fails-to-boost-2024-sales-as-annual-deliveries-fall-for-first-time/) - Time not found
 - [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2025/01/01/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/) - Time not found
 - [Silicon Valley stifled the AI doom movement in 2024](https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the-ai-doom-movement/) - Time not found
 - [Judge allows California’s ban on addictive feeds for minors to go into effect](https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/) - Time not found
+- [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
+- [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - Dec 21, 2024
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - Dec 20, 2024
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - Dec 20, 2024
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - Dec 20, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/) - Dec 17, 2024
 - [Popular LatAm digital payment service AstroPay launches multi-currency wallet](https://techcrunch.com/2024/12/17/popular-latam-digital-payment-service-astropay-launches-multi-currency-wallet/) - Dec 17, 2024
 - [Focused Energy buys two of the world’s most powerful lasers for its fusion quest](https://techcrunch.com/2024/12/17/focused-energy-buys-two-of-the-worlds-most-powerful-lasers-for-its-fusion-quest/) - Dec 17, 2024
-- [Nuon helps companies deploy their software into their customers’ cloud accounts](https://techcrunch.com/2024/12/17/nuon-helps-companies-deploy-their-software-into-their-customers-cloud-accounts/) - Dec 17, 2024
 - [xAI’s next-gen AI model didn’t arrive on time, adding to a trend](https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/) - Time not found
-- [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-55-robotics-companies-are-hiring/) - Time not found
 - [CES 2025: What to expect from the year’s first and biggest tech show](https://techcrunch.com/2025/01/02/ces-2025-what-to-expect-from-the-years-first-and-biggest-tech-show/) - Time not found
 - [Tesla Cybertruck fails to boost 2024 sales as annual deliveries fall for first time](https://techcrunch.com/2025/01/02/tesla-cybertruck-fails-to-boost-2024-sales-as-annual-deliveries-fall-for-first-time/) - Time not found
 - [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2025/01/01/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/) - Time not found
 - [Silicon Valley stifled the AI doom movement in 2024](https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the-ai-doom-movement/) - Time not found
 - [Judge allows California’s ban on addictive feeds for minors to go into effect](https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/) - Time not found
+- [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
