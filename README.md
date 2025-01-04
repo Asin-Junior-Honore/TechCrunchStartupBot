@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 14 hours ago
-- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 14 hours ago
-- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 14 hours ago
-- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - 15 hours ago
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2025/01/03/tech-layoffs-2024-list/) - 17 hours ago
-- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - 17 hours ago
-- [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - 18 hours ago
-- [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/) - 18 hours ago
-- [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/) - 21 hours ago
+- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 18 hours ago
+- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 18 hours ago
+- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 18 hours ago
+- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - 19 hours ago
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2025/01/03/tech-layoffs-2024-list/) - 21 hours ago
+- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - 21 hours ago
+- [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - 22 hours ago
+- [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/) - 22 hours ago
+- [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/) - 1 day ago
 - [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/) - 1 day ago
 - [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - 2 days ago
 - [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) - 2 days ago
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Time not found
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Time not found
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Time not found
+- [Apple TV+ is free to stream this weekend](https://techcrunch.com/2025/01/03/apple-tv-will-be-free-to-stream-this-weekend/) - Time not found
 - [Cloudflare’s VPN app among half-dozen pulled from Indian app stores](https://techcrunch.com/2025/01/02/cloudflares-vpn-app-among-half-dozen-pulled-from-indian-app-stores/) - Time not found
 - [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-55-robotics-companies-are-hiring/) - Time not found
 - [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2025/01/01/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/) - Time not found
-- [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) - Time not found
