@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 22 hours ago
-- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 22 hours ago
-- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 23 hours ago
-- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - 23 hours ago
+- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 1 day ago
+- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 1 day ago
+- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 1 day ago
+- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - 1 day ago
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2025/01/03/tech-layoffs-2024-list/) - 1 day ago
 - [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - 1 day ago
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - 1 day ago
 - [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/) - 1 day ago
 - [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/) - 1 day ago
-- [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/) - 1 day ago
+- [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/) - 2 days ago
 - [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - 2 days ago
 - [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) - 2 days ago
 - [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - 4 days ago
 - [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - 4 days ago
-- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - 5 days ago
+- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - Dec 30, 2024
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - Dec 30, 2024
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/) - Dec 30, 2024
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - Dec 30, 2024
@@ -34,7 +34,7 @@ Here are the latest articles from TechCrunch Startups:
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Dec 25, 2024
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Dec 24, 2024
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - Dec 24, 2024
-- [New ship, new year: SpaceX to deploy model Starlink satellites on next Starship launch](https://techcrunch.com/2025/01/03/new-ship-new-year-spacex-to-deploy-model-starlink-satellites-on-next-starship-launch/) - Time not found
+- [Tenable CEO Amit Yoran dies](https://techcrunch.com/2025/01/04/tenable-ceo-amit-yoran-dies/) - Time not found
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Time not found
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Time not found
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - Dec 18, 2024
 - [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - Dec 18, 2024
 - [AI is burying company websites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/) - Dec 18, 2024
+- [Tenable CEO Amit Yoran dies](https://techcrunch.com/2025/01/04/tenable-ceo-amit-yoran-dies/) - Time not found
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Time not found
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Time not found
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Time not found
-- [Apple TV+ is free to stream this weekend](https://techcrunch.com/2025/01/03/apple-tv-will-be-free-to-stream-this-weekend/) - Time not found
 - [Cloudflare’s VPN app among half-dozen pulled from Indian app stores](https://techcrunch.com/2025/01/02/cloudflares-vpn-app-among-half-dozen-pulled-from-indian-app-stores/) - Time not found
 - [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-55-robotics-companies-are-hiring/) - Time not found
 - [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2025/01/01/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/) - Time not found
