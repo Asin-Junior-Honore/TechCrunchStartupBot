@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 11 hours ago
+- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 58 mins ago
+- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 15 hours ago
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 3 days ago
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 3 days ago
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - Dec 25, 2024
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Dec 25, 2024
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Dec 25, 2024
-- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Dec 24, 2024
 - [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
+- [Withings’ Omnia is a full-size body-scanning health mirror](https://techcrunch.com/2025/01/05/withings-omnia-is-a-full-size-body-scanning-health-mirror/) - Time not found
 - [OpenAI is turning its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/) - Time not found
 - [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/) - Time not found
 - [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/) - Time not found
 - [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/) - Time not found
 - [Live Updates CES 2025: Nvidia, Samsung, Sony, Toyota reveals, plus more](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-samsung-sony-toyota-reveals-plus-more/) - Time not found
-- [Tenable CEO Amit Yoran dies](https://techcrunch.com/2025/01/04/tenable-ceo-amit-yoran-dies/) - Time not found
+- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Dec 24, 2024
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - Dec 24, 2024
 - [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - Dec 24, 2024
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - Dec 23, 2024
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
 - [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
 - [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - Dec 18, 2024
-- [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/) - Dec 18, 2024
 - [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
+- [Withings’ Omnia is a full-size body-scanning health mirror](https://techcrunch.com/2025/01/05/withings-omnia-is-a-full-size-body-scanning-health-mirror/) - Time not found
 - [OpenAI is turning its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/) - Time not found
 - [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/) - Time not found
 - [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/) - Time not found
 - [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/) - Time not found
 - [Live Updates CES 2025: Nvidia, Samsung, Sony, Toyota reveals, plus more](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-samsung-sony-toyota-reveals-plus-more/) - Time not found
-- [Tenable CEO Amit Yoran dies](https://techcrunch.com/2025/01/04/tenable-ceo-amit-yoran-dies/) - Time not found
