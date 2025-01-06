@@ -4,8 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 58 mins ago
-- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 15 hours ago
+- [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - 32 minutes ago
+- [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - 2 hours ago
+- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 5 hours ago
+- [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 6 hours ago
+- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 9 hours ago
+- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 19 hours ago
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 3 days ago
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 3 days ago
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 3 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - Dec 27, 2024
 - [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - Dec 27, 2024
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - Dec 26, 2024
+- [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
+- [OpenAI is turning its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/) - Time not found
+- [Sam Altman has choice words for the OpenAI board members who fired him](https://techcrunch.com/2025/01/05/sam-altman-has-choice-words-for-the-openai-board-members-who-fired-him/) - Time not found
+- [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/) - Time not found
+- [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/) - Time not found
+- [Bad news for Adrian Dittmann/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/) - Time not found
+- [Live Updates CES 2025: Nvidia, Samsung, Sony, Toyota reveals, plus more](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-samsung-sony-toyota-reveals-plus-more/) - Time not found
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - Dec 26, 2024
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - Dec 25, 2024
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Dec 25, 2024
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Dec 25, 2024
-- [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
-- [Withings’ Omnia is a full-size body-scanning health mirror](https://techcrunch.com/2025/01/05/withings-omnia-is-a-full-size-body-scanning-health-mirror/) - Time not found
-- [OpenAI is turning its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/) - Time not found
-- [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/) - Time not found
-- [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/) - Time not found
-- [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/) - Time not found
-- [Live Updates CES 2025: Nvidia, Samsung, Sony, Toyota reveals, plus more](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-samsung-sony-toyota-reveals-plus-more/) - Time not found
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/) - Dec 24, 2024
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - Dec 24, 2024
 - [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - Dec 24, 2024
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Decart nabs $32M at $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/) - Dec 19, 2024
 - [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/) - Dec 19, 2024
 - [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/) - Dec 18, 2024
-- [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/) - Dec 18, 2024
-- [Hauler Hero wants to bring waste-management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/) - Dec 18, 2024
-- [Building physical tech is back in fashion thanks to AI, robotics, and defense](https://techcrunch.com/podcast/building-physical-tech-is-back-in-fashion-thanks-to-ai-robotics-and-defense/) - Dec 18, 2024
-- [Sam Altman-backed nuclear startup Oklo lands massive data center power deal, with caveats](https://techcrunch.com/2024/12/18/sam-altman-backed-nuclear-startup-oklo-lands-massive-data-center-power-deal-with-caveats/) - Dec 18, 2024
 - [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
-- [Withings’ Omnia is a full-size body-scanning health mirror](https://techcrunch.com/2025/01/05/withings-omnia-is-a-full-size-body-scanning-health-mirror/) - Time not found
 - [OpenAI is turning its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/) - Time not found
+- [Sam Altman has choice words for the OpenAI board members who fired him](https://techcrunch.com/2025/01/05/sam-altman-has-choice-words-for-the-openai-board-members-who-fired-him/) - Time not found
 - [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/) - Time not found
 - [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/) - Time not found
-- [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/) - Time not found
+- [Bad news for Adrian Dittmann/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/) - Time not found
 - [Live Updates CES 2025: Nvidia, Samsung, Sony, Toyota reveals, plus more](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-samsung-sony-toyota-reveals-plus-more/) - Time not found
