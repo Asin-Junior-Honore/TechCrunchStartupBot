@@ -4,15 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 4 minutes ago
-- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 22 minutes ago
-- [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - 14 hours ago
-- [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - 16 hours ago
-- [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - 18 hours ago
-- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 21 hours ago
-- [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 22 hours ago
+- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - 3 hours ago
+- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer/) - 4 hours ago
+- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 5 hours ago
+- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 5 hours ago
+- [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - 19 hours ago
+- [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - 21 hours ago
+- [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - 22 hours ago
+- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 1 day ago
+- [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 1 day ago
 - [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 1 day ago
-- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 1 day ago
+- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 2 days ago
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 4 days ago
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 4 days ago
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 4 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/) - Dec 30, 2024
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - Dec 30, 2024
 - [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/) - Dec 30, 2024
-- [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - Dec 28, 2024
-- [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Dec 27, 2024
 - [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/) - Time not found
+- [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/) - Time not found
 - [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/) - Time not found
 - [Google is forming a new team to build AI that can simulate the physical world](https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/) - Time not found
 - [John Deere’s new robot lawnmower is coming for landscapers’ jobs](https://techcrunch.com/2025/01/06/john-deeres-new-robot-lawnmower-is-coming-for-landscapers-jobs/) - Time not found
 - [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
-- [Kirin offers a taste of its electric salt spoon at CES 2025](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/) - Time not found
 - [Live Updates CES 2025: Nvidia, Samsung, Sony, Toyota reveals, plus more](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-samsung-sony-toyota-reveals-plus-more/) - Time not found
+- [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - Dec 28, 2024
+- [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Dec 27, 2024
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - Dec 27, 2024
 - [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - Dec 27, 2024
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - Dec 26, 2024
@@ -69,10 +71,8 @@ Here are the latest articles from TechCrunch Startups:
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/) - Dec 19, 2024
 - [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) - Dec 19, 2024
 - [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.6B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/) - Dec 19, 2024
-- [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/) - Dec 19, 2024
-- [$25 billion valuation Chime takes another step toward an IPO](https://techcrunch.com/2024/12/19/25-billion-valuation-chime-takes-another-step-towards-an-ipo/) - Dec 19, 2024
 - [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/) - Time not found
-- [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/) - Time not found
+- [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/) - Time not found
 - [Google is forming a new team to build AI that can simulate the physical world](https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/) - Time not found
 - [John Deere’s new robot lawnmower is coming for landscapers’ jobs](https://techcrunch.com/2025/01/06/john-deeres-new-robot-lawnmower-is-coming-for-landscapers-jobs/) - Time not found
 - [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/) - Time not found
