@@ -4,12 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 16 hours ago
-- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 18 hours ago
-- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 18 hours ago
-- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 19 hours ago
-- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - 22 hours ago
-- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 23 hours ago
+- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 8 minutes ago
+- [Healthcare analytics platform H1 has acquired Ribbon, backed by a16Z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - 2 hours ago
+- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 20 hours ago
+- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 22 hours ago
+- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 22 hours ago
+- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 23 hours ago
+- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - 1 day ago
+- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 1 day ago
 - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 1 day ago
 - [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 1 day ago
 - [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - 2 days ago
@@ -18,11 +20,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 2 days ago
 - [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 2 days ago
 - [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 2 days ago
-- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 2 days ago
-- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - 5 days ago
-- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - 5 days ago
-- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 5 days ago
-- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - 5 days ago
+- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 3 days ago
+- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Jan 3, 2025
+- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
+- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Jan 3, 2025
+- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - Jan 3, 2025
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2025/01/03/tech-layoffs-2024-list/) - Jan 3, 2025
 - [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - Jan 3, 2025
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - Jan 3, 2025
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - Jan 2, 2025
 - [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) - Jan 2, 2025
 - [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - Dec 31, 2024
-- [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - Dec 31, 2024
-- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - Dec 30, 2024
 - [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/) - Time not found
+- [Nvidia CEO says his AI chips are improving faster than Moore’s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/) - Time not found
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - Time not found
 - [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/) - Time not found
-- [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/) - Time not found
 - [John Deere’s new robot lawnmower is coming for landscapers’ jobs](https://techcrunch.com/2025/01/06/john-deeres-new-robot-lawnmower-is-coming-for-landscapers-jobs/) - Time not found
 - [Kirin offers a taste of its electric salt spoon at CES 2025](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/) - Time not found
 - [Live Updates CES 2025: Nvidia follow-ups and Linda Yaccarino’s keynote as the show floor opens](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-follow-ups-and-linda-yaccarinos-keynote-as-the-show-floor-opens/) - Time not found
+- [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - Dec 31, 2024
+- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/) - Dec 30, 2024
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/) - Dec 30, 2024
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/) - Dec 30, 2024
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - Dec 30, 2024
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - Dec 20, 2024
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/) - Dec 20, 2024
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/) - Dec 20, 2024
-- [Are AI companies just defense tech now?](https://techcrunch.com/podcast/are-ai-companies-just-defense-tech-now/) - Dec 20, 2024
-- [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/) - Dec 20, 2024
 - [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/) - Time not found
+- [Nvidia CEO says his AI chips are improving faster than Moore’s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/) - Time not found
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - Time not found
 - [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/) - Time not found
-- [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/) - Time not found
 - [John Deere’s new robot lawnmower is coming for landscapers’ jobs](https://techcrunch.com/2025/01/06/john-deeres-new-robot-lawnmower-is-coming-for-landscapers-jobs/) - Time not found
 - [Kirin offers a taste of its electric salt spoon at CES 2025](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/) - Time not found
 - [Live Updates CES 2025: Nvidia follow-ups and Linda Yaccarino’s keynote as the show floor opens](https://techcrunch.com/storyline/live-updates-ces-2025-nvidia-follow-ups-and-linda-yaccarinos-keynote-as-the-show-floor-opens/) - Time not found
