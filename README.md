@@ -4,15 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 56 minutes ago
-- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 2 hours ago
-- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 4 hours ago
-- [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 18 hours ago
-- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 19 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 21 hours ago
-- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 23 hours ago
-- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 24 hours ago
-- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 24 hours ago
+- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 30 minutes ago
+- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 2 hours ago
+- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 5 hours ago
+- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 5 hours ago
+- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 7 hours ago
+- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 9 hours ago
+- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 10 hours ago
+- [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 22 hours ago
+- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 24 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 1 day ago
+- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 1 day ago
+- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 1 day ago
+- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 1 day ago
 - [Healthcare analytics platform H1 has acquired Ribbon, backed by a16z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - 1 day ago
 - [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 2 days ago
 - [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 2 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 3 days ago
 - [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 4 days ago
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Jan 3, 2025
-- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
-- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Jan 3, 2025
-- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - Jan 3, 2025
-- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - Jan 3, 2025
+- [Google searches for deleting Facebook, Instagram explode after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/) - Time not found
 - [Elon Musk agrees that we’ve exhausted AI training data](https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/) - Time not found
 - [Halliday’s $489 smart glasses beam a tiny screen to your eye](https://techcrunch.com/2025/01/08/hallidays-489-smart-glasses-beam-a-tiny-screen-to-your-eye/) - Time not found
 - [Mastodon CEO calls Meta’s moderation changes ‘deeply troubling,’ warns users cross-posting from Threads](https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/) - Time not found
 - [Gamers can’t fathom how 6x CEO Elon Musk found time to best Diablo IV](https://techcrunch.com/2025/01/08/gamers-cant-fathom-how-6x-ceo-elon-musk-found-time-to-best-diablo-iv/) - Time not found
 - [Ukrainian hackers take credit for hacking Russian ISP that wiped out servers and caused internet outages](https://techcrunch.com/2025/01/08/ukrainian-hackers-take-credit-for-hacking-russian-isp-that-wiped-out-servers-and-caused-internet-outages/) - Time not found
 - [Edtech giant PowerSchool says hackers accessed personal data of students and teachers](https://techcrunch.com/2025/01/08/edtech-giant-powerschool-says-hackers-accessed-personal-data-of-students-and-teachers/) - Time not found
-- [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/) - Time not found
+- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
+- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Jan 3, 2025
+- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - Jan 3, 2025
+- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - Jan 3, 2025
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - Jan 3, 2025
 - [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/) - Jan 3, 2025
 - [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/) - Jan 3, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/) - Dec 24, 2024
 - [Proton’s device aims to help those with kidney disease and cut heart-failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/) - Dec 24, 2024
 - [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/) - Dec 23, 2024
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/) - Dec 23, 2024
-- [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/) - Dec 23, 2024
-- [Coralogix acquires AI observability platform Aporia](https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/) - Dec 23, 2024
-- [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/) - Dec 23, 2024
+- [Google searches for deleting Facebook, Instagram explode after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/) - Time not found
 - [Elon Musk agrees that we’ve exhausted AI training data](https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/) - Time not found
 - [Halliday’s $489 smart glasses beam a tiny screen to your eye](https://techcrunch.com/2025/01/08/hallidays-489-smart-glasses-beam-a-tiny-screen-to-your-eye/) - Time not found
 - [Mastodon CEO calls Meta’s moderation changes ‘deeply troubling,’ warns users cross-posting from Threads](https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/) - Time not found
 - [Gamers can’t fathom how 6x CEO Elon Musk found time to best Diablo IV](https://techcrunch.com/2025/01/08/gamers-cant-fathom-how-6x-ceo-elon-musk-found-time-to-best-diablo-iv/) - Time not found
 - [Ukrainian hackers take credit for hacking Russian ISP that wiped out servers and caused internet outages](https://techcrunch.com/2025/01/08/ukrainian-hackers-take-credit-for-hacking-russian-isp-that-wiped-out-servers-and-caused-internet-outages/) - Time not found
 - [Edtech giant PowerSchool says hackers accessed personal data of students and teachers](https://techcrunch.com/2025/01/08/edtech-giant-powerschool-says-hackers-accessed-personal-data-of-students-and-teachers/) - Time not found
-- [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/) - Time not found
