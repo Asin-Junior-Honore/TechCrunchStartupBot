@@ -4,25 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 1 hour ago
-- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 4 hours ago
-- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 4 hours ago
-- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 4 hours ago
-- [Healthcare analytics platform H1 has acquired Ribbon, backed by a16z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - 6 hours ago
-- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 24 hours ago
+- [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 3 hours ago
+- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 4 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 6 hours ago
+- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 9 hours ago
+- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 9 hours ago
+- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 9 hours ago
+- [Healthcare analytics platform H1 has acquired Ribbon, backed by a16z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - 11 hours ago
+- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 1 day ago
 - [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 1 day ago
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 1 day ago
 - [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 1 day ago
 - [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - 1 day ago
-- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 1 day ago
-- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 1 day ago
-- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 1 day ago
+- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 2 days ago
+- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 2 days ago
+- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 2 days ago
 - [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - 2 days ago
 - [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - 2 days ago
 - [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - 2 days ago
 - [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 2 days ago
 - [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 2 days ago
-- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 2 days ago
+- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 3 days ago
 - [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 3 days ago
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Jan 3, 2025
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - Jan 3, 2025
 - [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/) - Jan 3, 2025
 - [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/) - Jan 3, 2025
-- [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/) - Jan 3, 2025
-- [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - Jan 2, 2025
-- [Mastodon CEO calls Meta’s moderation changes ‘deeply troubling,’ warns users cross-posting from Threads](https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/) - Time not found
+- [Edtech giant PowerSchool says hackers accessed personal data of students and teachers](https://techcrunch.com/2025/01/08/edtech-giant-powerschool-says-hackers-accessed-personal-data-of-students-and-teachers/) - Time not found
 - [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/) - Time not found
 - [Nvidia CEO says his AI chips are improving faster than Moore’s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/) - Time not found
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - Time not found
 - [Meticulous shows off its smart espresso machine at CES 2025](https://techcrunch.com/2025/01/07/meticulous-shows-off-its-smart-espresso-machine-at-ces-2025/) - Time not found
 - [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - Time not found
 - [Kirin offers a taste of its electric salt spoon at CES 2025](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/) - Time not found
+- [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/) - Jan 3, 2025
+- [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) - Jan 2, 2025
 - [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) - Jan 2, 2025
 - [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/) - Dec 31, 2024
 - [After ups and downs, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/) - Dec 31, 2024
@@ -69,9 +71,7 @@ Here are the latest articles from TechCrunch Startups:
 - [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/) - Dec 22, 2024
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/) - Dec 21, 2024
 - [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/) - Dec 21, 2024
-- [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/) - Dec 20, 2024
-- [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/) - Dec 20, 2024
-- [Mastodon CEO calls Meta’s moderation changes ‘deeply troubling,’ warns users cross-posting from Threads](https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/) - Time not found
+- [Edtech giant PowerSchool says hackers accessed personal data of students and teachers](https://techcrunch.com/2025/01/08/edtech-giant-powerschool-says-hackers-accessed-personal-data-of-students-and-teachers/) - Time not found
 - [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/) - Time not found
 - [Nvidia CEO says his AI chips are improving faster than Moore’s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/) - Time not found
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - Time not found
