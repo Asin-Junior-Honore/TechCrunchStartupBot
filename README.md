@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 12 hours ago
-- [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 12 hours ago
-- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 13 hours ago
-- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 17 hours ago
-- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 18 hours ago
-- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 19 hours ago
-- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 21 hours ago
-- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 21 hours ago
-- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 23 hours ago
+- [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - 3 hours ago
+- [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 15 hours ago
+- [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 16 hours ago
+- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 16 hours ago
+- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 20 hours ago
+- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 22 hours ago
+- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 22 hours ago
+- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 1 day ago
+- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 1 day ago
+- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 1 day ago
 - [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 1 day ago
 - [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 1 day ago
 - [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - 4 days ago
 - [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - 4 days ago
 - [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - 4 days ago
-- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 4 days ago
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
 - [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/) - Time not found
 - [TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can’t work from home](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/) - Time not found
@@ -41,9 +41,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Google searches for deleting Facebook, Instagram explode after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/) - Time not found
 - [PowerSchool says hackers stole students’ sensitive data, including Social Security numbers, in data breach](https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/) - Time not found
 - [Elon Musk agrees that we’ve exhausted AI training data](https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/) - Time not found
+- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 4 days ago
 - [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 4 days ago
 - [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 4 days ago
-- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 4 days ago
+- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - 5 days ago
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Jan 3, 2025
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Jan 3, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - Dec 26, 2024
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/) - Dec 25, 2024
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) - Dec 25, 2024
-- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/) - Dec 25, 2024
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
 - [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/) - Time not found
 - [TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can’t work from home](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/) - Time not found
