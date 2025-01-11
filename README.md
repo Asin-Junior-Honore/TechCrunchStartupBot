@@ -4,21 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 2 hours ago
-- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 2 hours ago
-- [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 3 hours ago
-- [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - 7 hours ago
-- [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 19 hours ago
-- [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 20 hours ago
-- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 20 hours ago
+- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 2 hours ago
+- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 3 hours ago
+- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 7 hours ago
+- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 7 hours ago
+- [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 8 hours ago
+- [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - 12 hours ago
+- [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 1 day ago
+- [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 1 day ago
+- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 1 day ago
 - [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 1 day ago
 - [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 1 day ago
 - [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 1 day ago
 - [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 1 day ago
 - [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 1 day ago
 - [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 1 day ago
-- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 1 day ago
-- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 1 day ago
+- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 2 days ago
+- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 2 days ago
 - [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 2 days ago
 - [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 2 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 2 days ago
@@ -31,22 +33,22 @@ Here are the latest articles from TechCrunch Startups:
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 3 days ago
 - [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 3 days ago
 - [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - 3 days ago
-- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 3 days ago
-- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 3 days ago
-- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 3 days ago
+- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 4 days ago
+- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/) - Time not found
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
 - [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/) - Time not found
 - [TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can’t work from home](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/) - Time not found
-- [Google folds more AI teams into DeepMind to ‘accelerate the research to developer pipeline’](https://techcrunch.com/2025/01/09/google-folds-more-ai-teams-into-deepmind-to-accelerate-the-research-to-developer-pipeline/) - Time not found
 - [Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) - Time not found
 - [Google searches for deleting Facebook, Instagram on the rise after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/) - Time not found
-- [PowerSchool says hackers stole students’ sensitive data, including Social Security numbers, in data breach](https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/) - Time not found
+- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 4 days ago
+- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 4 days ago
 - [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - 4 days ago
 - [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - 4 days ago
 - [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - 4 days ago
 - [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/) - 4 days ago
 - [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/) - 4 days ago
-- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 4 days ago
+- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/) - 5 days ago
 - [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/) - Jan 5, 2025
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Jan 3, 2025
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - Dec 28, 2024
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Dec 27, 2024
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/) - Dec 27, 2024
-- [2024: Founder mode, AI, and the ‘Rise of the Broligarchs’](https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/) - Dec 27, 2024
-- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/) - Dec 26, 2024
+- [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/) - Time not found
+- [Automattic says it will reduce its contribution to WordPress core project to match WP Engine](https://techcrunch.com/2025/01/10/automattic-says-it-will-reduce-its-contribution-to-wordpress-core-project-to-match-wp-engine/) - Time not found
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
 - [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/) - Time not found
 - [TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can’t work from home](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/) - Time not found
-- [Google folds more AI teams into DeepMind to ‘accelerate the research to developer pipeline’](https://techcrunch.com/2025/01/09/google-folds-more-ai-teams-into-deepmind-to-accelerate-the-research-to-developer-pipeline/) - Time not found
 - [Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) - Time not found
 - [Google searches for deleting Facebook, Instagram on the rise after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/) - Time not found
-- [PowerSchool says hackers stole students’ sensitive data, including Social Security numbers, in data breach](https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/) - Time not found
