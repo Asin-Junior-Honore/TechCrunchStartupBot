@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 55 minutes ago
-- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 17 hours ago
-- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 18 hours ago
-- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 22 hours ago
-- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 22 hours ago
-- [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 23 hours ago
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 5 hours ago
+- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 21 hours ago
+- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 22 hours ago
+- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 1 day ago
+- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 1 day ago
+- [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 1 day ago
 - [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - 1 day ago
 - [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 2 days ago
 - [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 2 days ago
@@ -37,8 +37,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/) - Time not found
 - [How OpenAI’s bot crushed this seven-person company’s website ‘like a DDoS attack’](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [Riding in a Zoox robotaxi at CES 2025: Everything that went right and wrong](https://techcrunch.com/2025/01/10/riding-in-a-zoox-robotaxi-at-ces-2025-everything-that-went-right-and-wrong/) - Time not found
 - [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/) - Time not found
-- [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - Time not found
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
 - [Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) - Time not found
 - [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 4 days ago
