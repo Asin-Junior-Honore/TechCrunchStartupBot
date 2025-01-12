@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 13 hours ago
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 17 hours ago
 - [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 1 day ago
 - [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 1 day ago
-- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 1 day ago
-- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 1 day ago
-- [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 1 day ago
+- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 2 days ago
+- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 2 days ago
+- [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 2 days ago
 - [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - 2 days ago
 - [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 2 days ago
 - [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 2 days ago
 - [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 2 days ago
-- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 2 days ago
-- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 2 days ago
-- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 2 days ago
+- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 3 days ago
+- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 3 days ago
+- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 3 days ago
 - [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 3 days ago
 - [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 3 days ago
 - [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 3 days ago
@@ -24,26 +24,26 @@ Here are the latest articles from TechCrunch Startups:
 - [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 3 days ago
 - [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 3 days ago
 - [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 3 days ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 3 days ago
-- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 3 days ago
-- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 3 days ago
-- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 3 days ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 4 days ago
+- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 4 days ago
+- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 4 days ago
+- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 4 days ago
 - [Healthcare analytics platform H1 has acquired Ribbon, backed by a16z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - 4 days ago
 - [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 4 days ago
-- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 4 days ago
-- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 4 days ago
-- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 4 days ago
-- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - 5 days ago
+- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 5 days ago
+- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 5 days ago
+- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 5 days ago
+- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - Jan 7, 2025
+- [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/) - Time not found
 - [Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/) - Time not found
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/) - Time not found
 - [How OpenAI’s bot crushed this seven-person company’s website ‘like a DDoS attack’](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/) - Time not found
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
-- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - 5 days ago
-- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - 5 days ago
-- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - 5 days ago
+- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - Jan 7, 2025
+- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - Jan 7, 2025
+- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - Jan 7, 2025
 - [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/) - Jan 6, 2025
 - [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/) - Jan 6, 2025
 - [Pawport’s upgraded smart pet door debuts at CES](https://techcrunch.com/2025/01/06/pawports-upgraded-smart-pet-door-debuts-at-ces/) - Jan 6, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/) - Dec 30, 2024
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - Dec 28, 2024
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Dec 27, 2024
+- [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/) - Time not found
 - [Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/) - Time not found
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/) - Time not found
 - [How OpenAI’s bot crushed this seven-person company’s website ‘like a DDoS attack’](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/) - Time not found
 - [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
