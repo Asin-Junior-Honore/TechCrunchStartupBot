@@ -4,6 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/) - 3 hours ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 1 day ago
 - [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 2 days ago
 - [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - Jan 7, 2025
 - [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - Jan 7, 2025
 - [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - Jan 7, 2025
-- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - Jan 7, 2025
+- [Apple board opposes proposal to abolish DEI programs](https://techcrunch.com/2025/01/11/apple-board-opposes-proposal-to-abolish-dei-programs/) - Time not found
 - [Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450](https://techcrunch.com/2025/01/11/researchers-open-source-sky-t1-a-reasoning-ai-model-that-can-be-trained-for-less-than-450/) - Time not found
 - [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/) - Time not found
 - [Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/) - Time not found
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
+- [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - Jan 7, 2025
 - [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer at CES 2025](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer-at-ces-2025/) - Jan 7, 2025
 - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/) - Jan 7, 2025
 - [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/) - Jan 7, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/) - Dec 30, 2024
 - [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/) - Dec 30, 2024
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/) - Dec 28, 2024
-- [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/) - Dec 27, 2024
+- [Apple board opposes proposal to abolish DEI programs](https://techcrunch.com/2025/01/11/apple-board-opposes-proposal-to-abolish-dei-programs/) - Time not found
 - [Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450](https://techcrunch.com/2025/01/11/researchers-open-source-sky-t1-a-reasoning-ai-model-that-can-be-trained-for-less-than-450/) - Time not found
 - [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/) - Time not found
 - [Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/) - Time not found
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [India’s digital payments strategy is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/) - Time not found
