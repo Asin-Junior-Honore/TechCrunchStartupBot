@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 17 hours ago
-- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 1 day ago
-- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 1 day ago
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 21 hours ago
+- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 2 days ago
+- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 2 days ago
 - [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 2 days ago
 - [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - 2 days ago
 - [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - 2 days ago
 - [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - 2 days ago
 - [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - 2 days ago
 - [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - 2 days ago
-- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 2 days ago
+- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - 3 days ago
 - [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 3 days ago
 - [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 3 days ago
 - [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 3 days ago
@@ -22,17 +22,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 3 days ago
 - [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 3 days ago
 - [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 3 days ago
-- [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 3 days ago
-- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 3 days ago
+- [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - 4 days ago
+- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - 4 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - 4 days ago
 - [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - 4 days ago
 - [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - 4 days ago
 - [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - 4 days ago
 - [Healthcare analytics platform H1 has acquired Ribbon, backed by a16z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - 4 days ago
-- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 4 days ago
-- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - 5 days ago
-- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - 5 days ago
-- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - 5 days ago
+- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/) - 5 days ago
+- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/) - Jan 7, 2025
+- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/) - Jan 7, 2025
+- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/) - Jan 7, 2025
 - [Fermata uses computer vision to detect diseases and pests in plants](https://techcrunch.com/2025/01/07/fermata-uses-computer-vision-to-detect-diseases-and-pests-in-plants/) - Jan 7, 2025
 - [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/) - Time not found
 - [Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/) - Time not found
