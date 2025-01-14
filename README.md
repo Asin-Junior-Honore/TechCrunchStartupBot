@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - 6 hours ago
-- [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/) - 8 hours ago
-- [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/) - 10 hours ago
-- [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/) - 10 hours ago
-- [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/) - 12 hours ago
+- [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - 9 hours ago
+- [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/) - 11 hours ago
+- [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/) - 13 hours ago
+- [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/) - 13 hours ago
+- [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/) - 15 hours ago
 - [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/) - 1 day ago
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/) - 1 day ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/) - 2 days ago
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 2 days ago
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 3 days ago
 - [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 3 days ago
 - [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 3 days ago
 - [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 3 days ago
@@ -25,11 +25,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - 4 days ago
 - [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - 4 days ago
 - [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - 4 days ago
-- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 4 days ago
-- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 4 days ago
-- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 4 days ago
-- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - 5 days ago
-- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - 5 days ago
+- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - 5 days ago
+- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - 5 days ago
+- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - 5 days ago
+- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - Jan 9, 2025
+- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/) - Jan 9, 2025
 - [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/) - Jan 8, 2025
 - [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/) - Jan 8, 2025
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/) - Jan 8, 2025
