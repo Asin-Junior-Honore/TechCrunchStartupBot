@@ -4,13 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nelly raises $51 million to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - 7 hours ago
-- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - 11 hours ago
-- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - 16 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - 18 hours ago
-- [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - 20 hours ago
-- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - 20 hours ago
-- [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - 22 hours ago
+- [Colossal Biosciences raises $200M at $10.2B valuation to bring back woolly mammoths](https://techcrunch.com/2025/01/15/colossal-biosciences-raises-200m-at-10-2b-valuation-to-bring-back-woolly-mammoths/) - 29 minutes ago
+- [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - 2 hours ago
+- [Nelly raises $51 million to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - 11 hours ago
+- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - 15 hours ago
+- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - 20 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - 22 hours ago
+- [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - 23 hours ago
+- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - 1 day ago
+- [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - 1 day ago
 - [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - 1 day ago
 - [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - 2 days ago
 - [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/) - 2 days ago
@@ -21,8 +23,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/) - 3 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 4 days ago
-- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 5 days ago
-- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 5 days ago
+- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - Jan 10, 2025
+- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - Jan 10, 2025
 - [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - Jan 10, 2025
 - [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/) - Jan 10, 2025
 - [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - Jan 10, 2025
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - Jan 9, 2025
 - [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - Jan 9, 2025
 - [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - Jan 9, 2025
-- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - Jan 9, 2025
-- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - Jan 9, 2025
 - [Meta execs obsessed over beating OpenAI’s GPT-4 internally, court filings reveal](https://techcrunch.com/2025/01/14/meta-execs-obsessed-over-beating-openais-gpt-4-internally-court-filings-reveal/) - Time not found
 - [Google’s NotebookLM had to teach its AI podcast hosts not to act annoyed at humans](https://techcrunch.com/2025/01/14/googles-notebooklm-had-to-teach-its-ai-podcast-hosts-not-to-act-annoyed-at-humans/) - Time not found
 - [TikTok users’ attempted migration to Chinese app RedNote isn’t going too well](https://techcrunch.com/2025/01/14/tiktok-users-attempted-migration-to-chinese-app-rednote-isnt-going-too-well/) - Time not found
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - Time not found
 - [ChatGPT now lets you schedule reminders and recurring tasks](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/) - Time not found
-- [Meta to cut roughly 5% of its workforce based on performance](https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/) - Time not found
 - [DOJ confirms FBI operation that mass-deleted Chinese malware from thousands of US computers](https://techcrunch.com/2025/01/14/doj-confirms-fbi-operation-that-mass-deleted-chinese-malware-from-thousands-of-us-computers/) - Time not found
 - [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/) - Time not found
+- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - Jan 9, 2025
+- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - Jan 9, 2025
 - [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - Jan 9, 2025
 - [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - Jan 9, 2025
 - [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - Jan 9, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/) - Jan 3, 2025
 - [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) - Jan 3, 2025
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/01/03/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Jan 3, 2025
-- [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - Jan 3, 2025
-- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - Jan 3, 2025
 - [Meta execs obsessed over beating OpenAI’s GPT-4 internally, court filings reveal](https://techcrunch.com/2025/01/14/meta-execs-obsessed-over-beating-openais-gpt-4-internally-court-filings-reveal/) - Time not found
 - [Google’s NotebookLM had to teach its AI podcast hosts not to act annoyed at humans](https://techcrunch.com/2025/01/14/googles-notebooklm-had-to-teach-its-ai-podcast-hosts-not-to-act-annoyed-at-humans/) - Time not found
 - [TikTok users’ attempted migration to Chinese app RedNote isn’t going too well](https://techcrunch.com/2025/01/14/tiktok-users-attempted-migration-to-chinese-app-rednote-isnt-going-too-well/) - Time not found
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - Time not found
 - [ChatGPT now lets you schedule reminders and recurring tasks](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/) - Time not found
-- [Meta to cut roughly 5% of its workforce based on performance](https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/) - Time not found
 - [DOJ confirms FBI operation that mass-deleted Chinese malware from thousands of US computers](https://techcrunch.com/2025/01/14/doj-confirms-fbi-operation-that-mass-deleted-chinese-malware-from-thousands-of-us-computers/) - Time not found
 - [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/) - Time not found
