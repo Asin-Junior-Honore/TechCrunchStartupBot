@@ -4,22 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - 6 minutes ago
-- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - 5 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - 7 hours ago
-- [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - 8 hours ago
-- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - 9 hours ago
-- [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - 11 hours ago
-- [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - 13 hours ago
+- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - 3 hours ago
+- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - 8 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - 10 hours ago
+- [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - 11 hours ago
+- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - 12 hours ago
+- [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - 14 hours ago
+- [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - 16 hours ago
 - [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - 1 day ago
 - [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/) - 1 day ago
-- [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/) - 1 day ago
-- [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/) - 1 day ago
+- [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/) - 2 days ago
+- [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/) - 2 days ago
 - [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/) - 2 days ago
 - [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/) - 2 days ago
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/) - 2 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/) - 3 days ago
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 3 days ago
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 4 days ago
 - [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/) - 4 days ago
 - [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/) - 4 days ago
 - [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/) - 4 days ago
@@ -34,9 +34,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - Jan 9, 2025
 - [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - Jan 9, 2025
 - [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - Jan 9, 2025
-- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Time not found
 - [TikTok users’ attempted migration to Chinese app RedNote isn’t going too well](https://techcrunch.com/2025/01/14/tiktok-users-attempted-migration-to-chinese-app-rednote-isnt-going-too-well/) - Time not found
 - [ChatGPT now lets you schedule reminders and recurring tasks](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/) - Time not found
+- [Meta to cut roughly 5% of its workforce based on performance](https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/) - Time not found
 - [DOJ confirms FBI operation that mass-deleted Chinese malware from thousands of US computers](https://techcrunch.com/2025/01/14/doj-confirms-fbi-operation-that-mass-deleted-chinese-malware-from-thousands-of-us-computers/) - Time not found
 - [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/) - Time not found
 - [China is reportedly open to Elon Musk acquiring TikTok US](https://techcrunch.com/2025/01/13/china-is-reportedly-open-to-elon-musk-acquiring-tiktok-us/) - Time not found
@@ -71,9 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Generative AI funding reached new heights in 2024](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) - Jan 3, 2025
 - [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/) - Jan 3, 2025
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/) - Jan 3, 2025
-- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Time not found
 - [TikTok users’ attempted migration to Chinese app RedNote isn’t going too well](https://techcrunch.com/2025/01/14/tiktok-users-attempted-migration-to-chinese-app-rednote-isnt-going-too-well/) - Time not found
 - [ChatGPT now lets you schedule reminders and recurring tasks](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/) - Time not found
+- [Meta to cut roughly 5% of its workforce based on performance](https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/) - Time not found
 - [DOJ confirms FBI operation that mass-deleted Chinese malware from thousands of US computers](https://techcrunch.com/2025/01/14/doj-confirms-fbi-operation-that-mass-deleted-chinese-malware-from-thousands-of-us-computers/) - Time not found
 - [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/) - Time not found
 - [China is reportedly open to Elon Musk acquiring TikTok US](https://techcrunch.com/2025/01/13/china-is-reportedly-open-to-elon-musk-acquiring-tiktok-us/) - Time not found
