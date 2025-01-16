@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/) - 1 minute ago
-- [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/) - 6 hours ago
-- [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/) - 9 hours ago
-- [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) - 13 hours ago
-- [‘Social media should be built on protocols, not platforms’ says Mastodon CEO Eugen Rochko](https://techcrunch.com/podcast/social-media-should-be-built-on-protocols-not-platforms-says-mastodon-ceo-eugen-rochko/) - 16 hours ago
-- [Colossal Biosciences raises $200M at $10.2B valuation to bring back woolly mammoths](https://techcrunch.com/2025/01/15/colossal-biosciences-raises-200m-at-10-2b-valuation-to-bring-back-woolly-mammoths/) - 16 hours ago
-- [Fast-growing South African venture FARO raises $6M to source, refurbish and sell surplus clothing](https://techcrunch.com/2025/01/15/faro-buys-excess-inventory-and-resells-at-a-discount-to-customers/) - 17 hours ago
-- [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - 17 hours ago
+- [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/) - 4 hours ago
+- [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/) - 10 hours ago
+- [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/) - 13 hours ago
+- [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) - 17 hours ago
+- [‘Social media should be built on protocols, not platforms’ says Mastodon CEO Eugen Rochko](https://techcrunch.com/podcast/social-media-should-be-built-on-protocols-not-platforms-says-mastodon-ceo-eugen-rochko/) - 19 hours ago
+- [Colossal Biosciences raises $200M at $10.2B valuation to bring back woolly mammoths](https://techcrunch.com/2025/01/15/colossal-biosciences-raises-200m-at-10-2b-valuation-to-bring-back-woolly-mammoths/) - 20 hours ago
+- [Fast-growing South African venture FARO raises $6M to source, refurbish and sell surplus clothing](https://techcrunch.com/2025/01/15/faro-buys-excess-inventory-and-resells-at-a-discount-to-customers/) - 21 hours ago
+- [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - 21 hours ago
 - [Nelly raises $51M to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - 1 day ago
 - [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - 1 day ago
-- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - 1 day ago
+- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - 2 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - 2 days ago
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - 2 days ago
 - [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - 2 days ago
@@ -25,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/) - 3 days ago
 - [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/) - 3 days ago
 - [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/) - 3 days ago
-- [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/) - 3 days ago
+- [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/) - 4 days ago
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/) - 4 days ago
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/) - 4 days ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Jan 11, 2025
