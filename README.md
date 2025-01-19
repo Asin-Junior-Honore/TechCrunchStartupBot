@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - 4 hours ago
-- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - 23 hours ago
-- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - 24 hours ago
+- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - 3 hours ago
+- [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - 9 hours ago
+- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - 1 day ago
+- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - 1 day ago
 - [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - 1 day ago
 - [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - 1 day ago
 - [$200M woolly mammoths and a farewell to TikTok](https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/) - 1 day ago
@@ -31,16 +32,16 @@ Here are the latest articles from TechCrunch Startups:
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - 4 days ago
 - [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - 4 days ago
 - [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - 4 days ago
-- [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - 4 days ago
+- [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - 5 days ago
 - [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - Jan 13, 2025
-- [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/) - Jan 13, 2025
+- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - Time not found
 - [EV startup Canoo files for bankruptcy and ceases operations](https://techcrunch.com/2025/01/17/ev-startup-canoo-files-for-bankruptcy-and-ceases-operations/) - Time not found
 - [Amazon suspends US drone deliveries following crash at testing facility](https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/) - Time not found
 - [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - Time not found
 - [OpenAI is trying to extend human life, with help from a longevity startup](https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/) - Time not found
 - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/) - Time not found
-- [Supreme Court upholds TikTok ban](https://techcrunch.com/2025/01/17/supreme-court-upholds-tiktok-ban/) - Time not found
 - [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/) - Time not found
+- [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/) - Jan 13, 2025
 - [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/) - Jan 13, 2025
 - [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/) - Jan 13, 2025
 - [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/) - Jan 13, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/) - Jan 8, 2025
 - [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/) - Jan 8, 2025
 - [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/) - Jan 8, 2025
-- [Healthcare analytics platform H1 has acquired Ribbon, backed by a16z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/) - Jan 8, 2025
+- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - Time not found
 - [EV startup Canoo files for bankruptcy and ceases operations](https://techcrunch.com/2025/01/17/ev-startup-canoo-files-for-bankruptcy-and-ceases-operations/) - Time not found
 - [Amazon suspends US drone deliveries following crash at testing facility](https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/) - Time not found
 - [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - Time not found
-- [OpenAI is trying to extend human life, with help from a longevity startup](https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/) - Time not found
 - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/) - Time not found
-- [Supreme Court upholds TikTok ban](https://techcrunch.com/2025/01/17/supreme-court-upholds-tiktok-ban/) - Time not found
 - [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/) - Time not found
+- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/) - Time not found
