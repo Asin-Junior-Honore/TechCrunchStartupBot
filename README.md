@@ -4,23 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 3 hours ago
-- [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 9 hours ago
+- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 7 hours ago
+- [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 14 hours ago
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - 1 day ago
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - 2 days ago
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - 2 days ago
-- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - 2 days ago
+- [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - 3 days ago
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - 3 days ago
-- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - 3 days ago
-- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - 3 days ago
-- [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - 3 days ago
+- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - 4 days ago
+- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - 4 days ago
+- [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - 4 days ago
 - [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - 4 days ago
 - [$200M woolly mammoths and a farewell to TikTok](https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/) - 4 days ago
-- [Failed fintech startup Bench racked up over $65 million in debt, documents reveal](https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/) - 4 days ago
-- [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/) - 5 days ago
-- [Goldman Sachs’ David Solomon tells startups to reconsider going public](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/) - 5 days ago
-- [Anduril to build its billion-dollar weapons megafactory in Ohio](https://techcrunch.com/2025/01/16/anduril-to-build-its-billion-dollar-weapons-megafactory-in-ohio/) - 5 days ago
-- [Teal Health raises $10M to create at-home cervical cancer screenings](https://techcrunch.com/2025/01/16/teal-health-raises-10m-to-create-at-home-cervical-cancer-screenings/) - 5 days ago
+- [Failed fintech startup Bench racked up over $65 million in debt, documents reveal](https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/) - 5 days ago
+- [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/) - Jan 16, 2025
+- [Goldman Sachs’ David Solomon tells startups to reconsider going public](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/) - Jan 16, 2025
+- [Anduril to build its billion-dollar weapons megafactory in Ohio](https://techcrunch.com/2025/01/16/anduril-to-build-its-billion-dollar-weapons-megafactory-in-ohio/) - Jan 16, 2025
+- [Teal Health raises $10M to create at-home cervical cancer screenings](https://techcrunch.com/2025/01/16/teal-health-raises-10m-to-create-at-home-cervical-cancer-screenings/) - Jan 16, 2025
 - [Dub.co is an open source URL shortener and link attribution engine packed into one](https://techcrunch.com/2025/01/16/dub-co-is-an-open-source-url-shortener-and-link-attribution-engine-packed-into-one/) - Jan 16, 2025
 - [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/) - Jan 16, 2025
 - [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/) - Jan 15, 2025
@@ -36,9 +36,9 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - Jan 14, 2025
 - [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/) - Time not found
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/) - Time not found
-- [Bluesky launches a custom feed for vertical videos](https://techcrunch.com/2025/01/19/bluesky-launches-a-custom-feed-for-vertical-videos/) - Time not found
+- [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
+- [Here are the types of AI companies enterprise VCs want to back in 2025](https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
-- [Meta announces a new CapCut rival called Edits](https://techcrunch.com/2025/01/19/meta-announces-a-new-video-editing-app-called-edits-amidst-tiktok-and-capcut-ban/) - Time not found
 - [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/) - Time not found
 - [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/) - Time not found
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - Jan 14, 2025
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/) - Time not found
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/) - Time not found
 - [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
-- [Bluesky launches a custom feed for vertical videos](https://techcrunch.com/2025/01/19/bluesky-launches-a-custom-feed-for-vertical-videos/) - Time not found
+- [Here are the types of AI companies enterprise VCs want to back in 2025](https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
 - [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/) - Time not found
 - [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/) - Time not found
