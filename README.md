@@ -4,8 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 14 hours ago
-- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 22 hours ago
+- [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 3 minutes ago
+- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 3 minutes ago
+- [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 2 hours ago
+- [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 3 hours ago
+- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 18 hours ago
+- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 1 day ago
 - [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 1 day ago
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 2 days ago
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - 2 days ago
@@ -13,8 +17,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - 3 days ago
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - 4 days ago
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - 4 days ago
-- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - 5 days ago
-- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - 5 days ago
+- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - Jan 17, 2025
+- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - Jan 17, 2025
 - [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - Jan 17, 2025
 - [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - Jan 17, 2025
 - [$200M woolly mammoths and a farewell to TikTok](https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/) - Jan 17, 2025
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) - Jan 15, 2025
 - [‘Social media should be built on protocols, not platforms’ says Mastodon CEO Eugen Rochko](https://techcrunch.com/podcast/social-media-should-be-built-on-protocols-not-platforms-says-mastodon-ceo-eugen-rochko/) - Jan 15, 2025
 - [Colossal Biosciences raises $200M at $10.2B valuation to bring back woolly mammoths](https://techcrunch.com/2025/01/15/colossal-biosciences-raises-200m-at-10-2b-valuation-to-bring-back-woolly-mammoths/) - Jan 15, 2025
-- [Fast-growing South African venture FARO raises $6M to source, refurbish and sell surplus clothing](https://techcrunch.com/2025/01/15/faro-buys-excess-inventory-and-resells-at-a-discount-to-customers/) - Jan 15, 2025
-- [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - Jan 15, 2025
-- [Nelly raises $51M to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - Jan 14, 2025
-- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Jan 14, 2025
 - [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/) - Time not found
+- [Former Meta COO Sheryl Sandberg sanctioned by judge for allegedly deleting emails](https://techcrunch.com/2025/01/21/meta-coo-sheryl-sandberg-sanctioned-by-judge-for-allegedly-deleting-emails/) - Time not found
 - [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) - Time not found
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) - Time not found
 - [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/) - Time not found
 - [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
-- [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
+- [Fast-growing South African venture FARO raises $6M to source, refurbish and sell surplus clothing](https://techcrunch.com/2025/01/15/faro-buys-excess-inventory-and-resells-at-a-discount-to-customers/) - Jan 15, 2025
+- [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - Jan 15, 2025
+- [Nelly raises $51M to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - Jan 14, 2025
+- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Jan 14, 2025
 - [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - Jan 14, 2025
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - Jan 14, 2025
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - Jan 14, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - Jan 9, 2025
 - [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - Jan 9, 2025
 - [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/) - Jan 9, 2025
-- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/) - Jan 9, 2025
-- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - Jan 9, 2025
-- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - Jan 9, 2025
-- [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - Jan 9, 2025
 - [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/) - Time not found
+- [Former Meta COO Sheryl Sandberg sanctioned by judge for allegedly deleting emails](https://techcrunch.com/2025/01/21/meta-coo-sheryl-sandberg-sanctioned-by-judge-for-allegedly-deleting-emails/) - Time not found
 - [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) - Time not found
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) - Time not found
 - [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/) - Time not found
 - [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
-- [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
