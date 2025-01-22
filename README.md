@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 5 hours ago
-- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 15 hours ago
-- [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 21 hours ago
+- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 3 hours ago
+- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 11 hours ago
+- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 20 hours ago
+- [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 1 day ago
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - 2 days ago
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - 2 days ago
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - Jan 15, 2025
 - [Nelly raises $51M to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - Jan 14, 2025
 - [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Jan 14, 2025
-- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - Jan 14, 2025
+- [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
 - [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/) - Time not found
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/) - Time not found
 - [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
 - [DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
 - [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/) - Time not found
-- [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/) - Time not found
+- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - Jan 14, 2025
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - Jan 14, 2025
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - Jan 14, 2025
 - [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - Jan 14, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - Jan 9, 2025
 - [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - Jan 9, 2025
 - [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - Jan 9, 2025
-- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/) - Jan 9, 2025
+- [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
 - [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/) - Time not found
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/) - Time not found
 - [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
 - [DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
 - [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/) - Time not found
-- [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/) - Time not found
