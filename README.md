@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 6 hours ago
-- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 14 hours ago
-- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 23 hours ago
+- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 10 hours ago
+- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 18 hours ago
+- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 1 day ago
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 1 day ago
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - 2 days ago
-- [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - 2 days ago
+- [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - 3 days ago
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - 3 days ago
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - 3 days ago
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - 4 days ago
 - [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - 4 days ago
 - [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - 4 days ago
-- [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - 4 days ago
-- [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - 4 days ago
-- [$200M woolly mammoths and a farewell to TikTok](https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/) - 5 days ago
+- [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - 5 days ago
+- [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - 5 days ago
+- [$200M woolly mammoths and a farewell to TikTok](https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/) - Jan 17, 2025
 - [Failed fintech startup Bench racked up over $65 million in debt, documents reveal](https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/) - Jan 16, 2025
 - [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/) - Jan 16, 2025
 - [Goldman Sachs’ David Solomon tells startups to reconsider going public](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/) - Jan 16, 2025
@@ -34,12 +34,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - Jan 15, 2025
 - [Nelly raises $51M to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/) - Jan 14, 2025
 - [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Jan 14, 2025
+- [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) - Time not found
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) - Time not found
+- [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/) - Time not found
 - [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
-- [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/) - Time not found
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/) - Time not found
 - [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
-- [DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
 - [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - Jan 14, 2025
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/) - Jan 14, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/) - Jan 9, 2025
 - [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/) - Jan 9, 2025
 - [Rounded is an AI orchestration platform that lets anyone build an AI voice agent](https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/) - Jan 9, 2025
+- [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) - Time not found
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) - Time not found
+- [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/) - Time not found
 - [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
-- [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/) - Time not found
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/) - Time not found
 - [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/) - Time not found
-- [DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
