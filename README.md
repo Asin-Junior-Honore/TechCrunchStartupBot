@@ -4,12 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Livestream app Favorited, a new TikTok alternative, gets backing from a16z](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/) - 3 hours ago
-- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 4 hours ago
-- [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 4 hours ago
-- [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 6 hours ago
-- [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 7 hours ago
-- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 22 hours ago
+- [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - 3 hours ago
+- [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - 3 hours ago
+- [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - 4 hours ago
+- [Livestream app Favorited, a new TikTok alternative, snaps up $1.3M](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/) - 8 hours ago
+- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 9 hours ago
+- [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 9 hours ago
+- [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 11 hours ago
+- [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 12 hours ago
+- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 1 day ago
 - [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 1 day ago
 - [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 2 days ago
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - 2 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Dub.co is an open source URL shortener and link attribution engine packed into one](https://techcrunch.com/2025/01/16/dub-co-is-an-open-source-url-shortener-and-link-attribution-engine-packed-into-one/) - Jan 16, 2025
 - [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/) - Jan 16, 2025
 - [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/) - Jan 15, 2025
-- [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/) - Jan 15, 2025
-- [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) - Jan 15, 2025
-- [‘Social media should be built on protocols, not platforms’ says Mastodon CEO Eugen Rochko](https://techcrunch.com/podcast/social-media-should-be-built-on-protocols-not-platforms-says-mastodon-ceo-eugen-rochko/) - Jan 15, 2025
+- [Elon Musk and Sam Altman take to social media to fight over Stargate](https://techcrunch.com/2025/01/22/elon-musk-and-sam-altman-take-to-social-media-to-fight-over-stargate/) - Time not found
+- [YouTube launches speed controls and high-quality audio tests for Premium users](https://techcrunch.com/2025/01/22/youtube-premium/) - Time not found
 - [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/) - Time not found
 - [Former Meta COO Sheryl Sandberg sanctioned by judge for allegedly deleting emails](https://techcrunch.com/2025/01/21/meta-coo-sheryl-sandberg-sanctioned-by-judge-for-allegedly-deleting-emails/) - Time not found
 - [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) - Time not found
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) - Time not found
-- [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/) - Time not found
-- [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
+- [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/) - Jan 15, 2025
+- [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) - Jan 15, 2025
+- [‘Social media should be built on protocols, not platforms’ says Mastodon CEO Eugen Rochko](https://techcrunch.com/podcast/social-media-should-be-built-on-protocols-not-platforms-says-mastodon-ceo-eugen-rochko/) - Jan 15, 2025
 - [Colossal Biosciences raises $200M at $10.2B valuation to bring back woolly mammoths](https://techcrunch.com/2025/01/15/colossal-biosciences-raises-200m-at-10-2b-valuation-to-bring-back-woolly-mammoths/) - Jan 15, 2025
 - [Fast-growing South African venture FARO raises $6M to source, refurbish and sell surplus clothing](https://techcrunch.com/2025/01/15/faro-buys-excess-inventory-and-resells-at-a-discount-to-customers/) - Jan 15, 2025
 - [Rockfish is helping enterprises leverage synthetic data](https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/) - Jan 15, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [$5B livestream shopping apps, Nvidia reveals, and the weirdest tech at CES](https://techcrunch.com/podcast/5b-livestream-shopping-apps-nvidia-reveals-and-the-weirdest-tech-at-ces/) - Jan 10, 2025
 - [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/) - Jan 10, 2025
 - [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/) - Jan 9, 2025
-- [ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/) - Jan 9, 2025
-- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation ](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/) - Jan 9, 2025
-- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/) - Jan 9, 2025
+- [Elon Musk and Sam Altman take to social media to fight over Stargate](https://techcrunch.com/2025/01/22/elon-musk-and-sam-altman-take-to-social-media-to-fight-over-stargate/) - Time not found
+- [YouTube launches speed controls and high-quality audio tests for Premium users](https://techcrunch.com/2025/01/22/youtube-premium/) - Time not found
 - [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/) - Time not found
 - [Former Meta COO Sheryl Sandberg sanctioned by judge for allegedly deleting emails](https://techcrunch.com/2025/01/21/meta-coo-sheryl-sandberg-sanctioned-by-judge-for-allegedly-deleting-emails/) - Time not found
 - [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) - Time not found
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) - Time not found
-- [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/) - Time not found
-- [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/) - Time not found
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) - Time not found
