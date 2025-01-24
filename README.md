@@ -4,21 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/) - 16 hours ago
-- [After pivoting from crypto to payroll, Rollfi gets acquired](https://techcrunch.com/2025/01/23/after-pivoting-from-crypto-to-payroll-rollfi-gets-acquired/) - 18 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - 19 hours ago
-- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - 21 hours ago
-- [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - 21 hours ago
-- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 22 hours ago
-- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - 22 hours ago
-- [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - 22 hours ago
-- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 1 day ago
+- [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/) - 2 hours ago
+- [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/) - 20 hours ago
+- [After pivoting from crypto to payroll, Rollfi gets acquired](https://techcrunch.com/2025/01/23/after-pivoting-from-crypto-to-payroll-rollfi-gets-acquired/) - 22 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - 23 hours ago
+- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - 1 day ago
+- [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - 1 day ago
+- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - 1 day ago
+- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 1 day ago
+- [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - 1 day ago
+- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 2 days ago
 - [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - 2 days ago
 - [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - 2 days ago
 - [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - 2 days ago
 - [Livestream app Favorited, a new TikTok alternative, snaps up $1.3M](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/) - 2 days ago
-- [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 2 days ago
 - [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 2 days ago
+- [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 2 days ago
 - [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 2 days ago
 - [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 2 days ago
 - [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/) - Jan 17, 2025
 - [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/) - Jan 17, 2025
 - [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) - Jan 17, 2025
-- [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - Jan 17, 2025
 - [Tesla’s redesigned Model Y is coming to North America in March for $60,000](https://techcrunch.com/2025/01/23/teslas-redesigned-model-y-is-coming-to-north-america-in-march-for-60000/) - Time not found
+- [Anthropic’s new Citations feature aims to reduce AI errors](https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/) - Time not found
 - [OpenAI launches Operator, an AI agent that performs tasks autonomously](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) - Time not found
 - [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/) - Time not found
 - [Meta’s Yann LeCun predicts ‘new paradigm of AI architectures’ within 5 years and ‘decade of robotics’](https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/) - Time not found
 - [Everstone acquires bootstrapped Indian startup Wingify for $200M](https://techcrunch.com/2025/01/23/everstone-acquires-bootstrapped-indian-startup-wingify-for-200m/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [Zombie nuclear reactors could be revived thanks to AI data center demand](https://techcrunch.com/2025/01/22/zombie-nuclear-reactors-could-be-revived-thanks-to-ai-data-center-demand/) - Time not found
+- [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/) - Jan 17, 2025
 - [$200M woolly mammoths and a farewell to TikTok](https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/) - Jan 17, 2025
 - [Failed fintech startup Bench racked up over $65 million in debt, documents reveal](https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/) - Jan 16, 2025
 - [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/) - Jan 16, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/) - Jan 13, 2025
 - [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/) - Jan 12, 2025
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/) - Jan 12, 2025
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/) - Jan 12, 2025
 - [Tesla’s redesigned Model Y is coming to North America in March for $60,000](https://techcrunch.com/2025/01/23/teslas-redesigned-model-y-is-coming-to-north-america-in-march-for-60000/) - Time not found
+- [Anthropic’s new Citations feature aims to reduce AI errors](https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/) - Time not found
 - [OpenAI launches Operator, an AI agent that performs tasks autonomously](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) - Time not found
 - [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/) - Time not found
 - [Meta’s Yann LeCun predicts ‘new paradigm of AI architectures’ within 5 years and ‘decade of robotics’](https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/) - Time not found
 - [Everstone acquires bootstrapped Indian startup Wingify for $200M](https://techcrunch.com/2025/01/23/everstone-acquires-bootstrapped-indian-startup-wingify-for-200m/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [Zombie nuclear reactors could be revived thanks to AI data center demand](https://techcrunch.com/2025/01/22/zombie-nuclear-reactors-could-be-revived-thanks-to-ai-data-center-demand/) - Time not found
