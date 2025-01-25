@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - 16 hours ago
-- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 20 hours ago
-- [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - 22 hours ago
-- [French e-bike startup Angell nears bankruptcy](https://techcrunch.com/2025/01/24/french-e-bike-startup-angell-nears-bankruptcy/) - 22 hours ago
-- [Kodiak has made its first driverless truck deliveries to customer Atlas Energy](https://techcrunch.com/2025/01/24/kodiak-has-made-its-first-driverless-truck-deliveries-to-customer-atlas-energy/) - 23 hours ago
-- [How are founders positioning themselves for the next 4 years?](https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/) - 23 hours ago
+- [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - 21 hours ago
+- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 1 day ago
+- [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - 1 day ago
+- [French e-bike startup Angell nears bankruptcy](https://techcrunch.com/2025/01/24/french-e-bike-startup-angell-nears-bankruptcy/) - 1 day ago
+- [Kodiak has made its first driverless truck deliveries to customer Atlas Energy](https://techcrunch.com/2025/01/24/kodiak-has-made-its-first-driverless-truck-deliveries-to-customer-atlas-energy/) - 1 day ago
+- [How are founders positioning themselves for the next 4 years?](https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/) - 1 day ago
 - [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/) - 1 day ago
 - [Foyer unlocks $6.2M to help people save up to buy homes](https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/) - 1 day ago
 - [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/) - 2 days ago
@@ -30,7 +30,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 3 days ago
 - [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 4 days ago
 - [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 4 days ago
-- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 4 days ago
+- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - 5 days ago
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - Jan 20, 2025
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - Jan 19, 2025
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - Jan 19, 2025
