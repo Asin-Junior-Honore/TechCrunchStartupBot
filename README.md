@@ -10,37 +10,37 @@ Here are the latest articles from TechCrunch Startups:
 - [French e-bike startup Angell nears bankruptcy](https://techcrunch.com/2025/01/24/french-e-bike-startup-angell-nears-bankruptcy/) - 1 day ago
 - [Kodiak has made its first driverless truck deliveries to customer Atlas Energy](https://techcrunch.com/2025/01/24/kodiak-has-made-its-first-driverless-truck-deliveries-to-customer-atlas-energy/) - 1 day ago
 - [How are founders positioning themselves for the next 4 years?](https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/) - 1 day ago
-- [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/) - 1 day ago
-- [Foyer unlocks $6.2M to help people save up to buy homes](https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/) - 1 day ago
+- [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/) - 2 days ago
+- [Foyer unlocks $6.2M to help people save up to buy homes](https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/) - 2 days ago
 - [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/) - 2 days ago
 - [After pivoting from crypto to payroll, Rollfi gets acquired](https://techcrunch.com/2025/01/23/after-pivoting-from-crypto-to-payroll-rollfi-gets-acquired/) - 2 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - 2 days ago
-- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - 2 days ago
-- [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - 2 days ago
-- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - 2 days ago
-- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 2 days ago
-- [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - 2 days ago
+- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - 3 days ago
+- [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - 3 days ago
+- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - 3 days ago
+- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 3 days ago
+- [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - 3 days ago
 - [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 3 days ago
 - [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - 3 days ago
 - [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - 3 days ago
 - [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - 3 days ago
 - [Livestream app Favorited, a new TikTok alternative, snaps up $1.3M](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/) - 3 days ago
 - [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 3 days ago
-- [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 3 days ago
-- [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 3 days ago
+- [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 4 days ago
+- [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 4 days ago
 - [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 4 days ago
-- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 4 days ago
+- [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - 5 days ago
 - [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - Jan 20, 2025
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - Jan 20, 2025
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - Jan 19, 2025
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - Jan 19, 2025
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
 - [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/) - Time not found
+- [Ditching Meta? Open source alternatives to Instagram, TikTok, and WhatsApp fundraise on Kickstarter](https://techcrunch.com/2025/01/24/ditching-meta-open-source-alternatives-to-instagram-tiktok-and-whatsapp-fundraise-on-kickstarter/) - Time not found
 - [The AI industry’s pace has researchers stressed](https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/) - Time not found
 - [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/) - Time not found
 - [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [Trump administration fires members of cybersecurity review board in ‘horribly shortsighted’ decision](https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/) - Time not found
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - Jan 19, 2025
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - Jan 18, 2025
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - Jan 18, 2025
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - Jan 13, 2025
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
 - [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/) - Time not found
+- [Ditching Meta? Open source alternatives to Instagram, TikTok, and WhatsApp fundraise on Kickstarter](https://techcrunch.com/2025/01/24/ditching-meta-open-source-alternatives-to-instagram-tiktok-and-whatsapp-fundraise-on-kickstarter/) - Time not found
+- [The AI industry’s pace has researchers stressed](https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/) - Time not found
 - [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/) - Time not found
-- [OpenAI launches Operator, an AI agent that performs tasks autonomously](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) - Time not found
 - [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [Trump administration fires members of cybersecurity review board in ‘horribly shortsighted’ decision](https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/) - Time not found
