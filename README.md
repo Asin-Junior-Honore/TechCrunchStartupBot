@@ -4,6 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 2 minutes ago
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - 2 days ago
 - [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 2 days ago
 - [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - 2 days ago
@@ -20,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - 3 days ago
 - [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 3 days ago
 - [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - 3 days ago
-- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 3 days ago
+- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 4 days ago
 - [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - 4 days ago
 - [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - 4 days ago
 - [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - 4 days ago
@@ -28,12 +29,11 @@ Here are the latest articles from TechCrunch Startups:
 - [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - 4 days ago
 - [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - 4 days ago
 - [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - 4 days ago
-- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - 5 days ago
+- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - Jan 21, 2025
 - [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - Jan 21, 2025
 - [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - Jan 20, 2025
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - Jan 20, 2025
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - Jan 19, 2025
-- [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - Jan 19, 2025
 - [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/) - Time not found
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
 - [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [The AI industry’s pace has researchers stressed](https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/) - Time not found
 - [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - Jan 19, 2025
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - Jan 19, 2025
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - Jan 18, 2025
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - Jan 18, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - Jan 14, 2025
 - [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - Jan 14, 2025
 - [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - Jan 14, 2025
-- [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) - Jan 13, 2025
 - [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/) - Time not found
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
 - [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/) - Time not found
