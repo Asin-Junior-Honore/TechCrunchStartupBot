@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Mistral’s origin story has an insuretech founder at its heart](https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/) - 5 minutes ago
-- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - 14 hours ago
-- [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 20 hours ago
+- [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/) - 2 minutes ago
+- [Mistral’s origin story has an insuretech founder at its heart](https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/) - 4 hours ago
+- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - 18 hours ago
+- [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 1 day ago
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - 3 days ago
 - [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 3 days ago
 - [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - 3 days ago
@@ -20,27 +21,27 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - 4 days ago
 - [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - 4 days ago
 - [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - 4 days ago
-- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 4 days ago
 - [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - 4 days ago
+- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - 4 days ago
 - [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - 4 days ago
-- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 4 days ago
-- [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - 5 days ago
-- [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - 5 days ago
-- [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - 5 days ago
+- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - 5 days ago
+- [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - Jan 22, 2025
+- [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - Jan 22, 2025
+- [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - Jan 22, 2025
 - [Livestream app Favorited, a new TikTok alternative, snaps up $1.3M](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/) - Jan 22, 2025
 - [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - Jan 22, 2025
 - [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/) - Jan 22, 2025
 - [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/) - Jan 22, 2025
 - [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/) - Jan 21, 2025
 - [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - Jan 21, 2025
-- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - Jan 20, 2025
+- [DeepSeek ‘punctures’ AI leaders’ spending plans, and what analysts are saying](https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/) - Time not found
 - [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - Time not found
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/) - Time not found
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - Time not found
-- [Real estate firms pivot to energy development amid booming data center demand](https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/) - Time not found
 - [Wall Street banks plan sale of X debt at a discount](https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/) - Time not found
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - Jan 20, 2025
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - Jan 20, 2025
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - Jan 19, 2025
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - Jan 19, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/) - Jan 14, 2025
 - [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/) - Jan 14, 2025
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - Jan 14, 2025
-- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - Jan 14, 2025
+- [DeepSeek ‘punctures’ AI leaders’ spending plans, and what analysts are saying](https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/) - Time not found
 - [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - Time not found
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/) - Time not found
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - Time not found
-- [Real estate firms pivot to energy development amid booming data center demand](https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/) - Time not found
 - [Wall Street banks plan sale of X debt at a discount](https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/) - Time not found
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
