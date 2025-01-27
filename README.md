@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 4 hours ago
+- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - 3 hours ago
+- [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 9 hours ago
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - 2 days ago
 - [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - 2 days ago
 - [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Mistral AI plans IPO](https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/) - Jan 21, 2025
 - [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/) - Jan 20, 2025
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/) - Jan 20, 2025
-- [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - Jan 19, 2025
+- [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/) - Time not found
 - [Real estate firms pivot to energy development amid booming data center demand](https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/) - Time not found
 - [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/) - Time not found
+- [Wall Street banks plan sale of X debt at a discount](https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/) - Time not found
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
-- [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/) - Time not found
-- [Ditching Meta? Open source alternatives to Instagram, TikTok, and WhatsApp fundraise on Kickstarter](https://techcrunch.com/2025/01/24/ditching-meta-open-source-alternatives-to-instagram-tiktok-and-whatsapp-fundraise-on-kickstarter/) - Time not found
 - [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/) - Jan 19, 2025
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/) - Jan 19, 2025
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - Jan 19, 2025
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - Jan 18, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [With $30M in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/) - Jan 14, 2025
 - [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/) - Jan 14, 2025
 - [Thoras helps companies reach reliability without overspending on cloud costs](https://techcrunch.com/2025/01/14/thoras-helps-companies-reach-reliability-without-overspending-on-cloud-costs/) - Jan 14, 2025
-- [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/) - Jan 14, 2025
+- [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/) - Time not found
 - [Real estate firms pivot to energy development amid booming data center demand](https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/) - Time not found
 - [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/) - Time not found
+- [Wall Street banks plan sale of X debt at a discount](https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/) - Time not found
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/) - Time not found
-- [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/) - Time not found
-- [Ditching Meta? Open source alternatives to Instagram, TikTok, and WhatsApp fundraise on Kickstarter](https://techcrunch.com/2025/01/24/ditching-meta-open-source-alternatives-to-instagram-tiktok-and-whatsapp-fundraise-on-kickstarter/) - Time not found
 - [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/) - Time not found
