@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - 2 hours ago
-- [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - 6 hours ago
-- [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - 11 hours ago
-- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - 16 hours ago
-- [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/) - 17 hours ago
-- [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/) - 18 hours ago
-- [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/) - 20 hours ago
-- [Lydian can make aviation fuel wherever there’s CO2 and electricity](https://techcrunch.com/2025/01/27/lydian-labs-can-make-aviation-fuel-wherever-theres-co2-and-electricity/) - 22 hours ago
-- [Mistral’s origin story has an insurtech founder at its heart](https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/) - 24 hours ago
+- [Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - 2 hours ago
+- [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - 6 hours ago
+- [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - 10 hours ago
+- [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - 15 hours ago
+- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - 19 hours ago
+- [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/) - 21 hours ago
+- [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/) - 22 hours ago
+- [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/) - 24 hours ago
+- [Lydian can make aviation fuel wherever there’s CO2 and electricity](https://techcrunch.com/2025/01/27/lydian-labs-can-make-aviation-fuel-wherever-theres-co2-and-electricity/) - 1 day ago
+- [Mistral’s origin story has an insurtech founder at its heart](https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/) - 1 day ago
 - [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - 2 days ago
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 2 days ago
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - 4 days ago
@@ -28,19 +29,19 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - Jan 23, 2025
 - [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - Jan 23, 2025
 - [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - Jan 23, 2025
-- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - Jan 23, 2025
 - [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - Jan 23, 2025
+- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - Jan 23, 2025
 - [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - Jan 23, 2025
 - [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - Jan 22, 2025
 - [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - Jan 22, 2025
-- [Once valued at over $2B, rent-to-own startup Divvy Homes is selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - Jan 22, 2025
 - [Google Maps will soon rename Gulf of Mexico to ‘Gulf of America’](https://techcrunch.com/2025/01/27/google-maps-will-soon-rename-gulf-of-mexico-to-gulf-of-america/) - Time not found
 - [Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo](https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/) - Time not found
+- [How DeepSeek’s efficient AI could stall the nuclear renaissance](https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/) - Time not found
 - [Viral AI company DeepSeek releases new image model family](https://techcrunch.com/2025/01/27/viral-ai-company-deepseek-releases-new-image-model-family/) - Time not found
 - [Meta AI can now use your Facebook and Instagram data to personalize its responses](https://techcrunch.com/2025/01/27/meta-ai-can-now-use-your-facebook-and-instagram-data-to-personalize-its-responses/) - Time not found
 - [DeepSeek ‘punctures’ AI leaders’ spending plans, and what analysts are saying](https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/) - Time not found
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/) - Time not found
-- [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/) - Time not found
+- [Once valued at over $2B, rent-to-own startup Divvy Homes is selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/) - Jan 22, 2025
 - [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/) - Jan 22, 2025
 - [Livestream app Favorited, a new TikTok alternative, snaps up $1.3M](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/) - Jan 22, 2025
 - [AI’s $100 billion impact: 2024’s venture capital surge and the road ahead for startups](https://techcrunch.com/podcast/ais-100-billion-impact-2024s-venture-capital-surge-and-the-road-ahead-for-startups/) - Jan 22, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/) - Jan 15, 2025
 - [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/) - Jan 15, 2025
 - [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) - Jan 15, 2025
-- [‘Social media should be built on protocols, not platforms’ says Mastodon CEO Eugen Rochko](https://techcrunch.com/podcast/social-media-should-be-built-on-protocols-not-platforms-says-mastodon-ceo-eugen-rochko/) - Jan 15, 2025
 - [Google Maps will soon rename Gulf of Mexico to ‘Gulf of America’](https://techcrunch.com/2025/01/27/google-maps-will-soon-rename-gulf-of-mexico-to-gulf-of-america/) - Time not found
 - [Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo](https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/) - Time not found
+- [How DeepSeek’s efficient AI could stall the nuclear renaissance](https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/) - Time not found
 - [Viral AI company DeepSeek releases new image model family](https://techcrunch.com/2025/01/27/viral-ai-company-deepseek-releases-new-image-model-family/) - Time not found
 - [Meta AI can now use your Facebook and Instagram data to personalize its responses](https://techcrunch.com/2025/01/27/meta-ai-can-now-use-your-facebook-and-instagram-data-to-personalize-its-responses/) - Time not found
 - [DeepSeek ‘punctures’ AI leaders’ spending plans, and what analysts are saying](https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/) - Time not found
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/) - Time not found
-- [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/) - Time not found
