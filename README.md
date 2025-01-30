@@ -4,43 +4,43 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [European embedded banking startup Swan adds another $44 million to its Series B](https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/) - 2 hours ago
-- [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/) - 13 hours ago
-- [Forget ‘Founder Mode,’ what about Customer Mode?](https://techcrunch.com/podcast/forget-founder-mode-what-about-customer-mode/) - 15 hours ago
-- [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/) - 15 hours ago
-- [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/) - 16 hours ago
-- [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/) - 17 hours ago
-- [Meteomatics eyes US expansion for its enterprise-focused weather forecasting tools](https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/) - 20 hours ago
-- [Formance raises $21M to build the AWS for fintech infrastructure](https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/) - 21 hours ago
+- [European embedded banking startup Swan adds another $44 million to its Series B](https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/) - 6 hours ago
+- [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/) - 17 hours ago
+- [Forget ‘Founder Mode,’ what about Customer Mode?](https://techcrunch.com/podcast/forget-founder-mode-what-about-customer-mode/) - 19 hours ago
+- [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/) - 19 hours ago
+- [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/) - 20 hours ago
+- [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/) - 21 hours ago
+- [Meteomatics eyes US expansion for its enterprise-focused weather forecasting tools](https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/) - 1 day ago
+- [Formance raises $21M to build the AWS for fintech infrastructure](https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/) - 1 day ago
 - [Shared scooter startup Voi reports its first profitable year as it explores an IPO](https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/) - 1 day ago
 - [Naboo secures $21M for its concierge-style corporate event booking platform](https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/) - 1 day ago
 - [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/) - 2 days ago
 - [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/) - 2 days ago
 - [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/) - 2 days ago
-- [Lucid Gravity SUV owners will gain access to Tesla Superchargers on January 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - 2 days ago
 - [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/) - 2 days ago
+- [Lucid Gravity SUV owners will gain access to Tesla Superchargers on January 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - 2 days ago
 - [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/) - 2 days ago
 - [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - 2 days ago
 - [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - 2 days ago
 - [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - 2 days ago
-- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - 2 days ago
+- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - 3 days ago
 - [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/) - 3 days ago
 - [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/) - 3 days ago
 - [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/) - 3 days ago
 - [Lydian can make aviation fuel wherever there’s CO2 and electricity](https://techcrunch.com/2025/01/27/lydian-labs-can-make-aviation-fuel-wherever-theres-co2-and-electricity/) - 3 days ago
 - [Mistral’s origin story has an insurtech founder at its heart](https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/) - 3 days ago
-- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - 3 days ago
+- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/) - 4 days ago
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - 4 days ago
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - Jan 24, 2025
 - [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - Jan 24, 2025
 - [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - Jan 24, 2025
+- [Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/) - Time not found
 - [Elon Musk claims Tesla will launch a self-driving service in Austin in June](https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/) - Time not found
 - [Microsoft brings a DeepSeek model to its cloud](https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/) - Time not found
 - [What DeepSeek, China, and Trump mean for Apple ahead of its Q1 earnings](https://techcrunch.com/2025/01/29/what-deepseek-china-and-trump-mean-for-apple-ahead-of-its-q1-earnings/) - Time not found
 - [Anthropic’s CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/) - Time not found
 - [Microsoft probing whether DeepSeek improperly used OpenAI APIs](https://techcrunch.com/2025/01/29/microsoft-probing-whether-deepseek-improperly-used-openais-api/) - Time not found
 - [David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own](https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/) - Time not found
-- [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/) - Time not found
 - [French e-bike startup Angell nears bankruptcy](https://techcrunch.com/2025/01/24/french-e-bike-startup-angell-nears-bankruptcy/) - Jan 24, 2025
 - [Kodiak has made its first driverless truck deliveries to customer Atlas Energy](https://techcrunch.com/2025/01/24/kodiak-has-made-its-first-driverless-truck-deliveries-to-customer-atlas-energy/) - Jan 24, 2025
 - [How are founders positioning themselves for the next 4 years?](https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/) - Jan 24, 2025
@@ -51,8 +51,8 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - Jan 23, 2025
 - [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - Jan 23, 2025
 - [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - Jan 23, 2025
-- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - Jan 23, 2025
 - [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - Jan 23, 2025
+- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - Jan 23, 2025
 - [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - Jan 23, 2025
 - [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - Jan 22, 2025
 - [Scale AI is facing a third worker lawsuit in about a month ](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/) - Jan 22, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/) - Jan 19, 2025
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) - Jan 18, 2025
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/) - Jan 18, 2025
+- [Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/) - Time not found
 - [Elon Musk claims Tesla will launch a self-driving service in Austin in June](https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/) - Time not found
 - [Microsoft brings a DeepSeek model to its cloud](https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/) - Time not found
 - [What DeepSeek, China, and Trump mean for Apple ahead of its Q1 earnings](https://techcrunch.com/2025/01/29/what-deepseek-china-and-trump-mean-for-apple-ahead-of-its-q1-earnings/) - Time not found
 - [Anthropic’s CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/) - Time not found
 - [Microsoft probing whether DeepSeek improperly used OpenAI APIs](https://techcrunch.com/2025/01/29/microsoft-probing-whether-deepseek-improperly-used-openais-api/) - Time not found
 - [David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own](https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/) - Time not found
-- [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/) - Time not found
