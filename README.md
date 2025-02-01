@@ -4,12 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/) - 4 hours ago
-- [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - 18 hours ago
-- [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/) - 20 hours ago
-- [DeepSeek lights a fire under Silicon Valley](https://techcrunch.com/podcast/deepseek-lights-a-fire-under-silicon-valley/) - 20 hours ago
-- [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - 21 hours ago
-- [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - 21 hours ago
+- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - 5 minutes ago
+- [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - 5 minutes ago
+- [DeepSeek: Separating fact from hype](https://techcrunch.com/podcast/deepseek-separating-fact-from-hype/) - 1 hour ago
+- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - 2 hours ago
+- [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/) - 8 hours ago
+- [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - 22 hours ago
+- [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/) - 24 hours ago
+- [DeepSeek lights a fire under Silicon Valley](https://techcrunch.com/podcast/deepseek-lights-a-fire-under-silicon-valley/) - 1 day ago
+- [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - 1 day ago
+- [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - 1 day ago
 - [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/) - 1 day ago
 - [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/) - 2 days ago
 - [Controversial genetics testing startup Nucleus Genomics raises $14M Series A ](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/) - 2 days ago
@@ -30,23 +34,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Formance raises $21M to build the AWS for fintech infrastructure](https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/) - 3 days ago
 - [Shared scooter startup Voi reports its first profitable year as it explores an IPO](https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/) - 3 days ago
 - [Naboo secures $21M for its concierge-style corporate event booking platform](https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/) - 3 days ago
+- [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/) - Time not found
+- [Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source](https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/) - Time not found
+- [Sam Altman’s ousting from OpenAI has entered the cultural zeitgeist](https://techcrunch.com/2025/01/31/sam-altmans-ousting-from-openai-has-entered-the-cultural-zeitgeist/) - Time not found
+- [OpenAI launches o3-mini, its latest ‘reasoning’ model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/) - Time not found
+- [Google quietly announces its next flagship AI model](https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/) - Time not found
+- [Google issues ‘voluntary exit’ program for Android, Chrome, and Pixel employees](https://techcrunch.com/2025/01/30/google-issues-voluntary-exit-program-for-android-chrome-and-pixel-employees/) - Time not found
+- [Mark Zuckerberg teases a 2025 return to ‘OG Facebook’](https://techcrunch.com/2025/01/30/mark-zuckerberg-teases-a-2025-return-to-og-facebook/) - Time not found
 - [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/) - 4 days ago
 - [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/) - 4 days ago
 - [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/) - 4 days ago
 - [Lucid Gravity SUV owners will gain access to Tesla Superchargers on January 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - 4 days ago
-- [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/) - Time not found
-- [Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source](https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/) - Time not found
-- [Sam Altman’s ousting from OpenAI has entered the cultural zeitgeist](https://techcrunch.com/2025/01/31/sam-altmans-ousting-from-openai-has-entered-the-cultural-zeitgeist/) - Time not found
-- [Google quietly announces its next flagship AI model](https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/) - Time not found
-- [Google issues ‘voluntary exit’ program for Android, Chrome, and Pixel employees](https://techcrunch.com/2025/01/30/google-issues-voluntary-exit-program-for-android-chrome-and-pixel-employees/) - Time not found
-- [Mark Zuckerberg teases a 2025 return to ‘OG Facebook’](https://techcrunch.com/2025/01/30/mark-zuckerberg-teases-a-2025-return-to-og-facebook/) - Time not found
-- [Ai2 says its new AI model beats one of DeepSeek’s best](https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/) - Time not found
-- [Lucid Gravity SUV owners will gain access to Tesla Superchargers on January 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - 4 days ago
+- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/) - 4 days ago
 - [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/) - 4 days ago
 - [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - 4 days ago
 - [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - 4 days ago
-- [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - 4 days ago
-- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - 5 days ago
+- [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - 5 days ago
+- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - Jan 27, 2025
 - [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/) - Jan 27, 2025
 - [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/) - Jan 27, 2025
 - [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/) - Jan 27, 2025
@@ -67,10 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - Jan 23, 2025
 - [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - Jan 23, 2025
 - [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/) - Jan 23, 2025
-- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/) - Jan 23, 2025
-- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/) - Jan 23, 2025
-- [Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/) - Jan 23, 2025
-- [Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/) - Jan 22, 2025
 - [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/) - Time not found
 - [Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source](https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/) - Time not found
 - [Sam Altman’s ousting from OpenAI has entered the cultural zeitgeist](https://techcrunch.com/2025/01/31/sam-altmans-ousting-from-openai-has-entered-the-cultural-zeitgeist/) - Time not found
