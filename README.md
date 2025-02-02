@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - 19 hours ago
-- [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - 20 hours ago
-- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - 20 hours ago
-- [DeepSeek: Separating fact from hype](https://techcrunch.com/podcast/deepseek-separating-fact-from-hype/) - 21 hours ago
-- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - 22 hours ago
+- [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/) - 1 hour ago
+- [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - 23 hours ago
+- [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - 1 day ago
+- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - 1 day ago
+- [DeepSeek: Separating fact from hype](https://techcrunch.com/podcast/deepseek-separating-fact-from-hype/) - 1 day ago
+- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - 1 day ago
 - [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/) - 1 day ago
 - [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - 2 days ago
 - [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/) - 2 days ago
@@ -33,20 +34,20 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/) - 4 days ago
 - [Meteomatics eyes US expansion for its enterprise-focused weather forecasting tools](https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/) - 4 days ago
 - [Formance raises $21M to build the AWS for fintech infrastructure](https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/) - 4 days ago
-- [Shared scooter startup Voi reports its first profitable year as it explores an IPO](https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/) - 4 days ago
 - [Senator warns of national security risks after Elon Musk’s DOGE granted ‘full access’ to sensitive Treasury systems](https://techcrunch.com/2025/02/01/senator-warns-of-national-security-risks-after-elon-musks-doge-granted-full-access-to-sensitive-treasury-systems/) - Time not found
 - [X expands lawsuit over advertiser ‘boycott’ to include Lego, Nestlé, Pinterest, and others](https://techcrunch.com/2025/02/01/x-expands-lawsuit-over-advertiser-boycott-to-include-lego-nestle-pinterest-and-others/) - Time not found
 - [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - Time not found
-- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - Time not found
+- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - Time not found
 - [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/) - Time not found
 - [Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source](https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/) - Time not found
 - [Google issues ‘voluntary exit’ program for Android, Chrome, and Pixel employees](https://techcrunch.com/2025/01/30/google-issues-voluntary-exit-program-for-android-chrome-and-pixel-employees/) - Time not found
+- [Shared scooter startup Voi reports its first profitable year as it explores an IPO](https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/) - 4 days ago
 - [Naboo secures $21M for its concierge-style corporate event booking platform](https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/) - 4 days ago
-- [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/) - 5 days ago
-- [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/) - 5 days ago
-- [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/) - 5 days ago
-- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/) - Jan 28, 2025
+- [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/) - Jan 28, 2025
+- [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/) - Jan 28, 2025
+- [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/) - Jan 28, 2025
 - [Lucid Gravity SUV owners will gain access to Tesla Superchargers on January 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - Jan 28, 2025
+- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/) - Jan 28, 2025
 - [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/) - Jan 28, 2025
 - [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - Jan 28, 2025
 - [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - Jan 27, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/) - Jan 23, 2025
 - [After pivoting from crypto to payroll, Rollfi gets acquired](https://techcrunch.com/2025/01/23/after-pivoting-from-crypto-to-payroll-rollfi-gets-acquired/) - Jan 23, 2025
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/23/tech-layoffs-2024-list/) - Jan 23, 2025
-- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/) - Jan 23, 2025
 - [Senator warns of national security risks after Elon Musk’s DOGE granted ‘full access’ to sensitive Treasury systems](https://techcrunch.com/2025/02/01/senator-warns-of-national-security-risks-after-elon-musks-doge-granted-full-access-to-sensitive-treasury-systems/) - Time not found
+- [X expands lawsuit over advertiser ‘boycott’ to include Lego, Nestlé, Pinterest, and others](https://techcrunch.com/2025/02/01/x-expands-lawsuit-over-advertiser-boycott-to-include-lego-nestle-pinterest-and-others/) - Time not found
 - [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - Time not found
 - [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - Time not found
-- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - Time not found
 - [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/) - Time not found
 - [Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source](https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/) - Time not found
 - [Google issues ‘voluntary exit’ program for Android, Chrome, and Pixel employees](https://techcrunch.com/2025/01/30/google-issues-voluntary-exit-program-for-android-chrome-and-pixel-employees/) - Time not found
