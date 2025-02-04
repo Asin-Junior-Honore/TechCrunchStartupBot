@@ -4,11 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 2 hours ago
-- [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 5 hours ago
-- [Stripe brings aboard new head of ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - 13 hours ago
-- [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - 20 hours ago
-- [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - 23 hours ago
+- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 4 minutes ago
+- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - 1 hour ago
+- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 3 hours ago
+- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 6 hours ago
+- [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 9 hours ago
+- [Stripe brings aboard new head of ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - 17 hours ago
+- [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - 1 day ago
+- [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - 1 day ago
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - 2 days ago
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/) - 2 days ago
 - [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - 3 days ago
@@ -23,17 +26,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - 4 days ago
 - [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - 4 days ago
 - [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/) - 4 days ago
-- [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/) - 5 days ago
-- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A ](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/) - 5 days ago
-- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/) - 5 days ago
-- [Serial founder DIVINE launches creator app with hip-hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/) - 5 days ago
+- [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/) - Jan 30, 2025
+- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A ](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/) - Jan 30, 2025
+- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/) - Jan 30, 2025
+- [Serial founder DIVINE launches creator app with hip-hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/) - Jan 30, 2025
 - [Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon](https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/) - Jan 30, 2025
 - [Ex-Autodesk execs snag $46M to build the next gen of architecture design](https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/) - Jan 30, 2025
 - [Little Umbrella’s next Jackbox-style game pits you and your friends against an AI game show host ](https://techcrunch.com/2025/01/30/little-umbrellas-next-jackbox-style-game-pits-you-and-your-friends-against-an-ai-game-show-host/) - Jan 30, 2025
 - [Backline automatically remediates security vulnerabilities](https://techcrunch.com/2025/01/30/backline-automatically-remediates-security-vulnerabilities/) - Jan 30, 2025
-- [Data analytics startup Athenic AI wants to be an enterprise’s central nervous system](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/) - Jan 30, 2025
-- [European embedded banking startup Swan adds another $44M to its Series B](https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/) - Jan 29, 2025
-- [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/) - Jan 29, 2025
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
 - [Meta says it may stop development of AI systems it deems too risky](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [DeepSeek founder Liang Wenfeng receives a hero’s welcome back home](https://techcrunch.com/2025/02/02/deepseek-founder-liang-wenfeng-receives-a-heros-welcome-back-home/) - Time not found
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - Time not found
 - [Dub: The copy trading app that has teens talking](https://techcrunch.com/2025/02/02/dub-the-copy-trading-app-that-has-teens-talking/) - Time not found
+- [Data analytics startup Athenic AI wants to be an enterprise’s central nervous system](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/) - Jan 30, 2025
+- [European embedded banking startup Swan adds another $44M to its Series B](https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/) - Jan 29, 2025
+- [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/) - Jan 29, 2025
 - [Forget ‘Founder Mode,’ what about Customer Mode?](https://techcrunch.com/podcast/forget-founder-mode-what-about-customer-mode/) - Jan 29, 2025
 - [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/) - Jan 29, 2025
 - [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/) - Jan 29, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/) - Jan 26, 2025
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/) - Jan 24, 2025
 - [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/) - Jan 24, 2025
-- [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/) - Jan 24, 2025
-- [French e-bike startup Angell nears bankruptcy](https://techcrunch.com/2025/01/24/french-e-bike-startup-angell-nears-bankruptcy/) - Jan 24, 2025
-- [Kodiak has made its first driverless truck deliveries to customer Atlas Energy](https://techcrunch.com/2025/01/24/kodiak-has-made-its-first-driverless-truck-deliveries-to-customer-atlas-energy/) - Jan 24, 2025
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
 - [Meta says it may stop development of AI systems it deems too risky](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
