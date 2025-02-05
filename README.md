@@ -4,13 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [European AI startups raised $8 billion in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 5 hours ago
-- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - 12 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/04/tech-layoffs-2024-list/) - 19 hours ago
-- [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - 19 hours ago
-- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 20 hours ago
-- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - 21 hours ago
-- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 23 hours ago
+- [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - 7 minutes ago
+- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - 17 minutes ago
+- [AI’s biggest stage awaits – TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - 17 minutes ago
+- [European AI startups raised $8 billion in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 9 hours ago
+- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - 16 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/04/tech-layoffs-2024-list/) - 23 hours ago
+- [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - 23 hours ago
+- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 1 day ago
+- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - 1 day ago
+- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 1 day ago
 - [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 1 day ago
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 1 day ago
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 1 day ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - Jan 31, 2025
 - [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - Jan 31, 2025
 - [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/) - Jan 31, 2025
-- [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/) - Jan 30, 2025
-- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A ](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/) - Jan 30, 2025
-- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/) - Jan 30, 2025
 - [a16z hires acquitted former Marine Daniel Penny as an investor ](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/) - Time not found
 - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) - Time not found
 - [An angel investor was so intrigued by this startup, he joined as a co-founder](https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/) - Time not found
 - [Cruise to slash workforce by nearly 50% after GM cuts funding to robotaxi operations](https://techcrunch.com/2025/02/04/cruise-to-slash-workforce-by-50-after-gm-cuts-funding-to-robotaxi-operations/) - Time not found
+- [Deepfake videos are getting shockingly good](https://techcrunch.com/2025/02/04/deepfake-videos-are-getting-shockingly-good/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
-- [DeepSeek founder Liang Wenfeng receives a hero’s welcome back home](https://techcrunch.com/2025/02/02/deepseek-founder-liang-wenfeng-receives-a-heros-welcome-back-home/) - Time not found
+- [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/) - Jan 30, 2025
+- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A ](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/) - Jan 30, 2025
+- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/) - Jan 30, 2025
 - [Serial founder DIVINE launches creator app with hip-hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/) - Jan 30, 2025
 - [Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon](https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/) - Jan 30, 2025
 - [Ex-Autodesk execs snag $46M to build the next gen of architecture design](https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/) - Jan 30, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - Jan 27, 2025
 - [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/) - Jan 27, 2025
 - [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/) - Jan 27, 2025
-- [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/) - Jan 27, 2025
-- [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/) - Jan 27, 2025
-- [Lydian can make aviation fuel wherever there’s CO2 and electricity](https://techcrunch.com/2025/01/27/lydian-labs-can-make-aviation-fuel-wherever-theres-co2-and-electricity/) - Jan 27, 2025
 - [a16z hires acquitted former Marine Daniel Penny as an investor ](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/) - Time not found
 - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) - Time not found
+- [An angel investor was so intrigued by this startup, he joined as a co-founder](https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/) - Time not found
 - [Cruise to slash workforce by nearly 50% after GM cuts funding to robotaxi operations](https://techcrunch.com/2025/02/04/cruise-to-slash-workforce-by-50-after-gm-cuts-funding-to-robotaxi-operations/) - Time not found
+- [Deepfake videos are getting shockingly good](https://techcrunch.com/2025/02/04/deepfake-videos-are-getting-shockingly-good/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
-- [Meta says it may stop development of AI systems it deems too risky](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
-- [DeepSeek founder Liang Wenfeng receives a hero’s welcome back home](https://techcrunch.com/2025/02/02/deepseek-founder-liang-wenfeng-receives-a-heros-welcome-back-home/) - Time not found
