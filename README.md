@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [European AI startups raised $8 billion in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 1 hour ago
-- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - 8 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/04/tech-layoffs-2024-list/) - 15 hours ago
-- [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - 15 hours ago
-- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 16 hours ago
-- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - 17 hours ago
-- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 19 hours ago
-- [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 21 hours ago
-- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 22 hours ago
+- [European AI startups raised $8 billion in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 5 hours ago
+- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - 12 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/04/tech-layoffs-2024-list/) - 19 hours ago
+- [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - 19 hours ago
+- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 20 hours ago
+- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - 21 hours ago
+- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 23 hours ago
+- [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 1 day ago
+- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 1 day ago
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 1 day ago
-- [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - 1 day ago
+- [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - 2 days ago
 - [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - 2 days ago
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - 2 days ago
-- [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - 2 days ago
+- [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - 3 days ago
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/) - 3 days ago
 - [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - 4 days ago
 - [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - 4 days ago
@@ -25,8 +25,8 @@ Here are the latest articles from TechCrunch Startups:
 - [DeepSeek: Separating fact from hype](https://techcrunch.com/podcast/deepseek-separating-fact-from-hype/) - 4 days ago
 - [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - 4 days ago
 - [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/) - 4 days ago
-- [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - 5 days ago
-- [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/) - 5 days ago
+- [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - Jan 31, 2025
+- [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/) - Jan 31, 2025
 - [DeepSeek lights a fire under Silicon Valley](https://techcrunch.com/podcast/deepseek-lights-a-fire-under-silicon-valley/) - Jan 31, 2025
 - [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - Jan 31, 2025
 - [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - Jan 31, 2025
@@ -36,9 +36,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/) - Jan 30, 2025
 - [a16z hires acquitted former Marine Daniel Penny as an investor ](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/) - Time not found
 - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) - Time not found
+- [An angel investor was so intrigued by this startup, he joined as a co-founder](https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/) - Time not found
 - [Cruise to slash workforce by nearly 50% after GM cuts funding to robotaxi operations](https://techcrunch.com/2025/02/04/cruise-to-slash-workforce-by-50-after-gm-cuts-funding-to-robotaxi-operations/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
-- [Meta says it may stop development of AI systems it deems too risky](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
 - [DeepSeek founder Liang Wenfeng receives a hero’s welcome back home](https://techcrunch.com/2025/02/02/deepseek-founder-liang-wenfeng-receives-a-heros-welcome-back-home/) - Time not found
 - [Serial founder DIVINE launches creator app with hip-hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/) - Jan 30, 2025
@@ -60,8 +60,8 @@ Here are the latest articles from TechCrunch Startups:
 - [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/) - Jan 28, 2025
 - [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/) - Jan 28, 2025
 - [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/) - Jan 28, 2025
-- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/) - Jan 28, 2025
 - [Lucid Gravity SUV owners will gain access to Tesla Superchargers on January 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/) - Jan 28, 2025
+- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/) - Jan 28, 2025
 - [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/) - Jan 28, 2025
 - [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - Jan 28, 2025
 - [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - Jan 27, 2025
