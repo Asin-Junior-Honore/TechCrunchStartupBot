@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - 2 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/05/tech-layoffs-2024-list/) - 3 hours ago
-- [As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds](https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/) - 6 hours ago
-- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - 7 hours ago
-- [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - 9 hours ago
-- [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - 9 hours ago
-- [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 18 hours ago
+- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - 4 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/05/tech-layoffs-2024-list/) - 4 hours ago
+- [As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds](https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/) - 7 hours ago
+- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - 9 hours ago
+- [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - 10 hours ago
+- [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - 10 hours ago
+- [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 20 hours ago
 - [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - 1 day ago
 - [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - 1 day ago
 - [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 1 day ago
@@ -28,16 +28,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - 4 days ago
 - [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - 4 days ago
 - [DeepSeek: Separating fact from hype](https://techcrunch.com/podcast/deepseek-separating-fact-from-hype/) - 4 days ago
-- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - 4 days ago
+- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - 5 days ago
 - [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/) - Jan 31, 2025
 - [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - Jan 31, 2025
 - [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/) - Jan 31, 2025
 - [DeepSeek lights a fire under Silicon Valley](https://techcrunch.com/podcast/deepseek-lights-a-fire-under-silicon-valley/) - Jan 31, 2025
 - [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - Jan 31, 2025
+- [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/05/the-biggest-breach-of-u-s-government-data-is-under-way/) - Time not found
 - [The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts](https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/) - Time not found
 - [Workday cuts nearly 2,000 employees](https://techcrunch.com/2025/02/05/workday-cuts-nearly-2000-employees/) - Time not found
 - [a16z hires acquitted former Marine Daniel Penny as an investor ](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/) - Time not found
-- [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) - Time not found
 - [An angel investor was so intrigued by this startup, he joined as a co-founder](https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/) - Jan 28, 2025
 - [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/) - Jan 27, 2025
 - [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/) - Jan 27, 2025
+- [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/05/the-biggest-breach-of-u-s-government-data-is-under-way/) - Time not found
 - [The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts](https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/) - Time not found
 - [Workday cuts nearly 2,000 employees](https://techcrunch.com/2025/02/05/workday-cuts-nearly-2000-employees/) - Time not found
 - [a16z hires acquitted former Marine Daniel Penny as an investor ](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/) - Time not found
-- [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) - Time not found
 - [An angel investor was so intrigued by this startup, he joined as a co-founder](https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
 - [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
