@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/) - 2 hours ago
-- [Intel Capital fuels TrueFoundry’s $19M funding to help boost AI deployments at scale](https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/) - 6 hours ago
-- [Fizz brings on TikTok alum to help build out its marketplace and recommendation engine](https://techcrunch.com/2025/02/06/fizz-brings-on-tiktok-alum-to-help-build-out-its-marketplace-and-recommendation-engine/) - 6 hours ago
-- [Pendulum’s AI-driven platform helps enterprises better predict supply and demand](https://techcrunch.com/2025/02/06/pendulums-ai-driven-platform-helps-enterprises-better-predict-supply-and-demand/) - 6 hours ago
-- [First lab-grown meat treats go on sale in the UK — for dogs](https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/) - 10 hours ago
-- [Comstruct raises $13M to simplify the procurement process for construction firms](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/) - 10 hours ago
-- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - 21 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/05/tech-layoffs-2024-list/) - 22 hours ago
+- [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/) - 7 hours ago
+- [Intel Capital fuels TrueFoundry’s $19M funding to help boost AI deployments at scale](https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/) - 11 hours ago
+- [Fizz brings on TikTok alum to help build out its marketplace and recommendation engine](https://techcrunch.com/2025/02/06/fizz-brings-on-tiktok-alum-to-help-build-out-its-marketplace-and-recommendation-engine/) - 11 hours ago
+- [Pendulum’s AI-driven platform helps enterprises better predict supply and demand](https://techcrunch.com/2025/02/06/pendulums-ai-driven-platform-helps-enterprises-better-predict-supply-and-demand/) - 11 hours ago
+- [First lab-grown meat treats go on sale in the UK — for dogs](https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/) - 14 hours ago
+- [Comstruct raises $13M to simplify the procurement process for construction firms](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/) - 15 hours ago
+- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - 1 day ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/05/tech-layoffs-2024-list/) - 1 day ago
 - [As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds](https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/) - 1 day ago
 - [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - 1 day ago
 - [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - 1 day ago
@@ -22,8 +22,8 @@ Here are the latest articles from TechCrunch Startups:
 - [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 2 days ago
 - [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - 2 days ago
 - [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 2 days ago
-- [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 2 days ago
-- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 2 days ago
+- [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 3 days ago
+- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 3 days ago
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 3 days ago
 - [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - 3 days ago
 - [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - 3 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - Feb 1, 2025
 - [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - Feb 1, 2025
 - [DeepSeek: Separating fact from hype](https://techcrunch.com/podcast/deepseek-separating-fact-from-hype/) - Feb 1, 2025
+- [DOGE staffer steps down after racist posts emerge](https://techcrunch.com/2025/02/06/doge-staffer-steps-down-after-racist-posts-emerge/) - Time not found
 - [Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/) - Time not found
 - [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Time not found
 - [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/05/the-biggest-breach-of-u-s-government-data-is-under-way/) - Time not found
 - [The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts](https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/) - Time not found
 - [Workday cuts nearly 2,000 employees](https://techcrunch.com/2025/02/05/workday-cuts-nearly-2000-employees/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
-- [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
 - [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/) - Feb 1, 2025
 - [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/) - Jan 31, 2025
 - [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/) - Jan 31, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/) - Jan 28, 2025
 - [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/) - Jan 28, 2025
 - [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/) - Jan 28, 2025
+- [DOGE staffer steps down after racist posts emerge](https://techcrunch.com/2025/02/06/doge-staffer-steps-down-after-racist-posts-emerge/) - Time not found
 - [Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/) - Time not found
 - [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Time not found
 - [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/05/the-biggest-breach-of-u-s-government-data-is-under-way/) - Time not found
 - [The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts](https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/) - Time not found
 - [Workday cuts nearly 2,000 employees](https://techcrunch.com/2025/02/05/workday-cuts-nearly-2000-employees/) - Time not found
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/) - Time not found
-- [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/) - Time not found
