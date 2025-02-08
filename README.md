@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 17 hours ago
-- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 22 hours ago
-- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - 22 hours ago
+- [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 22 hours ago
+- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 1 day ago
+- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - 1 day ago
 - [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - 1 day ago
 - [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - 1 day ago
 - [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - 1 day ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - 3 days ago
 - [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - 3 days ago
 - [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - 3 days ago
-- [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 3 days ago
+- [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - 4 days ago
 - [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - 4 days ago
 - [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - 4 days ago
 - [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - 4 days ago
@@ -31,16 +31,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - 4 days ago
 - [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 4 days ago
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 4 days ago
-- [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 4 days ago
+- [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 5 days ago
 - [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - Feb 3, 2025
 - [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - Feb 3, 2025
 - [Anthropic CEO says DeepSeek was ‘the worst’ on a critical bioweapons data safety test](https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/) - Time not found
+- [Trump admin freezes EV charging program that gave Tesla millions](https://techcrunch.com/2025/02/07/trump-admin-freezes-ev-charging-program-that-gave-tesla-millions/) - Time not found
 - [One of Elon Musk’s young DOGE engineers explains how he won the $700K Vesuvius Challenge](https://techcrunch.com/2025/02/07/one-of-elon-musks-young-doge-engineers-explains-how-he-won-the-700k-vesuvius-challenge/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
 - [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - Time not found
 - [Government agency removes spoon emoji from work platform amid protests](https://techcrunch.com/2025/02/06/government-agency-removes-spoon-emoji-from-work-platform-amid-protests/) - Time not found
-- [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/) - Time not found
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - Feb 3, 2025
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - Feb 2, 2025
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/) - Feb 2, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/) - Jan 29, 2025
 - [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/) - Jan 29, 2025
 - [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/) - Jan 29, 2025
+- [Anthropic CEO says DeepSeek was ‘the worst’ on a critical bioweapons data safety test](https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/) - Time not found
+- [Trump admin freezes EV charging program that gave Tesla millions](https://techcrunch.com/2025/02/07/trump-admin-freezes-ev-charging-program-that-gave-tesla-millions/) - Time not found
 - [One of Elon Musk’s young DOGE engineers explains how he won the $700K Vesuvius Challenge](https://techcrunch.com/2025/02/07/one-of-elon-musks-young-doge-engineers-explains-how-he-won-the-700k-vesuvius-challenge/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
 - [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - Time not found
 - [Government agency removes spoon emoji from work platform amid protests](https://techcrunch.com/2025/02/06/government-agency-removes-spoon-emoji-from-work-platform-amid-protests/) - Time not found
-- [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/) - Time not found
-- [Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/) - Time not found
