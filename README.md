@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 14 hours ago
-- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 18 hours ago
-- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - 18 hours ago
-- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - 20 hours ago
-- [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - 20 hours ago
-- [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - 21 hours ago
-- [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M  ](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/) - 22 hours ago
+- [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 17 hours ago
+- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 22 hours ago
+- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - 22 hours ago
+- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - 1 day ago
+- [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - 1 day ago
+- [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - 1 day ago
+- [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M  ](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/) - 1 day ago
 - [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/) - 2 days ago
 - [Intel Capital fuels TrueFoundry’s $19M funding to help boost AI deployments at scale](https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/) - 2 days ago
 - [Fizz brings on TikTok alum to help build out its marketplace and recommendation engine](https://techcrunch.com/2025/02/06/fizz-brings-on-tiktok-alum-to-help-build-out-its-marketplace-and-recommendation-engine/) - 2 days ago
@@ -32,15 +32,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - 4 days ago
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - 4 days ago
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - 4 days ago
-- [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - 5 days ago
+- [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - Feb 3, 2025
 - [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - Feb 3, 2025
+- [Anthropic CEO says DeepSeek was ‘the worst’ on a critical bioweapons data safety test](https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/) - Time not found
 - [One of Elon Musk’s young DOGE engineers explains how he won the $700K Vesuvius Challenge](https://techcrunch.com/2025/02/07/one-of-elon-musks-young-doge-engineers-explains-how-he-won-the-700k-vesuvius-challenge/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
 - [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - Time not found
 - [Government agency removes spoon emoji from work platform amid protests](https://techcrunch.com/2025/02/06/government-agency-removes-spoon-emoji-from-work-platform-amid-protests/) - Time not found
 - [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/) - Time not found
-- [Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/) - Time not found
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - Feb 3, 2025
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - Feb 2, 2025
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/) - Feb 2, 2025
