@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 9 hours ago
+- [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 12 hours ago
 - [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 2 days ago
 - [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 2 days ago
 - [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - 2 days ago
 - [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - 2 days ago
 - [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - 2 days ago
-- [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - 2 days ago
-- [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M  ](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/) - 2 days ago
+- [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - 3 days ago
+- [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M  ](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/) - 3 days ago
 - [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/) - 3 days ago
-- [Intel Capital fuels TrueFoundry’s $19M funding to help boost AI deployments at scale](https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/) - 3 days ago
-- [Fizz brings on TikTok alum to help build out its marketplace and recommendation engine](https://techcrunch.com/2025/02/06/fizz-brings-on-tiktok-alum-to-help-build-out-its-marketplace-and-recommendation-engine/) - 3 days ago
-- [Pendulum’s AI-driven platform helps enterprises better predict supply and demand](https://techcrunch.com/2025/02/06/pendulums-ai-driven-platform-helps-enterprises-better-predict-supply-and-demand/) - 3 days ago
+- [Intel Capital fuels TrueFoundry’s $19M funding to help boost AI deployments at scale](https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/) - 4 days ago
+- [Fizz brings on TikTok alum to help build out its marketplace and recommendation engine](https://techcrunch.com/2025/02/06/fizz-brings-on-tiktok-alum-to-help-build-out-its-marketplace-and-recommendation-engine/) - 4 days ago
+- [Pendulum’s AI-driven platform helps enterprises better predict supply and demand](https://techcrunch.com/2025/02/06/pendulums-ai-driven-platform-helps-enterprises-better-predict-supply-and-demand/) - 4 days ago
 - [First lab-grown meat treats go on sale in the UK — for dogs](https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/) - 4 days ago
 - [Comstruct raises $13M to simplify the procurement process for construction firms](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/) - 4 days ago
 - [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - 4 days ago
@@ -34,10 +34,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - Feb 4, 2025
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - Feb 3, 2025
 - [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - Feb 3, 2025
+- [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - Time not found
-- [Trump ends legal battle over Twitter ban](https://techcrunch.com/2025/02/08/trump-ends-legal-battle-over-twitter-ban/) - Time not found
-- [Apple’s new research robot takes a page from Pixar’s playbook](https://techcrunch.com/2025/02/08/apples-new-research-robot-takes-a-page-from-pixars-playbook/) - Time not found
+- [AI pioneer Fei-Fei Li says AI policy must be based on ‘science, not science fiction’](https://techcrunch.com/2025/02/08/ai-pioneer-fei-fei-li-says-ai-policy-must-be-based-on-science-not-science-fiction/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
 - [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Time not found
@@ -71,9 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Forget ‘Founder Mode,’ what about Customer Mode?](https://techcrunch.com/podcast/forget-founder-mode-what-about-customer-mode/) - Jan 29, 2025
 - [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/) - Jan 29, 2025
 - [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/) - Jan 29, 2025
+- [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - Time not found
-- [Trump ends legal battle over Twitter ban](https://techcrunch.com/2025/02/08/trump-ends-legal-battle-over-twitter-ban/) - Time not found
 - [Apple’s new research robot takes a page from Pixar’s playbook](https://techcrunch.com/2025/02/08/apples-new-research-robot-takes-a-page-from-pixars-playbook/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
