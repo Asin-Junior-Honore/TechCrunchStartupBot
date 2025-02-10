@@ -4,6 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 2 hours ago
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 1 day ago
 - [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 3 days ago
 - [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - Feb 4, 2025
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - Feb 4, 2025
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/) - Feb 3, 2025
-- [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - Feb 3, 2025
+- [UK’s secret Apple iCloud backdoor order is a global emergency, say critics](https://techcrunch.com/2025/02/10/uks-secret-apple-icloud-backdoor-order-is-a-global-emergency-say-critics/) - Time not found
+- [Lyft to launch Mobileye-powered robotaxis ‘as soon as 2026,’ starting with Dallas](https://techcrunch.com/2025/02/10/lyft-to-launch-mobileye-powered-robotaxis-as-soon-as-2026-starting-with-dallas/) - Time not found
 - [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - Time not found
-- [These apps are building Instagram alternatives on open protocols](https://techcrunch.com/2025/02/09/these-apps-are-building-instagram-alternatives-on-open-protocols/) - Time not found
-- [How to use Apple’s new event planning ‘Invites’ app](https://techcrunch.com/2025/02/09/how-to-use-apples-new-event-planning-invites-app/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
+- [Stripe brings aboard new lead for ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/) - Feb 3, 2025
 - [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/) - Feb 3, 2025
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - Feb 3, 2025
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - Feb 2, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/) - Jan 29, 2025
 - [Forget ‘Founder Mode,’ what about Customer Mode?](https://techcrunch.com/podcast/forget-founder-mode-what-about-customer-mode/) - Jan 29, 2025
 - [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/) - Jan 29, 2025
-- [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/) - Jan 29, 2025
+- [UK’s secret Apple iCloud backdoor order is a global emergency, say critics](https://techcrunch.com/2025/02/10/uks-secret-apple-icloud-backdoor-order-is-a-global-emergency-say-critics/) - Time not found
+- [Lyft to launch Mobileye-powered robotaxis ‘as soon as 2026,’ starting with Dallas](https://techcrunch.com/2025/02/10/lyft-to-launch-mobileye-powered-robotaxis-as-soon-as-2026-starting-with-dallas/) - Time not found
 - [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - Time not found
-- [These apps are building Instagram alternatives on open protocols](https://techcrunch.com/2025/02/09/these-apps-are-building-instagram-alternatives-on-open-protocols/) - Time not found
-- [How to use Apple’s new event planning ‘Invites’ app](https://techcrunch.com/2025/02/09/how-to-use-apples-new-event-planning-invites-app/) - Time not found
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/) - Time not found
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/) - Time not found
