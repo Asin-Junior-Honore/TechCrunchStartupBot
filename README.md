@@ -4,12 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 4 hours ago
-- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 11 hours ago
-- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 15 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 15 hours ago
-- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 16 hours ago
-- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 19 hours ago
+- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 2 hours ago
+- [3D mood board and marketplace Mattoboard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 2 hours ago
+- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 2 hours ago
+- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 8 hours ago
+- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 15 hours ago
+- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 18 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 19 hours ago
+- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 19 hours ago
+- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 22 hours ago
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 2 days ago
 - [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 4 days ago
 - [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 4 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - Feb 5, 2025
 - [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - Feb 4, 2025
 - [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - Feb 4, 2025
-- [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - Feb 4, 2025
-- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - Feb 4, 2025
-- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - Feb 4, 2025
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - Time not found
 - [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/) - Time not found
 - [Elon Musk-led team submits $97.4B bid for OpenAI](https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/) - Time not found
 - [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/) - Time not found
+- [Apple fixes iPhone and iPad bug used in an ‘extremely sophisticated attack’](https://techcrunch.com/2025/02/10/apple-fixes-iphone-and-ipad-bug-used-in-an-extremely-sophisticated-attack/) - Time not found
 - [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/) - Time not found
-- [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
+- [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - Feb 4, 2025
+- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - Feb 4, 2025
+- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - Feb 4, 2025
 - [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - Feb 4, 2025
 - [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi Arabia](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/) - Feb 4, 2025
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/) - Feb 4, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Serial founder DIVINE launches creator app with hip-hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/) - Jan 30, 2025
 - [Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon](https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/) - Jan 30, 2025
 - [Ex-Autodesk execs snag $46M to build the next gen of architecture design](https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/) - Jan 30, 2025
-- [Little Umbrella’s next Jackbox-style game pits you and your friends against an AI game show host ](https://techcrunch.com/2025/01/30/little-umbrellas-next-jackbox-style-game-pits-you-and-your-friends-against-an-ai-game-show-host/) - Jan 30, 2025
-- [Backline automatically remediates security vulnerabilities](https://techcrunch.com/2025/01/30/backline-automatically-remediates-security-vulnerabilities/) - Jan 30, 2025
-- [Data analytics startup Athenic AI wants to be an enterprise’s central nervous system](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/) - Jan 30, 2025
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - Time not found
 - [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/) - Time not found
 - [Elon Musk-led team submits $97.4B bid for OpenAI](https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/) - Time not found
 - [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/) - Time not found
+- [Apple fixes iPhone and iPad bug used in an ‘extremely sophisticated attack’](https://techcrunch.com/2025/02/10/apple-fixes-iphone-and-ipad-bug-used-in-an-extremely-sophisticated-attack/) - Time not found
 - [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/) - Time not found
-- [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
