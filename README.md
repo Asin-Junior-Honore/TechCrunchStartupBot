@@ -4,15 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 2 hours ago
-- [3D mood board and marketplace Mattoboard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 2 hours ago
-- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 2 hours ago
-- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 8 hours ago
-- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 15 hours ago
-- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 18 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 19 hours ago
-- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 19 hours ago
-- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 22 hours ago
+- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 5 minutes ago
+- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 38 minutes ago
+- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 3 hours ago
+- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - 4 hours ago
+- [Google backs Boston quantum startup QuEra in $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - 5 hours ago
+- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 6 hours ago
+- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 6 hours ago
+- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 7 hours ago
+- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 12 hours ago
+- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 19 hours ago
+- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 22 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 23 hours ago
+- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 24 hours ago
+- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 1 day ago
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 2 days ago
 - [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 4 days ago
 - [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 4 days ago
@@ -29,11 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Comstruct raises $13M to simplify the procurement process for construction firms](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/) - Feb 6, 2025
 - [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Feb 5, 2025
 - [As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds](https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/) - Feb 5, 2025
-- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - Feb 5, 2025
-- [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - Feb 5, 2025
-- [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - Feb 5, 2025
-- [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - Feb 4, 2025
-- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - Feb 4, 2025
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - Time not found
 - [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/) - Time not found
 - [Elon Musk-led team submits $97.4B bid for OpenAI](https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/) - Time not found
@@ -41,6 +41,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple fixes iPhone and iPad bug used in an ‘extremely sophisticated attack’](https://techcrunch.com/2025/02/10/apple-fixes-iphone-and-ipad-bug-used-in-an-extremely-sophisticated-attack/) - Time not found
 - [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/) - Time not found
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/) - Time not found
+- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - Feb 5, 2025
+- [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - Feb 5, 2025
+- [From fintech to space tech: Robinhood co-founder Baiju Bhatt is betting on space solar](https://techcrunch.com/podcast/from-fintech-to-space-tech-robinhood-co-founder-baiju-bhatt-is-betting-on-space-solar/) - Feb 5, 2025
+- [European AI startups raised $8B in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/) - Feb 4, 2025
+- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - Feb 4, 2025
 - [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - Feb 4, 2025
 - [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - Feb 4, 2025
 - [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - Feb 4, 2025
@@ -66,11 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - Jan 31, 2025
 - [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/) - Jan 31, 2025
 - [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/) - Jan 30, 2025
-- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A ](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/) - Jan 30, 2025
-- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/) - Jan 30, 2025
-- [Serial founder DIVINE launches creator app with hip-hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/) - Jan 30, 2025
-- [Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon](https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/) - Jan 30, 2025
-- [Ex-Autodesk execs snag $46M to build the next gen of architecture design](https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/) - Jan 30, 2025
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - Time not found
 - [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/) - Time not found
 - [Elon Musk-led team submits $97.4B bid for OpenAI](https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/) - Time not found
