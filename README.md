@@ -4,27 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 12 hours ago
-- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 12 hours ago
-- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 14 hours ago
-- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - 16 hours ago
-- [Google backs Boston quantum startup QuEra in $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - 17 hours ago
-- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 18 hours ago
-- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 18 hours ago
-- [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - 18 hours ago
-- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 18 hours ago
-- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 24 hours ago
+- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 28 minutes ago
+- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 16 hours ago
+- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 17 hours ago
+- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 19 hours ago
+- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - 20 hours ago
+- [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - 22 hours ago
+- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 22 hours ago
+- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 22 hours ago
+- [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - 23 hours ago
+- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 23 hours ago
+- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 1 day ago
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 1 day ago
-- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 1 day ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 1 day ago
-- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 1 day ago
+- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 2 days ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 2 days ago
+- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 2 days ago
 - [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 2 days ago
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 3 days ago
-- [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 4 days ago
-- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - 5 days ago
-- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - 5 days ago
-- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - 5 days ago
-- [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - 5 days ago
+- [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - 5 days ago
+- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - Feb 7, 2025
+- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - Feb 7, 2025
+- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - Feb 7, 2025
+- [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - Feb 7, 2025
 - [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - Feb 7, 2025
 - [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M  ](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/) - Feb 7, 2025
 - [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/) - Feb 6, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Pendulum’s AI-driven platform helps enterprises better predict supply and demand](https://techcrunch.com/2025/02/06/pendulums-ai-driven-platform-helps-enterprises-better-predict-supply-and-demand/) - Feb 6, 2025
 - [First lab-grown meat treats go on sale in the UK — for dogs](https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/) - Feb 6, 2025
 - [Comstruct raises $13M to simplify the procurement process for construction firms](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/) - Feb 6, 2025
-- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Feb 5, 2025
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [Built on Bluesky, Pinksky brings its Instagram-like app to Android](https://techcrunch.com/2025/02/11/built-on-bluesky-pinksky-brings-its-instagram-like-app-to-android/) - Time not found
 - [CISA election security officials placed on leave, DHS confirms](https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/) - Time not found
 - [Google changed the Gulf of Mexico to the Gulf of America on Maps](https://techcrunch.com/2025/02/10/google-changed-the-gulf-of-mexico-to-the-gulf-of-america-on-maps/) - Time not found
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - Time not found
 - [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/) - Time not found
 - [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/) - Time not found
-- [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/) - Time not found
+- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Feb 5, 2025
 - [As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds](https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/) - Feb 5, 2025
 - [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - Feb 5, 2025
 - [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - Feb 5, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [DeepSeek lights a fire under Silicon Valley](https://techcrunch.com/podcast/deepseek-lights-a-fire-under-silicon-valley/) - Jan 31, 2025
 - [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/) - Jan 31, 2025
 - [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/) - Jan 31, 2025
-- [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/) - Jan 31, 2025
+- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
 - [Built on Bluesky, Pinksky brings its Instagram-like app to Android](https://techcrunch.com/2025/02/11/built-on-bluesky-pinksky-brings-its-instagram-like-app-to-android/) - Time not found
 - [CISA election security officials placed on leave, DHS confirms](https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/) - Time not found
 - [Google changed the Gulf of Mexico to the Gulf of America on Maps](https://techcrunch.com/2025/02/10/google-changed-the-gulf-of-mexico-to-the-gulf-of-america-on-maps/) - Time not found
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - Time not found
 - [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/) - Time not found
 - [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/) - Time not found
-- [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/) - Time not found
