@@ -4,26 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 20 minutes ago
-- [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/) - 17 hours ago
-- [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/) - 18 hours ago
-- [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/) - 18 hours ago
-- [Six months after raising $29M, Candid Health nabs another $52.5M to ease medical billing](https://techcrunch.com/2025/02/12/six-months-after-raising-29m-candid-health-nabs-another-52-5m-to-ease-medical-billing/) - 19 hours ago
-- [Sheel Mohnot says the fintech market is ‘hot again’](https://techcrunch.com/podcast/sheel-mohnot-says-the-fintech-market-is-hot-again/) - 20 hours ago
-- [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - 21 hours ago
-- [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - 22 hours ago
+- [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/) - 9 minutes ago
+- [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/) - 38 minutes ago
+- [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/) - 3 hours ago
+- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 4 hours ago
+- [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/) - 21 hours ago
+- [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/) - 22 hours ago
+- [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/) - 22 hours ago
+- [Six months after raising $29M, Candid Health nabs another $52.5M to ease medical billing](https://techcrunch.com/2025/02/12/six-months-after-raising-29m-candid-health-nabs-another-52-5m-to-ease-medical-billing/) - 23 hours ago
+- [Sheel Mohnot says the fintech market is ‘hot again’](https://techcrunch.com/podcast/sheel-mohnot-says-the-fintech-market-is-hot-again/) - 24 hours ago
+- [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - 1 day ago
+- [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - 1 day ago
 - [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 1 day ago
 - [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 2 days ago
 - [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 2 days ago
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 2 days ago
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - 2 days ago
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - 2 days ago
-- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 2 days ago
 - [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 2 days ago
+- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 2 days ago
 - [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - 2 days ago
 - [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 2 days ago
 - [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 2 days ago
-- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 2 days ago
+- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 3 days ago
 - [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 3 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/) - 3 days ago
 - [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 3 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - 4 days ago
 - [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - Feb 7, 2025
 - [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - Feb 7, 2025
-- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - Feb 7, 2025
-- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - Feb 7, 2025
-- [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - Feb 7, 2025
 - [Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms](https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/) - Time not found
 - [OpenAI postpones its o3 AI model in favor of a ‘unified’ next-gen release](https://techcrunch.com/2025/02/12/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release/) - Time not found
-- [Adobe launches subscriptions for Firefly AI](https://techcrunch.com/2025/02/12/adobe-launches-firefly-ai-subscriptions/) - Time not found
+- [Apple is reportedly exploring humanoid robots](https://techcrunch.com/2025/02/12/apple-is-reportedly-exploring-humanoid-robots/) - Time not found
 - [A woman in China sued Tesla after complaining of faulty brakes — now she’s paying Tesla $23K](https://techcrunch.com/2025/02/12/a-woman-in-china-sued-tesla-after-complaining-of-faulty-brakes-now-shes-paying-tesla-23k/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
 - [Built on Bluesky, Pinksky brings its Instagram-like app to Android](https://techcrunch.com/2025/02/11/built-on-bluesky-pinksky-brings-its-instagram-like-app-to-android/) - Time not found
 - [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/) - Time not found
+- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - Feb 7, 2025
+- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) - Feb 7, 2025
+- [Are companies falling out of love with OpenAI?](https://techcrunch.com/podcast/are-companies-falling-out-of-love-with-openai/) - Feb 7, 2025
 - [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/) - Feb 7, 2025
 - [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M  ](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/) - Feb 7, 2025
 - [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/) - Feb 6, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/) - Feb 3, 2025
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) - Feb 2, 2025
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/) - Feb 2, 2025
-- [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/) - Feb 1, 2025
-- [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/) - Feb 1, 2025
-- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/) - Feb 1, 2025
 - [Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms](https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/) - Time not found
 - [OpenAI postpones its o3 AI model in favor of a ‘unified’ next-gen release](https://techcrunch.com/2025/02/12/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release/) - Time not found
 - [Apple is reportedly exploring humanoid robots](https://techcrunch.com/2025/02/12/apple-is-reportedly-exploring-humanoid-robots/) - Time not found
-- [Adobe launches subscriptions for Firefly AI](https://techcrunch.com/2025/02/12/adobe-launches-firefly-ai-subscriptions/) - Time not found
 - [A woman in China sued Tesla after complaining of faulty brakes — now she’s paying Tesla $23K](https://techcrunch.com/2025/02/12/a-woman-in-china-sued-tesla-after-complaining-of-faulty-brakes-now-shes-paying-tesla-23k/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [Built on Bluesky, Pinksky brings its Instagram-like app to Android](https://techcrunch.com/2025/02/11/built-on-bluesky-pinksky-brings-its-instagram-like-app-to-android/) - Time not found
 - [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/) - Time not found
