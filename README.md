@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 9 hours ago
-- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 10 hours ago
-- [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 12 hours ago
-- [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 14 hours ago
-- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 16 hours ago
-- [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 16 hours ago
-- [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 16 hours ago
+- [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 13 hours ago
+- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 14 hours ago
+- [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 16 hours ago
+- [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 18 hours ago
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 20 hours ago
+- [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 20 hours ago
+- [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 20 hours ago
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - 2 days ago
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - 2 days ago
 - [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/) - 2 days ago
@@ -27,27 +27,27 @@ Here are the latest articles from TechCrunch Startups:
 - [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - 3 days ago
 - [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - 3 days ago
 - [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 3 days ago
-- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 3 days ago
+- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 4 days ago
 - [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 4 days ago
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 4 days ago
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - 4 days ago
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - 4 days ago
 - [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 4 days ago
 - [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 4 days ago
+- [Uber sues DoorDash, alleging anti-competitive tactics](https://techcrunch.com/2025/02/14/uber-sues-doordash-alleging-anti-competitive-tactics/) - Time not found
 - [How this weekend’s ‘Tesla Takeover’ protests against Elon Musk came together on Bluesky](https://techcrunch.com/2025/02/14/how-this-weekends-tesla-takeover-protests-against-elon-musk-came-together-on-bluesky/) - Time not found
 - [Meta confirms ‘Project Waterworth,’ a global subsea cable project spanning 50,000 kilometers](https://techcrunch.com/2025/02/14/meta-confirms-project-waterworth-a-global-subsea-cable-project-spanning-50000km/) - Time not found
 - [A job ad for Y Combinator startup Firecrawl seeks to hire an AI agent for $15K a year](https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/) - Time not found
 - [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/) - Time not found
-- [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/) - Time not found
-- [Arm is launching its own chip this year with Meta as a customer](https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/) - Time not found
+- [OpenAI removes certain content warnings from ChatGPT](https://techcrunch.com/2025/02/13/openai-removes-certain-content-warnings-from-chatgpt/) - Time not found
 - [Elon Musk’s full offer letter to buy OpenAI reveals five key details](https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/) - Time not found
 - [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - 4 days ago
 - [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 4 days ago
 - [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 4 days ago
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 4 days ago
-- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 4 days ago
-- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 4 days ago
-- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - 5 days ago
+- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 5 days ago
+- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/) - 5 days ago
+- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/) - Feb 10, 2025
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/) - Feb 9, 2025
 - [Anduril in talks to raise up to $2.5B at $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/) - Feb 7, 2025
 - [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/) - Feb 7, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - Feb 4, 2025
 - [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - Feb 4, 2025
 - [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - Feb 4, 2025
+- [Uber sues DoorDash, alleging anti-competitive tactics](https://techcrunch.com/2025/02/14/uber-sues-doordash-alleging-anti-competitive-tactics/) - Time not found
 - [How this weekend’s ‘Tesla Takeover’ protests against Elon Musk came together on Bluesky](https://techcrunch.com/2025/02/14/how-this-weekends-tesla-takeover-protests-against-elon-musk-came-together-on-bluesky/) - Time not found
 - [Meta confirms ‘Project Waterworth,’ a global subsea cable project spanning 50,000 kilometers](https://techcrunch.com/2025/02/14/meta-confirms-project-waterworth-a-global-subsea-cable-project-spanning-50000km/) - Time not found
 - [A job ad for Y Combinator startup Firecrawl seeks to hire an AI agent for $15K a year](https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/) - Time not found
 - [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/) - Time not found
 - [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/) - Time not found
-- [Arm is launching its own chip this year with Meta as a customer](https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/) - Time not found
 - [Elon Musk’s full offer letter to buy OpenAI reveals five key details](https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/) - Time not found
