@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 21 minutes ago
-- [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 2 hours ago
-- [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 4 hours ago
-- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 4 hours ago
-- [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 5 hours ago
+- [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 2 hours ago
+- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 3 hours ago
+- [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 5 hours ago
+- [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 6 hours ago
+- [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 9 hours ago
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 9 hours ago
+- [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 9 hours ago
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - 1 day ago
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - 1 day ago
 - [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/) - 1 day ago
@@ -16,7 +18,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/) - 1 day ago
 - [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/) - 1 day ago
 - [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/) - 1 day ago
-- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 1 day ago
+- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 2 days ago
 - [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/) - 2 days ago
 - [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/) - 2 days ago
 - [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/) - 2 days ago
@@ -24,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Sheel Mohnot says the fintech market is ‘hot again’](https://techcrunch.com/podcast/sheel-mohnot-says-the-fintech-market-is-hot-again/) - 2 days ago
 - [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - 2 days ago
 - [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - 2 days ago
-- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 2 days ago
+- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 3 days ago
 - [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 3 days ago
 - [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 3 days ago
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 3 days ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - 3 days ago
 - [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - 3 days ago
 - [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - 3 days ago
-- [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - 3 days ago
-- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 3 days ago
 - [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/) - Time not found
 - [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/) - Time not found
 - [Arm is launching its own chip this year with Meta as a customer](https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s full offer letter to buy OpenAI reveals five key details](https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/) - Time not found
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - Time not found
 - [Spyware maker caught distributing malicious Android apps for years](https://techcrunch.com/2025/02/13/spyware-maker-caught-distributing-malicious-android-apps-for-years/) - Time not found
+- [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - 3 days ago
+- [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - 3 days ago
 - [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - 4 days ago
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/) - 4 days ago
 - [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/) - 4 days ago
@@ -69,8 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/) - Feb 4, 2025
 - [Deel unloads $300M in secondary sale, brings General Catalyst on as an investor](https://techcrunch.com/2025/02/04/deel-unloads-300m-in-secondary-sale-brings-general-catalyst-on-as-an-investor/) - Feb 4, 2025
 - [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/) - Feb 4, 2025
-- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/) - Feb 4, 2025
-- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/) - Feb 4, 2025
 - [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/) - Time not found
 - [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/) - Time not found
 - [Arm is launching its own chip this year with Meta as a customer](https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/) - Time not found
