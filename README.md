@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - 13 hours ago
-- [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/) - 13 hours ago
-- [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 1 day ago
-- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 1 day ago
+- [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - 17 hours ago
+- [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/) - 17 hours ago
+- [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 2 days ago
+- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 2 days ago
 - [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 2 days ago
 - [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 2 days ago
-- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 2 days ago
 - [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 2 days ago
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 2 days ago
 - [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 2 days ago
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - 3 days ago
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - 3 days ago
@@ -29,10 +29,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - 4 days ago
 - [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - 4 days ago
 - [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 4 days ago
-- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 4 days ago
-- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - 5 days ago
-- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - 5 days ago
-- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - 5 days ago
+- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - 5 days ago
+- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - Feb 11, 2025
+- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - Feb 11, 2025
+- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - Feb 11, 2025
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - Feb 11, 2025
 - [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/) - Time not found
 - [Uber sues DoorDash, alleging anti-competitive tactics](https://techcrunch.com/2025/02/14/uber-sues-doordash-alleging-anti-competitive-tactics/) - Time not found
@@ -41,8 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [A job ad for Y Combinator startup Firecrawl seeks to hire an AI agent for $15K a year](https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/) - Time not found
 - [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/) - Time not found
 - [OpenAI removes certain content warnings from ChatGPT](https://techcrunch.com/2025/02/13/openai-removes-certain-content-warnings-from-chatgpt/) - Time not found
-- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - Feb 11, 2025
 - [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - Feb 11, 2025
+- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - Feb 11, 2025
 - [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - Feb 11, 2025
 - [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - Feb 11, 2025
 - [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - Feb 11, 2025
