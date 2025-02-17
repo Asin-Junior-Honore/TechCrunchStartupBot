@@ -20,7 +20,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/) - 3 days ago
 - [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/) - 3 days ago
 - [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/) - 3 days ago
-- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 3 days ago
+- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 4 days ago
 - [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/) - 4 days ago
 - [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/) - 4 days ago
 - [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/) - 4 days ago
@@ -28,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Sheel Mohnot says the fintech market is ‘hot again’](https://techcrunch.com/podcast/sheel-mohnot-says-the-fintech-market-is-hot-again/) - 4 days ago
 - [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - 4 days ago
 - [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - 4 days ago
-- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 4 days ago
+- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - 5 days ago
 - [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - Feb 11, 2025
 - [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - Feb 11, 2025
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - Feb 11, 2025
@@ -41,8 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Meta confirms ‘Project Waterworth,’ a global subsea cable project spanning 50,000 kilometers](https://techcrunch.com/2025/02/14/meta-confirms-project-waterworth-a-global-subsea-cable-project-spanning-50000km/) - Time not found
 - [A job ad for Y Combinator startup Firecrawl seeks to hire an AI agent for $15K a year](https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
-- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - Feb 11, 2025
 - [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - Feb 11, 2025
+- [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - Feb 11, 2025
 - [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - Feb 11, 2025
 - [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - Feb 11, 2025
 - [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - Feb 11, 2025
