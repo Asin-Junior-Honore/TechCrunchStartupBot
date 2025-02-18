@@ -4,23 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Gamemaker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - 11 hours ago
-- [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - 12 hours ago
+- [Gamemaker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - 14 hours ago
+- [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - 15 hours ago
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - 2 days ago
 - [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/) - 2 days ago
 - [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 3 days ago
 - [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 3 days ago
 - [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 3 days ago
 - [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 3 days ago
-- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 3 days ago
 - [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 3 days ago
-- [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 3 days ago
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 3 days ago
+- [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 4 days ago
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - 4 days ago
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - 4 days ago
 - [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/) - 4 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/13/tech-layoffs-2024-list/) - 4 days ago
 - [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/) - 4 days ago
-- [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/) - 4 days ago
+- [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/) - 5 days ago
 - [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/) - 5 days ago
 - [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - 5 days ago
 - [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/) - Feb 12, 2025
@@ -43,8 +43,8 @@ Here are the latest articles from TechCrunch Startups:
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - Feb 11, 2025
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - Feb 11, 2025
-- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - Feb 11, 2025
 - [3D mood board and marketplace MattoBoard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/) - Feb 11, 2025
+- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/) - Feb 11, 2025
 - [Comulate raises $20M to help insurers work more smoothly](https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/) - Feb 11, 2025
 - [Archer Aviation doubles down on defense aircraft with $300M raise](https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/) - Feb 11, 2025
 - [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/) - Feb 11, 2025
