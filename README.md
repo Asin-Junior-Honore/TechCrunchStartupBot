@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/) - 1 hour ago
-- [Gamemaker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - 22 hours ago
-- [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - 23 hours ago
+- [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/) - 1 hour ago
+- [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/) - 5 hours ago
+- [Gamemaker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - 1 day ago
+- [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - 1 day ago
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - 3 days ago
 - [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/) - 3 days ago
 - [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/) - 4 days ago
 - [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - 4 days ago
 - [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - 4 days ago
 - [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - 4 days ago
-- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 4 days ago
 - [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - 4 days ago
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - 4 days ago
 - [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - 4 days ago
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - Feb 13, 2025
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - Feb 13, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/) - Feb 12, 2025
 - [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/) - Feb 12, 2025
 - [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - Feb 11, 2025
-- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - Feb 11, 2025
 - [Elon Musk’s xAI releases its latest flagship model, Grok 3](https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/) - Time not found
 - [Are your noise-canceling headphones messing with your head?](https://techcrunch.com/2025/02/17/are-your-noise-canceling-headphones-messing-with-your-head/) - Time not found
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/the-hottest-ai-models-what-they-do-and-how-to-use-them/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [X is blocking links to Signal, a secure messaging platform used by federal workers](https://techcrunch.com/2025/02/17/x-is-blocking-links-to-signal-a-secure-messaging-platform-used-by-federal-workers/) - Time not found
 - [OpenAI tries to ‘uncensor’ ChatGPT](https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/) - Time not found
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/) - Time not found
+- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - Feb 11, 2025
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - Feb 11, 2025
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - Feb 11, 2025
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - Feb 11, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/) - Feb 5, 2025
 - [As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds](https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/) - Feb 5, 2025
 - [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/) - Feb 5, 2025
-- [AI’s biggest stage awaits — TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/) - Feb 5, 2025
 - [Elon Musk’s xAI releases its latest flagship model, Grok 3](https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/) - Time not found
 - [Are your noise-canceling headphones messing with your head?](https://techcrunch.com/2025/02/17/are-your-noise-canceling-headphones-messing-with-your-head/) - Time not found
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/the-hottest-ai-models-what-they-do-and-how-to-use-them/) - Time not found
