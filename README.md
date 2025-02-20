@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - 4 minutes ago
-- [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - 15 hours ago
-- [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - 17 hours ago
-- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - 20 hours ago
-- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - 23 hours ago
-- [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/) - 23 hours ago
+- [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - 4 hours ago
+- [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - 19 hours ago
+- [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - 21 hours ago
+- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - 1 day ago
+- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - 1 day ago
+- [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/) - 1 day ago
 - [How Slow Ventures is giving the creator economy a rebrand](https://techcrunch.com/podcast/how-slow-ventures-is-giving-the-creator-economy-a-rebrand/) - 1 day ago
 - [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/) - 1 day ago
 - [Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B](https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/) - 2 days ago
@@ -27,8 +27,8 @@ Here are the latest articles from TechCrunch Startups:
 - [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/) - Feb 14, 2025
 - [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - Feb 14, 2025
 - [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - Feb 14, 2025
-- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - Feb 14, 2025
 - [Call for speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/) - Feb 14, 2025
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/) - Feb 14, 2025
 - [Elon Musk and Sam Altman are basically in a rap battle](https://techcrunch.com/podcast/elon-musk-and-sam-altman-are-basically-in-a-rap-battle/) - Feb 14, 2025
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - Feb 13, 2025
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - Feb 13, 2025
@@ -36,8 +36,8 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/13/tech-layoffs-2024-list/) - Feb 13, 2025
 - [Amazon is shutting down its app store on Android](https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/) - Time not found
 - [Mark Zuckerberg’s charity U-turns, ends DEI efforts ](https://techcrunch.com/2025/02/19/mark-zuckerbergs-charity-u-turns-ends-dei-efforts/) - Time not found
+- [Google’s ‘Career Dreamer’ uses AI to help you explore job possibilities](https://techcrunch.com/2025/02/19/googles-career-dreamer-uses-ai-to-help-you-explore-job-possibilities/) - Time not found
 - [Google pulls Gemini from main search app on iOS](https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/) - Time not found
-- [US Army soldier pleads guilty to AT&T and Verizon hacks](https://techcrunch.com/2025/02/19/us-army-soldier-pleads-guilty-to-att-and-verizon-hacks/) - Time not found
 - [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/) - Time not found
 - [Duolingo ‘killed’ its mascot with a Cybertruck, and it’s going weirdly well](https://techcrunch.com/2025/02/18/duolingo-killed-its-mascot-with-a-cybertruck-and-its-going-weirdly-well/) - Time not found
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/the-hottest-ai-models-what-they-do-and-how-to-use-them/) - Time not found
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/) - Feb 7, 2025
 - [Amazon is shutting down its app store on Android](https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/) - Time not found
 - [Mark Zuckerberg’s charity U-turns, ends DEI efforts ](https://techcrunch.com/2025/02/19/mark-zuckerbergs-charity-u-turns-ends-dei-efforts/) - Time not found
+- [Google’s ‘Career Dreamer’ uses AI to help you explore job possibilities](https://techcrunch.com/2025/02/19/googles-career-dreamer-uses-ai-to-help-you-explore-job-possibilities/) - Time not found
 - [Google pulls Gemini from main search app on iOS](https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/) - Time not found
-- [US Army soldier pleads guilty to AT&T and Verizon hacks](https://techcrunch.com/2025/02/19/us-army-soldier-pleads-guilty-to-att-and-verizon-hacks/) - Time not found
 - [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/) - Time not found
 - [Duolingo ‘killed’ its mascot with a Cybertruck, and it’s going weirdly well](https://techcrunch.com/2025/02/18/duolingo-killed-its-mascot-with-a-cybertruck-and-its-going-weirdly-well/) - Time not found
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/the-hottest-ai-models-what-they-do-and-how-to-use-them/) - Time not found
