@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 17 hours ago
-- [Augury and Hightouch joined the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - 18 hours ago
-- [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/) - 19 hours ago
-- [AI wearables 1.0: Was Humane’s Ai Pin too ambitious?](https://techcrunch.com/podcast/ai-wearables-1-0-was-humanes-ai-pin-too-ambitious/) - 20 hours ago
-- [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/) - 20 hours ago
-- [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - 21 hours ago
-- [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - 21 hours ago
+- [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 21 hours ago
+- [Augury and Hightouch are in the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - 22 hours ago
+- [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/) - 23 hours ago
+- [AI wearables 1.0: Was Humane’s Ai Pin too ambitious?](https://techcrunch.com/podcast/ai-wearables-1-0-was-humanes-ai-pin-too-ambitious/) - 23 hours ago
+- [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/) - 24 hours ago
+- [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - 1 day ago
+- [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - 1 day ago
 - [6 new tech unicorns were minted in January 2025](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/) - 2 days ago
 - [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - 2 days ago
 - [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - 2 days ago
-- [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - 2 days ago
+- [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - 3 days ago
 - [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - 3 days ago
 - [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - 3 days ago
 - [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - 3 days ago
@@ -37,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia CEO Jensen Huang says market got it wrong about DeepSeek’s impact](https://techcrunch.com/2025/02/21/nvidia-ceo-jensen-huang-says-market-got-it-wrong-about-deepseeks-impact/) - Time not found
 - [Report: OpenAI plans to shift compute needs from Microsoft to SoftBank](https://techcrunch.com/2025/02/21/report-openai-plans-to-shift-compute-needs-from-microsoft-to-softbank/) - Time not found
 - [Norway’s 1X is building a humanoid robot for the home](https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/) - Time not found
+- [Crypto exchange Bybit says it was hacked and lost around $1.4B](https://techcrunch.com/2025/02/21/crypto-exchange-bybit-says-it-was-hacked-and-lost-around-1-4-billion/) - Time not found
 - [OpenAI rolls out its AI agent, Operator, in several countries](https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/) - Time not found
 - [Mark Zuckerberg’s makeover didn’t make people like him, study shows](https://techcrunch.com/2025/02/20/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows/) - Time not found
-- [Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/) - Time not found
 - [Amazon is shutting down its app store on Android](https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/) - Time not found
 - [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/) - Feb 14, 2025
 - [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/) - Feb 14, 2025
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia CEO Jensen Huang says market got it wrong about DeepSeek’s impact](https://techcrunch.com/2025/02/21/nvidia-ceo-jensen-huang-says-market-got-it-wrong-about-deepseeks-impact/) - Time not found
 - [Report: OpenAI plans to shift compute needs from Microsoft to SoftBank](https://techcrunch.com/2025/02/21/report-openai-plans-to-shift-compute-needs-from-microsoft-to-softbank/) - Time not found
 - [Norway’s 1X is building a humanoid robot for the home](https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/) - Time not found
+- [Crypto exchange Bybit says it was hacked and lost around $1.4B](https://techcrunch.com/2025/02/21/crypto-exchange-bybit-says-it-was-hacked-and-lost-around-1-4-billion/) - Time not found
 - [OpenAI rolls out its AI agent, Operator, in several countries](https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/) - Time not found
 - [Mark Zuckerberg’s makeover didn’t make people like him, study shows](https://techcrunch.com/2025/02/20/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows/) - Time not found
-- [Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/) - Time not found
 - [Amazon is shutting down its app store on Android](https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/) - Time not found
