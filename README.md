@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/) - 2 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 16 hours ago
-- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 20 hours ago
-- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 22 hours ago
+- [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 2 hours ago
+- [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/) - 6 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 20 hours ago
+- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 1 day ago
+- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 1 day ago
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 1 day ago
 - [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - 2 days ago
 - [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 4 days ago
@@ -17,8 +18,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/) - 4 days ago
 - [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - 4 days ago
 - [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - 4 days ago
-- [7 new tech unicorns were minted in January 2025](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/) - 5 days ago
-- [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - 5 days ago
+- [7 new tech unicorns were minted in January 2025](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/) - Feb 20, 2025
+- [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - Feb 20, 2025
 - [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - Feb 20, 2025
 - [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - Feb 19, 2025
 - [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - Feb 19, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Hightouch raises $80M on a $1.2B valuation for marketing tools powered by AI](https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/) - Feb 18, 2025
 - [Lingo.dev is an app localization engine for developers](https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/) - Feb 18, 2025
 - [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/) - Feb 18, 2025
-- [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/) - Feb 18, 2025
+- [Google launches a free AI coding assistant with very high usage caps](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/) - Time not found
 - [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/) - Time not found
 - [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/) - Time not found
 - [Anthropic launches a new AI model that ‘thinks’ as long as you want](https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/) - Time not found
 - [Perplexity teases a web browser called Comet](https://techcrunch.com/2025/02/24/perplexity-teases-a-web-browser-called-comet/) - Time not found
-- [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/) - Time not found
+- [As Meta gets rid of fact-checkers, misinformation is going viral](https://techcrunch.com/2025/02/24/as-meta-gets-rid-of-fact-checkers-misinformation-is-going-viral/) - Time not found
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Time not found
-- [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/) - Time not found
+- [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/) - Feb 18, 2025
 - [Game maker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - Feb 17, 2025
 - [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - Feb 17, 2025
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - Feb 15, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/) - Feb 11, 2025
 - [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/) - Feb 11, 2025
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - Feb 11, 2025
-- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - Feb 11, 2025
+- [Google launches a free AI coding assistant with very high usage caps](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/) - Time not found
 - [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/) - Time not found
 - [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/) - Time not found
 - [Anthropic launches a new AI model that ‘thinks’ as long as you want](https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/) - Time not found
 - [Perplexity teases a web browser called Comet](https://techcrunch.com/2025/02/24/perplexity-teases-a-web-browser-called-comet/) - Time not found
-- [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/) - Time not found
+- [As Meta gets rid of fact-checkers, misinformation is going viral](https://techcrunch.com/2025/02/24/as-meta-gets-rid-of-fact-checkers-misinformation-is-going-viral/) - Time not found
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Time not found
-- [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/) - Time not found
