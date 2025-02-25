@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 8 hours ago
-- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 12 hours ago
-- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 14 hours ago
-- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 23 hours ago
-- [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - 1 day ago
-- [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 3 days ago
-- [Augury and Hightouch are in the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - 3 days ago
-- [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/) - 3 days ago
-- [AI wearables 1.0: Was Humane’s Ai Pin too ambitious?](https://techcrunch.com/podcast/ai-wearables-1-0-was-humanes-ai-pin-too-ambitious/) - 3 days ago
-- [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/) - 3 days ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 12 hours ago
+- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 16 hours ago
+- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 18 hours ago
+- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 1 day ago
+- [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - 2 days ago
+- [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 4 days ago
+- [Augury and Hightouch are in the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - 4 days ago
+- [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/) - 4 days ago
+- [AI wearables 1.0: Was Humane’s Ai Pin too ambitious?](https://techcrunch.com/podcast/ai-wearables-1-0-was-humanes-ai-pin-too-ambitious/) - 4 days ago
+- [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/) - 4 days ago
 - [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - 4 days ago
 - [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - 4 days ago
 - [7 new tech unicorns were minted in January 2025](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/) - 4 days ago
 - [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - 4 days ago
-- [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - 4 days ago
+- [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - Feb 20, 2025
 - [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - Feb 19, 2025
 - [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - Feb 19, 2025
 - [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - Feb 19, 2025
@@ -36,10 +36,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Game maker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - Feb 17, 2025
 - [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/) - Time not found
 - [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/) - Time not found
+- [Perplexity teases a web browser called Comet](https://techcrunch.com/2025/02/24/perplexity-teases-a-web-browser-called-comet/) - Time not found
 - [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/) - Time not found
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Time not found
 - [Google’s new AI video model Veo 2 will cost 50 cents per second](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) - Time not found
-- [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/) - Time not found
 - [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/) - Time not found
 - [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - Feb 17, 2025
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - Feb 15, 2025
