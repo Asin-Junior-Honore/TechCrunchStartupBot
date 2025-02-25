@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 5 hours ago
-- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 9 hours ago
-- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 11 hours ago
-- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 20 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 8 hours ago
+- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 12 hours ago
+- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 14 hours ago
+- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 23 hours ago
 - [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - 1 day ago
 - [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 3 days ago
 - [Augury and Hightouch are in the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - 3 days ago
 - [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/) - 3 days ago
 - [AI wearables 1.0: Was Humane’s Ai Pin too ambitious?](https://techcrunch.com/podcast/ai-wearables-1-0-was-humanes-ai-pin-too-ambitious/) - 3 days ago
 - [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/) - 3 days ago
-- [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - 3 days ago
-- [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - 3 days ago
+- [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - 4 days ago
+- [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - 4 days ago
 - [7 new tech unicorns were minted in January 2025](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/) - 4 days ago
 - [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - 4 days ago
 - [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - 4 days ago
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - Feb 11, 2025
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - Feb 11, 2025
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - Feb 11, 2025
+- [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/) - Time not found
 - [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/) - Time not found
 - [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/) - Time not found
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Time not found
 - [Google’s new AI video model Veo 2 will cost 50 cents per second](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) - Time not found
 - [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/) - Time not found
 - [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/) - Time not found
-- [Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/) - Time not found
