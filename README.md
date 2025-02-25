@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 11 minutes ago
-- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 4 hours ago
-- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 6 hours ago
-- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 15 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 5 hours ago
+- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 9 hours ago
+- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 11 hours ago
+- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 20 hours ago
 - [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - 1 day ago
 - [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - 3 days ago
 - [Augury and Hightouch are in the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - 3 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/) - Feb 18, 2025
 - [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/) - Feb 18, 2025
 - [Game maker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/) - Feb 17, 2025
+- [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/) - Time not found
+- [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/) - Time not found
 - [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/) - Time not found
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Time not found
 - [Google’s new AI video model Veo 2 will cost 50 cents per second](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) - Time not found
 - [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/) - Time not found
 - [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/) - Time not found
-- [Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk](https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/) - Time not found
-- [Did xAI lie about Grok 3’s benchmarks?](https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/) - Time not found
 - [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/) - Feb 17, 2025
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/) - Feb 15, 2025
 - [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/) - Feb 15, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/) - Feb 11, 2025
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/) - Feb 11, 2025
 - [Google-backed Boston quantum startup QuEra raises $230M debt round](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/) - Feb 11, 2025
+- [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/) - Time not found
 - [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/) - Time not found
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Time not found
 - [Google’s new AI video model Veo 2 will cost 50 cents per second](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) - Time not found
 - [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/) - Time not found
 - [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/) - Time not found
-- [Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk](https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/) - Time not found
-- [Did xAI lie about Grok 3’s benchmarks?](https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/) - Time not found
+- [Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/) - Time not found
