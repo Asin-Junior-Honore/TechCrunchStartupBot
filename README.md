@@ -4,12 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 6 minutes ago
-- [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 13 hours ago
-- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 15 hours ago
-- [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 19 hours ago
-- [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/) - 19 hours ago
-- [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 22 hours ago
+- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - 2 minutes ago
+- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - 2 minutes ago
+- [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - 1 hour ago
+- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 1 hour ago
+- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 3 hours ago
+- [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 3 hours ago
+- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 4 hours ago
+- [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 17 hours ago
+- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 19 hours ago
+- [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 22 hours ago
+- [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/) - 23 hours ago
+- [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 1 day ago
 - [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/) - 1 day ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 2 days ago
 - [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 2 days ago
@@ -28,12 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - Feb 20, 2025
 - [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - Feb 19, 2025
 - [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - Feb 19, 2025
-- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - Feb 19, 2025
-- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - Feb 19, 2025
-- [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/) - Feb 19, 2025
-- [How Slow Ventures is giving the creator economy a rebrand](https://techcrunch.com/podcast/how-slow-ventures-is-giving-the-creator-economy-a-rebrand/) - Feb 19, 2025
-- [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/) - Feb 19, 2025
-- [Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B](https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/) - Feb 18, 2025
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Time not found
 - [Perplexity launches $50M seed and pre-seed VC fund](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/) - Time not found
 - [Lucid Motors CEO Peter Rawlinson steps down](https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/) - Time not found
@@ -41,6 +41,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Is this 32-year-old a brilliant founder, or a deceptive fraudster?](https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/) - Time not found
 - [What to expect from Amazon’s Alexa event on Wednesday](https://techcrunch.com/2025/02/25/what-to-expect-from-amazons-alexa-event-on-wednesday/) - Time not found
 - [Google launches a free AI coding assistant with very high usage caps](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/) - Time not found
+- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - Feb 19, 2025
+- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - Feb 19, 2025
+- [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/) - Feb 19, 2025
+- [How Slow Ventures is giving the creator economy a rebrand](https://techcrunch.com/podcast/how-slow-ventures-is-giving-the-creator-economy-a-rebrand/) - Feb 19, 2025
+- [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/) - Feb 19, 2025
+- [Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B](https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/) - Feb 18, 2025
 - [Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup](https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/) - Feb 18, 2025
 - [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/) - Feb 18, 2025
 - [Hightouch raises $80M on a $1.2B valuation for marketing tools powered by AI](https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/) - Feb 18, 2025
@@ -65,12 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/) - Feb 13, 2025
 - [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/) - Feb 13, 2025
 - [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/) - Feb 13, 2025
-- [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/) - Feb 12, 2025
-- [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/) - Feb 12, 2025
-- [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/) - Feb 12, 2025
-- [Six months after raising $29M, Candid Health nabs another $52.5M to ease medical billing](https://techcrunch.com/2025/02/12/six-months-after-raising-29m-candid-health-nabs-another-52-5m-to-ease-medical-billing/) - Feb 12, 2025
-- [Sheel Mohnot says the fintech market is ‘hot again’](https://techcrunch.com/podcast/sheel-mohnot-says-the-fintech-market-is-hot-again/) - Feb 12, 2025
-- [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/) - Feb 12, 2025
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Time not found
 - [Perplexity launches $50M seed and pre-seed VC fund](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/) - Time not found
 - [Lucid Motors CEO Peter Rawlinson steps down](https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/) - Time not found
