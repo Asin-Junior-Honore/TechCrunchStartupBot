@@ -4,26 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - 2 hours ago
-- [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - 6 hours ago
-- [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - 6 hours ago
-- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - 9 hours ago
-- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - 9 hours ago
-- [Brazilian SaaS startup Capim lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/) - 9 hours ago
-- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 10 hours ago
-- [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - 10 hours ago
-- [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 12 hours ago
-- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 12 hours ago
-- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 12 hours ago
+- [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - 5 hours ago
+- [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - 9 hours ago
+- [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - 9 hours ago
+- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - 12 hours ago
+- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - 12 hours ago
+- [Brazilian SaaS startup Capim lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/) - 12 hours ago
+- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 13 hours ago
+- [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - 13 hours ago
+- [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 15 hours ago
+- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 15 hours ago
+- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 16 hours ago
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 1 day ago
 - [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 1 day ago
 - [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 1 day ago
 - [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/) - 1 day ago
-- [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 1 day ago
+- [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 2 days ago
 - [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/) - 2 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/) - 2 days ago
 - [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 2 days ago
-- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 2 days ago
+- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 3 days ago
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 3 days ago
 - [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - 3 days ago
 - [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - Feb 21, 2025
@@ -34,12 +34,12 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/) - Feb 21, 2025
 - [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/) - Feb 21, 2025
 - [7 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/02/20/7-new-tech-unicorns-were-minted-in-2025-so-far/) - Feb 20, 2025
+- [Nvidia CEO Jensen Huang shrugs off DeepSeek as sales soar](https://techcrunch.com/2025/02/26/nvidia-ceo-jensen-huang-shrugs-off-deepseek-as-sales-soar/) - Time not found
 - [Amazon Alexa+ costs $19.99, free for Prime members](https://techcrunch.com/2025/02/26/amazon-alexa-costs-19-99-free-for-prime-members/) - Time not found
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Time not found
 - [Perplexity launches $50M seed and pre-seed VC fund](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/) - Time not found
 - [Lucid Motors CEO Peter Rawlinson steps down](https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/) - Time not found
 - [Is this 32-year-old a brilliant founder, or a deceptive fraudster?](https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/) - Time not found
-- [What to expect from Amazon’s Alexa event on Wednesday](https://techcrunch.com/2025/02/25/what-to-expect-from-amazons-alexa-event-on-wednesday/) - Time not found
 - [Google launches a free AI coding assistant with very high usage caps](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/) - Time not found
 - [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - Feb 20, 2025
 - [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - Feb 20, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/) - Feb 13, 2025
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/) - Feb 13, 2025
 - [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/) - Feb 13, 2025
+- [Nvidia CEO Jensen Huang shrugs off DeepSeek as sales soar](https://techcrunch.com/2025/02/26/nvidia-ceo-jensen-huang-shrugs-off-deepseek-as-sales-soar/) - Time not found
 - [Amazon Alexa+ costs $19.99, free for Prime members](https://techcrunch.com/2025/02/26/amazon-alexa-costs-19-99-free-for-prime-members/) - Time not found
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Time not found
 - [Perplexity launches $50M seed and pre-seed VC fund](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/) - Time not found
 - [Lucid Motors CEO Peter Rawlinson steps down](https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/) - Time not found
 - [Is this 32-year-old a brilliant founder, or a deceptive fraudster?](https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/) - Time not found
-- [What to expect from Amazon’s Alexa event on Wednesday](https://techcrunch.com/2025/02/25/what-to-expect-from-amazons-alexa-event-on-wednesday/) - Time not found
 - [Google launches a free AI coding assistant with very high usage caps](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/) - Time not found
