@@ -4,17 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 6 hours ago
-- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - 13 hours ago
-- [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 14 hours ago
-- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 18 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 18 hours ago
-- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 20 hours ago
-- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 20 hours ago
-- [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 20 hours ago
-- [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 21 hours ago
-- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 21 hours ago
-- [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/) - 1 day ago
+- [OpenAI’s startup empire: The companies backed by its venture fund](https://techcrunch.com/2025/03/01/openais-startup-empire-the-companies-backed-by-its-venture-fund/) - 2 hours ago
+- [2 days left to save up to $325 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/) - 2 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 10 hours ago
+- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - 17 hours ago
+- [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 18 hours ago
+- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 22 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 22 hours ago
+- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 1 day ago
+- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 1 day ago
+- [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 1 day ago
+- [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 1 day ago
+- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 1 day ago
+- [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/) - 2 days ago
 - [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/) - 2 days ago
 - [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/) - 2 days ago
 - [Accounting hasn’t fully embraced AI yet — Quanta just raised $4.7M to change that](https://techcrunch.com/2025/02/27/accounting-hasnt-fully-embraced-ai-yet-quanta-just-raised-4-7m-to-change-that/) - 2 days ago
@@ -32,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 3 days ago
 - [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - 3 days ago
 - [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 3 days ago
-- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 3 days ago
-- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 3 days ago
 - [Sergey Brin says RTO is key to Google winning the AGI race](https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/) - Time not found
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - Time not found
 - [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/) - Time not found
+- [Tesla applies for ride-hail permit in California — but there’s a catch](https://techcrunch.com/2025/02/28/tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch/) - Time not found
 - [Microsoft hangs up on Skype: Service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/) - Time not found
 - [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/) - Time not found
 - [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/) - Time not found
-- [OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet](https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/) - Time not found
-- [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 3 days ago
+- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 3 days ago
+- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 3 days ago
+- [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 4 days ago
 - [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 4 days ago
 - [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 4 days ago
 - [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/) - 4 days ago
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [How Slow Ventures is giving the creator economy a rebrand](https://techcrunch.com/podcast/how-slow-ventures-is-giving-the-creator-economy-a-rebrand/) - Feb 19, 2025
 - [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/) - Feb 19, 2025
 - [Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B](https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/) - Feb 18, 2025
-- [Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup](https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/) - Feb 18, 2025
-- [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/) - Feb 18, 2025
 - [Sergey Brin says RTO is key to Google winning the AGI race](https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/) - Time not found
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - Time not found
 - [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/) - Time not found
+- [Tesla applies for ride-hail permit in California — but there’s a catch](https://techcrunch.com/2025/02/28/tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch/) - Time not found
 - [Microsoft hangs up on Skype: Service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/) - Time not found
 - [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/) - Time not found
 - [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/) - Time not found
-- [OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet](https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/) - Time not found
