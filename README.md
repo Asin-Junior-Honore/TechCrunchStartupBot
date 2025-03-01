@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 2 hours ago
-- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - 9 hours ago
-- [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 10 hours ago
-- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 14 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 14 hours ago
-- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 16 hours ago
-- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 16 hours ago
-- [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 16 hours ago
-- [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 17 hours ago
-- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 17 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 6 hours ago
+- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - 13 hours ago
+- [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 14 hours ago
+- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 18 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 18 hours ago
+- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 20 hours ago
+- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 20 hours ago
+- [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 20 hours ago
+- [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 21 hours ago
+- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 21 hours ago
 - [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/) - 1 day ago
-- [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/) - 1 day ago
+- [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/) - 2 days ago
 - [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/) - 2 days ago
 - [Accounting hasn’t fully embraced AI yet — Quanta just raised $4.7M to change that](https://techcrunch.com/2025/02/27/accounting-hasnt-fully-embraced-ai-yet-quanta-just-raised-4-7m-to-change-that/) - 2 days ago
 - [Workhelix taps years of research to help enterprises figure out where to apply AI](https://techcrunch.com/2025/02/27/workhelix-taps-years-of-research-to-help-enterprises-figure-out-where-to-apply-ai/) - 2 days ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/) - 2 days ago
 - [Just Move In raises $8M Series A for its home setup service ](https://techcrunch.com/2025/02/27/just-move-in-raises-8m-series-a-for-its-home-setup-service/) - 2 days ago
 - [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - 2 days ago
-- [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - 2 days ago
+- [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - 3 days ago
 - [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - 3 days ago
 - [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - 3 days ago
 - [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - 3 days ago
@@ -42,7 +42,7 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/) - Time not found
 - [OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet](https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/) - Time not found
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 3 days ago
-- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 3 days ago
+- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 4 days ago
 - [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 4 days ago
 - [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/) - 4 days ago
 - [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 4 days ago
