@@ -4,22 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 2 hours ago
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 2 hours ago
-- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 4 hours ago
-- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 4 hours ago
-- [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 4 hours ago
-- [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 5 hours ago
-- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 5 hours ago
-- [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/) - 17 hours ago
-- [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/) - 22 hours ago
-- [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/) - 24 hours ago
+- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - 2 hours ago
+- [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 3 hours ago
+- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 7 hours ago
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 7 hours ago
+- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 9 hours ago
+- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 9 hours ago
+- [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 9 hours ago
+- [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 10 hours ago
+- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 10 hours ago
+- [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/) - 23 hours ago
+- [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/) - 1 day ago
+- [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/) - 1 day ago
 - [Accounting hasn’t fully embraced AI yet — Quanta just raised $4.7M to change that](https://techcrunch.com/2025/02/27/accounting-hasnt-fully-embraced-ai-yet-quanta-just-raised-4-7m-to-change-that/) - 1 day ago
 - [Workhelix taps years of research to help enterprises figure out where to apply AI](https://techcrunch.com/2025/02/27/workhelix-taps-years-of-research-to-help-enterprises-figure-out-where-to-apply-ai/) - 1 day ago
 - [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion-dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/) - 1 day ago
 - [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/) - 1 day ago
 - [Just Move In raises $8M Series A for its home setup service ](https://techcrunch.com/2025/02/27/just-move-in-raises-8m-series-a-for-its-home-setup-service/) - 1 day ago
-- [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - 1 day ago
+- [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - 2 days ago
 - [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - 2 days ago
 - [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - 2 days ago
 - [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - 2 days ago
@@ -28,25 +30,25 @@ Here are the latest articles from TechCrunch Startups:
 - [Brazilian SaaS startup Capim lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/) - 2 days ago
 - [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 2 days ago
 - [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - 2 days ago
-- [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 2 days ago
-- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 2 days ago
-- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 2 days ago
+- [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 3 days ago
+- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 3 days ago
+- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 3 days ago
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - 3 days ago
-- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 3 days ago
-- [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 3 days ago
 - [Microsoft hangs up on Skype: Service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/) - Time not found
+- [Airbnb co-founder Joe Gebbia takes wraps off his first assignment for DOGE](https://techcrunch.com/2025/02/27/airbnb-co-founder-joe-gebbia-takes-wraps-off-his-first-assignment-for-doge/) - Time not found
 - [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/) - Time not found
 - [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/) - Time not found
 - [OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet](https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/) - Time not found
 - [Stripe says AI startups are growing faster than SaaS ever did, and calling them wrappers ‘misses the point’](https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/) - Time not found
-- [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion-dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/) - Time not found
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Time not found
+- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - 3 days ago
+- [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - 3 days ago
 - [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/) - 3 days ago
 - [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/) - 3 days ago
-- [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/) - 3 days ago
+- [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/) - 4 days ago
 - [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/) - 4 days ago
 - [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/) - 4 days ago
-- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - 5 days ago
+- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/) - Feb 23, 2025
 - [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/) - Feb 23, 2025
 - [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/) - Feb 21, 2025
 - [Augury and Hightouch are in the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/) - Feb 21, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup](https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/) - Feb 18, 2025
 - [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/) - Feb 18, 2025
 - [Hightouch raises $80M on a $1.2B valuation for marketing tools powered by AI](https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/) - Feb 18, 2025
-- [Lingo.dev is an app localization engine for developers](https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/) - Feb 18, 2025
-- [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/) - Feb 18, 2025
 - [Microsoft hangs up on Skype: Service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/) - Time not found
+- [Airbnb co-founder Joe Gebbia takes wraps off his first assignment for DOGE](https://techcrunch.com/2025/02/27/airbnb-co-founder-joe-gebbia-takes-wraps-off-his-first-assignment-for-doge/) - Time not found
 - [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/) - Time not found
 - [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/) - Time not found
 - [OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet](https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/) - Time not found
 - [Stripe says AI startups are growing faster than SaaS ever did, and calling them wrappers ‘misses the point’](https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/) - Time not found
-- [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion-dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/) - Time not found
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Time not found
