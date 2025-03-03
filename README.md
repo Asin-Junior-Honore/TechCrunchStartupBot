@@ -4,13 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/) - 3 hours ago
-- [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/) - 18 hours ago
+- [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/) - 10 minutes ago
+- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/) - 3 hours ago
+- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/) - 6 hours ago
+- [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/) - 7 hours ago
+- [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/) - 23 hours ago
 - [Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI](https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/) - 1 day ago
 - [DeepSeek claims ‘theoretical’ profit margins of 545%](https://techcrunch.com/2025/03/01/deepseek-claims-theoretical-profit-margins-of-545/) - 2 days ago
 - [2 days left to save up to $325 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/) - 2 days ago
 - [OpenAI’s startup empire: The companies backed by its venture fund](https://techcrunch.com/2025/03/01/openais-startup-empire-the-companies-backed-by-its-venture-fund/) - 2 days ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 2 days ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 3 days ago
 - [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - 3 days ago
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 3 days ago
 - [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 3 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - 4 days ago
 - [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - Feb 26, 2025
 - [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - Feb 26, 2025
-- [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - Feb 26, 2025
-- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - Feb 26, 2025
-- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - Feb 26, 2025
-- [Signal is the number-one downloaded app in the Netherlands. But why?](https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/) - Time not found
+- [Chinese buyers are getting Nvidia Blackwell chips despite US export controls](https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/) - Time not found
+- [Google’s Gemini now lets you ask questions using videos and what’s on your screen](https://techcrunch.com/2025/03/03/googles-gemini-now-lets-you-ask-questions-using-videos-or-whats-on-your-screen/) - Time not found
+- [Signal is the No. 1 downloaded app in the Netherlands. But why?](https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/) - Time not found
 - [Trump calls for creation of a ‘crypto strategic reserve’](https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/) - Time not found
 - [Mark Cuban offers to fund government tech unit that was cut in the middle of the night](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/) - Time not found
 - [Ben Horowitz donates Cybertruck fleet to the Las Vegas police](https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/) - Time not found
-- [How to get rid of the new Apple Mail redesign](https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/) - Time not found
 - [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/) - Time not found
-- [Microsoft hangs up on Skype: Service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/) - Time not found
+- [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - Feb 26, 2025
+- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - Feb 26, 2025
+- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - Feb 26, 2025
 - [Brazilian SaaS startup Capim lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/) - Feb 26, 2025
 - [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - Feb 26, 2025
 - [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - Feb 26, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/) - Feb 20, 2025
 - [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/) - Feb 20, 2025
 - [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/) - Feb 19, 2025
-- [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/) - Feb 19, 2025
-- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - Feb 19, 2025
-- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - Feb 19, 2025
-- [Signal is the number-one downloaded app in the Netherlands. But why?](https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/) - Time not found
+- [Chinese buyers are getting Nvidia Blackwell chips despite US export controls](https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/) - Time not found
+- [Google’s Gemini now lets you ask questions using videos and what’s on your screen](https://techcrunch.com/2025/03/03/googles-gemini-now-lets-you-ask-questions-using-videos-or-whats-on-your-screen/) - Time not found
+- [Signal is the No. 1 downloaded app in the Netherlands. But why?](https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/) - Time not found
 - [Trump calls for creation of a ‘crypto strategic reserve’](https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/) - Time not found
 - [Mark Cuban offers to fund government tech unit that was cut in the middle of the night](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/) - Time not found
 - [Ben Horowitz donates Cybertruck fleet to the Las Vegas police](https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/) - Time not found
-- [How to get rid of the new Apple Mail redesign](https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/) - Time not found
-- [Sergey Brin says RTO is key to Google winning the AGI race](https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/) - Time not found
 - [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/) - Time not found
