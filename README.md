@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI](https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/) - 6 hours ago
+- [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/) - 4 hours ago
+- [Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI](https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/) - 11 hours ago
 - [DeepSeek claims ‘theoretical’ profit margins of 545%](https://techcrunch.com/2025/03/01/deepseek-claims-theoretical-profit-margins-of-545/) - 1 day ago
 - [2 days left to save up to $325 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/) - 1 day ago
 - [OpenAI’s startup empire: The companies backed by its venture fund](https://techcrunch.com/2025/03/01/openais-startup-empire-the-companies-backed-by-its-venture-fund/) - 1 day ago
@@ -13,8 +14,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - 2 days ago
 - [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - 2 days ago
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - 2 days ago
-- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 2 days ago
 - [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/) - 2 days ago
+- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/) - 2 days ago
 - [Every year, it seems like there’s at least one big YC controversy](https://techcrunch.com/podcast/every-year-it-seems-like-theres-at-least-one-big-yc-controversy/) - 2 days ago
 - [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/) - 2 days ago
 - [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/) - 2 days ago
@@ -26,14 +27,13 @@ Here are the latest articles from TechCrunch Startups:
 - [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion-dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/) - 3 days ago
 - [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/) - 3 days ago
 - [Just Move In raises $8M Series A for its home setup service ](https://techcrunch.com/2025/02/27/just-move-in-raises-8m-series-a-for-its-home-setup-service/) - 3 days ago
-- [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - 3 days ago
+- [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - 4 days ago
 - [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - 4 days ago
 - [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - 4 days ago
 - [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - 4 days ago
 - [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - 4 days ago
 - [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - 4 days ago
 - [Brazilian SaaS startup Capim lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/) - 4 days ago
-- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 4 days ago
 - [Trump calls for creation of a ‘crypto strategic reserve’](https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/) - Time not found
 - [Mark Cuban offers to fund government tech unit that was cut in the middle of the night](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/) - Time not found
 - [Ben Horowitz donates Cybertruck fleet to the Las Vegas police](https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/) - Time not found
@@ -41,10 +41,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Sergey Brin says RTO is key to Google winning the AGI race](https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/) - Time not found
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - Time not found
 - [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/) - Time not found
+- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/) - 4 days ago
 - [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/) - 4 days ago
 - [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/) - 4 days ago
 - [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - 4 days ago
-- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 4 days ago
+- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - 5 days ago
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Feb 25, 2025
 - [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - Feb 25, 2025
 - [DocUnlock wants to solve a customs bottleneck](https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/) - Feb 25, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/) - Feb 19, 2025
 - [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/) - Feb 19, 2025
 - [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/) - Feb 19, 2025
-- [How Slow Ventures is giving the creator economy a rebrand](https://techcrunch.com/podcast/how-slow-ventures-is-giving-the-creator-economy-a-rebrand/) - Feb 19, 2025
 - [Trump calls for creation of a ‘crypto strategic reserve’](https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/) - Time not found
 - [Mark Cuban offers to fund government tech unit that was cut in the middle of the night](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/) - Time not found
 - [Ben Horowitz donates Cybertruck fleet to the Las Vegas police](https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/) - Time not found
