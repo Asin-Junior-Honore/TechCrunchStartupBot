@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/) - 6 hours ago
-- [Revenue prediction startup Gong surpasses $300M in annualized revenue, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/) - 17 hours ago
-- [Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/) - 17 hours ago
-- [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/) - 19 hours ago
-- [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/) - 19 hours ago
-- [Is Silicon Valley still the best place for startups? Insight Partners’ Ryan Hinkle doesn’t think so.](https://techcrunch.com/podcast/is-silicon-valley-still-the-best-place-for-startups-insight-partners-ryan-hinkle-doesnt-think-so/) - 20 hours ago
-- [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/) - 20 hours ago
-- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - 21 hours ago
+- [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/) - 1 hour ago
+- [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/) - 10 hours ago
+- [Revenue prediction startup Gong surpasses $300M in annualized revenue, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/) - 21 hours ago
+- [Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/) - 21 hours ago
+- [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/) - 23 hours ago
+- [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/) - 23 hours ago
+- [Is Silicon Valley still the best place for startups? Insight Partners’ Ryan Hinkle doesn’t think so.](https://techcrunch.com/podcast/is-silicon-valley-still-the-best-place-for-startups-insight-partners-ryan-hinkle-doesnt-think-so/) - 24 hours ago
+- [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/) - 1 day ago
+- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - 1 day ago
 - [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/) - 1 day ago
 - [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/) - 1 day ago
 - [Aspiration co-founder and board member defrauded investors of $145M, prosecutors say](https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [2 days left to save up to $325 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/) - Mar 1, 2025
 - [OpenAI’s startup empire: The companies backed by its venture fund](https://techcrunch.com/2025/03/01/openais-startup-empire-the-companies-backed-by-its-venture-fund/) - Mar 1, 2025
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - Feb 28, 2025
-- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - Feb 28, 2025
+- [Canoo’s CEO is buying the bankrupt EV startup’s assets](https://techcrunch.com/2025/03/05/canoos-ceo-is-buying-the-bankrupt-ev-startups-assets/) - Time not found
+- [Eric Schmidt argues against a ‘Manhattan Project for AGI’](https://techcrunch.com/2025/03/05/eric-schmidt-argues-against-a-manhattan-project-for-agi/) - Time not found
 - [Volkswagen’s cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/) - Time not found
 - [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/) - Time not found
 - [OpenAI’s GPT-4.5 AI model comes to more ChatGPT users](https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/) - Time not found
-- [Ahead of a possible $4 billion IPO, CoreWeave’s founders already pocketed $488 million](https://techcrunch.com/2025/03/05/ahead-of-a-possible-4-billion-ipo-coreweaves-founders-already-pocketed-488-million/) - Time not found
 - [YouTube launches a $7.99 per month, ad-free Premium Lite subscription](https://techcrunch.com/2025/03/05/youtube-launches-a-7-99-per-month-ad-free-premium-lite-subscription/) - Time not found
-- [Kevin Rose, Alexis Ohanian acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/) - Time not found
 - [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/) - Time not found
+- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/) - Feb 28, 2025
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/) - Feb 28, 2025
 - [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/) - Feb 28, 2025
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/) - Feb 28, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/) - Feb 26, 2025
 - [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/) - Feb 26, 2025
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/) - Feb 25, 2025
-- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/) - Feb 25, 2025
+- [Canoo’s CEO is buying the bankrupt EV startup’s assets](https://techcrunch.com/2025/03/05/canoos-ceo-is-buying-the-bankrupt-ev-startups-assets/) - Time not found
+- [Eric Schmidt argues against a ‘Manhattan Project for AGI’](https://techcrunch.com/2025/03/05/eric-schmidt-argues-against-a-manhattan-project-for-agi/) - Time not found
 - [Volkswagen’s cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/) - Time not found
 - [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/) - Time not found
 - [OpenAI’s GPT-4.5 AI model comes to more ChatGPT users](https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/) - Time not found
-- [Ahead of a possible $4 billion IPO, CoreWeave’s founders already pocketed $488 million](https://techcrunch.com/2025/03/05/ahead-of-a-possible-4-billion-ipo-coreweaves-founders-already-pocketed-488-million/) - Time not found
 - [YouTube launches a $7.99 per month, ad-free Premium Lite subscription](https://techcrunch.com/2025/03/05/youtube-launches-a-7-99-per-month-ad-free-premium-lite-subscription/) - Time not found
-- [Kevin Rose, Alexis Ohanian acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/) - Time not found
 - [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/) - Time not found
