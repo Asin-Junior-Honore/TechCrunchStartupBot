@@ -4,16 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - 1 hour ago
-- [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - 18 hours ago
-- [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - 19 hours ago
-- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - 20 hours ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 22 hours ago
-- [TechCrunch Sessions: AI speaker applications close tomorrow, submit yours today](https://techcrunch.com/2025/03/06/techcrunch-sessions-ai-speaker-applications-close-tomorrow-submit-yours-today/) - 23 hours ago
-- [Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M ](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/) - 23 hours ago
+- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 27 minutes ago
+- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - 57 minutes ago
+- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - 1 hour ago
+- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - 2 hours ago
+- [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - 4 hours ago
+- [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - 5 hours ago
+- [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - 22 hours ago
+- [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - 22 hours ago
+- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - 23 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 1 day ago
+- [Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M ](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/) - 1 day ago
 - [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/) - 1 day ago
 - [Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation](https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/) - 1 day ago
-- [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/) - 1 day ago
+- [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/) - 2 days ago
 - [Revenue prediction startup Gong surpasses $300M in annualized revenue, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/) - 2 days ago
 - [Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/) - 2 days ago
 - [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/) - 2 days ago
@@ -22,18 +26,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/) - 2 days ago
 - [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - 2 days ago
 - [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/) - 2 days ago
-- [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/) - 2 days ago
+- [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/) - 3 days ago
 - [Aspiration co-founder and board member defrauded investors of $145M, prosecutors say](https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/) - 3 days ago
 - [The decline in funding has hit male and female-led startups equally, but women out-raise men in DeepTech](https://techcrunch.com/2025/03/04/funding-to-women-founded-startups-declined-12-in-2024-but-that-wasnt-far-behind-the-broader-market/) - 3 days ago
 - [LlamaIndex launches a cloud service for building unstructured data agents](https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/) - 3 days ago
 - [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/) - 3 days ago
 - [Dutch startup QuantWare seeks to fast-track quantum computing](https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/) - 3 days ago
-- [Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage](https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/) - 3 days ago
+- [Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage](https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/) - 4 days ago
 - [Ramp, a 6-year-old fintech startup, has more than doubled its annualized revenue to $700M](https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/) - 4 days ago
-- [Anthropic raises $3.5B to fuel its AI ambitions](https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/) - 4 days ago
-- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/) - 4 days ago
-- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/) - 4 days ago
-- [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/) - 4 days ago
 - [SpaceX Starship spirals out of control in second straight test flight failure](https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/) - Time not found
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Time not found
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Time not found
@@ -41,6 +41,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Mistral adds a new API that turns any PDF document into an AI-ready Markdown file](https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/) - Time not found
 - [UK quietly scrubs encryption advice from government websites](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/) - Time not found
 - [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/) - Time not found
+- [Anthropic raises $3.5B to fuel its AI ambitions](https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/) - 4 days ago
+- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/) - 4 days ago
+- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/) - 4 days ago
+- [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/) - 4 days ago
 - [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/) - Mar 2, 2025
 - [Aviron’s $2,499 gamified treadmill will keep you on your toes](https://techcrunch.com/2025/03/02/avirons-2499-gamified-treadmill-will-keep-you-on-your-toes/) - Mar 2, 2025
 - [Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI](https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/) - Mar 2, 2025
@@ -67,10 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - Feb 27, 2025
 - [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/) - Feb 26, 2025
 - [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) - Feb 26, 2025
-- [How Gradient Ventures is shaping the AI startup landscape with Eylul Kayin](https://techcrunch.com/podcast/how-gradient-ventures-is-shaping-the-ai-startup-landscape-with-eylul-kayin/) - Feb 26, 2025
-- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/) - Feb 26, 2025
-- [Brazilian SaaS startup Capim lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/) - Feb 26, 2025
-- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/) - Feb 26, 2025
 - [SpaceX Starship spirals out of control in second straight test flight failure](https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/) - Time not found
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Time not found
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Time not found
