@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - 12 hours ago
-- [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - 15 hours ago
-- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 17 hours ago
-- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - 17 hours ago
-- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - 18 hours ago
-- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - 18 hours ago
-- [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - 20 hours ago
-- [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - 21 hours ago
+- [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - 15 hours ago
+- [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - 18 hours ago
+- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 20 hours ago
+- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - 21 hours ago
+- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - 21 hours ago
+- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - 21 hours ago
+- [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - 23 hours ago
+- [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - 1 day ago
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - 2 days ago
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - 2 days ago
 - [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - 2 days ago
@@ -34,18 +34,18 @@ Here are the latest articles from TechCrunch Startups:
 - [LlamaIndex launches a cloud service for building unstructured data agents](https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/) - 4 days ago
 - [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/) - 4 days ago
 - [Dutch startup QuantWare seeks to fast-track quantum computing](https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/) - 4 days ago
+- [Microsoft reportedly ramps up AI efforts to compete with OpenAI](https://techcrunch.com/2025/03/07/microsoft-reportedly-ramps-up-ai-efforts-to-compete-with-openai/) - Time not found
 - [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/) - Time not found
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Time not found
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Time not found
-- [Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’](https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/) - Time not found
 - [ChatGPT on macOS can now directly edit code](https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/) - Time not found
 - [Mistral adds a new API that turns any PDF document into an AI-ready Markdown file](https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/) - Time not found
 - [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/) - Time not found
 - [Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage](https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/) - 4 days ago
-- [Ramp, a 6-year-old fintech startup, has more than doubled its annualized revenue to $700M](https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/) - 4 days ago
-- [Anthropic raises $3.5B to fuel its AI ambitions](https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/) - 5 days ago
-- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/) - 5 days ago
-- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/) - 5 days ago
+- [Ramp, a 6-year-old fintech startup, has more than doubled its annualized revenue to $700M](https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/) - Mar 3, 2025
+- [Anthropic raises $3.5B to fuel its AI ambitions](https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/) - Mar 3, 2025
+- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/) - Mar 3, 2025
+- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/) - Mar 3, 2025
 - [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/) - Mar 3, 2025
 - [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/) - Mar 2, 2025
 - [Aviron’s $2,499 gamified treadmill will keep you on your toes](https://techcrunch.com/2025/03/02/avirons-2499-gamified-treadmill-will-keep-you-on-your-toes/) - Mar 2, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/) - Feb 27, 2025
 - [Just Move In raises $8M Series A for its home setup service ](https://techcrunch.com/2025/02/27/just-move-in-raises-8m-series-a-for-its-home-setup-service/) - Feb 27, 2025
 - [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/) - Feb 27, 2025
-- [SpaceX Starship spirals out of control in second straight test flight failure](https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/) - Time not found
+- [Microsoft reportedly ramps up AI efforts to compete with OpenAI](https://techcrunch.com/2025/03/07/microsoft-reportedly-ramps-up-ai-efforts-to-compete-with-openai/) - Time not found
+- [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/) - Time not found
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Time not found
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Time not found
-- [Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’](https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/) - Time not found
 - [ChatGPT on macOS can now directly edit code](https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/) - Time not found
 - [Mistral adds a new API that turns any PDF document into an AI-ready Markdown file](https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/) - Time not found
 - [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/) - Time not found
