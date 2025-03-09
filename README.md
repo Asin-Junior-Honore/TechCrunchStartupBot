@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - 20 hours ago
+- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/) - 3 minutes ago
+- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - 24 hours ago
 - [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - 2 days ago
 - [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - 2 days ago
 - [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 2 days ago
@@ -30,17 +31,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - 4 days ago
 - [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/) - 4 days ago
 - [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/) - 4 days ago
-- [Aspiration co-founder and board member defrauded investors of $145M, prosecutors say](https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/) - 5 days ago
+- [Aspiration co-founder and board member defrauded investors of $145M, prosecutors say](https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/) - Mar 4, 2025
 - [The decline in funding has hit male and female-led startups equally, but women out-raise men in DeepTech](https://techcrunch.com/2025/03/04/funding-to-women-founded-startups-declined-12-in-2024-but-that-wasnt-far-behind-the-broader-market/) - Mar 4, 2025
 - [LlamaIndex launches a cloud service for building unstructured data agents](https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/) - Mar 4, 2025
-- [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/) - Mar 4, 2025
+- [Judge allows authors’ AI copyright lawsuit against Meta to move forward](https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/) - Time not found
 - [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - Time not found
 - [Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race](https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/) - Time not found
 - [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/) - Time not found
-- [Microsoft reportedly ramps up AI efforts to compete with OpenAI](https://techcrunch.com/2025/03/07/microsoft-reportedly-ramps-up-ai-efforts-to-compete-with-openai/) - Time not found
 - [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/) - Time not found
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Time not found
 - [ChatGPT on macOS can now directly edit code](https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/) - Time not found
+- [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/) - Mar 4, 2025
 - [Dutch startup QuantWare seeks to fast-track quantum computing](https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/) - Mar 3, 2025
 - [Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage](https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/) - Mar 3, 2025
 - [Ramp, a 6-year-old fintech startup, has more than doubled its annualized revenue to $700M](https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/) - Mar 3, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Workhelix taps years of research to help enterprises figure out where to apply AI](https://techcrunch.com/2025/02/27/workhelix-taps-years-of-research-to-help-enterprises-figure-out-where-to-apply-ai/) - Feb 27, 2025
 - [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion-dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/) - Feb 27, 2025
 - [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/) - Feb 27, 2025
-- [Just Move In raises $8M Series A for its home setup service ](https://techcrunch.com/2025/02/27/just-move-in-raises-8m-series-a-for-its-home-setup-service/) - Feb 27, 2025
+- [Judge allows authors’ AI copyright lawsuit against Meta to move forward](https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/) - Time not found
+- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - Time not found
 - [Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race](https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/) - Time not found
 - [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/) - Time not found
-- [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - Time not found
-- [Microsoft reportedly ramps up AI efforts to compete with OpenAI](https://techcrunch.com/2025/03/07/microsoft-reportedly-ramps-up-ai-efforts-to-compete-with-openai/) - Time not found
 - [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/) - Time not found
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Time not found
 - [ChatGPT on macOS can now directly edit code](https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/) - Time not found
