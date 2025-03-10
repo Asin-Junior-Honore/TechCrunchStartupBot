@@ -4,40 +4,40 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - 9 hours ago
-- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/) - 12 hours ago
-- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - 1 day ago
+- [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - 13 hours ago
+- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/) - 16 hours ago
+- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - 2 days ago
 - [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - 2 days ago
 - [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - 2 days ago
-- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 2 days ago
-- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - 2 days ago
-- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - 2 days ago
-- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - 2 days ago
+- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 3 days ago
+- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - 3 days ago
+- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - 3 days ago
+- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - 3 days ago
 - [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - 3 days ago
 - [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - 3 days ago
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - 3 days ago
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - 3 days ago
-- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - 3 days ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 3 days ago
-- [Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M ](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/) - 3 days ago
+- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - 4 days ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 4 days ago
+- [Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M ](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/) - 4 days ago
 - [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/) - 4 days ago
 - [Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation](https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/) - 4 days ago
 - [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/) - 4 days ago
-- [Revenue prediction startup Gong surpasses $300M in annualized revenue, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/) - 4 days ago
-- [Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/) - 4 days ago
-- [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/) - 4 days ago
-- [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/) - 4 days ago
+- [Revenue prediction startup Gong surpasses $300M in annualized revenue, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/) - 5 days ago
+- [Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/) - 5 days ago
+- [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/) - 5 days ago
+- [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/) - 5 days ago
 - [Is Silicon Valley still the best place for startups? Insight Partners’ Ryan Hinkle doesn’t think so.](https://techcrunch.com/podcast/is-silicon-valley-still-the-best-place-for-startups-insight-partners-ryan-hinkle-doesnt-think-so/) - 5 days ago
-- [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/) - 5 days ago
-- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - 5 days ago
+- [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/) - Mar 5, 2025
+- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - Mar 5, 2025
 - [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/) - Mar 5, 2025
 - [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/) - Mar 4, 2025
 - [Aspiration co-founder and board member defrauded investors of $145M, prosecutors say](https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/) - Mar 4, 2025
 - [The decline in funding has hit male and female-led startups equally, but women out-raise men in DeepTech](https://techcrunch.com/2025/03/04/funding-to-women-founded-startups-declined-12-in-2024-but-that-wasnt-far-behind-the-broader-market/) - Mar 4, 2025
+- [Neom is reportedly turning into a financial disaster, except for McKinsey & Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/) - Time not found
 - [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/) - Time not found
 - [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - Time not found
 - [How to stop doomscrolling](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling/) - Time not found
-- [Judge allows authors’ AI copyright lawsuit against Meta to move forward](https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/) - Time not found
 - [Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race](https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/) - Time not found
 - [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/) - Time not found
 - [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Accounting hasn’t fully embraced AI yet — Quanta just raised $4.7M to change that](https://techcrunch.com/2025/02/27/accounting-hasnt-fully-embraced-ai-yet-quanta-just-raised-4-7m-to-change-that/) - Feb 27, 2025
 - [Workhelix taps years of research to help enterprises figure out where to apply AI](https://techcrunch.com/2025/02/27/workhelix-taps-years-of-research-to-help-enterprises-figure-out-where-to-apply-ai/) - Feb 27, 2025
 - [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion-dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/) - Feb 27, 2025
+- [Neom is reportedly turning into a financial disaster, except for McKinsey & Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/) - Time not found
 - [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/) - Time not found
 - [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - Time not found
 - [How to stop doomscrolling](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling/) - Time not found
-- [Judge allows authors’ AI copyright lawsuit against Meta to move forward](https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/) - Time not found
 - [Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race](https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/) - Time not found
 - [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/) - Time not found
 - [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/) - Time not found
