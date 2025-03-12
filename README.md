@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - 3 minutes ago
-- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - 11 hours ago
-- [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) - 15 hours ago
-- [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - 17 hours ago
-- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - 18 hours ago
-- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - 18 hours ago
-- [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - 20 hours ago
-- [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/) - 21 hours ago
-- [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/) - 21 hours ago
+- [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - 1 hour ago
+- [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - 4 hours ago
+- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - 15 hours ago
+- [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) - 19 hours ago
+- [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - 21 hours ago
+- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - 22 hours ago
+- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - 22 hours ago
+- [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - 1 day ago
+- [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/) - 1 day ago
+- [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/) - 1 day ago
 - [Reshape Energy is using an acquisition playbook to drive energy upgrades for commercial real estate](https://techcrunch.com/2025/03/11/reshape-energy-is-using-an-acquisition-playbook-to-drive-energy-upgrades-for-commercial-real-estate/) - 1 day ago
 - [Startup studio Hexa acquires majority stake in Veevart, a vertical SaaS platform for museums](https://techcrunch.com/2025/03/10/startup-studio-hexa-acquires-majority-stake-in-veevart-a-vertical-saas-for-museums/) - 1 day ago
 - [Radiology AI software provider Gleamer expands into MRI with two M&A transactions](https://techcrunch.com/2025/03/10/radiology-ai-software-provider-gleamer-expands-into-mri-with-two-small-acquisitions/) - 1 day ago
 - [Infinite Uptime bags $35M to help factories optimize equipment usage](https://techcrunch.com/2025/03/10/infinite-uptime-bags-35m-to-help-factories-optimize-equipment-usage/) - 1 day ago
-- [Eric Schmidt joins Relativity Space as CEO](https://techcrunch.com/2025/03/10/eric-schmidt-joins-relativity-space-as-ceo/) - 1 day ago
+- [Eric Schmidt joins Relativity Space as CEO](https://techcrunch.com/2025/03/10/eric-schmidt-joins-relativity-space-as-ceo/) - 2 days ago
 - [Open web initiatives Project Liberty and Solid could be teaming up](https://techcrunch.com/2025/03/10/open-web-initiatives-project-liberty-and-solid-could-be-teaming-up/) - 2 days ago
 - [Applications are open for Startup Battlefield 200 — apply today!](https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/) - 2 days ago
 - [Here’s your chance to host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/heres-your-chance-to-host-a-side-event-at-techcrunch-sessions-ai/) - 2 days ago
@@ -27,20 +28,20 @@ Here are the latest articles from TechCrunch Startups:
 - [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - 3 days ago
 - [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/) - 3 days ago
 - [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - 4 days ago
-- [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - 4 days ago
-- [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - 4 days ago
-- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - 5 days ago
-- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - 5 days ago
-- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - 5 days ago
-- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - 5 days ago
-- [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - 5 days ago
+- [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - 5 days ago
+- [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - 5 days ago
+- [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - Mar 7, 2025
+- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - Mar 7, 2025
+- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - Mar 7, 2025
+- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - Mar 7, 2025
 - [Trump says he will label violence against Tesla as domestic terrorism](https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/) - Time not found
+- [Apple fixes new security flaw used in ‘extremely sophisticated attack’](https://techcrunch.com/2025/03/11/apple-fixes-new-security-flaw-used-in-extremely-sophisticated-attack/) - Time not found
 - [DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts](https://techcrunch.com/2025/03/11/doge-axes-cisa-red-team-staffers-amid-ongoing-federal-cuts/) - Time not found
 - [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/) - Time not found
-- [Apple’s next major OS updates will bring the biggest design overhaul in years](https://techcrunch.com/2025/03/11/apples-next-major-os-updates-will-bring-the-biggest-design-overhaul-in-years/) - Time not found
 - [In another chess move with Microsoft, OpenAI is pouring $12B into CoreWeave](https://techcrunch.com/2025/03/10/in-another-chess-move-with-microsoft-openai-is-pouring-12b-into-coreweave/) - Time not found
 - [At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt](https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/) - Time not found
 - [Neom is reportedly turning into a financial disaster, except for McKinsey & Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/) - Time not found
+- [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - Mar 7, 2025
 - [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - Mar 7, 2025
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Mar 6, 2025
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Mar 6, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/) - Mar 3, 2025
 - [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/) - Mar 3, 2025
 - [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/) - Mar 3, 2025
-- [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/) - Mar 2, 2025
 - [Trump says he will label violence against Tesla as domestic terrorism](https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/) - Time not found
+- [Apple fixes new security flaw used in ‘extremely sophisticated attack’](https://techcrunch.com/2025/03/11/apple-fixes-new-security-flaw-used-in-extremely-sophisticated-attack/) - Time not found
 - [DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts](https://techcrunch.com/2025/03/11/doge-axes-cisa-red-team-staffers-amid-ongoing-federal-cuts/) - Time not found
 - [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/) - Time not found
-- [Apple’s next major OS updates will bring the biggest design overhaul in years](https://techcrunch.com/2025/03/11/apples-next-major-os-updates-will-bring-the-biggest-design-overhaul-in-years/) - Time not found
 - [In another chess move with Microsoft, OpenAI is pouring $12B into CoreWeave](https://techcrunch.com/2025/03/10/in-another-chess-move-with-microsoft-openai-is-pouring-12b-into-coreweave/) - Time not found
 - [At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt](https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/) - Time not found
 - [Neom is reportedly turning into a financial disaster, except for McKinsey & Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/) - Time not found
