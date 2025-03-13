@@ -4,17 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - 1 hour ago
-- [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - 15 hours ago
-- [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - 16 hours ago
-- [Donald Trump Jr. has been boosting MAGA-related startups](https://techcrunch.com/2025/03/12/donald-trump-jr-has-been-boosting-maga-related-startups/) - 19 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/) - 19 hours ago
-- [Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/) - 20 hours ago
-- [Why Onyx thinks its open source solution will win enterprise search](https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/) - 21 hours ago
-- [Project Europe, a new early-stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/) - 22 hours ago
-- [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/) - 22 hours ago
-- [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - 22 hours ago
-- [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - 23 hours ago
+- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 41 minutes ago
+- [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/) - 45 minutes ago
+- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/) - 3 hours ago
+- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - 5 hours ago
+- [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - 19 hours ago
+- [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - 19 hours ago
+- [Donald Trump Jr. has been boosting MAGA-related startups](https://techcrunch.com/2025/03/12/donald-trump-jr-has-been-boosting-maga-related-startups/) - 22 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/) - 23 hours ago
+- [Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/) - 24 hours ago
+- [Why Onyx thinks its open source solution will win enterprise search](https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/) - 1 day ago
+- [Project Europe, a new early-stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/) - 1 day ago
+- [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/) - 1 day ago
+- [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - 1 day ago
+- [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - 1 day ago
 - [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - 1 day ago
 - [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - 1 day ago
 - [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - 2 days ago
@@ -28,19 +31,19 @@ Here are the latest articles from TechCrunch Startups:
 - [Reshape Energy is using an acquisition playbook to drive energy upgrades for commercial real estate](https://techcrunch.com/2025/03/11/reshape-energy-is-using-an-acquisition-playbook-to-drive-energy-upgrades-for-commercial-real-estate/) - 2 days ago
 - [Startup studio Hexa acquires majority stake in Veevart, a vertical SaaS platform for museums](https://techcrunch.com/2025/03/10/startup-studio-hexa-acquires-majority-stake-in-veevart-a-vertical-saas-for-museums/) - 2 days ago
 - [Radiology AI software provider Gleamer expands into MRI with two M&A transactions](https://techcrunch.com/2025/03/10/radiology-ai-software-provider-gleamer-expands-into-mri-with-two-small-acquisitions/) - 2 days ago
-- [Infinite Uptime bags $35M to help factories optimize equipment usage](https://techcrunch.com/2025/03/10/infinite-uptime-bags-35m-to-help-factories-optimize-equipment-usage/) - 2 days ago
+- [Infinite Uptime bags $35M to help factories optimize equipment usage](https://techcrunch.com/2025/03/10/infinite-uptime-bags-35m-to-help-factories-optimize-equipment-usage/) - 3 days ago
 - [Eric Schmidt joins Relativity Space as CEO](https://techcrunch.com/2025/03/10/eric-schmidt-joins-relativity-space-as-ceo/) - 3 days ago
 - [Open web initiatives Project Liberty and Solid could be teaming up](https://techcrunch.com/2025/03/10/open-web-initiatives-project-liberty-and-solid-could-be-teaming-up/) - 3 days ago
-- [Applications are open for Startup Battlefield 200 — apply today!](https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/) - 3 days ago
-- [Here’s your chance to host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/heres-your-chance-to-host-a-side-event-at-techcrunch-sessions-ai/) - 3 days ago
-- [Showcase your innovation — exhibit at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/) - 3 days ago
-- [Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”](https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/) - Time not found
+- [Travis Kalanick thinks Uber screwed up: ‘Wish we had an autonomous ride-sharing product’](https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/) - Time not found
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - Time not found
 - [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/12/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/) - Time not found
+- [How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote](https://techcrunch.com/2025/03/12/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/) - Time not found
 - [Browser Use, one of the tools powering Manus, is also going viral](https://techcrunch.com/2025/03/12/browser-use-one-of-the-tools-powering-manus-is-also-going-viral/) - Time not found
 - [North Korean government hackers snuck spyware on Android app store](https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/) - Time not found
 - [DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts](https://techcrunch.com/2025/03/11/doge-axes-cisa-red-team-staffers-amid-ongoing-federal-cuts/) - Time not found
-- [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/) - Time not found
+- [Applications are open for Startup Battlefield 200 — apply today!](https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/) - 3 days ago
+- [Here’s your chance to host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/heres-your-chance-to-host-a-side-event-at-techcrunch-sessions-ai/) - 3 days ago
+- [Showcase your innovation — exhibit at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/) - 3 days ago
 - [Maximize your brand: Secure an exhibit table at TechCrunch All Stage 2025](https://techcrunch.com/2025/03/10/maximize-your-exposure-secure-an-exhibit-table-at-techcrunch-all-stage-2025/) - 3 days ago
 - [Supercharge your brand visibility with an exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/10/supercharge-your-brand-visibility-with-an-exhibit-table-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - 4 days ago
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/) - Mar 5, 2025
 - [Is Silicon Valley still the best place for startups? Insight Partners’ Ryan Hinkle doesn’t think so.](https://techcrunch.com/podcast/is-silicon-valley-still-the-best-place-for-startups-insight-partners-ryan-hinkle-doesnt-think-so/) - Mar 5, 2025
 - [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/) - Mar 5, 2025
-- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/) - Mar 5, 2025
-- [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/) - Mar 5, 2025
-- [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/) - Mar 4, 2025
-- [Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”](https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/) - Time not found
+- [Travis Kalanick thinks Uber screwed up: ‘Wish we had an autonomous ride-sharing product’](https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/) - Time not found
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - Time not found
 - [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/12/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/) - Time not found
 - [Browser Use, one of the tools powering Manus, is also going viral](https://techcrunch.com/2025/03/12/browser-use-one-of-the-tools-powering-manus-is-also-going-viral/) - Time not found
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/) - Time not found
 - [North Korean government hackers snuck spyware on Android app store](https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/) - Time not found
 - [DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts](https://techcrunch.com/2025/03/11/doge-axes-cisa-red-team-staffers-amid-ongoing-federal-cuts/) - Time not found
-- [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/) - Time not found
