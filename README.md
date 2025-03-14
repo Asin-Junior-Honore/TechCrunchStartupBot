@@ -4,31 +4,31 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - 2 hours ago
-- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - 4 hours ago
-- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - 7 hours ago
-- [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - 7 hours ago
-- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 10 hours ago
-- [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/) - 10 hours ago
-- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/) - 12 hours ago
-- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - 14 hours ago
+- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - 5 hours ago
+- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - 7 hours ago
+- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - 10 hours ago
+- [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - 10 hours ago
+- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 13 hours ago
+- [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/) - 13 hours ago
+- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/) - 15 hours ago
+- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - 17 hours ago
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - 1 day ago
 - [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - 1 day ago
 - [Donald Trump Jr. has been boosting MAGA-related startups](https://techcrunch.com/2025/03/12/donald-trump-jr-has-been-boosting-maga-related-startups/) - 1 day ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/) - 1 day ago
 - [Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/) - 1 day ago
-- [Why Onyx thinks its open source solution will win enterprise search](https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/) - 1 day ago
-- [Project Europe, a new early-stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/) - 1 day ago
-- [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/) - 1 day ago
-- [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - 1 day ago
-- [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - 1 day ago
+- [Why Onyx thinks its open source solution will win enterprise search](https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/) - 2 days ago
+- [Project Europe, a new early-stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/) - 2 days ago
+- [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/) - 2 days ago
+- [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - 2 days ago
+- [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - 2 days ago
 - [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - 2 days ago
 - [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - 2 days ago
 - [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - 2 days ago
 - [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) - 2 days ago
-- [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - 2 days ago
-- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - 2 days ago
-- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - 2 days ago
+- [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - 3 days ago
+- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - 3 days ago
+- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - 3 days ago
 - [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - 3 days ago
 - [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/) - 3 days ago
 - [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/) - 3 days ago
@@ -45,13 +45,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Infinite Uptime bags $35M to help factories optimize equipment usage](https://techcrunch.com/2025/03/10/infinite-uptime-bags-35m-to-help-factories-optimize-equipment-usage/) - 3 days ago
 - [Eric Schmidt joins Relativity Space as CEO](https://techcrunch.com/2025/03/10/eric-schmidt-joins-relativity-space-as-ceo/) - 3 days ago
 - [Open web initiatives Project Liberty and Solid could be teaming up](https://techcrunch.com/2025/03/10/open-web-initiatives-project-liberty-and-solid-could-be-teaming-up/) - 3 days ago
-- [Applications are open for Startup Battlefield 200 — apply today!](https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/) - 3 days ago
-- [Here’s your chance to host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/heres-your-chance-to-host-a-side-event-at-techcrunch-sessions-ai/) - 3 days ago
-- [Showcase your innovation — exhibit at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/) - 3 days ago
-- [Maximize your brand: Secure an exhibit table at TechCrunch All Stage 2025](https://techcrunch.com/2025/03/10/maximize-your-exposure-secure-an-exhibit-table-at-techcrunch-all-stage-2025/) - 3 days ago
-- [Supercharge your brand visibility with an exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/10/supercharge-your-brand-visibility-with-an-exhibit-table-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Applications are open for Startup Battlefield 200 — apply today!](https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/) - 4 days ago
+- [Here’s your chance to host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/heres-your-chance-to-host-a-side-event-at-techcrunch-sessions-ai/) - 4 days ago
+- [Showcase your innovation — exhibit at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/) - 4 days ago
+- [Maximize your brand: Secure an exhibit table at TechCrunch All Stage 2025](https://techcrunch.com/2025/03/10/maximize-your-exposure-secure-an-exhibit-table-at-techcrunch-all-stage-2025/) - 4 days ago
+- [Supercharge your brand visibility with an exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/10/supercharge-your-brand-visibility-with-an-exhibit-table-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/) - 4 days ago
-- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/) - 4 days ago
+- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/) - 5 days ago
 - [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/) - Mar 8, 2025
 - [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/) - Mar 7, 2025
 - [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - Mar 7, 2025
