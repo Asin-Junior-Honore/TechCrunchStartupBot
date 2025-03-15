@@ -4,18 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/) - 3 hours ago
-- [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/) - 3 hours ago
-- [OpenAI and Microsoft’s ‘frenemies relationship,’ and what you missed at SXSW](https://techcrunch.com/podcast/openai-and-microsofts-frenemies-relationship-and-what-you-missed-at-sxsw/) - 5 hours ago
-- [Kerry Washington invests in wedding marketplace Cheersy](https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/) - 8 hours ago
-- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - 21 hours ago
-- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - 23 hours ago
+- [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/) - 3 hours ago
+- [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/) - 4 hours ago
+- [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/) - 7 hours ago
+- [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/) - 8 hours ago
+- [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/) - 8 hours ago
+- [OpenAI and Microsoft’s ‘frenemies relationship,’ and what you missed at SXSW](https://techcrunch.com/podcast/openai-and-microsofts-frenemies-relationship-and-what-you-missed-at-sxsw/) - 9 hours ago
+- [Kerry Washington invests in wedding marketplace Cheersy](https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/) - 13 hours ago
+- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - 1 day ago
+- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - 1 day ago
 - [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - 1 day ago
 - [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - 1 day ago
 - [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 1 day ago
 - [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/) - 1 day ago
 - [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/) - 1 day ago
-- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - 1 day ago
+- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - 2 days ago
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - 2 days ago
 - [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - 2 days ago
 - [Donald Trump Jr. has been boosting MAGA-related startups](https://techcrunch.com/2025/03/12/donald-trump-jr-has-been-boosting-maga-related-startups/) - 2 days ago
@@ -26,23 +29,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/) - 2 days ago
 - [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - 2 days ago
 - [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - 2 days ago
-- [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - 2 days ago
+- [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - 3 days ago
 - [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - 3 days ago
 - [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - 3 days ago
 - [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) - 3 days ago
 - [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - 3 days ago
-- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - 3 days ago
-- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - 3 days ago
-- [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - 3 days ago
-- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - Time not found
+- [No one knows what the hell an AI agent is](https://techcrunch.com/2025/03/14/no-one-knows-what-the-hell-an-ai-agent-is/) - Time not found
 - [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/) - Time not found
 - [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - Time not found
 - [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - Time not found
 - [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/) - Time not found
 - [OpenAI calls DeepSeek ‘state-controlled,’ calls for bans on ‘PRC-produced’ models](https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/) - Time not found
-- [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/) - 3 days ago
-- [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/) - 3 days ago
+- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - 3 days ago
+- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - 3 days ago
+- [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - 4 days ago
+- [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/) - 4 days ago
+- [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/) - 4 days ago
 - [Reshape Energy is using an acquisition playbook to drive energy upgrades for commercial real estate](https://techcrunch.com/2025/03/11/reshape-energy-is-using-an-acquisition-playbook-to-drive-energy-upgrades-for-commercial-real-estate/) - 4 days ago
 - [Startup studio Hexa acquires majority stake in Veevart, a vertical SaaS platform for museums](https://techcrunch.com/2025/03/10/startup-studio-hexa-acquires-majority-stake-in-veevart-a-vertical-saas-for-museums/) - 4 days ago
 - [Radiology AI software provider Gleamer expands into MRI with two M&A transactions](https://techcrunch.com/2025/03/10/radiology-ai-software-provider-gleamer-expands-into-mri-with-two-small-acquisitions/) - 4 days ago
@@ -68,10 +71,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Mar 6, 2025
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Mar 6, 2025
 - [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - Mar 6, 2025
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - Mar 6, 2025
-- [Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M ](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/) - Mar 6, 2025
-- [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/) - Mar 6, 2025
-- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - Time not found
+- [No one knows what the hell an AI agent is](https://techcrunch.com/2025/03/14/no-one-knows-what-the-hell-an-ai-agent-is/) - Time not found
 - [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/) - Time not found
 - [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - Time not found
 - [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - Time not found
