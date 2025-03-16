@@ -4,6 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 46 minutes ago
 - [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/) - 2 days ago
 - [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/) - 2 days ago
 - [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/) - 2 days ago
@@ -31,9 +32,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - 4 days ago
 - [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - 4 days ago
 - [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - 4 days ago
-- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - 5 days ago
+- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - Mar 11, 2025
 - [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) - Mar 11, 2025
-- [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - Mar 11, 2025
 - [Amazon’s Echo will send all voice recordings to the cloud, starting March 28](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/) - Time not found
 - [SpaceX launches astronauts for long-awaited International Space Station crew swap](https://techcrunch.com/2025/03/15/spacex-launches-astronauts-for-long-awaited-international-space-station-crew-swap/) - Time not found
 - [Skype is shutting down in May — these are the best alternatives](https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [No one knows what the hell an AI agent is](https://techcrunch.com/2025/03/14/no-one-knows-what-the-hell-an-ai-agent-is/) - Time not found
 - [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/) - Time not found
 - [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/) - Time not found
+- [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - Mar 11, 2025
 - [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - Mar 11, 2025
 - [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - Mar 11, 2025
 - [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - Mar 11, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - Mar 7, 2025
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Mar 6, 2025
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/) - Mar 6, 2025
-- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/) - Mar 6, 2025
 - [Amazon’s Echo will send all voice recordings to the cloud, starting March 28](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/) - Time not found
 - [SpaceX launches astronauts for long-awaited International Space Station crew swap](https://techcrunch.com/2025/03/15/spacex-launches-astronauts-for-long-awaited-international-space-station-crew-swap/) - Time not found
 - [Skype is shutting down in May — these are the best alternatives](https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/) - Time not found
