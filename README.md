@@ -4,8 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Vote for the session you want to see at TechCrunch Sessions: AI ](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/) - 1 hour ago
-- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 2 hours ago
+- [Flexport accuses former employees of stealing its source code to create a rival startup](https://techcrunch.com/2025/03/17/flexport-accuses-former-employees-of-stealing-its-source-code-to-create-a-rival-startup/) - 54 seconds ago
+- [YC-backed ReactWise is applying AI to speed up drug manufacturing](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/) - 2 hours ago
+- [Vote for the session you want to see at TechCrunch Sessions: AI ](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/) - 5 hours ago
+- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 6 hours ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 1 day ago
 - [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/) - 3 days ago
 - [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/) - 3 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - Mar 12, 2025
 - [Wolf Games, backed by ‘Law & Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/) - Mar 12, 2025
 - [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/) - Mar 12, 2025
-- [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - Mar 12, 2025
-- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - Mar 11, 2025
+- [European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local](https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/) - Time not found
 - [Apple reportedly considered building the iPhone 17 Air without ports](https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/) - Time not found
 - [Meta takes aim at ex-employee’s memoir ‘Careless People’](https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/) - Time not found
 - [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) - Time not found
 - [Photo calorie app Cal AI, downloaded over a million times, was built by two teenagers](https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/) - Time not found
 - [Amazon’s Echo will send all voice recordings to the cloud, starting March 28](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/) - Time not found
 - [Skype is shutting down in May — these are the best alternatives](https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/) - Time not found
-- [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/) - Time not found
+- [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/) - Mar 12, 2025
+- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/) - Mar 11, 2025
 - [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) - Mar 11, 2025
 - [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - Mar 11, 2025
 - [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - Mar 11, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/) - Mar 7, 2025
 - [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/) - Mar 7, 2025
 - [The California AI bill is back…and it lost its teeth](https://techcrunch.com/podcast/the-california-ai-bill-is-back-and-it-lost-its-teeth/) - Mar 7, 2025
-- [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/) - Mar 7, 2025
-- [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) - Mar 6, 2025
+- [European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local](https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/) - Time not found
 - [Apple reportedly considered building the iPhone 17 Air without ports](https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/) - Time not found
 - [Meta takes aim at ex-employee’s memoir ‘Careless People’](https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/) - Time not found
 - [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) - Time not found
 - [Photo calorie app Cal AI, downloaded over a million times, was built by two teenagers](https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/) - Time not found
 - [Amazon’s Echo will send all voice recordings to the cloud, starting March 28](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/) - Time not found
 - [Skype is shutting down in May — these are the best alternatives](https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/) - Time not found
-- [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/) - Time not found
