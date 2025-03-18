@@ -4,27 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/) - 5 hours ago
-- [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - 7 hours ago
-- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 7 hours ago
-- [Flexport accuses former employees of stealing its source code to create a rival startup](https://techcrunch.com/2025/03/17/flexport-accuses-former-employees-of-stealing-its-source-code-to-create-a-rival-startup/) - 8 hours ago
-- [YC-backed ReactWise is applying AI to speed up drug manufacturing](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/) - 10 hours ago
-- [Vote for the session you want to see at TechCrunch Sessions: AI ](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/) - 13 hours ago
-- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 14 hours ago
+- [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/) - 9 hours ago
+- [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - 11 hours ago
+- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - 11 hours ago
+- [Flexport accuses former employees of stealing its source code to create a rival startup](https://techcrunch.com/2025/03/17/flexport-accuses-former-employees-of-stealing-its-source-code-to-create-a-rival-startup/) - 12 hours ago
+- [YC-backed ReactWise is applying AI to speed up drug manufacturing](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/) - 14 hours ago
+- [Vote for the session you want to see at TechCrunch Sessions: AI ](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/) - 17 hours ago
+- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 18 hours ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 2 days ago
 - [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/) - 3 days ago
 - [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/) - 3 days ago
-- [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/) - 3 days ago
-- [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/) - 3 days ago
-- [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/) - 3 days ago
+- [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/) - 4 days ago
+- [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/) - 4 days ago
+- [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/) - 4 days ago
 - [OpenAI and Microsoft’s ‘frenemies relationship,’ and what you missed at SXSW](https://techcrunch.com/podcast/openai-and-microsofts-frenemies-relationship-and-what-you-missed-at-sxsw/) - 4 days ago
 - [Kerry Washington invests in wedding marketplace Cheersy](https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/) - 4 days ago
 - [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - 4 days ago
 - [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - 4 days ago
-- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - 4 days ago
-- [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - 4 days ago
+- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - 5 days ago
+- [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/) - 5 days ago
 - [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/) - 5 days ago
-- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/) - 5 days ago
+- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/) - Mar 13, 2025
 - [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - Mar 13, 2025
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - Mar 12, 2025
 - [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - Mar 12, 2025
@@ -71,7 +71,7 @@ Here are the latest articles from TechCrunch Startups:
 - [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/) - Mar 7, 2025
 - [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/) - Mar 7, 2025
 - [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/) - Mar 7, 2025
-- [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/) - Time not found
+- [Waymo’s milestone SFO mapping permit comes with strings attached](https://techcrunch.com/2025/03/17/waymos-milestone-sfo-mapping-permit-comes-with-strings-attached/) - Time not found
 - [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - Time not found
 - [Elon Musk’s AI company, xAI, acquires a generative AI video startup](https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/) - Time not found
 - [Meta takes aim at ex-employee’s memoir ‘Careless People’](https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/) - Time not found
