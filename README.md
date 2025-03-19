@@ -4,15 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Tera AI comes out of stealth with $7.8M to provide visual navigation for robots](https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/) - 7 minutes ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - 49 minutes ago
-- [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/) - 1 hour ago
-- [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/) - 1 hour ago
-- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - 2 hours ago
-- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 5 hours ago
-- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 5 hours ago
-- [Factorial, a HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 8 hours ago
-- [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/) - 22 hours ago
+- [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - 14 minutes ago
+- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - 33 minutes ago
+- [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - 2 hours ago
+- [‘Every software company is an AI company now,’ says AngelList CEO Avlok Kohli](https://techcrunch.com/podcast/every-software-company-is-an-ai-company-now-says-angellist-ceo-avlok-kohli/) - 3 hours ago
+- [Tera AI comes out of stealth with $7.8M to provide visual navigation for robots](https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/) - 4 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - 5 hours ago
+- [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/) - 5 hours ago
+- [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/) - 5 hours ago
+- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - 6 hours ago
+- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - 6 hours ago
+- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - 7 hours ago
+- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 9 hours ago
+- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 9 hours ago
+- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 12 hours ago
+- [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/) - 1 day ago
 - [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/) - 1 day ago
 - [Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful](https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/) - 1 day ago
 - [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/) - 1 day ago
@@ -28,19 +34,19 @@ Here are the latest articles from TechCrunch Startups:
 - [Vote for the session you want to see at TechCrunch Sessions: AI ](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/) - 2 days ago
 - [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - 2 days ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 3 days ago
+- [NASA astronauts return from long Space Station stay prompted by Boeing problems](https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/) - Time not found
+- [Nvidia and Google DeepMind will help power Disney’s cute robots](https://techcrunch.com/2025/03/18/nvidia-and-google-deepmind-will-help-power-disneys-cute-robots/) - Time not found
+- [Elon Musk’s DOGE leadership likely violates Constitution’s appointments clause, judge says](https://techcrunch.com/2025/03/18/elon-musks-doge-leadership-likely-violates-constitutions-appointments-clause-judge-says/) - Time not found
+- [What Tesla can and can’t do in California with its new passenger transportation permit](https://techcrunch.com/2025/03/18/what-tesla-can-and-cant-do-in-california-with-its-new-passenger-transportation-permit/) - Time not found
+- [Nvidia announces two ‘personal AI supercomputers’](https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/) - Time not found
+- [Nvidia debuts Groot N1, a foundation model for humanoid robotics](https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/) - Time not found
+- [This app limits your screen time by making you literally touch grass](https://techcrunch.com/2025/03/17/this-app-limits-your-screen-time-by-making-you-literally-touch-grass/) - Time not found
 - [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/) - Mar 14, 2025
 - [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/) - Mar 14, 2025
 - [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/) - Mar 14, 2025
 - [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/) - Mar 14, 2025
 - [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/) - Mar 14, 2025
 - [OpenAI and Microsoft’s ‘frenemies relationship,’ and what you missed at SXSW](https://techcrunch.com/podcast/openai-and-microsofts-frenemies-relationship-and-what-you-missed-at-sxsw/) - Mar 14, 2025
-- [NASA astronauts return from long Space Station stay prompted by Boeing problems](https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/) - Time not found
-- [What Tesla can and can’t do in California with its new passenger transportation permit](https://techcrunch.com/2025/03/18/what-tesla-can-and-cant-do-in-california-with-its-new-passenger-transportation-permit/) - Time not found
-- [Nvidia announces two ‘personal AI supercomputers’](https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/) - Time not found
-- [Nvidia debuts Groot N1, a foundation model for humanoid robotics](https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/) - Time not found
-- [CISA scrambles to contact fired employees after court rules layoffs ‘unlawful’](https://techcrunch.com/2025/03/18/cisa-scrambles-to-contact-fired-employees-after-court-rules-layoffs-unlawful/) - Time not found
-- [Confirmed: Google buys Wiz for $32B to beef up in cloud security](https://techcrunch.com/2025/03/18/google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security/) - Time not found
-- [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - Time not found
 - [Kerry Washington invests in wedding marketplace Cheersy](https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/) - Mar 14, 2025
 - [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - Mar 13, 2025
 - [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - Mar 13, 2025
@@ -65,16 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [The sibling founders of Stax Payments are back with a $20M seed raise for their new fintech, Worth](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/) - Mar 11, 2025
 - [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/11/meet-the-new-vc-firm-secretly-backed-by-volkswagen/) - Mar 11, 2025
 - [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/) - Mar 11, 2025
-- [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/) - Mar 11, 2025
-- [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/) - Mar 11, 2025
-- [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/) - Mar 11, 2025
-- [Reshape Energy is using an acquisition playbook to drive energy upgrades for commercial real estate](https://techcrunch.com/2025/03/11/reshape-energy-is-using-an-acquisition-playbook-to-drive-energy-upgrades-for-commercial-real-estate/) - Mar 11, 2025
-- [Startup studio Hexa acquires majority stake in Veevart, a vertical SaaS platform for museums](https://techcrunch.com/2025/03/10/startup-studio-hexa-acquires-majority-stake-in-veevart-a-vertical-saas-for-museums/) - Mar 10, 2025
-- [Radiology AI software provider Gleamer expands into MRI with two M&A transactions](https://techcrunch.com/2025/03/10/radiology-ai-software-provider-gleamer-expands-into-mri-with-two-small-acquisitions/) - Mar 10, 2025
 - [NASA astronauts return from long Space Station stay prompted by Boeing problems](https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/) - Time not found
+- [Nvidia and Google DeepMind will help power Disney’s cute robots](https://techcrunch.com/2025/03/18/nvidia-and-google-deepmind-will-help-power-disneys-cute-robots/) - Time not found
+- [Elon Musk’s DOGE leadership likely violates Constitution’s appointments clause, judge says](https://techcrunch.com/2025/03/18/elon-musks-doge-leadership-likely-violates-constitutions-appointments-clause-judge-says/) - Time not found
 - [What Tesla can and can’t do in California with its new passenger transportation permit](https://techcrunch.com/2025/03/18/what-tesla-can-and-cant-do-in-california-with-its-new-passenger-transportation-permit/) - Time not found
 - [Nvidia announces two ‘personal AI supercomputers’](https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/) - Time not found
 - [Nvidia debuts Groot N1, a foundation model for humanoid robotics](https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/) - Time not found
-- [CISA scrambles to contact fired employees after court rules layoffs ‘unlawful’](https://techcrunch.com/2025/03/18/cisa-scrambles-to-contact-fired-employees-after-court-rules-layoffs-unlawful/) - Time not found
-- [Confirmed: Google buys Wiz for $32B to beef up in cloud security](https://techcrunch.com/2025/03/18/google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security/) - Time not found
-- [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - Time not found
+- [This app limits your screen time by making you literally touch grass](https://techcrunch.com/2025/03/17/this-app-limits-your-screen-time-by-making-you-literally-touch-grass/) - Time not found
