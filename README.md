@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - 58 minutes ago
-- [CoreWeave prices its IPO to raise at least $2.2 billion — and now the games begin](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/) - 2 hours ago
-- [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - 4 hours ago
-- [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - 5 hours ago
-- [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - 6 hours ago
-- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 12 hours ago
-- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 13 hours ago
-- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 16 hours ago
+- [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - 6 hours ago
+- [CoreWeave prices its IPO to raise at least $2.2 billion — and now the games begin](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/) - 7 hours ago
+- [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - 9 hours ago
+- [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - 10 hours ago
+- [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - 11 hours ago
+- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 17 hours ago
+- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 18 hours ago
+- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 21 hours ago
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - 1 day ago
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - 1 day ago
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - 1 day ago
@@ -23,22 +23,22 @@ Here are the latest articles from TechCrunch Startups:
 - [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - 1 day ago
 - [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - 1 day ago
 - [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - 1 day ago
-- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 1 day ago
-- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 1 day ago
-- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 1 day ago
+- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 2 days ago
+- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 2 days ago
+- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 2 days ago
 - [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/) - 2 days ago
 - [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/) - 2 days ago
 - [Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful](https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/) - 2 days ago
 - [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/) - 2 days ago
 - [Exist is a new social wellness app that wants to help middle-age users find community](https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/) - 2 days ago
 - [TurinTech reveals $20M in backing to fix problems in ‘vibe coding’](https://techcrunch.com/2025/03/18/turintech-reveals-20m-in-backing-to-fix-problems-in-vibe-coding/) - 2 days ago
-- [YC-backed food supply startup Vendease restructures employees’ salaries](https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/) - 2 days ago
-- [GrubMarket raises $50M at $3.5B+ valuation to build AI for the $1 trillion food-distribution industry](https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/) - 2 days ago
+- [YC-backed food supply startup Vendease restructures employees’ salaries](https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/) - 3 days ago
+- [GrubMarket raises $50M at $3.5B+ valuation to build AI for the $1 trillion food-distribution industry](https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/) - 3 days ago
+- [One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’](https://techcrunch.com/2025/03/20/one-of-teslas-top-wall-street-supporters-says-elon-musk-faces-a-moment-of-truth/) - Time not found
 - [Michael Seibel is leaving Y Combinator](https://techcrunch.com/2025/03/19/michael-seibel-is-leaving-y-combinator/) - Time not found
 - [How a $6M bet on Wiz turned into a massive 200x return for one early backer](https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/) - Time not found
 - [OpenAI’s o1-pro is the company’s most expensive AI model yet](https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/) - Time not found
 - [OpenAI research lead Noam Brown thinks certain AI ‘reasoning’ models could’ve arrived decades ago](https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/) - Time not found
-- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Time not found
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - Time not found
 - [Bluesky made more money selling T-shirts mocking Zuckerberg than custom domains](https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/) - Time not found
 - [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/) - 3 days ago
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Project Europe, a new early-stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/) - Mar 12, 2025
 - [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/) - Mar 12, 2025
 - [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/) - Mar 12, 2025
+- [One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’](https://techcrunch.com/2025/03/20/one-of-teslas-top-wall-street-supporters-says-elon-musk-faces-a-moment-of-truth/) - Time not found
 - [Michael Seibel is leaving Y Combinator](https://techcrunch.com/2025/03/19/michael-seibel-is-leaving-y-combinator/) - Time not found
 - [How a $6M bet on Wiz turned into a massive 200x return for one early backer](https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/) - Time not found
 - [OpenAI’s o1-pro is the company’s most expensive AI model yet](https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/) - Time not found
 - [OpenAI research lead Noam Brown thinks certain AI ‘reasoning’ models could’ve arrived decades ago](https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/) - Time not found
-- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Time not found
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - Time not found
 - [Bluesky made more money selling T-shirts mocking Zuckerberg than custom domains](https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/) - Time not found
