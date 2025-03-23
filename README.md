@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - 6 hours ago
-- [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - 22 hours ago
+- [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - 11 hours ago
+- [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - 1 day ago
 - [Startups Weekly: Wiz’s bet paid off in an M&A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/) - 1 day ago
 - [Wayve CEO shares his key ingredients for scaling autonomous driving tech ](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/) - 1 day ago
 - [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - 1 day ago
@@ -28,10 +28,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/) - 3 days ago
 - [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - 3 days ago
 - [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - 3 days ago
-- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - 3 days ago
-- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 3 days ago
-- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 3 days ago
-- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 3 days ago
+- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - 4 days ago
+- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 4 days ago
+- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 4 days ago
+- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 4 days ago
 - [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/) - 4 days ago
 - [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/) - 4 days ago
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
@@ -43,10 +43,10 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - Time not found
 - [Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful](https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/) - 4 days ago
 - [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/) - 4 days ago
-- [Exist is a new social wellness app that wants to help middle-age users find community](https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/) - 4 days ago
-- [TurinTech reveals $20M in backing to fix problems in ‘vibe coding’](https://techcrunch.com/2025/03/18/turintech-reveals-20m-in-backing-to-fix-problems-in-vibe-coding/) - 4 days ago
-- [YC-backed food supply startup Vendease restructures employees’ salaries](https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/) - 4 days ago
-- [GrubMarket raises $50M at $3.5B+ valuation to build AI for the $1 trillion food-distribution industry](https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/) - 4 days ago
+- [Exist is a new social wellness app that wants to help middle-age users find community](https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/) - 5 days ago
+- [TurinTech reveals $20M in backing to fix problems in ‘vibe coding’](https://techcrunch.com/2025/03/18/turintech-reveals-20m-in-backing-to-fix-problems-in-vibe-coding/) - 5 days ago
+- [YC-backed food supply startup Vendease restructures employees’ salaries](https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/) - 5 days ago
+- [GrubMarket raises $50M at $3.5B+ valuation to build AI for the $1 trillion food-distribution industry](https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/) - 5 days ago
 - [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/) - Mar 17, 2025
 - [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - Mar 17, 2025
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Mar 17, 2025
@@ -71,9 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - Mar 13, 2025
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - Mar 12, 2025
 - [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - Mar 12, 2025
+- [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
 - [Meta has revenue sharing agreements with Llama AI model hosts, filing reveals](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/) - Time not found
 - [How BYD plans to make EV charging as fast as filling a gas tank](https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/) - Time not found
-- [TechCrunch has, yes, personal news!](https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/) - Time not found
 - [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - Time not found
 - [Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets](https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/) - Time not found
 - [One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’](https://techcrunch.com/2025/03/20/one-of-teslas-top-wall-street-supporters-says-elon-musk-faces-a-moment-of-truth/) - Time not found
