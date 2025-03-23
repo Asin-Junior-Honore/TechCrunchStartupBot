@@ -16,8 +16,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - 3 days ago
 - [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - 3 days ago
 - [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 3 days ago
-- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 3 days ago
-- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 3 days ago
+- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 4 days ago
+- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 4 days ago
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - 4 days ago
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - 4 days ago
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - 4 days ago
@@ -34,10 +34,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 4 days ago
 - [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/) - Mar 18, 2025
 - [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/) - Mar 18, 2025
+- [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/) - Time not found
+- [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) - Time not found
 - [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/) - Time not found
-- [Week in Review: Google buys Wiz ](https://techcrunch.com/2025/03/22/week-in-review-google-buys-wiz/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
-- [Meta has revenue sharing agreements with Llama AI model hosts, filing reveals](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/) - Time not found
 - [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - Time not found
 - [Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets](https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/) - Mar 13, 2025
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) - Mar 12, 2025
 - [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/) - Mar 12, 2025
+- [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/) - Time not found
+- [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) - Time not found
 - [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/) - Time not found
-- [Week in Review: Google buys Wiz ](https://techcrunch.com/2025/03/22/week-in-review-google-buys-wiz/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
-- [Meta has revenue sharing agreements with Llama AI model hosts, filing reveals](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/) - Time not found
 - [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - Time not found
 - [Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets](https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - Time not found
