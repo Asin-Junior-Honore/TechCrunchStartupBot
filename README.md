@@ -15,7 +15,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - 3 days ago
 - [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - 3 days ago
 - [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - 3 days ago
-- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 3 days ago
+- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 4 days ago
 - [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 4 days ago
 - [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 4 days ago
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - 4 days ago
@@ -29,17 +29,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - 4 days ago
 - [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - 4 days ago
 - [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - 4 days ago
-- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 4 days ago
-- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 4 days ago
-- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 4 days ago
+- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - 5 days ago
+- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - 5 days ago
+- [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - 5 days ago
 - [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/) - Mar 18, 2025
 - [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/) - Mar 18, 2025
 - [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/) - Time not found
 - [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) - Time not found
 - [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
-- [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - Time not found
 - [Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets](https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/) - Time not found
+- [One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’](https://techcrunch.com/2025/03/20/one-of-teslas-top-wall-street-supporters-says-elon-musk-faces-a-moment-of-truth/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - Time not found
 - [Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful](https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/) - Mar 18, 2025
 - [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/) - Mar 18, 2025
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) - Time not found
 - [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
-- [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - Time not found
 - [Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets](https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/) - Time not found
+- [One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’](https://techcrunch.com/2025/03/20/one-of-teslas-top-wall-street-supporters-says-elon-musk-faces-a-moment-of-truth/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - Time not found
