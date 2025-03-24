@@ -6,29 +6,29 @@ Here are the latest articles from TechCrunch Startups:
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - 2 days ago
 - [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - 2 days ago
-- [Startups Weekly: Wiz’s bet paid off in an M&A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/) - 2 days ago
+- [Startups Weekly: Wiz’s bet paid off in an M&A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/) - 3 days ago
 - [Wayve CEO shares his key ingredients for scaling autonomous driving tech ](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/) - 3 days ago
 - [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - 3 days ago
 - [Inside the Google-Wiz acquisition and the deal’s biggest winners](https://techcrunch.com/podcast/inside-the-google-wiz-acquisition-and-the-deals-biggest-winners/) - 3 days ago
-- [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - 3 days ago
-- [CoreWeave prices its IPO to raise at least $2.2 billion — and now the games begin](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/) - 3 days ago
+- [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - 4 days ago
+- [CoreWeave prices its IPO to raise at least $2.2 billion — and now the games begin](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/) - 4 days ago
 - [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - 4 days ago
 - [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - 4 days ago
 - [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - 4 days ago
 - [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 4 days ago
 - [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 4 days ago
 - [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 4 days ago
-- [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - 4 days ago
-- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - 4 days ago
-- [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - 4 days ago
-- [‘Every software company is an AI company now,’ says AngelList CEO Avlok Kohli](https://techcrunch.com/podcast/every-software-company-is-an-ai-company-now-says-angellist-ceo-avlok-kohli/) - 4 days ago
+- [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - 5 days ago
+- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - 5 days ago
+- [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - 5 days ago
+- [‘Every software company is an AI company now,’ says AngelList CEO Avlok Kohli](https://techcrunch.com/podcast/every-software-company-is-an-ai-company-now-says-angellist-ceo-avlok-kohli/) - 5 days ago
 - [Tera AI comes out of stealth with $7.8M to provide visual navigation for robots](https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/) - 5 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - 5 days ago
 - [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/) - 5 days ago
 - [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/) - 5 days ago
-- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - 5 days ago
-- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - 5 days ago
-- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - 5 days ago
+- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - Mar 19, 2025
+- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - Mar 19, 2025
+- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - Mar 19, 2025
 - [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - Mar 19, 2025
 - [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - Mar 19, 2025
 - [Factorial, an HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/) - Mar 19, 2025
