@@ -4,12 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - 60 minutes ago
-- [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - 2 hours ago
-- [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/) - 5 hours ago
-- [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/) - 6 hours ago
-- [Only 7 days left: Founders and VCs save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/) - 6 hours ago
-- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - 11 hours ago
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - 2 hours ago
+- [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - 3 hours ago
+- [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - 6 hours ago
+- [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - 7 hours ago
+- [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/) - 10 hours ago
+- [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/) - 11 hours ago
+- [Only 7 days left: Founders and VCs save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/) - 11 hours ago
+- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - 16 hours ago
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - 2 days ago
 - [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - 3 days ago
 - [Startups Weekly: Wiz’s bet paid off in an M&A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/) - 3 days ago
@@ -21,9 +23,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - 4 days ago
 - [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - 4 days ago
 - [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - 4 days ago
-- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - 4 days ago
-- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - 5 days ago
-- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - 5 days ago
+- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - Mar 20, 2025
+- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - Mar 20, 2025
+- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - Mar 19, 2025
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - Mar 19, 2025
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Mar 19, 2025
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - Mar 19, 2025
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/) - Mar 19, 2025
 - [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/) - Mar 19, 2025
 - [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/) - Mar 19, 2025
-- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - Mar 19, 2025
-- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - Mar 19, 2025
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
+- [Apple is bringing lossless audio and low-latency audio to AirPods Max](https://techcrunch.com/2025/03/24/apple-is-bringing-lossless-audio-and-low-latency-audio-to-airpods-max/) - Time not found
 - [23andMe faces an uncertain future — so does your genetic data ](https://techcrunch.com/2025/03/24/23andme-faces-an-uncertain-future-so-does-your-genetic-data/) - Time not found
 - [DNA testing company 23andMe files for bankruptcy protection, CEO resigns](https://techcrunch.com/2025/03/23/dna-testing-company-23andme-files-for-bankruptcy-protection-ceo-resigns/) - Time not found
-- [Buy now, pay later . . . for a burrito?](https://techcrunch.com/2025/03/23/buy-now-pay-later-for-a-burrito/) - Time not found
 - [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/) - Time not found
 - [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) - Time not found
-- [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
+- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - Mar 19, 2025
+- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - Mar 19, 2025
 - [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/) - Mar 19, 2025
 - [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/) - Mar 19, 2025
 - [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/) - Mar 19, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI and Microsoft’s ‘frenemies relationship,’ and what you missed at SXSW](https://techcrunch.com/podcast/openai-and-microsofts-frenemies-relationship-and-what-you-missed-at-sxsw/) - Mar 14, 2025
 - [Kerry Washington invests in wedding marketplace Cheersy](https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/) - Mar 14, 2025
 - [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/) - Mar 13, 2025
-- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/) - Mar 13, 2025
-- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/) - Mar 13, 2025
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
+- [Apple is bringing lossless audio and low-latency audio to AirPods Max](https://techcrunch.com/2025/03/24/apple-is-bringing-lossless-audio-and-low-latency-audio-to-airpods-max/) - Time not found
 - [23andMe faces an uncertain future — so does your genetic data ](https://techcrunch.com/2025/03/24/23andme-faces-an-uncertain-future-so-does-your-genetic-data/) - Time not found
 - [DNA testing company 23andMe files for bankruptcy protection, CEO resigns](https://techcrunch.com/2025/03/23/dna-testing-company-23andme-files-for-bankruptcy-protection-ceo-resigns/) - Time not found
-- [Buy now, pay later . . . for a burrito?](https://techcrunch.com/2025/03/23/buy-now-pay-later-for-a-burrito/) - Time not found
 - [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/) - Time not found
 - [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) - Time not found
-- [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
