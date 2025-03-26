@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 55 minutes ago
-- [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 3 hours ago
-- [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 4 hours ago
-- [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - 5 hours ago
-- [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - 6 hours ago
-- [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - 6 hours ago
-- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - 21 hours ago
-- [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - 22 hours ago
+- [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 6 hours ago
+- [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 8 hours ago
+- [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 8 hours ago
+- [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - 10 hours ago
+- [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - 11 hours ago
+- [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - 11 hours ago
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - 1 day ago
+- [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - 1 day ago
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - 1 day ago
 - [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - 1 day ago
 - [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/) - 1 day ago
 - [Only 7 days left: Founders and VCs save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/) - 1 day ago
-- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - 1 day ago
+- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - 2 days ago
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - 3 days ago
 - [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - 4 days ago
 - [Startups Weekly: Wiz’s bet paid off in an M&A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/) - 4 days ago
@@ -34,12 +34,12 @@ Here are the latest articles from TechCrunch Startups:
 - [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - Mar 19, 2025
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - Mar 19, 2025
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Mar 19, 2025
+- [Google unveils a next-gen family of AI reasoning models](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/) - Time not found
 - [Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone](https://techcrunch.com/2025/03/25/bill-gates-backed-commonwealth-fusion-systems-hits-key-reactor-construction-milestone/) - Time not found
 - [OpenAI says its AI voice assistant is now better to chat with](https://techcrunch.com/2025/03/24/openai-says-its-ai-voice-assistant-is-now-better-to-chat-with/) - Time not found
 - [A new, challenging AGI test stumps most AI models](https://techcrunch.com/2025/03/24/a-new-challenging-agi-test-stumps-most-ai-models/) - Time not found
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - Time not found
-- [Fair-code pioneer n8n raises $60M for AI-powered workflow automation](https://techcrunch.com/2025/03/24/fair-code-pioneer-n8n-raises-60m-for-ai-powered-workflow-automation/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - Mar 19, 2025
 - [‘Every software company is an AI company now,’ says AngelList CEO Avlok Kohli](https://techcrunch.com/podcast/every-software-company-is-an-ai-company-now-says-angellist-ceo-avlok-kohli/) - Mar 19, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Mar 16, 2025
 - [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/) - Mar 14, 2025
 - [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/) - Mar 14, 2025
+- [Google unveils a next-gen family of AI reasoning models](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/) - Time not found
 - [Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone](https://techcrunch.com/2025/03/25/bill-gates-backed-commonwealth-fusion-systems-hits-key-reactor-construction-milestone/) - Time not found
 - [OpenAI says its AI voice assistant is now better to chat with](https://techcrunch.com/2025/03/24/openai-says-its-ai-voice-assistant-is-now-better-to-chat-with/) - Time not found
 - [A new, challenging AGI test stumps most AI models](https://techcrunch.com/2025/03/24/a-new-challenging-agi-test-stumps-most-ai-models/) - Time not found
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - Time not found
-- [Fair-code pioneer n8n raises $60M for AI-powered workflow automation](https://techcrunch.com/2025/03/24/fair-code-pioneer-n8n-raises-60m-for-ai-powered-workflow-automation/) - Time not found
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Time not found
