@@ -4,12 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - 32 minutes ago
-- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - 2 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 6 hours ago
-- [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 21 hours ago
-- [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 23 hours ago
-- [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 24 hours ago
+- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - 1 hour ago
+- [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/) - 3 hours ago
+- [Bradley Tusk says VC is dead. But the ‘fixer’ in him is just getting started](https://techcrunch.com/podcast/bradley-tusk-says-vc-is-dead-but-the-fixer-in-him-is-just-getting-started/) - 3 hours ago
+- [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280M in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/) - 3 hours ago
+- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - 4 hours ago
+- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - 6 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 10 hours ago
+- [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 1 day ago
+- [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 1 day ago
+- [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 1 day ago
 - [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - 1 day ago
 - [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - 1 day ago
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - 1 day ago
@@ -30,10 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - Mar 20, 2025
 - [CoreWeave prices its IPO to raise at least $2.2 billion — and now the games begin](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/) - Mar 20, 2025
 - [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - Mar 20, 2025
-- [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - Mar 20, 2025
-- [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - Mar 20, 2025
-- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - Mar 20, 2025
-- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - Mar 20, 2025
 - [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/) - Time not found
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/) - Time not found
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/) - Time not found
@@ -41,6 +41,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Google unveils a next-gen family of AI reasoning models](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/) - Time not found
 - [Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone](https://techcrunch.com/2025/03/25/bill-gates-backed-commonwealth-fusion-systems-hits-key-reactor-construction-milestone/) - Time not found
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
+- [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - Mar 20, 2025
+- [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - Mar 20, 2025
+- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - Mar 20, 2025
+- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - Mar 20, 2025
 - [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - Mar 19, 2025
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - Mar 19, 2025
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Mar 19, 2025
@@ -67,10 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - Mar 17, 2025
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Mar 17, 2025
 - [Flexport accuses former employees of stealing its source code to create a rival startup](https://techcrunch.com/2025/03/17/flexport-accuses-former-employees-of-stealing-its-source-code-to-create-a-rival-startup/) - Mar 17, 2025
-- [YC-backed ReactWise is applying AI to speed up drug manufacturing](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/) - Mar 17, 2025
-- [Vote for the session you want to see at TechCrunch Sessions: AI ](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/) - Mar 17, 2025
-- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/) - Mar 17, 2025
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Mar 16, 2025
 - [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/) - Time not found
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/) - Time not found
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/) - Time not found
