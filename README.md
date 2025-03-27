@@ -4,22 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - 11 hours ago
-- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - 13 hours ago
-- [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/) - 14 hours ago
-- [Bradley Tusk says VC is dead. But the ‘fixer’ in him is just getting started](https://techcrunch.com/podcast/bradley-tusk-says-vc-is-dead-but-the-fixer-in-him-is-just-getting-started/) - 15 hours ago
-- [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280M in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/) - 15 hours ago
-- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - 16 hours ago
-- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - 18 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 22 hours ago
+- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - 15 hours ago
+- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - 17 hours ago
+- [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/) - 19 hours ago
+- [Bradley Tusk says VC is dead. But the ‘fixer’ in him is just getting started](https://techcrunch.com/podcast/bradley-tusk-says-vc-is-dead-but-the-fixer-in-him-is-just-getting-started/) - 19 hours ago
+- [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280M in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/) - 19 hours ago
+- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - 21 hours ago
+- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - 22 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 1 day ago
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 2 days ago
 - [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 2 days ago
 - [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 2 days ago
 - [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - 2 days ago
 - [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - 2 days ago
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - 2 days ago
-- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - 2 days ago
-- [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - 2 days ago
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - 3 days ago
+- [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - 3 days ago
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - 3 days ago
 - [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - 3 days ago
 - [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/) - 3 days ago
@@ -35,11 +35,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - Mar 20, 2025
 - [CoreWeave prices its IPO to raise at least $2.2 billion — and now the games begin](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/) - Mar 20, 2025
 - [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/) - Time not found
+- [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) - Time not found
 - [The Lumon Terminal Pro computer pops up on Apple’s website](https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/) - Time not found
 - [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
 - [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/) - Time not found
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/) - Time not found
-- [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/) - Time not found
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
 - [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/) - Mar 20, 2025
 - [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/) - Mar 20, 2025
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Rippling sues Deel, Deel denies ‘all legal wrongdoing,’ and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/) - Mar 17, 2025
 - [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/) - Mar 17, 2025
 - [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/) - Time not found
+- [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) - Time not found
 - [The Lumon Terminal Pro computer pops up on Apple’s website](https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/) - Time not found
 - [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
 - [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/) - Time not found
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/) - Time not found
-- [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/) - Time not found
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Time not found
