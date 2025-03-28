@@ -4,18 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/) - 1 hour ago
-- [Twin’s first AI agent is an invoice-retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/) - 3 hours ago
-- [eBay backs WunderGraph to build an open source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/) - 5 hours ago
-- [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/27/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - 6 hours ago
-- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - 23 hours ago
+- [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/) - 4 hours ago
+- [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/) - 6 hours ago
+- [Twin’s first AI agent is an invoice-retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/) - 8 hours ago
+- [eBay backs WunderGraph to build an open source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/) - 10 hours ago
+- [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/27/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - 11 hours ago
+- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - 1 day ago
 - [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - 1 day ago
 - [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/) - 1 day ago
 - [Bradley Tusk says VC is dead. But the ‘fixer’ in him is just getting started](https://techcrunch.com/podcast/bradley-tusk-says-vc-is-dead-but-the-fixer-in-him-is-just-getting-started/) - 1 day ago
 - [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280M in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/) - 1 day ago
 - [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - 1 day ago
 - [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - 1 day ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 1 day ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 2 days ago
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 2 days ago
 - [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 2 days ago
 - [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 2 days ago
@@ -29,18 +30,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/) - 3 days ago
 - [Only 7 days left: Founders and VCs save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/) - 3 days ago
-- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - 3 days ago
+- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - 4 days ago
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Mar 22, 2025
 - [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - Mar 21, 2025
 - [Startups Weekly: Wiz’s bet paid off in an M&A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/) - Mar 21, 2025
-- [Wayve CEO shares his key ingredients for scaling autonomous driving tech ](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/) - Mar 21, 2025
+- [Google rolls out new vacation-planning features to Search, Maps, and Gemini](https://techcrunch.com/2025/03/27/google-rolls-out-new-vacation-planning-features-to-search-maps-and-gemini/) - Time not found
 - [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/) - Time not found
 - [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) - Time not found
+- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - Time not found
 - [The Lumon Terminal Pro computer pops up on Apple’s website](https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/) - Time not found
-- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - Time not found
 - [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
-- [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/) - Time not found
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/) - Time not found
+- [Wayve CEO shares his key ingredients for scaling autonomous driving tech ](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/) - Mar 21, 2025
 - [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/) - Mar 21, 2025
 - [Inside the Google-Wiz acquisition and the deal’s biggest winners](https://techcrunch.com/podcast/inside-the-google-wiz-acquisition-and-the-deals-biggest-winners/) - Mar 21, 2025
 - [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/) - Mar 20, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/) - Mar 18, 2025
 - [Exist is a new social wellness app that wants to help middle-age users find community](https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/) - Mar 18, 2025
 - [TurinTech reveals $20M in backing to fix problems in ‘vibe coding’](https://techcrunch.com/2025/03/18/turintech-reveals-20m-in-backing-to-fix-problems-in-vibe-coding/) - Mar 18, 2025
-- [YC-backed food supply startup Vendease restructures employees’ salaries](https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/) - Mar 18, 2025
+- [Google rolls out new vacation-planning features to Search, Maps, and Gemini](https://techcrunch.com/2025/03/27/google-rolls-out-new-vacation-planning-features-to-search-maps-and-gemini/) - Time not found
 - [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/) - Time not found
 - [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) - Time not found
+- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - Time not found
 - [The Lumon Terminal Pro computer pops up on Apple’s website](https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/) - Time not found
-- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - Time not found
 - [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
-- [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/) - Time not found
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/) - Time not found
