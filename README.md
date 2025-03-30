@@ -4,8 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - 2 hours ago
-- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 20 hours ago
+- [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - 5 minutes ago
+- [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - 6 hours ago
+- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 24 hours ago
 - [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 1 day ago
 - [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 1 day ago
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - Mar 25, 2025
 - [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - Mar 25, 2025
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - Mar 25, 2025
-- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Mar 24, 2025
+- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Time not found
 - [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/29/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/) - Time not found
 - [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/) - Time not found
 - [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/) - Time not found
-- [CoreWeave co-founder explains how a closet of crypto-mining GPUs led to a $1.5B IPO](https://techcrunch.com/2025/03/29/coreweave-co-founder-explains-how-a-closet-of-crypto-mining-gpus-led-to-a-1-5b-ipo/) - Time not found
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Time not found
 - [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/) - Time not found
 - [Open source devs are fighting AI crawlers with cleverness and vengeance](https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/) - Time not found
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Mar 24, 2025
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - Mar 24, 2025
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - Mar 24, 2025
 - [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - Mar 24, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/) - Mar 19, 2025
 - [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/) - Mar 19, 2025
 - [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/) - Mar 19, 2025
-- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/) - Mar 19, 2025
+- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Time not found
 - [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/29/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/) - Time not found
 - [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/) - Time not found
 - [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/) - Time not found
-- [CoreWeave co-founder explains how a closet of crypto-mining GPUs led to a $1.5B IPO](https://techcrunch.com/2025/03/29/coreweave-co-founder-explains-how-a-closet-of-crypto-mining-gpus-led-to-a-1-5b-ipo/) - Time not found
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Time not found
 - [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/) - Time not found
 - [Open source devs are fighting AI crawlers with cleverness and vengeance](https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/) - Time not found
