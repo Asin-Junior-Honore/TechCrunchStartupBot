@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 12 hours ago
-- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 18 hours ago
-- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 18 hours ago
-- [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - 1 day ago
+- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 16 hours ago
+- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 22 hours ago
+- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 22 hours ago
+- [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - 2 days ago
 - [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - 2 days ago
 - [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - 2 days ago
 - [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/) - 2 days ago
 - [OpenAI is aiming for AGI but landing on Studio Ghibli](https://techcrunch.com/podcast/openai-is-aiming-for-agi-but-landing-on-studio-ghibli/) - 2 days ago
 - [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/) - 2 days ago
 - [Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M](https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/) - 2 days ago
-- [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/) - 2 days ago
+- [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/) - 3 days ago
 - [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/) - 3 days ago
 - [Twin’s first AI agent is an invoice-retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/) - 3 days ago
 - [eBay backs WunderGraph to build an open source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/) - 3 days ago
-- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - 3 days ago
+- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - 4 days ago
 - [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - 4 days ago
 - [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/) - 4 days ago
 - [Bradley Tusk says VC is dead. But the ‘fixer’ in him is just getting started](https://techcrunch.com/podcast/bradley-tusk-says-vc-is-dead-but-the-fixer-in-him-is-just-getting-started/) - 4 days ago
@@ -27,8 +27,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - 4 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - 4 days ago
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - 5 days ago
-- [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - 5 days ago
-- [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - 5 days ago
+- [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - Mar 25, 2025
+- [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - Mar 25, 2025
 - [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - Mar 25, 2025
 - [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - Mar 25, 2025
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - Mar 25, 2025
@@ -37,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/29/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/) - Time not found
 - [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/) - Time not found
 - [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/) - Time not found
+- [CoreWeave co-founder explains how a closet of crypto-mining GPUs led to a $1.5B IPO](https://techcrunch.com/2025/03/29/coreweave-co-founder-explains-how-a-closet-of-crypto-mining-gpus-led-to-a-1-5b-ipo/) - Time not found
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Time not found
 - [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/) - Time not found
-- [Nikola founder Trevor Milton pardoned by Trump](https://techcrunch.com/2025/03/28/nikola-founder-trevor-milton-pardoned-by-trump/) - Time not found
 - [Open source devs are fighting AI crawlers with cleverness and vengeance](https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/) - Time not found
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - Mar 24, 2025
 - [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - Mar 24, 2025
