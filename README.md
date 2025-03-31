@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 2 hours ago
-- [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 3 hours ago
-- [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - 20 hours ago
+- [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - 4 hours ago
+- [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 6 hours ago
+- [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 7 hours ago
+- [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - 24 hours ago
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - 1 day ago
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 2 days ago
-- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 2 days ago
 - [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 2 days ago
+- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 2 days ago
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - 3 days ago
 - [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - 3 days ago
 - [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - Mar 25, 2025
 - [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - Mar 25, 2025
 - [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - Mar 25, 2025
-- [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - Mar 25, 2025
 - [Amazon unveils Nova Act, an AI agent that can control a web browser](https://techcrunch.com/2025/03/31/amazon-unveils-nova-act-an-ai-agent-that-uses-a-web-browser/) - Time not found
+- [“This isn’t ‘The Matrix'”](https://techcrunch.com/2025/03/30/this-isnt-the-matrix/) - Time not found
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Time not found
 - [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/) - Time not found
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/30/the-hottest-ai-models-what-they-do-and-how-to-use-them/) - Time not found
-- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/03/30/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/) - Time not found
 - [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/) - Time not found
 - [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/) - Time not found
+- [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) - Mar 25, 2025
 - [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/) - Mar 25, 2025
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - Mar 25, 2025
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Mar 24, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup ](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) - Mar 19, 2025
 - [‘Every software company is an AI company now,’ says AngelList CEO Avlok Kohli](https://techcrunch.com/podcast/every-software-company-is-an-ai-company-now-says-angellist-ceo-avlok-kohli/) - Mar 19, 2025
 - [Tera AI comes out of stealth with $7.8M to provide visual navigation for robots](https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/) - Mar 19, 2025
-- [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/) - Mar 19, 2025
 - [Amazon unveils Nova Act, an AI agent that can control a web browser](https://techcrunch.com/2025/03/31/amazon-unveils-nova-act-an-ai-agent-that-uses-a-web-browser/) - Time not found
+- [“This isn’t ‘The Matrix'”](https://techcrunch.com/2025/03/30/this-isnt-the-matrix/) - Time not found
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Time not found
 - [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/) - Time not found
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/30/the-hottest-ai-models-what-they-do-and-how-to-use-them/) - Time not found
-- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/03/30/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/) - Time not found
 - [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/) - Time not found
 - [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/) - Time not found
