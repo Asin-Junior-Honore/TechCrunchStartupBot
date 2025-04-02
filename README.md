@@ -4,9 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - 16 hours ago
-- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - 18 hours ago
-- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - 21 hours ago
+- [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/) - 53 minutes ago
+- [Actively AI raises $22.5M to offer sales ‘superintelligence,’ says AI SDRs failed](https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/) - 2 hours ago
+- [Parasail says its fleet of on-demand GPUs is larger than Oracle’s entire cloud](https://techcrunch.com/2025/04/02/parasail-says-its-fleet-of-on-demand-gpus-is-larger-than-oracles-entire-cloud/) - 2 hours ago
+- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - 20 hours ago
+- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - 22 hours ago
+- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - 1 day ago
 - [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - 2 days ago
 - [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 2 days ago
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 2 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/) - Mar 26, 2025
 - [Bradley Tusk says VC is dead. But the ‘fixer’ in him is just getting started](https://techcrunch.com/podcast/bradley-tusk-says-vc-is-dead-but-the-fixer-in-him-is-just-getting-started/) - Mar 26, 2025
 - [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280M in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/) - Mar 26, 2025
-- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - Mar 26, 2025
-- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - Mar 26, 2025
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - Mar 26, 2025
 - [Zelle is shutting down its app, but you probably don’t need to worry](https://techcrunch.com/2025/04/01/zelle-is-shutting-down-its-app-but-you-probably-dont-need-to-worry/) - Time not found
 - [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Time not found
 - [Meta’s head of AI research plans to leave the company](https://techcrunch.com/2025/04/01/metas-head-of-ai-research-plans-to-leave-the-company/) - Time not found
-- [ChatGPT isn’t the only chatbot that’s gaining users](https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/) - Time not found
+- [NaNoWriMo shut down after AI, content moderation scandals](https://techcrunch.com/2025/04/01/nanowrimo-shut-down-after-ai-content-moderation-scandals/) - Time not found
 - [OpenAI’s new image generator is now available to all users](https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/) - Time not found
 - [ChatGPT’s new image generator is really good at faking receipts](https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/) - Time not found
 - [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/) - Time not found
+- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - Mar 26, 2025
+- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - Mar 26, 2025
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - Mar 26, 2025
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - Mar 25, 2025
 - [Cerebras Systems’ IPO is further delayed](https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/) - Mar 25, 2025
 - [A world without Caesars: How the ATProto community is rebuilding the web to return power to the people](https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/) - Mar 25, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/) - Mar 20, 2025
 - [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/) - Mar 20, 2025
 - [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/) - Mar 20, 2025
-- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - Mar 19, 2025
-- [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - Mar 19, 2025
-- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Mar 19, 2025
 - [Zelle is shutting down its app, but you probably don’t need to worry](https://techcrunch.com/2025/04/01/zelle-is-shutting-down-its-app-but-you-probably-dont-need-to-worry/) - Time not found
 - [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Time not found
 - [Meta’s head of AI research plans to leave the company](https://techcrunch.com/2025/04/01/metas-head-of-ai-research-plans-to-leave-the-company/) - Time not found
-- [ChatGPT isn’t the only chatbot that’s gaining users](https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/) - Time not found
+- [NaNoWriMo shut down after AI, content moderation scandals](https://techcrunch.com/2025/04/01/nanowrimo-shut-down-after-ai-content-moderation-scandals/) - Time not found
 - [OpenAI’s new image generator is now available to all users](https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/) - Time not found
 - [ChatGPT’s new image generator is really good at faking receipts](https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/) - Time not found
 - [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/) - Time not found
