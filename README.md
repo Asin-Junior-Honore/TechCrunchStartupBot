@@ -4,23 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - 5 hours ago
-- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - 7 hours ago
-- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - 10 hours ago
-- [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - 1 day ago
-- [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 1 day ago
+- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - 8 hours ago
+- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - 10 hours ago
+- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - 13 hours ago
+- [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - 2 days ago
+- [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 2 days ago
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 2 days ago
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - 2 days ago
-- [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - 2 days ago
+- [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - 3 days ago
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 3 days ago
-- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 3 days ago
-- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 3 days ago
+- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 4 days ago
+- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 4 days ago
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - 4 days ago
 - [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - 4 days ago
 - [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - 4 days ago
-- [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/) - 4 days ago
-- [OpenAI is aiming for AGI but landing on Studio Ghibli](https://techcrunch.com/podcast/openai-is-aiming-for-agi-but-landing-on-studio-ghibli/) - 4 days ago
-- [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/) - 4 days ago
+- [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/) - 5 days ago
+- [OpenAI is aiming for AGI but landing on Studio Ghibli](https://techcrunch.com/podcast/openai-is-aiming-for-agi-but-landing-on-studio-ghibli/) - 5 days ago
+- [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/) - 5 days ago
 - [Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M](https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/) - Mar 27, 2025
 - [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/) - Mar 27, 2025
 - [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/) - Mar 27, 2025
@@ -34,11 +34,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) - Mar 26, 2025
 - [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/) - Mar 26, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/) - Mar 26, 2025
+- [Zelle is shutting down its app, but you probably don’t need to worry](https://techcrunch.com/2025/04/01/zelle-is-shutting-down-its-app-but-you-probably-dont-need-to-worry/) - Time not found
+- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Time not found
 - [OpenAI’s new image generator is now available to all users](https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/) - Time not found
-- [OpenAI raises $40B at $300B post-money valuation](https://techcrunch.com/2025/03/31/openai-raises-40b-at-300b-post-money-valuation/) - Time not found
 - [ChatGPT’s new image generator is really good at faking receipts](https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/) - Time not found
 - [Oracle under fire for its handling of separate security incidents](https://techcrunch.com/2025/03/31/oracle-under-fire-for-its-handling-of-separate-security-incidents/) - Time not found
-- [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - Time not found
 - [Amazon unveils Nova Act, an AI agent that can control a web browser](https://techcrunch.com/2025/03/31/amazon-unveils-nova-act-an-ai-agent-that-uses-a-web-browser/) - Time not found
 - [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/) - Time not found
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) - Mar 25, 2025
@@ -71,8 +71,8 @@ Here are the latest articles from TechCrunch Startups:
 - [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/) - Mar 19, 2025
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/) - Mar 19, 2025
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/) - Mar 19, 2025
+- [Zelle is shutting down its app, but you probably don’t need to worry](https://techcrunch.com/2025/04/01/zelle-is-shutting-down-its-app-but-you-probably-dont-need-to-worry/) - Time not found
 - [OpenAI’s new image generator is now available to all users](https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/) - Time not found
-- [OpenAI raises $40B at $300B post-money valuation](https://techcrunch.com/2025/03/31/openai-raises-40b-at-300b-post-money-valuation/) - Time not found
 - [ChatGPT’s new image generator is really good at faking receipts](https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/) - Time not found
 - [Oracle under fire for its handling of separate security incidents](https://techcrunch.com/2025/03/31/oracle-under-fire-for-its-handling-of-separate-security-incidents/) - Time not found
 - [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - Time not found
