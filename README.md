@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - 11 minutes ago
-- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - 2 hours ago
-- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - 5 hours ago
+- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - 5 hours ago
+- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - 7 hours ago
+- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - 10 hours ago
 - [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - 1 day ago
 - [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 1 day ago
-- [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 1 day ago
+- [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 2 days ago
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - 2 days ago
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - 2 days ago
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - 3 days ago
-- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 3 days ago
 - [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - 3 days ago
+- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - 3 days ago
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - 4 days ago
 - [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - 4 days ago
 - [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - 4 days ago
