@@ -4,16 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 2 hours ago
-- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - 5 hours ago
-- [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - 16 hours ago
-- [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - 16 hours ago
-- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - 16 hours ago
-- [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - 16 hours ago
-- [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/) - 21 hours ago
-- [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - 21 hours ago
-- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/) - 23 hours ago
-- [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/) - 23 hours ago
+- [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - 13 seconds ago
+- [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - 16 minutes ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 33 minutes ago
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 2 hours ago
+- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - 9 hours ago
+- [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - 20 hours ago
+- [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - 20 hours ago
+- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - 20 hours ago
+- [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - 21 hours ago
+- [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/) - 1 day ago
+- [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - 1 day ago
+- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/) - 1 day ago
+- [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/) - 1 day ago
 - [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - 2 days ago
 - [Startup Battlefield winner Salva Health is changing the game in breast cancer detection](https://techcrunch.com/podcast/startup-battlefield-winner-salva-health-is-changing-the-game-in-breast-cancer-detection/) - 2 days ago
 - [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/) - 2 days ago
@@ -25,22 +28,22 @@ Here are the latest articles from TechCrunch Startups:
 - [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) - 4 days ago
 - [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - 4 days ago
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - 4 days ago
-- [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - 5 days ago
+- [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Mar 29, 2025
-- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
 - [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - Mar 29, 2025
+- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Mar 28, 2025
-- [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - Mar 28, 2025
-- [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 28, 2025
-- [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/) - Mar 28, 2025
+- [Midjourney releases V7, its first new AI image model in nearly a year](https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/) - Time not found
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - Time not found
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Time not found
 - [Microsoft reportedly pulls back on its data center plans](https://techcrunch.com/2025/04/03/microsoft-reportedly-pulls-back-on-its-data-center-plans/) - Time not found
 - [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/) - Time not found
 - [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - Time not found
-- [WordPress maker Automattic lays off 16% of staff](https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/) - Time not found
 - [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Time not found
+- [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - Mar 28, 2025
+- [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 28, 2025
+- [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/) - Mar 28, 2025
 - [OpenAI is aiming for AGI but landing on Studio Ghibli](https://techcrunch.com/podcast/openai-is-aiming-for-agi-but-landing-on-studio-ghibli/) - Mar 28, 2025
 - [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/) - Mar 28, 2025
 - [Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M](https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/) - Mar 27, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/) - Mar 24, 2025
 - [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/) - Mar 24, 2025
 - [Only 7 days left: Founders and VCs save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/) - Mar 24, 2025
-- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/) - Mar 24, 2025
-- [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/) - Mar 22, 2025
-- [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/) - Mar 21, 2025
+- [Midjourney releases V7, its first new AI image model in nearly a year](https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/) - Time not found
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - Time not found
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Time not found
 - [Microsoft reportedly pulls back on its data center plans](https://techcrunch.com/2025/04/03/microsoft-reportedly-pulls-back-on-its-data-center-plans/) - Time not found
 - [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/) - Time not found
 - [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - Time not found
-- [WordPress maker Automattic lays off 16% of staff](https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/) - Time not found
 - [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Time not found
