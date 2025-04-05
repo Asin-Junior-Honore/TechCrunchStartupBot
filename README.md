@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [SF Mayor Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/) - 1 hour ago
-- [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/) - 22 hours ago
-- [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/) - 23 hours ago
-- [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - 24 hours ago
+- [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/) - 1 hour ago
+- [SF Mayor Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/) - 5 hours ago
+- [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/) - 1 day ago
+- [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/) - 1 day ago
+- [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - 1 day ago
 - [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - 1 day ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 1 day ago
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 1 day ago
-- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - 1 day ago
+- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - 2 days ago
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - 2 days ago
 - [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - 2 days ago
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - Mar 31, 2025
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
-- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Mar 29, 2025
 - [GitHub Copilot introduces new limits, charges for ‘premium’ AI models](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/) - Time not found
 - [Gemini 2.5 Pro is Google’s most expensive AI model yet](https://techcrunch.com/2025/04/04/gemini-2-5-pro-is-googles-most-expensive-ai-model-yet/) - Time not found
 - [Microsoft’s Copilot can now browse the web and perform actions for you](https://techcrunch.com/2025/04/04/microsofts-copilot-can-now-browse-the-web-and-perform-actions-for-you/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Midjourney releases V7, its first new AI image model in nearly a year](https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/) - Time not found
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Time not found
 - [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/) - Time not found
+- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Mar 29, 2025
 - [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
 - [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - Mar 29, 2025
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Mar 28, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Mar 24, 2025
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - Mar 24, 2025
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - Mar 24, 2025
-- [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/) - Mar 24, 2025
 - [GitHub Copilot introduces new limits, charges for ‘premium’ AI models](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/) - Time not found
 - [Gemini 2.5 Pro is Google’s most expensive AI model yet](https://techcrunch.com/2025/04/04/gemini-2-5-pro-is-googles-most-expensive-ai-model-yet/) - Time not found
 - [Microsoft’s Copilot can now browse the web and perform actions for you](https://techcrunch.com/2025/04/04/microsofts-copilot-can-now-browse-the-web-and-perform-actions-for-you/) - Time not found
