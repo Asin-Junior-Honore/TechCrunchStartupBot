@@ -34,9 +34,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - Mar 31, 2025
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
+- [Microsoft releases AI-generated Quake II demo, but admits ‘limitations’](https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/) - Time not found
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/) - Time not found
 - [Meta releases Llama 4, a new crop of flagship AI models](https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/) - Time not found
-- [Gemini 2.5 Pro is Google’s most expensive AI model yet](https://techcrunch.com/2025/04/04/gemini-2-5-pro-is-googles-most-expensive-ai-model-yet/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - Time not found
 - [OpenAI says it’ll release o3 after all, delays GPT-5](https://techcrunch.com/2025/04/04/openai-says-itll-release-o3-after-all-delays-gpt-5/) - Time not found
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Time not found
