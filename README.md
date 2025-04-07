@@ -13,17 +13,17 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 3 days ago
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 3 days ago
 - [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - 3 days ago
-- [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - 3 days ago
-- [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - 3 days ago
+- [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - 4 days ago
+- [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - 4 days ago
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - 4 days ago
 - [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - 4 days ago
 - [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/) - 4 days ago
 - [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - 4 days ago
 - [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/) - 4 days ago
 - [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/) - 4 days ago
-- [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - 5 days ago
-- [Startup Battlefield winner Salva Health is changing the game in breast cancer detection](https://techcrunch.com/podcast/startup-battlefield-winner-salva-health-is-changing-the-game-in-breast-cancer-detection/) - 5 days ago
-- [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/) - 5 days ago
+- [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - Apr 2, 2025
+- [Startup Battlefield winner Salva Health is changing the game in breast cancer detection](https://techcrunch.com/podcast/startup-battlefield-winner-salva-health-is-changing-the-game-in-breast-cancer-detection/) - Apr 2, 2025
+- [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/) - Apr 2, 2025
 - [Actively AI raises $22.5M to offer sales ‘superintelligence,’ says AI SDRs failed](https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/) - Apr 2, 2025
 - [Parasail says its fleet of on-demand GPUs is larger than Oracle’s entire cloud](https://techcrunch.com/2025/04/02/parasail-says-its-fleet-of-on-demand-gpus-is-larger-than-oracles-entire-cloud/) - Apr 2, 2025
 - [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - Apr 1, 2025
