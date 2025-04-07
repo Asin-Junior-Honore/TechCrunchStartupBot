@@ -34,8 +34,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - Mar 31, 2025
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
+- [Want to stay young? Peter Diamandis says survive the next 10 years](https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/) - Time not found
 - [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/) - Time not found
-- [White House reportedly blames auto-suggested iPhone contact for Signal scandal](https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/) - Time not found
 - [Microsoft releases AI-generated Quake II demo, but admits ‘limitations’](https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/) - Time not found
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/) - Time not found
 - [Meta releases Llama 4, a new crop of flagship AI models](https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/) - Time not found
@@ -71,8 +71,8 @@ Here are the latest articles from TechCrunch Startups:
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Mar 24, 2025
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - Mar 24, 2025
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/) - Mar 24, 2025
+- [Want to stay young? Peter Diamandis says survive the next 10 years](https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/) - Time not found
 - [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/) - Time not found
-- [White House reportedly blames auto-suggested iPhone contact for Signal scandal](https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/) - Time not found
 - [Microsoft releases AI-generated Quake II demo, but admits ‘limitations’](https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/) - Time not found
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/) - Time not found
 - [Meta releases Llama 4, a new crop of flagship AI models](https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/) - Time not found
