@@ -4,24 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/) - 4 hours ago
+- [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/) - 8 hours ago
 - [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/) - 2 days ago
-- [SF mayor Daniel Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-daniel-lurie-to-tech-ceos-how-can-we-get-you-back/) - 2 days ago
+- [SF mayor Daniel Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-daniel-lurie-to-tech-ceos-how-can-we-get-you-back/) - 3 days ago
 - [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/) - 3 days ago
 - [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/) - 3 days ago
 - [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - 3 days ago
-- [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - 3 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 3 days ago
-- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 3 days ago
+- [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - 4 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 4 days ago
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 4 days ago
 - [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - 4 days ago
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - 4 days ago
 - [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - 4 days ago
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - 4 days ago
 - [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - 4 days ago
-- [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/) - 4 days ago
-- [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - 4 days ago
-- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/) - 4 days ago
-- [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/) - 4 days ago
+- [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/) - 5 days ago
+- [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - 5 days ago
+- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/) - 5 days ago
+- [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/) - 5 days ago
 - [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - Apr 2, 2025
 - [Startup Battlefield winner Salva Health is changing the game in breast cancer detection](https://techcrunch.com/podcast/startup-battlefield-winner-salva-health-is-changing-the-game-in-breast-cancer-detection/) - Apr 2, 2025
 - [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/) - Apr 2, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/) - Mar 31, 2025
 - [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/) - Mar 31, 2025
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
+- [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/) - Time not found
+- [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/) - Time not found
 - [Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs](https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/) - Time not found
 - [Former Tesla exec Drew Baglino’s new startup is rethinking the electrical transformer](https://techcrunch.com/2025/04/07/former-tesla-exec-drew-baglinos-new-startup-is-rethinking-the-electrical-transformer/) - Time not found
-- [OpenAI reportedly mulls buying Jony Ive and Sam Altman’s AI hardware startup](https://techcrunch.com/2025/04/07/openai-reportedly-mulls-buying-jony-ive-and-sam-altmans-ai-hardware-startup/) - Time not found
 - [Want to stay young? Peter Diamandis says survive the next 10 years](https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/) - Time not found
 - [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/) - Time not found
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/) - Time not found
-- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Time not found
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Mar 29, 2025
 - [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/) - Mar 25, 2025
 - [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/) - Mar 24, 2025
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/) - Mar 24, 2025
+- [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/) - Time not found
+- [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/) - Time not found
 - [Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs](https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/) - Time not found
 - [Former Tesla exec Drew Baglino’s new startup is rethinking the electrical transformer](https://techcrunch.com/2025/04/07/former-tesla-exec-drew-baglinos-new-startup-is-rethinking-the-electrical-transformer/) - Time not found
 - [Want to stay young? Peter Diamandis says survive the next 10 years](https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/) - Time not found
 - [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/) - Time not found
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/) - Time not found
-- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Time not found
-- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Time not found
