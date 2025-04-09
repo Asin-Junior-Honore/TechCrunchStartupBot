@@ -4,28 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 5 hours ago
-- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 8 hours ago
-- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - 11 hours ago
-- [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/) - 12 hours ago
-- [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - 12 hours ago
-- [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/) - 13 hours ago
-- [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/) - 13 hours ago
-- [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/) - 13 hours ago
-- [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/) - 14 hours ago
-- [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - 15 hours ago
-- [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/) - 16 hours ago
-- [XL Batteries is using petrochemical infrastructure to store solar and wind power](https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/) - 16 hours ago
-- [Sizl raises $3.5M to expand its cook-to-order food delivery service](https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/) - 16 hours ago
+- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 9 hours ago
+- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 12 hours ago
+- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - 15 hours ago
+- [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/) - 16 hours ago
+- [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - 16 hours ago
+- [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/) - 17 hours ago
+- [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/) - 17 hours ago
+- [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/) - 17 hours ago
+- [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/) - 18 hours ago
+- [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - 19 hours ago
+- [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/) - 20 hours ago
+- [XL Batteries is using petrochemical infrastructure to store solar and wind power](https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/) - 20 hours ago
+- [Sizl raises $3.5M to expand its cook-to-order food delivery service](https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/) - 20 hours ago
 - [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/) - 1 day ago
-- [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/) - 3 days ago
+- [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/) - 4 days ago
 - [SF mayor Daniel Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-daniel-lurie-to-tech-ceos-how-can-we-get-you-back/) - 4 days ago
-- [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/) - 4 days ago
-- [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/) - 4 days ago
-- [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - 4 days ago
-- [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - 4 days ago
+- [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/) - 5 days ago
+- [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/) - 5 days ago
+- [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - 5 days ago
+- [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - 5 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - 5 days ago
-- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 5 days ago
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Apr 4, 2025
 - [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - Apr 4, 2025
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - Apr 3, 2025
 - [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - Apr 3, 2025
@@ -35,12 +35,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - Apr 3, 2025
 - [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/) - Apr 3, 2025
 - [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/) - Time not found
+- [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - Time not found
+- [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - Time not found
+- [Amazon unveils a new AI voice model, Nova Sonic](https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/) - Time not found
 - [IBM releases a new mainframe built for the age of AI](https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/) - Time not found
 - [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/) - Time not found
 - [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/) - Time not found
-- [How one tweet wreaked havoc on the stock market](https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/) - Time not found
-- [Shopify CEO tells teams to consider using AI before growing headcount](https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/) - Time not found
-- [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/) - Time not found
 - [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/) - Apr 3, 2025
 - [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/) - Apr 2, 2025
 - [Startup Battlefield winner Salva Health is changing the game in breast cancer detection](https://techcrunch.com/podcast/startup-battlefield-winner-salva-health-is-changing-the-game-in-breast-cancer-detection/) - Apr 2, 2025
@@ -56,8 +56,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Mar 29, 2025
-- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
 - [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - Mar 29, 2025
+- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Mar 28, 2025
 - [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - Mar 28, 2025
 - [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 28, 2025
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/) - Mar 26, 2025
 - [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/) - Mar 26, 2025
 - [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/) - Time not found
+- [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - Time not found
+- [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - Time not found
+- [Amazon unveils a new AI voice model, Nova Sonic](https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/) - Time not found
 - [IBM releases a new mainframe built for the age of AI](https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/) - Time not found
 - [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/) - Time not found
 - [Microsoft reportedly fires staff whose protest interrupted its Copilot event](https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/) - Time not found
-- [How one tweet wreaked havoc on the stock market](https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/) - Time not found
-- [Shopify CEO tells teams to consider using AI before growing headcount](https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/) - Time not found
-- [Meta’s benchmarks for its new AI models are a bit misleading](https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/) - Time not found
