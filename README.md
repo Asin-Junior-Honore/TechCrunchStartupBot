@@ -4,17 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/) - 51 minutes ago
-- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - 53 minutes ago
-- [Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech](https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech/) - 1 hour ago
-- [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/) - 2 hours ago
-- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 17 hours ago
-- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 20 hours ago
-- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - 23 hours ago
+- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - 3 hours ago
+- [Kalshi CEO: ‘State law doesn’t really apply’ to us](https://techcrunch.com/2025/04/09/kalshi-ceo-state-law-doesnt-really-apply-to-us/) - 3 hours ago
+- [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/) - 5 hours ago
+- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - 5 hours ago
+- [Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech](https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech/) - 6 hours ago
+- [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/) - 6 hours ago
+- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 21 hours ago
+- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 1 day ago
+- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - 1 day ago
 - [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/) - 1 day ago
 - [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - 1 day ago
-- [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/) - 1 day ago
 - [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/) - 1 day ago
+- [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/) - 1 day ago
 - [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/) - 1 day ago
 - [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/) - 1 day ago
 - [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Apr 4, 2025
 - [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - Apr 4, 2025
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - Apr 3, 2025
-- [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - Apr 3, 2025
-- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Apr 3, 2025
+- [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/) - Time not found
 - [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
+- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - Time not found
 - [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/) - Time not found
-- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - Time not found
 - [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - Time not found
-- [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - Time not found
 - [IBM releases a new mainframe built for the age of AI](https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/) - Time not found
 - [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/) - Time not found
+- [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - Apr 3, 2025
+- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Apr 3, 2025
 - [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - Apr 3, 2025
 - [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/) - Apr 3, 2025
 - [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/) - Apr 3, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI is aiming for AGI but landing on Studio Ghibli](https://techcrunch.com/podcast/openai-is-aiming-for-agi-but-landing-on-studio-ghibli/) - Mar 28, 2025
 - [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/) - Mar 28, 2025
 - [Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M](https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/) - Mar 27, 2025
-- [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/) - Mar 27, 2025
-- [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/) - Mar 27, 2025
+- [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/) - Time not found
 - [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
+- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - Time not found
 - [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/) - Time not found
-- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - Time not found
 - [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - Time not found
-- [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - Time not found
 - [IBM releases a new mainframe built for the age of AI](https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/) - Time not found
 - [Google is allegedly paying some AI staff to do nothing for a year rather than join rivals](https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/) - Time not found
