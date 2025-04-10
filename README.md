@@ -4,13 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/) - 13 hours ago
-- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - 19 hours ago
-- [Kalshi CEO: ‘State law doesn’t really apply’ to us](https://techcrunch.com/2025/04/09/kalshi-ceo-state-law-doesnt-really-apply-to-us/) - 19 hours ago
-- [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/) - 21 hours ago
-- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - 21 hours ago
-- [Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech](https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech/) - 22 hours ago
-- [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/) - 22 hours ago
+- [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/) - 2 hours ago
+- [Drafted uses AI and video resumes to help early-career professionals land jobs](https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/) - 3 hours ago
+- [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/) - 17 hours ago
+- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - 23 hours ago
+- [Kalshi CEO: ‘State law doesn’t really apply’ to us](https://techcrunch.com/2025/04/09/kalshi-ceo-state-law-doesnt-really-apply-to-us/) - 23 hours ago
+- [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/) - 1 day ago
+- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - 1 day ago
+- [Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech](https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech/) - 1 day ago
+- [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/) - 1 day ago
 - [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 2 days ago
 - [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 2 days ago
 - [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - 2 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - Apr 4, 2025
 - [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - Apr 4, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - Apr 4, 2025
-- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Apr 4, 2025
-- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - Apr 4, 2025
 - [Google to embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
+- [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/) - Time not found
 - [Ilya Sutskever taps Google Cloud to power his AI startup’s research](https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/) - Time not found
 - [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - Time not found
 - [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - Time not found
-- [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/) - Time not found
 - [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
 - [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/) - Time not found
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Apr 4, 2025
+- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/) - Apr 4, 2025
 - [OpenAI just made its first cybersecurity investment ](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) - Apr 3, 2025
 - [Ted Schlein’s Ballistic Ventures is raising $100M for a new fund](https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/) - Apr 3, 2025
 - [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/) - Apr 3, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - Mar 28, 2025
 - [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/28/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 28, 2025
 - [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/) - Mar 28, 2025
-- [OpenAI is aiming for AGI but landing on Studio Ghibli](https://techcrunch.com/podcast/openai-is-aiming-for-agi-but-landing-on-studio-ghibli/) - Mar 28, 2025
-- [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/) - Mar 28, 2025
 - [Google to embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
+- [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/) - Time not found
 - [Ilya Sutskever taps Google Cloud to power his AI startup’s research](https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/) - Time not found
 - [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - Time not found
 - [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - Time not found
-- [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/) - Time not found
 - [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
 - [Inside the EV startup secretly backed by Jeff Bezos](https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/) - Time not found
