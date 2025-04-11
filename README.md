@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Meta’s Llama drama and how Trump’s tariffs could hit moonshot projects](https://techcrunch.com/podcast/metas-llama-drama-and-how-trumps-tariffs-could-hit-moonshot-projects/) - 16 minutes ago
-- [Parallel Systems is building autonomous electric rail for short-distance freight](https://techcrunch.com/2025/04/11/parallel-systems-is-building-autonomous-electric-rail-for-short-distance-freight/) - 19 minutes ago
-- [Why Nest co-founder Matt Rogers is still bullish on HVAC](https://techcrunch.com/2025/04/11/why-nest-co-founder-matt-rogers-is-still-bullish-on-hvac/) - 23 minutes ago
-- [Less than a month to get your exhibit table for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/) - 33 minutes ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/) - 1 hour ago
-- [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/) - 5 hours ago
-- [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/) - 9 hours ago
-- [Stripe CEO says he ensures his top leaders interview a customer twice a month](https://techcrunch.com/2025/04/10/stripe-ceo-says-he-ensures-his-top-leaders-interview-a-customer-twice-a-month/) - 18 hours ago
-- [How Chef Robotics found success by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/) - 18 hours ago
-- [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - 19 hours ago
-- [Cofertility raises a $7M Series A to make egg freezing free](https://techcrunch.com/2025/04/10/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 20 hours ago
-- [Meghan Markle has made another angel investment](https://techcrunch.com/2025/04/10/meghan-markle-has-made-another-angel-investment/) - 24 hours ago
-- [Glossier might lose its unicorn status, report says](https://techcrunch.com/2025/04/10/glossier-might-lose-its-unicorn-status-report-says/) - 24 hours ago
+- [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/) - 37 seconds ago
+- [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/) - 3 hours ago
+- [Meta’s Llama drama and how Trump’s tariffs could hit moonshot projects](https://techcrunch.com/podcast/metas-llama-drama-and-how-trumps-tariffs-could-hit-moonshot-projects/) - 4 hours ago
+- [Parallel Systems is building autonomous electric rail for short-distance freight](https://techcrunch.com/2025/04/11/parallel-systems-is-building-autonomous-electric-rail-for-short-distance-freight/) - 4 hours ago
+- [Why Nest co-founder Matt Rogers is still bullish on HVAC](https://techcrunch.com/2025/04/11/why-nest-co-founder-matt-rogers-is-still-bullish-on-hvac/) - 4 hours ago
+- [Less than a month to get your exhibit table for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/) - 4 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/) - 5 hours ago
+- [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/) - 9 hours ago
+- [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/) - 13 hours ago
+- [How Chef Robotics found success by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/) - 22 hours ago
+- [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - 22 hours ago
+- [Cofertility raises a $7M Series A to make egg freezing free](https://techcrunch.com/2025/04/10/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 24 hours ago
+- [Meghan Markle has made another angel investment](https://techcrunch.com/2025/04/10/meghan-markle-has-made-another-angel-investment/) - 1 day ago
+- [Glossier might lose its unicorn status, report says](https://techcrunch.com/2025/04/10/glossier-might-lose-its-unicorn-status-report-says/) - 1 day ago
 - [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications with AI](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/) - 1 day ago
 - [Drafted uses AI and video resumes to help early-career professionals land jobs](https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/) - 1 day ago
 - [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/) - 3 days ago
 - [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/) - 3 days ago
 - [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/) - 3 days ago
-- [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/) - 3 days ago
+- [Hacked documents reveal guide to serving Elon Musk on private jets](https://techcrunch.com/2025/04/11/hacked-documents-reveal-guide-to-serving-elon-musk-on-private-jets/) - Time not found
 - [Lucid Motors wins bankruptcy auction for Nikola’s Arizona factory and other assets](https://techcrunch.com/2025/04/10/lucid-motors-wins-bankruptcy-auction-for-nikolas-arizona-factory-and-other-assets/) - Time not found
 - [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - Time not found
 - [Mira Murati’s AI startup is reportedly aiming for a massive $2B seed round](https://techcrunch.com/2025/04/10/mira-muratis-ai-startup-is-reportedly-aiming-for-a-massive-2b-seed-round/) - Time not found
 - [Bezos-backed EV startup Slate Auto’s pickup truck spotted in the wild](https://techcrunch.com/2025/04/10/bezos-backed-ev-startup-slate-autos-pickup-truck-spotted-in-the-wild/) - Time not found
 - [The US Secretary of Education referred to AI as ‘A1,’ like the steak sauce](https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/) - Time not found
-- [OpenAI updates ChatGPT to reference your past chats](https://techcrunch.com/2025/04/10/openai-updates-chatgpt-to-reference-your-other-chats/) - Time not found
 - [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/) - Time not found
+- [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/) - 3 days ago
 - [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/) - 3 days ago
 - [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - 3 days ago
 - [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/) - 3 days ago
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Parasail says its fleet of on-demand GPUs is larger than Oracle’s entire cloud](https://techcrunch.com/2025/04/02/parasail-says-its-fleet-of-on-demand-gpus-is-larger-than-oracles-entire-cloud/) - Apr 2, 2025
 - [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/) - Apr 1, 2025
 - [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/) - Apr 1, 2025
-- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/) - Apr 1, 2025
+- [Hacked documents reveal guide to serving Elon Musk on private jets](https://techcrunch.com/2025/04/11/hacked-documents-reveal-guide-to-serving-elon-musk-on-private-jets/) - Time not found
 - [Lucid Motors wins bankruptcy auction for Nikola’s Arizona factory and other assets](https://techcrunch.com/2025/04/10/lucid-motors-wins-bankruptcy-auction-for-nikolas-arizona-factory-and-other-assets/) - Time not found
 - [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - Time not found
 - [Mira Murati’s AI startup is reportedly aiming for a massive $2B seed round](https://techcrunch.com/2025/04/10/mira-muratis-ai-startup-is-reportedly-aiming-for-a-massive-2b-seed-round/) - Time not found
 - [Bezos-backed EV startup Slate Auto’s pickup truck spotted in the wild](https://techcrunch.com/2025/04/10/bezos-backed-ev-startup-slate-autos-pickup-truck-spotted-in-the-wild/) - Time not found
 - [The US Secretary of Education referred to AI as ‘A1,’ like the steak sauce](https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/) - Time not found
-- [OpenAI updates ChatGPT to reference your past chats](https://techcrunch.com/2025/04/10/openai-updates-chatgpt-to-reference-your-other-chats/) - Time not found
 - [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/) - Time not found
