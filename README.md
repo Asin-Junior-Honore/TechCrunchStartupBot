@@ -4,11 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Meghan Markle has made another angel investment](https://techcrunch.com/2025/04/10/meghan-markle-has-made-another-angel-investment/) - 3 hours ago
-- [Glossier might lose its unicorn status, report says](https://techcrunch.com/2025/04/10/glossier-might-lose-its-unicorn-status-report-says/) - 4 hours ago
-- [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications with AI](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/) - 6 hours ago
-- [Drafted uses AI and video resumes to help early-career professionals land jobs](https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/) - 7 hours ago
-- [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/) - 21 hours ago
+- [Stripe CEO says he ensures his top leaders interview a customer twice a month](https://techcrunch.com/2025/04/10/stripe-ceo-says-he-ensures-his-top-leaders-interview-a-customer-twice-a-month/) - 2 hours ago
+- [How Chef Robotics found success by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/) - 3 hours ago
+- [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - 3 hours ago
+- [Cofertility raises a $7M Series A to make egg freezing free](https://techcrunch.com/2025/04/10/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 4 hours ago
+- [Meghan Markle has made another angel investment](https://techcrunch.com/2025/04/10/meghan-markle-has-made-another-angel-investment/) - 8 hours ago
+- [Glossier might lose its unicorn status, report says](https://techcrunch.com/2025/04/10/glossier-might-lose-its-unicorn-status-report-says/) - 8 hours ago
+- [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications with AI](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/) - 10 hours ago
+- [Drafted uses AI and video resumes to help early-career professionals land jobs](https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/) - 12 hours ago
+- [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/) - 1 day ago
 - [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - 1 day ago
 - [Kalshi CEO: ‘State law doesn’t really apply’ to us](https://techcrunch.com/2025/04/09/kalshi-ceo-state-law-doesnt-really-apply-to-us/) - 1 day ago
 - [Tired of doing laundry? These startups want to help.](https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/) - 1 day ago
@@ -18,29 +22,29 @@ Here are the latest articles from TechCrunch Startups:
 - [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 2 days ago
 - [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 2 days ago
 - [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - 2 days ago
-- [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/) - 2 days ago
 - [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - 2 days ago
-- [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/) - 2 days ago
+- [Take the stage at TechCrunch Disrupt 2025: Apply to speak now](https://techcrunch.com/2025/04/08/take-the-stage-at-techcrunch-disrupt-2025-apply-to-speak-now/) - 2 days ago
 - [Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!](https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/) - 2 days ago
+- [Los Angeles-based Rain raised a $75M Series B in another good sign for fintech](https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/) - 2 days ago
 - [Volunteer your time for a free ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/) - 2 days ago
 - [Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/) - 2 days ago
 - [Mira Murati’s AI startup gains prominent ex-OpenAI advisers](https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/) - 2 days ago
-- [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/) - 2 days ago
-- [XL Batteries is using petrochemical infrastructure to store solar and wind power](https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/) - 2 days ago
-- [Sizl raises $3.5M to expand its cook-to-order food delivery service](https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/) - 2 days ago
+- [Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants](https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/) - 3 days ago
+- [Sizl raises $3.5M to expand its cook-to-order food delivery service](https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/) - 3 days ago
+- [XL Batteries is using petrochemical infrastructure to store solar and wind power](https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/) - 3 days ago
 - [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/) - 3 days ago
 - [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/) - Apr 5, 2025
+- [The US Secretary of Education referred to AI as ‘A1,’ like the steak sauce](https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/) - Time not found
+- [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/) - Time not found
+- [Google to embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
+- [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/) - Time not found
+- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - Time not found
+- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - Time not found
+- [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
 - [SF mayor Daniel Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-daniel-lurie-to-tech-ceos-how-can-we-get-you-back/) - Apr 5, 2025
 - [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/) - Apr 4, 2025
 - [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/) - Apr 4, 2025
 - [Spy games in HR tech: Inside Rippling’s wild lawsuit against Deel](https://techcrunch.com/podcast/spy-games-in-hr-tech-inside-ripplings-wild-lawsuit-against-deel/) - Apr 4, 2025
-- [Google to embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
-- [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/) - Time not found
-- [Meta whistleblower Sarah Wynn-Williams says company targeted ads at teens based on their ‘emotional state’](https://techcrunch.com/2025/04/09/meta-whistleblower-sarah-wynn-williams-says-company-targeted-ads-at-teens-based-on-their-emotional-state/) - Time not found
-- [Ilya Sutskever taps Google Cloud to power his AI startup’s research](https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/) - Time not found
-- [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - Time not found
-- [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - Time not found
-- [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
 - [Turbine raises $22M to help VC investors get cash without selling their stakes](https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/) - Apr 4, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/) - Apr 4, 2025
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Apr 4, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/) - Mar 30, 2025
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/) - Mar 30, 2025
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/) - Mar 29, 2025
-- [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/) - Mar 29, 2025
-- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/) - Mar 29, 2025
-- [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/) - Mar 28, 2025
-- [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/) - Mar 28, 2025
+- [The US Secretary of Education referred to AI as ‘A1,’ like the steak sauce](https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/) - Time not found
+- [WhatsApp introduces new features across chats, calls, and channels](https://techcrunch.com/2025/04/10/whatsapp-introduces-new-features-across-chats-calls-and-channels/) - Time not found
 - [Google to embrace Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/) - Time not found
 - [Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/) - Time not found
-- [Ilya Sutskever taps Google Cloud to power his AI startup’s research](https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/) - Time not found
 - [Anthropic rolls out a $200-per-month Claude subscription](https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/) - Time not found
-- [MIT study finds that AI doesn’t, in fact, have values](https://techcrunch.com/2025/04/09/mit-study-finds-that-ai-doesnt-in-fact-have-values/) - Time not found
 - [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - Time not found
 - [Governments identify dozens of Android apps bundled with spyware](https://techcrunch.com/2025/04/09/governments-identify-dozens-of-android-apps-bundled-with-spyware/) - Time not found
