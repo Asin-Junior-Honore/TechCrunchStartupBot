@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - 17 hours ago
-- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 17 hours ago
-- [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/) - 1 day ago
+- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - 20 hours ago
+- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 20 hours ago
+- [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/) - 2 days ago
 - [The most interesting startups showcased at Google Cloud Next ](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/) - 2 days ago
 - [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/) - 2 days ago
 - [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/) - 2 days ago
@@ -30,13 +30,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Artisan, the ‘stop hiring humans’ AI agent startup, raises $25M — and is still hiring humans ](https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/) - 4 days ago
 - [Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech](https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech/) - 4 days ago
 - [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/) - 4 days ago
-- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - 5 days ago
-- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - 5 days ago
+- [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - Apr 8, 2025
+- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - Apr 8, 2025
 - [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - Apr 8, 2025
 - [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - Apr 8, 2025
 - [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - Time not found
 - [Trump exempts smartphones, laptops, and semiconductors from new tariffs](https://techcrunch.com/2025/04/12/trump-exempts-smartphones-laptops-and-semiconductors-from-new-tariffs/) - Time not found
-- [The most interesting startups showcased at Google Cloud Next ](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/) - Time not found
+- [Week in Review: Jeff Bezos’ secret EV startup](https://techcrunch.com/2025/04/12/week-in-review-jeff-bezos-secret-ev-startup/) - Time not found
 - [Hacked documents reveal guide to serving Elon Musk on private jets](https://techcrunch.com/2025/04/11/hacked-documents-reveal-guide-to-serving-elon-musk-on-private-jets/) - Time not found
 - [OpenAI will soon phase out GPT-4 from ChatGPT](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/) - Time not found
 - [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - Time not found
