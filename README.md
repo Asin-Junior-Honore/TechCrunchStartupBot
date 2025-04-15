@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - 12 hours ago
-- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - 13 hours ago
-- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - 19 hours ago
+- [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - 16 hours ago
+- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - 17 hours ago
+- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - 23 hours ago
 - [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/) - 1 day ago
 - [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - 3 days ago
 - [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 3 days ago
 - [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/) - 3 days ago
-- [The most interesting startups showcased at Google Cloud Next ](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/) - 3 days ago
+- [The most interesting startups showcased at Google Cloud Next ](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/) - 4 days ago
 - [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/) - 4 days ago
 - [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/) - 4 days ago
 - [Meta’s Llama drama and how Trump’s tariffs could hit moonshot projects](https://techcrunch.com/podcast/metas-llama-drama-and-how-trumps-tariffs-could-hit-moonshot-projects/) - 4 days ago
@@ -21,10 +21,10 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/) - 4 days ago
 - [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/) - 4 days ago
 - [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/) - 4 days ago
-- [How Chef Robotics found success by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/) - 4 days ago
-- [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - 4 days ago
-- [Meghan Markle has made another angel investment](https://techcrunch.com/2025/04/10/meghan-markle-has-made-another-angel-investment/) - 5 days ago
-- [Glossier might lose its unicorn status, report says](https://techcrunch.com/2025/04/10/glossier-might-lose-its-unicorn-status-report-says/) - 5 days ago
+- [How Chef Robotics found success by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/) - 5 days ago
+- [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - 5 days ago
+- [Meghan Markle has made another angel investment](https://techcrunch.com/2025/04/10/meghan-markle-has-made-another-angel-investment/) - Apr 10, 2025
+- [Glossier might lose its unicorn status, report says](https://techcrunch.com/2025/04/10/glossier-might-lose-its-unicorn-status-report-says/) - Apr 10, 2025
 - [Inventex founder, an engineer for Coinbase at 14, wants to revolutionize patent applications with AI](https://techcrunch.com/2025/04/10/inventex-founder-an-engineer-for-coinbase-at-14-wants-to-revolutionize-patent-applications/) - Apr 10, 2025
 - [Drafted uses AI and video resumes to help early-career professionals land jobs](https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/) - Apr 10, 2025
 - [How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment](https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/) - Apr 9, 2025
@@ -38,9 +38,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/) - Time not found
 - [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/) - Time not found
 - [Blue Origin’s all-female crew, including Katy Perry, successfully launched](https://techcrunch.com/2025/04/14/blue-origins-all-female-crew-including-katy-perry-successfully-launched/) - Time not found
+- [Chipolo’s newest AirTag competitor works with both Apple and Google’s finding networks](https://techcrunch.com/2025/04/14/chipolos-newest-airtag-competitor-works-with-both-apple-and-googles-finding-networks/) - Time not found
 - [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg’s voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/) - Time not found
 - [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - Time not found
-- [Jack Dorsey and Elon Musk would like to ‘delete all IP law’](https://techcrunch.com/2025/04/13/jack-dorsey-and-elon-musk-would-like-to-delete-all-ip-law/) - Time not found
 - [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - Apr 8, 2025
 - [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - Apr 8, 2025
 - [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - Apr 8, 2025
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/) - Time not found
 - [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/) - Time not found
 - [Blue Origin’s all-female crew, including Katy Perry, successfully launched](https://techcrunch.com/2025/04/14/blue-origins-all-female-crew-including-katy-perry-successfully-launched/) - Time not found
+- [Chipolo’s newest AirTag competitor works with both Apple and Google’s finding networks](https://techcrunch.com/2025/04/14/chipolos-newest-airtag-competitor-works-with-both-apple-and-googles-finding-networks/) - Time not found
 - [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg’s voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/) - Time not found
 - [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - Time not found
-- [Jack Dorsey and Elon Musk would like to ‘delete all IP law’](https://techcrunch.com/2025/04/13/jack-dorsey-and-elon-musk-would-like-to-delete-all-ip-law/) - Time not found
