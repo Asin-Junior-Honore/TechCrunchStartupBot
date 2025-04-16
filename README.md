@@ -4,43 +4,44 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - 6 hours ago
-- [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - 9 hours ago
-- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - 9 hours ago
-- [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - 10 hours ago
-- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - 12 hours ago
-- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - 12 hours ago
-- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - 12 hours ago
-- [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - 13 hours ago
-- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - 13 hours ago
-- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - 13 hours ago
-- [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/) - 15 hours ago
-- [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/) - 15 hours ago
-- [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - 21 hours ago
-- [Marshmallow, the UK insurance startup for migrants, raises $90M at a $2B+ valuation](https://techcrunch.com/2025/04/14/marshmallow-the-uk-insurance-startup-for-migrants-raises-90m-at-a-2b-valuation/) - 22 hours ago
+- [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/) - 1 hour ago
+- [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - 10 hours ago
+- [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - 13 hours ago
+- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - 13 hours ago
+- [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - 14 hours ago
+- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - 15 hours ago
+- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - 16 hours ago
+- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - 16 hours ago
+- [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - 17 hours ago
+- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - 17 hours ago
+- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - 17 hours ago
+- [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/) - 19 hours ago
+- [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/) - 19 hours ago
+- [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - 1 day ago
+- [Marshmallow, the UK insurance startup for migrants, raises $90M at a $2B+ valuation](https://techcrunch.com/2025/04/14/marshmallow-the-uk-insurance-startup-for-migrants-raises-90m-at-a-2b-valuation/) - 1 day ago
 - [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - 1 day ago
-- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - 1 day ago
+- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - 2 days ago
 - [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - 2 days ago
 - [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/) - 2 days ago
-- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - 3 days ago
-- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 3 days ago
+- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - 4 days ago
+- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 4 days ago
 - [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/) - 4 days ago
 - [The most interesting startups showcased at Google Cloud Next ](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/) - 4 days ago
 - [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/) - 4 days ago
-- [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/) - 4 days ago
+- [Stripe CEO says company management regularly asks customers for ‘candid feedback’](https://techcrunch.com/2025/04/11/stripe-ceo-says-company-management-regularly-asks-customers-for-candid-feedback/) - 5 days ago
 - [Meta’s Llama drama and how Trump’s tariffs could hit moonshot projects](https://techcrunch.com/podcast/metas-llama-drama-and-how-trumps-tariffs-could-hit-moonshot-projects/) - 5 days ago
 - [Parallel Systems is building autonomous electric rail for short-distance freight](https://techcrunch.com/2025/04/11/parallel-systems-is-building-autonomous-electric-rail-for-short-distance-freight/) - 5 days ago
 - [Why Nest co-founder Matt Rogers is still bullish on HVAC](https://techcrunch.com/2025/04/11/why-nest-co-founder-matt-rogers-is-still-bullish-on-hvac/) - 5 days ago
 - [Less than a month to get your exhibit table for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/) - 5 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/) - 5 days ago
-- [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/) - Apr 11, 2025
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/11/tech-layoffs-2025-list/) - Apr 11, 2025
 - [For security, Android phones will now auto-reboot after three days](https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/) - Time not found
 - [Notorious image board 4chan hacked and internal data leaked](https://techcrunch.com/2025/04/15/notorious-image-board-4chan-hacked-and-internal-data-leaked/) - Time not found
+- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - Time not found
 - [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Time not found
 - [Lucid Gravity First Drive: An electric SUV that doesn’t make compromises](https://techcrunch.com/2025/04/15/lucid-gravity-first-drive-an-electric-suv-that-doesnt-make-compromises/) - Time not found
-- [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - Time not found
 - [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/) - Time not found
 - [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/) - Time not found
+- [Startups Weekly: Enjoying the reprieve](https://techcrunch.com/2025/04/11/startups-weekly-enjoying-the-reprieve/) - Apr 11, 2025
 - [Leaders from Accel and Paladin Capital Group join the stage at StrictlyVC London in May](https://techcrunch.com/2025/04/11/leaders-from-accel-and-paladin-capital-group-join-the-stage-at-strictlyvc-london-in-may/) - Apr 11, 2025
 - [How Chef Robotics found success by turning away its original customers](https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/) - Apr 10, 2025
 - [Fintech founder charged with fraud after ‘AI’ shopping app found to be powered by humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/) - Apr 10, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [XL Batteries is using petrochemical infrastructure to store solar and wind power](https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/) - Apr 8, 2025
 - [Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’](https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/) - Apr 7, 2025
 - [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/) - Apr 5, 2025
-- [SF mayor Daniel Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-daniel-lurie-to-tech-ceos-how-can-we-get-you-back/) - Apr 5, 2025
 - [For security, Android phones will now auto-reboot after three days](https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/) - Time not found
 - [Notorious image board 4chan hacked and internal data leaked](https://techcrunch.com/2025/04/15/notorious-image-board-4chan-hacked-and-internal-data-leaked/) - Time not found
+- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - Time not found
 - [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Time not found
 - [Lucid Gravity First Drive: An electric SUV that doesn’t make compromises](https://techcrunch.com/2025/04/15/lucid-gravity-first-drive-an-electric-suv-that-doesnt-make-compromises/) - Time not found
-- [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - Time not found
 - [Hertz says customers’ personal data and driver’s licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/) - Time not found
 - [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/) - Time not found
