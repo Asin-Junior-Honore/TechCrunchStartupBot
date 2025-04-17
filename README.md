@@ -4,18 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/) - 13 hours ago
-- [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - 14 hours ago
-- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/) - 16 hours ago
-- [Digital frame maker Aura introduces the Aspen, a $299 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-299-frame-with-more-intelligent-features/) - 19 hours ago
-- [We’ve entered an era of fintech maximalism according to Mark Goldberg](https://techcrunch.com/podcast/weve-entered-an-era-of-fintech-maximalism-according-to-mark-goldberg/) - 20 hours ago
-- [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/) - 20 hours ago
-- [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - 21 hours ago
-- [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/) - 21 hours ago
-- [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/) - 21 hours ago
-- [Bolt’s Ryan Breslow pins his hopes on a new app that takes on Coinbase, Zelle, and PayPal](https://techcrunch.com/2025/04/16/bolts-ryan-breslow-pins-his-hopes-on-a-new-app-that-takes-on-coinbase-zelle-and-paypal/) - 22 hours ago
-- [Less than a month left to claim your brand’s spotlight at TechCrunch Sessions: AI with an exhibit table](https://techcrunch.com/2025/04/16/less-than-a-month-left-to-claim-your-brands-spotlight-at-techcrunch-sessions-ai-with-an-exhibit-table/) - 22 hours ago
-- [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/) - 22 hours ago
+- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - 50 minutes ago
+- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - 3 hours ago
+- [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - 3 hours ago
+- [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/) - 17 hours ago
+- [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - 18 hours ago
+- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/) - 20 hours ago
+- [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - 23 hours ago
+- [We’ve entered an era of fintech maximalism according to Mark Goldberg](https://techcrunch.com/podcast/weve-entered-an-era-of-fintech-maximalism-according-to-mark-goldberg/) - 24 hours ago
+- [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/) - 24 hours ago
+- [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - 1 day ago
+- [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/) - 1 day ago
+- [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/) - 1 day ago
+- [Bolt’s Ryan Breslow pins his hopes on a new app that takes on Coinbase, Zelle, and PayPal](https://techcrunch.com/2025/04/16/bolts-ryan-breslow-pins-his-hopes-on-a-new-app-that-takes-on-coinbase-zelle-and-paypal/) - 1 day ago
+- [Less than a month left to claim your brand’s spotlight at TechCrunch Sessions: AI with an exhibit table](https://techcrunch.com/2025/04/16/less-than-a-month-left-to-claim-your-brands-spotlight-at-techcrunch-sessions-ai-with-an-exhibit-table/) - 1 day ago
+- [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/) - 1 day ago
 - [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - 2 days ago
 - [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - 2 days ago
 - [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - 2 days ago
@@ -31,18 +34,18 @@ Here are the latest articles from TechCrunch Startups:
 - [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - 2 days ago
 - [Marshmallow, the UK insurance startup for migrants, raises $90M at a $2B+ valuation](https://techcrunch.com/2025/04/14/marshmallow-the-uk-insurance-startup-for-migrants-raises-90m-at-a-2b-valuation/) - 2 days ago
 - [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - 3 days ago
-- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - 3 days ago
-- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - 3 days ago
-- [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/) - 3 days ago
 - [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/) - Time not found
+- [Rivian’s first non-Amazon van customer is HelloFresh](https://techcrunch.com/2025/04/16/rivians-first-non-amazon-van-customer-is-hellofresh/) - Time not found
 - [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/) - Time not found
 - [Microsoft researchers say they’ve developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/) - Time not found
 - [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - Time not found
-- [Subaru debuts Trailseeker, an all-electric SUV coming for Rivian’s outdoorsy EV customer base](https://techcrunch.com/2025/04/16/subaru-debuts-trailseeker-an-all-electric-suv-coming-for-rivians-outdoorsy-ev-customer-base/) - Time not found
 - [For security, Android phones will now auto-reboot after three days](https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/) - Time not found
 - [Notorious image board 4chan hacked and internal data leaked](https://techcrunch.com/2025/04/15/notorious-image-board-4chan-hacked-and-internal-data-leaked/) - Time not found
-- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - 5 days ago
-- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - 5 days ago
+- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - 3 days ago
+- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - 3 days ago
+- [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/) - 3 days ago
+- [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - Apr 12, 2025
+- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - Apr 12, 2025
 - [Forerunner’s long game: As startups stall before IPO, all options are on the table](https://techcrunch.com/2025/04/11/forerunners-long-game-as-startups-stall-before-ipo-all-options-are-on-the-table/) - Apr 11, 2025
 - [The most interesting startups showcased at Google Cloud Next ](https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/) - Apr 11, 2025
 - [38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill](https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/) - Apr 11, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech](https://techcrunch.com/2025/04/09/nuros-106m-raise-backs-its-shift-from-delivery-robots-to-licensing-autonomy-tech/) - Apr 9, 2025
 - [The complete agenda for TechCrunch Sessions: AI unveiled](https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/) - Apr 9, 2025
 - [A 25-year-old police drone founder just raised $75M led by Index](https://techcrunch.com/2025/04/08/a-25-year-old-police-drone-founder-just-raised-75m-led-by-index/) - Apr 8, 2025
-- [Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models](https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/) - Apr 8, 2025
-- [Does Colossal Biosciences’ dire wolf creation justify its $10B+ valuation?](https://techcrunch.com/2025/04/08/does-colossal-biosciences-dire-wolf-creation-justify-its-10b-valuation/) - Apr 8, 2025
-- [Amazon’s Zoox begins robotaxi testing in Los Angeles ](https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/) - Apr 8, 2025
 - [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-codeium-for-3b-with-news-expected-later-this-week/) - Time not found
+- [Rivian’s first non-Amazon van customer is HelloFresh](https://techcrunch.com/2025/04/16/rivians-first-non-amazon-van-customer-is-hellofresh/) - Time not found
 - [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/) - Time not found
 - [Microsoft researchers say they’ve developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/) - Time not found
 - [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - Time not found
-- [Subaru debuts Trailseeker, an all-electric SUV coming for Rivian’s outdoorsy EV customer base](https://techcrunch.com/2025/04/16/subaru-debuts-trailseeker-an-all-electric-suv-coming-for-rivians-outdoorsy-ev-customer-base/) - Time not found
 - [For security, Android phones will now auto-reboot after three days](https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/) - Time not found
 - [Notorious image board 4chan hacked and internal data leaked](https://techcrunch.com/2025/04/15/notorious-image-board-4chan-hacked-and-internal-data-leaked/) - Time not found
