@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/) - 1 hour ago
-- [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - 6 hours ago
-- [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - 7 hours ago
-- [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - 8 hours ago
-- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - 10 hours ago
-- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - 13 hours ago
-- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - 15 hours ago
-- [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - 16 hours ago
+- [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/) - 5 hours ago
+- [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - 9 hours ago
+- [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - 11 hours ago
+- [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - 12 hours ago
+- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - 14 hours ago
+- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - 17 hours ago
+- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - 19 hours ago
+- [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - 19 hours ago
 - [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/) - 1 day ago
 - [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - 1 day ago
-- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-windsurf-for-3b-with-news-expected-later-this-week/) - 1 day ago
-- [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - 1 day ago
+- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-windsurf-for-3b-with-news-expected-later-this-week/) - 2 days ago
+- [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - 2 days ago
 - [We’ve entered an era of fintech maximalism according to Mark Goldberg](https://techcrunch.com/podcast/weve-entered-an-era-of-fintech-maximalism-according-to-mark-goldberg/) - 2 days ago
 - [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/) - 2 days ago
 - [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - 2 days ago
@@ -25,10 +25,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Less than a month left to claim your brand’s spotlight at TechCrunch Sessions: AI with an exhibit table](https://techcrunch.com/2025/04/16/less-than-a-month-left-to-claim-your-brands-spotlight-at-techcrunch-sessions-ai-with-an-exhibit-table/) - 2 days ago
 - [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/) - 2 days ago
 - [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - 2 days ago
-- [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - 2 days ago
-- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - 2 days ago
-- [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - 2 days ago
-- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - 2 days ago
+- [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - 3 days ago
+- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - 3 days ago
+- [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - 3 days ago
+- [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - 3 days ago
 - [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - 3 days ago
 - [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - 3 days ago
 - [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - 3 days ago
