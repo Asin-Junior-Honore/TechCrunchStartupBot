@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - 20 hours ago
+- [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - 24 hours ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/) - 2 days ago
 - [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/) - 2 days ago
 - [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/) - 2 days ago
@@ -12,7 +12,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/) - 2 days ago
 - [Is the SPAC back?](https://techcrunch.com/podcast/is-the-spac-back/) - 2 days ago
 - [Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage](https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/) - 2 days ago
-- [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/) - 2 days ago
+- [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/) - 3 days ago
 - [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - 3 days ago
 - [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - 3 days ago
 - [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - 3 days ago
@@ -32,7 +32,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Bolt’s Ryan Breslow pins his hopes on a new app that takes on Coinbase, Zelle, and PayPal](https://techcrunch.com/2025/04/16/bolts-ryan-breslow-pins-his-hopes-on-a-new-app-that-takes-on-coinbase-zelle-and-paypal/) - 4 days ago
 - [Less than a month left to claim your brand’s spotlight at TechCrunch Sessions: AI with an exhibit table](https://techcrunch.com/2025/04/16/less-than-a-month-left-to-claim-your-brands-spotlight-at-techcrunch-sessions-ai-with-an-exhibit-table/) - 4 days ago
 - [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/) - 4 days ago
-- [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - 5 days ago
+- [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - Apr 15, 2025
 - [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - Apr 15, 2025
 - [Robots run a half marathon, slowly](https://techcrunch.com/2025/04/19/robots-run-a-half-marathon-slowly/) - Time not found
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - Time not found
@@ -41,14 +41,14 @@ Here are the latest articles from TechCrunch Startups:
 - [ChatGPT is referring to users by their names unprompted, and some find it ‘creepy’](https://techcrunch.com/2025/04/18/chatgpt-is-referring-to-users-by-their-names-unprompted-and-some-find-it-creepy/) - Time not found
 - [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - Time not found
 - [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/) - Time not found
-- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - 5 days ago
+- [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - Apr 15, 2025
 - [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - Apr 15, 2025
 - [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - Apr 15, 2025
-- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - Apr 15, 2025
 - [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - Apr 15, 2025
+- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - Apr 15, 2025
 - [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - Apr 15, 2025
-- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Apr 15, 2025
 - [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - Apr 15, 2025
+- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Apr 15, 2025
 - [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/) - Apr 15, 2025
 - [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/) - Apr 15, 2025
 - [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - Apr 15, 2025
