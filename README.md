@@ -7,39 +7,39 @@ Here are the latest articles from TechCrunch Startups:
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - 2 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/) - 2 days ago
 - [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/) - 2 days ago
-- [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/) - 2 days ago
-- [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/) - 2 days ago
+- [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/) - 3 days ago
+- [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/) - 3 days ago
 - [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/) - 3 days ago
 - [Is the SPAC back?](https://techcrunch.com/podcast/is-the-spac-back/) - 3 days ago
 - [Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage](https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/) - 3 days ago
 - [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/) - 3 days ago
 - [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - 3 days ago
 - [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - 3 days ago
-- [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - 3 days ago
-- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - 3 days ago
+- [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - 4 days ago
+- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - 4 days ago
 - [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - 4 days ago
 - [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - 4 days ago
 - [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - 4 days ago
 - [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/) - 4 days ago
 - [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - 4 days ago
-- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-windsurf-for-3b-with-news-expected-later-this-week/) - 4 days ago
-- [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - 4 days ago
+- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-windsurf-for-3b-with-news-expected-later-this-week/) - 5 days ago
+- [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - 5 days ago
 - [We’ve entered an era of fintech maximalism according to Mark Goldberg](https://techcrunch.com/podcast/weve-entered-an-era-of-fintech-maximalism-according-to-mark-goldberg/) - 5 days ago
 - [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/) - 5 days ago
-- [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - 5 days ago
-- [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/) - 5 days ago
-- [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/) - 5 days ago
-- [Bolt’s Ryan Breslow pins his hopes on a new app that takes on Coinbase, Zelle, and PayPal](https://techcrunch.com/2025/04/16/bolts-ryan-breslow-pins-his-hopes-on-a-new-app-that-takes-on-coinbase-zelle-and-paypal/) - 5 days ago
-- [Less than a month left to claim your brand’s spotlight at TechCrunch Sessions: AI with an exhibit table](https://techcrunch.com/2025/04/16/less-than-a-month-left-to-claim-your-brands-spotlight-at-techcrunch-sessions-ai-with-an-exhibit-table/) - 5 days ago
-- [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/) - 5 days ago
+- [Deck raises $12M to ‘Plaid-ify’ any website using AI](https://techcrunch.com/2025/04/16/deck-raises-12m-to-plaid-ify-any-website-using-ai/) - Apr 16, 2025
+- [TechCrunch All Stage: Full agenda revealed](https://techcrunch.com/2025/04/16/techcrunch-all-stage-full-agenda-revealed/) - Apr 16, 2025
+- [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/) - Apr 16, 2025
+- [Bolt’s Ryan Breslow pins his hopes on a new app that takes on Coinbase, Zelle, and PayPal](https://techcrunch.com/2025/04/16/bolts-ryan-breslow-pins-his-hopes-on-a-new-app-that-takes-on-coinbase-zelle-and-paypal/) - Apr 16, 2025
+- [Less than a month left to claim your brand’s spotlight at TechCrunch Sessions: AI with an exhibit table](https://techcrunch.com/2025/04/16/less-than-a-month-left-to-claim-your-brands-spotlight-at-techcrunch-sessions-ai-with-an-exhibit-table/) - Apr 16, 2025
+- [Capsule captures $12M to build the next version of its AI video editor for brands](https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/) - Apr 16, 2025
 - [Figma ignores the fear, files paperwork for an IPO](https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/) - Apr 15, 2025
 - [India’s BluSmart swept up in Gensol investigation alleging misuse of EV loans](https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/) - Apr 15, 2025
 - [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/) - Time not found
+- [OpenAI’s o3 AI model scores lower on a benchmark than the company initially implied](https://techcrunch.com/2025/04/20/openais-o3-ai-model-scores-lower-on-a-benchmark-than-the-company-initially-implied/) - Time not found
 - [Your politeness could be costly for OpenAI](https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/) - Time not found
 - [Uncovered emails showed how Meta struggled to keep Facebook culturally relevant](https://techcrunch.com/2025/04/20/uncovered-emails-showed-how-meta-struggled-to-keep-facebook-culturally-relevant/) - Time not found
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - Time not found
 - [Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it](https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/) - Time not found
-- [OpenAI’s new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/) - Time not found
 - [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/) - Time not found
 - [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - Apr 15, 2025
 - [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - Apr 15, 2025
