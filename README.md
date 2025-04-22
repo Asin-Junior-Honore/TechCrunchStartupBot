@@ -4,25 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - 11 hours ago
-- [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - 13 hours ago
-- [Tariff turmoil may have killed the tech M&A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/) - 14 hours ago
-- [19 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/) - 17 hours ago
-- [Put your brand at the center of the AI conversation — host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/put-your-brand-at-the-center-of-the-ai-conversation-host-a-side-event-during-techcrunch-sessions-ai/) - 17 hours ago
-- [Final weeks to secure your spot in the AI spotlight at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/final-weeks-to-secure-your-spot-in-the-ai-spotlight-at-techcrunch-sessions-ai/) - 18 hours ago
+- [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - 15 hours ago
+- [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - 18 hours ago
+- [Tariff turmoil may have killed the tech M&A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/) - 18 hours ago
+- [19 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/) - 21 hours ago
+- [Put your brand at the center of the AI conversation — host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/put-your-brand-at-the-center-of-the-ai-conversation-host-a-side-event-during-techcrunch-sessions-ai/) - 21 hours ago
+- [Final weeks to secure your spot in the AI spotlight at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/final-weeks-to-secure-your-spot-in-the-ai-spotlight-at-techcrunch-sessions-ai/) - 22 hours ago
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - 3 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/) - 3 days ago
-- [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/) - 3 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/) - 4 days ago
+- [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/) - 4 days ago
 - [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/) - 4 days ago
 - [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/) - 4 days ago
 - [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/) - 4 days ago
 - [Is the SPAC back?](https://techcrunch.com/podcast/is-the-spac-back/) - 4 days ago
 - [Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage](https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/) - 4 days ago
 - [OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B](https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/) - 4 days ago
-- [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - 4 days ago
-- [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - 4 days ago
+- [Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet](https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/) - 5 days ago
+- [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - 5 days ago
 - [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - 5 days ago
-- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - 5 days ago
+- [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - Apr 17, 2025
 - [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - Apr 17, 2025
 - [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - Apr 17, 2025
 - [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - Apr 17, 2025
@@ -37,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Time not found
 - [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/) - Time not found
+- [19 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/) - Time not found
 - [Tesla reportedly delays launch of new low-cost model by months](https://techcrunch.com/2025/04/21/tesla-reportedly-delays-launch-of-new-low-cost-model-by-months/) - Time not found
 - [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/) - Time not found
-- [Your politeness could be costly for OpenAI](https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/) - Time not found
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - Time not found
 - [TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup](https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/) - Apr 16, 2025
 - [Bolt’s Ryan Breslow pins his hopes on a new app that takes on Coinbase, Zelle, and PayPal](https://techcrunch.com/2025/04/16/bolts-ryan-breslow-pins-his-hopes-on-a-new-app-that-takes-on-coinbase-zelle-and-paypal/) - Apr 16, 2025
@@ -50,11 +50,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - Apr 15, 2025
 - [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - Apr 15, 2025
 - [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - Apr 15, 2025
-- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - Apr 15, 2025
 - [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - Apr 15, 2025
+- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - Apr 15, 2025
 - [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - Apr 15, 2025
-- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - Apr 15, 2025
 - [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Apr 15, 2025
+- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - Apr 15, 2025
 - [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/) - Apr 15, 2025
 - [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/) - Apr 15, 2025
 - [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - Apr 15, 2025
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Time not found
 - [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/) - Time not found
+- [19 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/) - Time not found
 - [Tesla reportedly delays launch of new low-cost model by months](https://techcrunch.com/2025/04/21/tesla-reportedly-delays-launch-of-new-low-cost-model-by-months/) - Time not found
 - [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/) - Time not found
-- [Your politeness could be costly for OpenAI](https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/) - Time not found
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - Time not found
