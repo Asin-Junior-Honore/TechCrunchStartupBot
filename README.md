@@ -4,15 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 4 hours ago
-- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - 6 hours ago
-- [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - 13 hours ago
-- [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/) - 17 hours ago
-- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - 17 hours ago
-- [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - 20 hours ago
-- [Ex-Meta engineer raises $14M for AI-powered customer service software for home services](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - 20 hours ago
-- [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - 21 hours ago
-- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - 23 hours ago
+- [Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4](https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/) - 35 minutes ago
+- [How to survive and thrive as tariffs, AI, and politics unsettle the rules of business](https://techcrunch.com/podcast/how-to-survive-and-thrive-as-tariffs-ai-and-politics-unsettle-the-rules-of-business/) - 1 hour ago
+- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 8 hours ago
+- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - 10 hours ago
+- [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - 18 hours ago
+- [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/) - 21 hours ago
+- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - 21 hours ago
+- [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - 24 hours ago
+- [Ex-Meta engineer raises $14M for AI-powered customer service software for home services](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - 1 day ago
+- [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - 1 day ago
+- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - 1 day ago
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - 2 days ago
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - 2 days ago
 - [Tariff turmoil may have killed the tech M&A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/) - 2 days ago
@@ -21,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Final weeks to secure your spot in the AI spotlight at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/final-weeks-to-secure-your-spot-in-the-ai-spotlight-at-techcrunch-sessions-ai/) - 2 days ago
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - 4 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/) - 5 days ago
-- [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/) - 5 days ago
+- [Techstars increases startup funding to $220,000, mirroring YC structure](https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/) - Apr 18, 2025
 - [From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield](https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/) - Apr 18, 2025
 - [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/) - Apr 18, 2025
 - [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/) - Apr 18, 2025
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Ramp is trying to get the US government as a customer after seeing a tweet from DOGE](https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/) - Apr 17, 2025
 - [As the trade war escalates, Hence launches an AI ‘advisor’ to help companies manage risk](https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/) - Apr 17, 2025
 - [AI benchmarking platform Chatbot Arena forms a new company](https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/) - Apr 17, 2025
-- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - Apr 17, 2025
-- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - Apr 17, 2025
 - [Intel reportedly plans to lay off over 21,000 employees](https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/) - Time not found
 - [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/) - Time not found
 - [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - Time not found
 - [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - Time not found
 - [Ex-Meta engineer raises $14M for AI-powered customer service software for home services](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - Time not found
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
-- [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Time not found
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
+- [Make a brand impact by hosting a Side Event during TechCrunch All Stage Week in Boston](https://techcrunch.com/2025/04/17/make-a-brand-impact-by-hosting-a-side-event-during-techcrunch-all-stage-week-in-boston/) - Apr 17, 2025
+- [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - Apr 17, 2025
 - [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - Apr 17, 2025
 - [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/) - Apr 16, 2025
 - [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - Apr 16, 2025
@@ -59,22 +61,20 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - Apr 15, 2025
 - [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - Apr 15, 2025
 - [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - Apr 15, 2025
-- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - Apr 15, 2025
 - [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - Apr 15, 2025
+- [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - Apr 15, 2025
 - [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - Apr 15, 2025
-- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Apr 15, 2025
 - [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - Apr 15, 2025
+- [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Apr 15, 2025
 - [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/) - Apr 15, 2025
 - [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/) - Apr 15, 2025
 - [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - Apr 15, 2025
 - [Marshmallow, the UK insurance startup for migrants, raises $90M at a $2B+ valuation](https://techcrunch.com/2025/04/14/marshmallow-the-uk-insurance-startup-for-migrants-raises-90m-at-a-2b-valuation/) - Apr 14, 2025
 - [Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him](https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/) - Apr 14, 2025
-- [Meet Neptune, a TikTok alternative where creators can hide likes and follower counts ](https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/) - Apr 14, 2025
-- [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - Apr 14, 2025
 - [Intel reportedly plans to lay off over 21,000 employees](https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/) - Time not found
 - [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/) - Time not found
+- [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - Time not found
+- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - Time not found
 - [Ex-Meta engineer raises $14M for AI-powered customer service software for home services](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - Time not found
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
-- [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Time not found
-- [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/) - Time not found
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
