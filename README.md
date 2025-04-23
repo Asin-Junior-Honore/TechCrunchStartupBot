@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/) - 1 hour ago
-- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - 1 hour ago
-- [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - 4 hours ago
-- [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - 4 hours ago
-- [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - 5 hours ago
-- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - 7 hours ago
-- [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - 23 hours ago
+- [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - 2 hours ago
+- [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/) - 6 hours ago
+- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - 6 hours ago
+- [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - 9 hours ago
+- [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - 9 hours ago
+- [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - 10 hours ago
+- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - 12 hours ago
+- [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - 1 day ago
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - 1 day ago
 - [Tariff turmoil may have killed the tech M&A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/) - 1 day ago
 - [19 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/) - 1 day ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Wasp’s platform is the glue that holds web dev apps together](https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/) - Apr 17, 2025
 - [Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis](https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/) - Apr 17, 2025
 - [Chapter, a Medicare startup with links to Vance, Thiel, and Ramaswamy, just raised a round at $1.5B valuation](https://techcrunch.com/2025/04/16/chapter-a-medicare-startup-with-links-to-vance-thiel-and-ramaswamy-just-raised-a-round-at-1-5b-valuation/) - Apr 16, 2025
-- [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - Apr 16, 2025
+- [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/) - Time not found
+- [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - Time not found
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
-- [Flipkart to relocate HQ to India ahead of IPO](https://techcrunch.com/2025/04/21/flipkart-to-relocate-hq-to-india-ahead-of-ipo/) - Time not found
-- [Mark Zuckerberg once suggested spinning out Instagram as a solution to its ‘cannibalization’ of Facebook](https://techcrunch.com/2025/04/21/mark-zuckerberg-once-suggested-spinning-out-instagram-as-a-solution-to-its-cannibalization-of-facebook/) - Time not found
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Time not found
 - [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/) - Time not found
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
 - [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/) - Time not found
+- [Rippling wants Revolut to reveal who paid off Deel’s alleged ‘spy’](https://techcrunch.com/2025/04/16/rippling-wants-uk-fintech-revolut-to-reveal-who-paid-off-deels-alleged-spy/) - Apr 16, 2025
 - [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-windsurf-for-3b-with-news-expected-later-this-week/) - Apr 16, 2025
 - [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - Apr 16, 2025
 - [We’ve entered an era of fintech maximalism according to Mark Goldberg](https://techcrunch.com/podcast/weve-entered-an-era-of-fintech-maximalism-according-to-mark-goldberg/) - Apr 16, 2025
@@ -56,11 +57,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma sent a cease-and-desist letter to Lovable over the term ‘Dev Mode’](https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/) - Apr 15, 2025
 - [OpenAI hires team behind GV-backed AI eval platform Context.ai](https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/) - Apr 15, 2025
 - [Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit](https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/) - Apr 15, 2025
-- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - Apr 15, 2025
 - [Here’s how Pacific Fusion plans to build a fusion power plant](https://techcrunch.com/2025/04/15/heres-how-pacific-fusion-plans-to-build-a-fusion-power-plant/) - Apr 15, 2025
+- [Former Tesla supply chain leaders create Atomic, an AI inventory solution](https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/) - Apr 15, 2025
 - [Final days to apply to speak at TechCrunch All Stage](https://techcrunch.com/2025/04/15/final-days-to-apply-to-speak-at-techcrunch-all-stage/) - Apr 15, 2025
-- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - Apr 15, 2025
 - [Notion releases an AI-powered email client for Gmail](https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/) - Apr 15, 2025
+- [Reach 1,000+ AI leaders: Host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/) - Apr 15, 2025
 - [Fusion power has a fuel problem; Hexium has a laser-powered solution](https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/) - Apr 15, 2025
 - [Phantom Neuro grabs $19M to help amputees put their phantom limbs to use](https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/) - Apr 15, 2025
 - [Girls Who Code founder Reshma Saujani spills business tea with Meghan, Duchess of Sussex](https://techcrunch.com/2025/04/15/girls-who-code-founder-reshma-saujani-spills-business-tea-with-meghan-duchess-of-sussex/) - Apr 15, 2025
@@ -70,10 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Conifer locks down $20M seed round for its ‘drop-in’ electric hub motor](https://techcrunch.com/2025/04/14/conifer-locks-down-20m-seed-round-for-its-drop-in-electric-hub-motor/) - Apr 14, 2025
 - [Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges](https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/) - Apr 14, 2025
 - [OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) - Apr 12, 2025
-- [Cofertility’s radical model for women: Freeze your eggs for free by donating half of them](https://techcrunch.com/2025/04/12/cofertility-lets-women-freeze-their-eggs-for-free-through-its-donor-matching-program/) - Apr 12, 2025
+- [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/) - Time not found
+- [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - Time not found
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
-- [Flipkart to relocate HQ to India ahead of IPO](https://techcrunch.com/2025/04/21/flipkart-to-relocate-hq-to-india-ahead-of-ipo/) - Time not found
-- [Mark Zuckerberg once suggested spinning out Instagram as a solution to its ‘cannibalization’ of Facebook](https://techcrunch.com/2025/04/21/mark-zuckerberg-once-suggested-spinning-out-instagram-as-a-solution-to-its-cannibalization-of-facebook/) - Time not found
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Time not found
 - [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/) - Time not found
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
