@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/) - 3 hours ago
-- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 6 hours ago
-- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - 6 hours ago
-- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - 7 hours ago
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - 16 hours ago
-- [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - 18 hours ago
-- [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/) - 22 hours ago
-- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - 22 hours ago
-- [Astro Teller is joining us at TechCrunch Disrupt 2025 in October](https://techcrunch.com/2025/04/24/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 24 hours ago
+- [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - 4 hours ago
+- [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/) - 8 hours ago
+- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 11 hours ago
+- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - 11 hours ago
+- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - 12 hours ago
+- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - 21 hours ago
+- [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - 23 hours ago
+- [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/) - 1 day ago
+- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - 1 day ago
+- [Astro Teller is joining us at TechCrunch Disrupt 2025 in October](https://techcrunch.com/2025/04/24/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 1 day ago
 - [Evernote founder’s video startup mmhmm becomes Airtime, launches new products](https://techcrunch.com/2025/04/24/evernote-founders-video-startup-mmhmm-becomes-airtime-launches-new-products/) - 1 day ago
 - [Report: Adam Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-adam-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/) - 1 day ago
 - [You’re invited to a fireside chat with Baiju Bhatt on Sand Hill Road on June 18 at StrictlyVC](https://techcrunch.com/2025/04/24/youre-invited-to-a-fireside-chat-with-baiju-bhatt-on-sand-hill-road-on-june-18-at-strictlyvc/) - 1 day ago
@@ -21,28 +22,28 @@ Here are the latest articles from TechCrunch Startups:
 - [RepAir Carbon is making carbon removal machines inspired by batteries](https://techcrunch.com/2025/04/24/repair-carbon-is-making-carbon-removal-machines-inspired-by-batteries/) - 1 day ago
 - [Founders, your moment is now: Apply for TechCrunch Startup Battlefield 200](https://techcrunch.com/2025/04/24/founders-your-moment-is-now-apply-for-startup-battlefield-200/) - 1 day ago
 - [Revolut, the $45B neobank, posts $1B profit in 2024](https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/) - 1 day ago
-- [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/) - 1 day ago
+- [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/) - 2 days ago
 - [Windsurf slashes prices as competition with Cursor heats up](https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/) - 2 days ago
 - [Here are the 19 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/04/23/here-are-the-19-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 2 days ago
 - [19 US fintech startups have raised over $50M in 2025 so far](https://techcrunch.com/2025/04/23/19-us-fintech-startups-have-raised-over-50m-in-2025-so-far/) - 2 days ago
 - [Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4](https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/) - 2 days ago
 - [How to survive and thrive as tariffs, AI, and politics unsettle the rules of business](https://techcrunch.com/podcast/how-to-survive-and-thrive-as-tariffs-ai-and-politics-unsettle-the-rules-of-business/) - 2 days ago
-- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 2 days ago
+- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 3 days ago
 - [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - 3 days ago
 - [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - 3 days ago
 - [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/) - 3 days ago
 - [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - 3 days ago
 - [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - 3 days ago
-- [Ex-Meta engineer raises $14M to help home services unlock call center revenue with AI](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - 3 days ago
+- [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/) - Time not found
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
 - [Report: Adam Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-adam-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/) - Time not found
-- [Netflix now offers dialogue-only subtitles](https://techcrunch.com/2025/04/24/netflix-now-offers-dialogue-only-subtitles/) - Time not found
 - [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/) - Time not found
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
+- [Ex-Meta engineer raises $14M to help home services unlock call center revenue with AI](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - 3 days ago
 - [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - 3 days ago
-- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - 3 days ago
+- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - 4 days ago
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - 4 days ago
 - [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - 4 days ago
 - [Tariff turmoil may have killed the tech M&A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/) - 4 days ago
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://techcrunch.com/2025/04/16/openai-is-reportedly-in-talks-to-buy-windsurf-for-3b-with-news-expected-later-this-week/) - Apr 16, 2025
 - [Digital frame maker Aura introduces the Aspen, a $229 frame with more intelligent features](https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-229-frame-with-more-intelligent-features/) - Apr 16, 2025
 - [We’ve entered an era of fintech maximalism according to Mark Goldberg](https://techcrunch.com/podcast/weve-entered-an-era-of-fintech-maximalism-according-to-mark-goldberg/) - Apr 16, 2025
-- [Startup funding hit records in Q1. But the outlook for 2025 is still awful.](https://techcrunch.com/2025/04/16/startup-funding-hit-records-in-q1-but-the-outlook-for-2025-is-still-awful/) - Apr 16, 2025
+- [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/) - Time not found
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
 - [Report: Adam Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-adam-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/) - Time not found
-- [Netflix now offers dialogue-only subtitles](https://techcrunch.com/2025/04/24/netflix-now-offers-dialogue-only-subtitles/) - Time not found
 - [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/) - Time not found
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Time not found
