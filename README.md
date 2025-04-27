@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 2 hours ago
+- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 6 hours ago
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - 1 day ago
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - 1 day ago
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - 2 days ago
@@ -12,7 +12,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 2 days ago
 - [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - 2 days ago
 - [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - 2 days ago
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - 2 days ago
+- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - 3 days ago
 - [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - 3 days ago
 - [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/) - 3 days ago
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - 3 days ago
@@ -32,7 +32,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4](https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/) - 4 days ago
 - [How to survive and thrive as tariffs, AI, and politics unsettle the rules of business](https://techcrunch.com/podcast/how-to-survive-and-thrive-as-tariffs-ai-and-politics-unsettle-the-rules-of-business/) - 4 days ago
 - [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 4 days ago
-- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - 4 days ago
+- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - 5 days ago
 - [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - Apr 22, 2025
 - [Google’s DeepMind UK team reportedly seeks to unionize](https://techcrunch.com/2025/04/26/googles-deepmind-uk-team-reportedly-seeks-to-unionize/) - Time not found
 - [Google will stop supporting early Nest thermostats on October 25](https://techcrunch.com/2025/04/26/google-will-stop-supporting-early-nest-thermostats-on-october-25/) - Time not found
@@ -40,7 +40,7 @@ Here are the latest articles from TechCrunch Startups:
 - [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/) - Time not found
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
-- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
+- [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/) - Time not found
 - [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/) - Apr 22, 2025
 - [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/) - Apr 22, 2025
 - [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - Apr 22, 2025
@@ -77,4 +77,4 @@ Here are the latest articles from TechCrunch Startups:
 - [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/) - Time not found
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
-- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
+- [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/) - Time not found
