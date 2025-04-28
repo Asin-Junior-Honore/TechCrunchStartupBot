@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 6 hours ago
+- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 11 hours ago
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - 1 day ago
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - 1 day ago
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - 2 days ago
@@ -25,14 +25,14 @@ Here are the latest articles from TechCrunch Startups:
 - [RepAir Carbon is making carbon removal machines inspired by batteries](https://techcrunch.com/2025/04/24/repair-carbon-is-making-carbon-removal-machines-inspired-by-batteries/) - 3 days ago
 - [Founders, your moment is now: Apply for TechCrunch Startup Battlefield 200](https://techcrunch.com/2025/04/24/founders-your-moment-is-now-apply-for-startup-battlefield-200/) - 3 days ago
 - [Revolut, the $45B neobank, posts $1B profit in 2024](https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/) - 3 days ago
-- [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/) - 3 days ago
+- [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/) - 4 days ago
 - [Windsurf slashes prices as competition with Cursor heats up](https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/) - 4 days ago
 - [Here are the 19 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/04/23/here-are-the-19-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 4 days ago
 - [19 US fintech startups have raised over $50M in 2025 so far](https://techcrunch.com/2025/04/23/19-us-fintech-startups-have-raised-over-50m-in-2025-so-far/) - 4 days ago
 - [Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4](https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/) - 4 days ago
 - [How to survive and thrive as tariffs, AI, and politics unsettle the rules of business](https://techcrunch.com/podcast/how-to-survive-and-thrive-as-tariffs-ai-and-politics-unsettle-the-rules-of-business/) - 4 days ago
-- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 4 days ago
-- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - 5 days ago
+- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - 5 days ago
+- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - Apr 22, 2025
 - [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - Apr 22, 2025
 - [Google’s DeepMind UK team reportedly seeks to unionize](https://techcrunch.com/2025/04/26/googles-deepmind-uk-team-reportedly-seeks-to-unionize/) - Time not found
 - [Google will stop supporting early Nest thermostats on October 25](https://techcrunch.com/2025/04/26/google-will-stop-supporting-early-nest-thermostats-on-october-25/) - Time not found
