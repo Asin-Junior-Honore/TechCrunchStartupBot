@@ -4,25 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) - 3 hours ago
-- [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - 6 hours ago
-- [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - 10 hours ago
-- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 11 hours ago
-- [Final 6 days: Save big and bring a plus-one for 50% off to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/6-days-left-to-secure-a-ticket-deal-for-techcrunch-sessions-ai/) - 11 hours ago
+- [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) - 6 hours ago
+- [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - 9 hours ago
+- [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - 13 hours ago
+- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 14 hours ago
+- [Final 6 days: Save big and bring a plus-one for 50% off to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/6-days-left-to-secure-a-ticket-deal-for-techcrunch-sessions-ai/) - 14 hours ago
 - [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/) - 1 day ago
-- [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/) - 1 day ago
-- [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/) - 1 day ago
-- [StrictlyVC heads to London and Athens this May: Featuring prime minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/) - 1 day ago
-- [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - 1 day ago
+- [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/) - 2 days ago
+- [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/) - 2 days ago
+- [StrictlyVC heads to London and Athens this May: Featuring prime minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/) - 2 days ago
+- [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - 2 days ago
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - 2 days ago
-- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 2 days ago
-- [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - 3 days ago
-- [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - 3 days ago
+- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 3 days ago
+- [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - 4 days ago
+- [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - 4 days ago
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - 4 days ago
 - [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/) - 4 days ago
-- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 4 days ago
-- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - 4 days ago
-- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - 4 days ago
+- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 5 days ago
+- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - 5 days ago
+- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - 5 days ago
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Apr 24, 2025
 - [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - Apr 24, 2025
 - [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/) - Apr 24, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Flex acquires a16z-backed Maza for $40M as fintech M&A heats up](https://techcrunch.com/2025/04/24/flex-acquires-a16z-backed-maza-for-40m-as-fintech-ma-heats-up/) - Apr 24, 2025
 - [Speak at TechCrunch Disrupt 2025: Applications now open](https://techcrunch.com/2025/04/24/speak-at-techcrunch-disrupt-2025-applications-now-open/) - Apr 24, 2025
 - [RepAir Carbon is making carbon removal machines inspired by batteries](https://techcrunch.com/2025/04/24/repair-carbon-is-making-carbon-removal-machines-inspired-by-batteries/) - Apr 24, 2025
+- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) - Time not found
 - [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
 - [Meta launches a stand-alone AI app to compete with ChatGPT](https://techcrunch.com/2025/04/29/meta-launches-a-standalone-ai-app-to-compete-with-chatgpt/) - Time not found
 - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
-- [Alibaba unveils Qwen3, a family of ‘hybrid’ AI reasoning models](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/) - Time not found
 - [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
 - [OpenAI upgrades ChatGPT search with shopping features](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/) - Time not found
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
+- [‘Model collapse’: Scientists warn against letting AI eat its own tail](https://techcrunch.com/2024/07/24/model-collapse-scientists-warn-against-letting-ai-eat-its-own-tail/) - Time not found
 - [Founders, your moment is now: Apply for TechCrunch Startup Battlefield 200](https://techcrunch.com/2025/04/24/founders-your-moment-is-now-apply-for-startup-battlefield-200/) - Apr 24, 2025
 - [Revolut, the $45B neobank, posts $1B profit in 2024](https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/) - Apr 24, 2025
 - [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/) - Apr 24, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: Mixed messages from venture capital](https://techcrunch.com/2025/04/18/startups-weekly-mixed-messages-from-venture-capital/) - Apr 18, 2025
 - [Trump EPA targets two-man geoengineering startup for ‘polluting the air’](https://techcrunch.com/2025/04/18/trump-epa-targets-two-man-geoengineering-startup-for-polluting-the-air/) - Apr 18, 2025
 - [Is the SPAC back?](https://techcrunch.com/podcast/is-the-spac-back/) - Apr 18, 2025
+- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) - Time not found
 - [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
 - [Meta launches a stand-alone AI app to compete with ChatGPT](https://techcrunch.com/2025/04/29/meta-launches-a-standalone-ai-app-to-compete-with-chatgpt/) - Time not found
 - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
 - [Alibaba unveils Qwen3, a family of ‘hybrid’ AI reasoning models](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/) - Time not found
 - [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
 - [OpenAI upgrades ChatGPT search with shopping features](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/) - Time not found
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
