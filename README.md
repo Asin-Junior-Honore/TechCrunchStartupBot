@@ -4,10 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 1 hour ago
-- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 14 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 17 hours ago
-- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - 23 hours ago
+- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 55 minutes ago
+- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 4 hours ago
+- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 5 hours ago
+- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 18 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 21 hours ago
+- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - 1 day ago
 - [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - 1 day ago
 - [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - 1 day ago
 - [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - 1 day ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - Apr 25, 2025
 - [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/) - Apr 25, 2025
-- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - Apr 25, 2025
-- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - Apr 25, 2025
 - [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
 - [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
 - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
+- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - Apr 25, 2025
+- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - Apr 25, 2025
 - [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - Apr 25, 2025
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Apr 24, 2025
 - [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - Apr 24, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [The RealReal founder Julie Wainwright has written a memoir —and an entrepreneurial survival guide](https://techcrunch.com/podcast/the-realreal-founder-julie-wainwright-has-written-a-memoir-and-an-entrepreneurial-survival-guide/) - Apr 22, 2025
 - [Ex-Meta engineer raises $14M to help home services unlock call center revenue with AI](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/) - Apr 22, 2025
 - [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - Apr 22, 2025
-- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - Apr 22, 2025
-- [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Apr 21, 2025
-- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
-- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
-- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
-- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
-- [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
-- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
+- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - Time not found
+- [Ai2’s new small AI model outperforms similarly-sized models from Google, Meta](https://techcrunch.com/2025/05/01/ai2s-new-small-ai-model-outperforms-similarly-sized-models-from-google-meta/) - Time not found
+- [Nvidia takes aim at Anthropic’s support of chip export controls](https://techcrunch.com/2025/05/01/nvidia-takes-aim-at-anthropics-support-of-chip-export-controls/) - Time not found
+- [May Mobility to launch robotaxis on Uber platform this year in Texas](https://techcrunch.com/2025/05/01/may-mobility-to-launch-robotaxis-on-uber-platform-this-year-in-texas/) - Time not found
+- [Epic Games is launching webshops to allow developers to circumvent app store fees after new ruling](https://techcrunch.com/2025/05/01/epic-games-is-launching-webshops-to-allow-developers-to-circumvent-app-store-fees-after-new-ruling/) - Time not found
+- [Anthropic lets users connect more apps to Claude](https://techcrunch.com/2025/05/01/anthropic-lets-you-connect-apps-to-claude/) - Time not found
+- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - Time not found
