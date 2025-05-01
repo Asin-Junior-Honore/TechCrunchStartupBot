@@ -4,16 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 10 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 14 hours ago
-- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - 19 hours ago
-- [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - 21 hours ago
-- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - 21 hours ago
-- [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - 21 hours ago
-- [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/) - 22 hours ago
-- [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - 22 hours ago
-- [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/) - 22 hours ago
-- [Supio, an AI-powered legal analysis platform, lands $60M](https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/) - 23 hours ago
+- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 1 hour ago
+- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 14 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 17 hours ago
+- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - 23 hours ago
+- [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - 1 day ago
+- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - 1 day ago
+- [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - 1 day ago
+- [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/) - 1 day ago
+- [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - 1 day ago
+- [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/) - 1 day ago
+- [Supio, an AI-powered legal analysis platform, lands $60M](https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/) - 1 day ago
 - [AI sales tax startup Kintsugi has doubled its valuation in 6 months](https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-has-doubled-its-valuation-in-6-months/) - 1 day ago
 - [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) - 2 days ago
 - [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - 2 days ago
@@ -25,7 +26,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/) - 3 days ago
 - [StrictlyVC heads to London and Athens this May: Featuring prime minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/) - 3 days ago
 - [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - 3 days ago
-- [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - 3 days ago
+- [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - 4 days ago
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - 4 days ago
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - Apr 26, 2025
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/) - Apr 25, 2025
 - [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - Apr 25, 2025
 - [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/) - Apr 25, 2025
-- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - Apr 25, 2025
 - [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
 - [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
 - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
+- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/) - Apr 25, 2025
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Apr 24, 2025
 - [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - Apr 24, 2025
 - [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/) - Apr 24, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/) - Apr 22, 2025
 - [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/) - Apr 22, 2025
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) - Apr 21, 2025
-- [Bezos-backed startup designed an EV that can change like a ‘Transformer’](https://techcrunch.com/2025/04/21/bezos-backed-startup-designed-an-ev-that-can-change-like-a-transformer/) - Apr 21, 2025
-- [WhatsApp now has more than 3 billion users a month](https://techcrunch.com/2025/05/01/whatsapp-now-has-more-than-3-billion-users/) - Time not found
-- [From tech pioneers to ‘extremists’: Belarusian founders face exile and statelessness](https://techcrunch.com/2025/05/01/branded-extremists-for-building-startups-belarusian-tech-pioneers-face-a-stateless-life-in-exile/) - Time not found
-- [Tesla’s board reportedly sought a successor while Musk wheeled around Washington](https://techcrunch.com/2025/04/30/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/) - Time not found
-- [Microsoft’s most capable new Phi 4 AI model rivals the performance of far larger systems](https://techcrunch.com/2025/04/30/microsofts-most-capable-new-phi-4-ai-model-rivals-the-performance-of-far-larger-systems/) - Time not found
-- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - Time not found
-- [World partners with Tinder, Visa to bring its ID-verifying tech to more places](https://techcrunch.com/2025/04/30/world-partners-with-tinder-visa-to-bring-its-id-verifying-tech-to-more-places/) - Time not found
-- [Meta forecasted it would make $1.4T in revenue from generative AI by 2035](https://techcrunch.com/2025/04/30/meta-forecasted-it-would-make-1-4t-in-revenue-from-generative-ai-by-2035/) - Time not found
+- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
+- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
+- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
+- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
+- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
+- [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/) - Time not found
+- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Time not found
