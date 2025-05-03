@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 16 hours ago
-- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 18 hours ago
-- [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 19 hours ago
+- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 21 hours ago
+- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 23 hours ago
+- [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 1 day ago
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - 2 days ago
 - [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 2 days ago
 - [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 2 days ago
 - [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 2 days ago
-- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 2 days ago
+- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 3 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 3 days ago
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - 3 days ago
 - [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - 3 days ago
@@ -27,20 +27,20 @@ Here are the latest articles from TechCrunch Startups:
 - [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - 4 days ago
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 4 days ago
 - [Final 6 days: Save big and bring a plus-one for 50% off to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/6-days-left-to-secure-a-ticket-deal-for-techcrunch-sessions-ai/) - 4 days ago
-- [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/) - 5 days ago
+- [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/) - Apr 28, 2025
 - [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/) - Apr 28, 2025
 - [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/) - Apr 28, 2025
 - [StrictlyVC heads to London and Athens this May: Featuring prime minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/) - Apr 28, 2025
 - [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - Apr 28, 2025
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Apr 27, 2025
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - Apr 27, 2025
-- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
-- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
-- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
-- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
-- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
-- [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Time not found
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Time not found
+- [eBay and Etsy are relatively confident despite tariff pressures](https://techcrunch.com/2025/05/03/ebay-and-etsy-are-relatively-confident-despite-tariff-pressures/) - Time not found
+- [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/) - Time not found
+- [AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns](https://techcrunch.com/2025/05/02/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns/) - Time not found
+- [TechCrunch Mobility: Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case](https://techcrunch.com/2025/05/02/techcrunch-mobility-aurora-launches-its-driverless-commercial-trucking-service-and-a-surprise-bidder-joins-canoos-bankruptcy-case/) - Time not found
+- [Google will soon start letting kids under 13 use its Gemini chatbot](https://techcrunch.com/2025/05/02/google-will-soon-start-letting-kids-under-13-use-its-gemini-chatbot/) - Time not found
+- [One of Google’s recent Gemini AI models scores worse on safety](https://techcrunch.com/2025/05/02/one-of-googles-recent-gemini-ai-models-scores-worse-on-safety/) - Time not found
+- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - Time not found
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - Apr 26, 2025
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - Apr 25, 2025
