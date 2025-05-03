@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 21 hours ago
-- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 23 hours ago
+- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 1 day ago
+- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 1 day ago
 - [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 1 day ago
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - 2 days ago
 - [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 2 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - Apr 28, 2025
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Apr 27, 2025
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - Apr 27, 2025
+- [Warren Buffett will step down as Berkshire Hathaway CEO](https://techcrunch.com/2025/05/03/warren-buffett-will-step-down-as-berkshire-hathaway-ceo/) - Time not found
+- [Week in Review: Apple won’t raise prices — yet](https://techcrunch.com/2025/05/03/week-in-review-apple-wont-raise-prices-yet/) - Time not found
+- [Google’s Gemini has beaten Pokémon Blue (with a little help)](https://techcrunch.com/2025/05/03/googles-gemini-has-beaten-pokemon-blue-with-a-little-help/) - Time not found
 - [eBay and Etsy are relatively confident despite tariff pressures](https://techcrunch.com/2025/05/03/ebay-and-etsy-are-relatively-confident-despite-tariff-pressures/) - Time not found
 - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/) - Time not found
 - [AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns](https://techcrunch.com/2025/05/02/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns/) - Time not found
 - [TechCrunch Mobility: Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case](https://techcrunch.com/2025/05/02/techcrunch-mobility-aurora-launches-its-driverless-commercial-trucking-service-and-a-surprise-bidder-joins-canoos-bankruptcy-case/) - Time not found
-- [Google will soon start letting kids under 13 use its Gemini chatbot](https://techcrunch.com/2025/05/02/google-will-soon-start-letting-kids-under-13-use-its-gemini-chatbot/) - Time not found
-- [One of Google’s recent Gemini AI models scores worse on safety](https://techcrunch.com/2025/05/02/one-of-googles-recent-gemini-ai-models-scores-worse-on-safety/) - Time not found
-- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - Time not found
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - Apr 26, 2025
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - Apr 25, 2025
