@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - 3 days ago
 - [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/) - 3 days ago
 - [Supio, an AI-powered legal analysis platform, lands $60M](https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/) - 3 days ago
-- [AI sales tax startup Kintsugi has doubled its valuation in 6 months](https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-has-doubled-its-valuation-in-6-months/) - 3 days ago
+- [AI sales tax startup Kintsugi has doubled its valuation in 6 months](https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-has-doubled-its-valuation-in-6-months/) - 4 days ago
 - [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) - 4 days ago
 - [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - 4 days ago
 - [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - 4 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - Apr 28, 2025
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Apr 27, 2025
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - Apr 27, 2025
-- [Warren Buffett will step down as Berkshire Hathaway CEO](https://techcrunch.com/2025/05/03/warren-buffett-will-step-down-as-berkshire-hathaway-ceo/) - Time not found
-- [Week in Review: Apple won’t raise prices — yet](https://techcrunch.com/2025/05/03/week-in-review-apple-wont-raise-prices-yet/) - Time not found
-- [Google’s Gemini has beaten Pokémon Blue (with a little help)](https://techcrunch.com/2025/05/03/googles-gemini-has-beaten-pokemon-blue-with-a-little-help/) - Time not found
-- [eBay and Etsy are relatively confident despite tariff pressures](https://techcrunch.com/2025/05/03/ebay-and-etsy-are-relatively-confident-despite-tariff-pressures/) - Time not found
-- [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/) - Time not found
-- [AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns](https://techcrunch.com/2025/05/02/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns/) - Time not found
-- [TechCrunch Mobility: Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case](https://techcrunch.com/2025/05/02/techcrunch-mobility-aurora-launches-its-driverless-commercial-trucking-service-and-a-surprise-bidder-joins-canoos-bankruptcy-case/) - Time not found
+- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
+- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
+- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
+- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
+- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
+- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
+- [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Time not found
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - Apr 26, 2025
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/) - Apr 25, 2025
