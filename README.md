@@ -4,7 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 21 hours ago
+- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - 16 minutes ago
+- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - 19 minutes ago
+- [Datadog acquires Eppo, a feature flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - 2 hours ago
+- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 1 day ago
 - [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 3 days ago
 - [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 3 days ago
 - [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 3 days ago
@@ -12,8 +15,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 4 days ago
 - [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 4 days ago
 - [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 4 days ago
-- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 4 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 5 days ago
+- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 5 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - Apr 30, 2025
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
 - [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - Apr 30, 2025
 - [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - Apr 30, 2025
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/) - Apr 28, 2025
 - [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/) - Apr 28, 2025
 - [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/) - Apr 28, 2025
+- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - Time not found
+- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - Time not found
+- [Pinterest updates visual search with more AI-powered features](https://techcrunch.com/2025/05/05/pinterest-updates-visual-search-with-more-ai-powered-features/) - Time not found
+- [Tesla sales continue to slump across Europe despite April EV sales swell](https://techcrunch.com/2025/05/05/tesla-sales-continue-to-slump-across-europe-despite-april-ev-sales-swell/) - Time not found
+- [Datadog acquires Eppo, a feature flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - Time not found
+- [Skype is shutting down today — these are the best alternatives](https://techcrunch.com/2025/05/05/skype-is-shutting-down-today-these-are-the-best-alternatives/) - Time not found
+- [TeleMessage, a modified Signal clone used by US govt. officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/) - Time not found
 - [StrictlyVC heads to London and Athens this May: Featuring prime minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/) - Apr 28, 2025
 - [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - Apr 28, 2025
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Apr 27, 2025
-- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
-- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
-- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
-- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) - Time not found
-- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
-- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
-- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - Apr 27, 2025
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - Apr 26, 2025
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [19 US fintech startups have raised over $50M in 2025 so far](https://techcrunch.com/2025/04/23/19-us-fintech-startups-have-raised-over-50m-in-2025-so-far/) - Apr 23, 2025
 - [Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4](https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/) - Apr 23, 2025
 - [How to survive and thrive as tariffs, AI, and politics unsettle the rules of business](https://techcrunch.com/podcast/how-to-survive-and-thrive-as-tariffs-ai-and-politics-unsettle-the-rules-of-business/) - Apr 23, 2025
-- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/) - Apr 23, 2025
-- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/) - Apr 22, 2025
-- [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) - Apr 22, 2025
-- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
-- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
-- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
-- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) - Time not found
-- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
-- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
-- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
+- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - Time not found
+- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - Time not found
+- [Pinterest updates visual search with more AI-powered features](https://techcrunch.com/2025/05/05/pinterest-updates-visual-search-with-more-ai-powered-features/) - Time not found
+- [Tesla sales continue to slump across Europe despite April EV sales swell](https://techcrunch.com/2025/05/05/tesla-sales-continue-to-slump-across-europe-despite-april-ev-sales-swell/) - Time not found
+- [Datadog acquires Eppo, a feature flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - Time not found
+- [Skype is shutting down today — these are the best alternatives](https://techcrunch.com/2025/05/05/skype-is-shutting-down-today-these-are-the-best-alternatives/) - Time not found
+- [TeleMessage, a modified Signal clone used by US govt. officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/) - Time not found
