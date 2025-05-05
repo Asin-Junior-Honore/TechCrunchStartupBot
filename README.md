@@ -4,23 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 10 hours ago
+- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 13 hours ago
 - [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 2 days ago
 - [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 2 days ago
-- [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 2 days ago
+- [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 3 days ago
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - 3 days ago
 - [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 3 days ago
 - [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 3 days ago
-- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 3 days ago
+- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 4 days ago
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - 4 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - 4 days ago
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - 4 days ago
-- [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - 4 days ago
-- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - 4 days ago
-- [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - 4 days ago
-- [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/) - 4 days ago
-- [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - 4 days ago
-- [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/) - 4 days ago
+- [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - 5 days ago
+- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - 5 days ago
+- [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - 5 days ago
+- [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/) - 5 days ago
+- [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - 5 days ago
+- [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/) - 5 days ago
 - [Supio, an AI-powered legal analysis platform, lands $60M](https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/) - 5 days ago
 - [AI sales tax startup Kintsugi has doubled its valuation in 6 months](https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-has-doubled-its-valuation-in-6-months/) - 5 days ago
 - [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) - Apr 29, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [StrictlyVC heads to London and Athens this May: Featuring prime minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/) - Apr 28, 2025
 - [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/) - Apr 28, 2025
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Apr 27, 2025
-- [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/) - Time not found
-- [Trump says he’s willing to delay TikTok ban again](https://techcrunch.com/2025/05/04/trump-says-hes-willing-to-delay-tiktok-ban-again/) - Time not found
-- [Residents of SpaceX’s Starbase launch site vote to incorporate as a city](https://techcrunch.com/2025/05/04/residents-of-spacexs-starbase-launch-site-vote-to-incorporate-as-a-city/) - Time not found
-- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - Time not found
-- [Backstage access: Spotify’s dev tools side-hustle is growing legs](https://techcrunch.com/2025/05/04/backstage-access-spotifys-dev-tools-side-hustle-is-growing-legs/) - Time not found
-- [Temu stops shipping products from China to the U.S.](https://techcrunch.com/2025/05/03/temu-stops-shipping-products-from-china-to-the-u-s/) - Time not found
-- [Warren Buffett will step down as Berkshire Hathaway CEO](https://techcrunch.com/2025/05/03/warren-buffett-will-step-down-as-berkshire-hathaway-ceo/) - Time not found
+- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
+- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
+- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
+- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) - Time not found
+- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
+- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
+- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/) - Apr 27, 2025
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/) - Apr 26, 2025
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/) - Apr 26, 2025
@@ -74,7 +74,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
 - [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
 - [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
+- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) - Time not found
 - [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
 - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
 - [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
-- [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/) - Time not found
