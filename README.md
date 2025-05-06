@@ -4,22 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - 3 hours ago
-- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - 7 hours ago
-- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - 8 hours ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 8 hours ago
-- [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/) - 8 hours ago
-- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - 12 hours ago
-- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - 12 hours ago
-- [Datadog acquires Eppo, a feature-flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - 14 hours ago
+- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - 7 hours ago
+- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - 11 hours ago
+- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - 11 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 12 hours ago
+- [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/) - 12 hours ago
+- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - 16 hours ago
+- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - 16 hours ago
+- [Datadog acquires Eppo, a feature-flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - 18 hours ago
 - [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 2 days ago
-- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 3 days ago
-- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 3 days ago
+- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 4 days ago
+- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 4 days ago
 - [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 4 days ago
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - 4 days ago
-- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 4 days ago
-- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 4 days ago
-- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 5 days ago
+- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 5 days ago
+- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 5 days ago
+- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - May 1, 2025
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - Apr 30, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - Apr 30, 2025
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
