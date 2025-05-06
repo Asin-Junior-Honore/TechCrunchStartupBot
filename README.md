@@ -4,21 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - 4 hours ago
-- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - 4 hours ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 5 hours ago
-- [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/) - 5 hours ago
-- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - 9 hours ago
-- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - 9 hours ago
-- [Datadog acquires Eppo, a feature-flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - 11 hours ago
-- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 1 day ago
+- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - 3 hours ago
+- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - 7 hours ago
+- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - 8 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 8 hours ago
+- [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/) - 8 hours ago
+- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - 12 hours ago
+- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - 12 hours ago
+- [Datadog acquires Eppo, a feature-flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/) - 14 hours ago
+- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/) - 2 days ago
 - [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) - 3 days ago
 - [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - 3 days ago
-- [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 3 days ago
+- [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - 4 days ago
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - 4 days ago
 - [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - 4 days ago
 - [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - 4 days ago
-- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 4 days ago
+- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - 5 days ago
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - Apr 30, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - Apr 30, 2025
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) - Apr 29, 2025
 - [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - Apr 29, 2025
 - [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - Apr 29, 2025
+- [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/) - Time not found
+- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
+- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
+- [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) - Time not found
+- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
+- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/) - Time not found
+- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - Apr 29, 2025
-- [Waymo ramps up robotaxi production at new Arizona factory](https://techcrunch.com/2025/05/05/waymo-ramps-up-robotaxi-production-at-new-arizona-factory/) - Time not found
-- [Uber and WeRide set their robotaxi sights on 15 more cities](https://techcrunch.com/2025/05/05/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/) - Time not found
-- [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/) - Time not found
-- [People struggle to get useful health advice from chatbots, study finds](https://techcrunch.com/2025/05/05/people-struggle-to-get-useful-health-advice-from-chatbots-study-finds/) - Time not found
-- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - Time not found
-- [Google accidentally reveals details about its new Android design language, Material 3 Expressive](https://techcrunch.com/2025/05/05/google-accidentally-reveals-details-about-its-new-android-design-language-material-3-expressive/) - Time not found
-- [Meet the companies racing to build quantum chips](https://techcrunch.com/2025/05/05/meet-the-companies-racing-to-build-quantum-chips/) - Time not found
 - [Final 6 days: Save big and bring a plus-one for 50% off to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/6-days-left-to-secure-a-ticket-deal-for-techcrunch-sessions-ai/) - Apr 29, 2025
 - [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/) - Apr 28, 2025
 - [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/) - Apr 28, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Revolut, the $45B neobank, posts $1B profit in 2024](https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/) - Apr 24, 2025
 - [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/) - Apr 24, 2025
 - [Windsurf slashes prices as competition with Cursor heats up](https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/) - Apr 23, 2025
-- [Here are the 19 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/04/23/here-are-the-19-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Apr 23, 2025
 - [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/) - Time not found
 - [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/) - Time not found
 - [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
