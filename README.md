@@ -4,14 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/) - 1 hour ago
-- [Particle brings its AI-powered news reader to the web](https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/) - 20 hours ago
-- [Finom, a challenger bank aimed at SMBs, lands $105M in growth funding from General Catalyst](https://techcrunch.com/2025/05/06/finom-a-challenger-bank-aimed-at-smbs-lands-104m-in-growth-funding-from-general-catalyst/) - 20 hours ago
-- [NewLimit, founded by Coinbase CEO Brian Armstrong, raises $130M to develop age-reversing treatments](https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstrong-raises-130m-to-develop-age-reversing-therapies/) - 21 hours ago
-- [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/) - 22 hours ago
-- [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - 23 hours ago
-- [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/) - 23 hours ago
-- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - 1 day ago
+- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - 1 minute ago
+- [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/) - 3 hours ago
+- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/) - 5 hours ago
+- [Particle brings its AI-powered news reader to the web](https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/) - 24 hours ago
+- [Finom, a challenger bank aimed at SMBs, lands $105M in growth funding from General Catalyst](https://techcrunch.com/2025/05/06/finom-a-challenger-bank-aimed-at-smbs-lands-104m-in-growth-funding-from-general-catalyst/) - 1 day ago
+- [NewLimit, founded by Coinbase CEO Brian Armstrong, raises $130M to develop age-reversing treatments](https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstrong-raises-130m-to-develop-age-reversing-therapies/) - 1 day ago
+- [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/) - 1 day ago
+- [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - 1 day ago
+- [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/) - 1 day ago
+- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - 2 days ago
 - [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - 2 days ago
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - 2 days ago
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 2 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
 - [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - Apr 30, 2025
 - [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - Apr 30, 2025
+- [Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities](https://techcrunch.com/2025/05/07/uber-invests-100m-in-weride-to-fuel-robotaxi-expansion-across-15-more-cities/) - Time not found
+- [Amazon to invest $4B in Chile to launch AWS infrastructure region](https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/) - Time not found
+- [CrowdStrike says it will lay off 500 workers](https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/) - Time not found
+- [The web series is back — only this time, they’re TikToks](https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/) - Time not found
+- [Mistral claims its newest AI model delivers leading performance for the price](https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/) - Time not found
+- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
+- [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/) - Time not found
 - [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - Apr 30, 2025
 - [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/) - Apr 30, 2025
-- [Musk clashes with neighbors in exclusive Austin suburb](https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/) - Time not found
-- [TeleMessage, a modified Signal clone used by US government officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-government-officials-has-been-hacked/) - Time not found
-- [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/) - Time not found
-- [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/) - Time not found
-- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
-- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
-- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
 - [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - Apr 30, 2025
 - [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/) - Apr 30, 2025
 - [Supio, an AI-powered legal analysis platform, lands $60M](https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/) - Apr 30, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Apr 24, 2025
 - [Astro Teller is joining us at TechCrunch Disrupt 2025 in October](https://techcrunch.com/2025/04/24/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - Apr 24, 2025
 - [Evernote founder’s video startup mmhmm becomes Airtime, launches new products](https://techcrunch.com/2025/04/24/evernote-founders-video-startup-mmhmm-becomes-airtime-launches-new-products/) - Apr 24, 2025
-- [Report: Adam Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-adam-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/) - Apr 24, 2025
-- [You’re invited to a fireside chat with Baiju Bhatt on Sand Hill Road on June 18 at StrictlyVC](https://techcrunch.com/2025/04/24/youre-invited-to-a-fireside-chat-with-baiju-bhatt-on-sand-hill-road-on-june-18-at-strictlyvc/) - Apr 24, 2025
-- [Breathe lands $21M Series B to predict battery performance](https://techcrunch.com/2025/05/07/breathe-lands-21m-series-b-to-predict-battery-performance/) - Time not found
-- [Netflix debuts its generative AI-powered search tool](https://techcrunch.com/2025/05/07/netflix-debuts-its-generative-ai-powered-search-tool/) - Time not found
-- [Netflix is getting into short videos with a new vertical feed for mobile](https://techcrunch.com/2025/05/07/netflix-is-getting-into-short-videos-with-a-new-vertical-feed-for-mobile/) - Time not found
-- [Kapor Capital’s managing partner Ulili Onovakpuri is leaving the firm](https://techcrunch.com/2025/05/07/kapor-capitals-managing-partner-ulili-onovakpuri-is-leaving-the-firm/) - Time not found
-- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/) - Time not found
-- [Mitsubishi in talks to source its new EVs for Australia, New Zealand from Foxconn unit](https://techcrunch.com/2025/05/07/mitsubishi-in-talks-to-source-its-new-evs-for-australia-new-zealand-from-foxconn-unit/) - Time not found
-- [Amazon is working on an AI code generation tool](https://techcrunch.com/2025/05/07/amazon-is-working-on-an-ai-code-generating-tool/) - Time not found
+- [Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities](https://techcrunch.com/2025/05/07/uber-invests-100m-in-weride-to-fuel-robotaxi-expansion-across-15-more-cities/) - Time not found
+- [Amazon to invest $4B in Chile to launch AWS infrastructure region](https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/) - Time not found
+- [CrowdStrike says it will lay off 500 workers](https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/) - Time not found
+- [The web series is back — only this time, they’re TikToks](https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/) - Time not found
+- [Mistral claims its newest AI model delivers leading performance for the price](https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/) - Time not found
+- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
+- [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/) - Time not found
