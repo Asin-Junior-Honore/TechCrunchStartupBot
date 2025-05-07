@@ -4,10 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - 1 minute ago
-- [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/) - 3 hours ago
-- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/) - 5 hours ago
-- [Particle brings its AI-powered news reader to the web](https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/) - 24 hours ago
+- [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/) - 2 hours ago
+- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/) - 3 hours ago
+- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - 4 hours ago
+- [Game, Sett, funding: A startup building AI agents for game development emerges from stealth with $27M](https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/) - 7 hours ago
+- [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/) - 7 hours ago
+- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/) - 9 hours ago
+- [Particle brings its AI-powered news reader to the web](https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/) - 1 day ago
 - [Finom, a challenger bank aimed at SMBs, lands $105M in growth funding from General Catalyst](https://techcrunch.com/2025/05/06/finom-a-challenger-bank-aimed-at-smbs-lands-104m-in-growth-funding-from-general-catalyst/) - 1 day ago
 - [NewLimit, founded by Coinbase CEO Brian Armstrong, raises $130M to develop age-reversing treatments](https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstrong-raises-130m-to-develop-age-reversing-therapies/) - 1 day ago
 - [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/) - 1 day ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - May 1, 2025
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - Apr 30, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/) - Apr 30, 2025
+- [Snap Map reaches new milestone of 400M monthly active users](https://techcrunch.com/2025/05/07/snap-map-reaches-new-milestone-of-400m-monthly-active-users/) - Time not found
+- [Lucid Motors’ Gravity SUV dealing with early ‘hiccups,’ interim CEO says](https://techcrunch.com/2025/05/07/lucid-motors-gravity-suv-dealing-with-early-hiccups-interim-ceo-says/) - Time not found
+- [SpaceX’s Starlink has become a big benefactor of Trump’s tariff trade war, leaked memos show](https://techcrunch.com/2025/05/07/spacexs-starlink-has-become-a-big-benefactor-of-trumps-tariff-trade-war-leaked-memos-show/) - Time not found
+- [Amazon debuts a warehouse robot with a sense of ‘touch’](https://techcrunch.com/2025/05/07/amazon-debuts-a-warehouse-robot-with-a-sense-of-touch/) - Time not found
+- [New court filing shows that Meta execs agreed that Facebook was losing to TikTok](https://techcrunch.com/2025/05/07/new-court-filing-shows-that-meta-execs-agreed-that-facebook-was-losing-to-tiktok/) - Time not found
+- [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/) - Time not found
+- [OpenAI wants to team up with governments to grow AI infrastructure](https://techcrunch.com/2025/05/07/openai-wants-to-team-up-with-governments-to-grow-ai-infrastructure/) - Time not found
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
 - [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - Apr 30, 2025
 - [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - Apr 30, 2025
-- [Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities](https://techcrunch.com/2025/05/07/uber-invests-100m-in-weride-to-fuel-robotaxi-expansion-across-15-more-cities/) - Time not found
-- [Amazon to invest $4B in Chile to launch AWS infrastructure region](https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/) - Time not found
-- [CrowdStrike says it will lay off 500 workers](https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/) - Time not found
-- [The web series is back — only this time, they’re TikToks](https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/) - Time not found
-- [Mistral claims its newest AI model delivers leading performance for the price](https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/) - Time not found
-- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
-- [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/) - Time not found
 - [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/) - Apr 30, 2025
 - [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/) - Apr 30, 2025
 - [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/) - Apr 30, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/) - Apr 24, 2025
 - [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/) - Apr 24, 2025
 - [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/) - Apr 24, 2025
-- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/) - Apr 24, 2025
-- [Astro Teller is joining us at TechCrunch Disrupt 2025 in October](https://techcrunch.com/2025/04/24/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - Apr 24, 2025
-- [Evernote founder’s video startup mmhmm becomes Airtime, launches new products](https://techcrunch.com/2025/04/24/evernote-founders-video-startup-mmhmm-becomes-airtime-launches-new-products/) - Apr 24, 2025
-- [Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities](https://techcrunch.com/2025/05/07/uber-invests-100m-in-weride-to-fuel-robotaxi-expansion-across-15-more-cities/) - Time not found
-- [Amazon to invest $4B in Chile to launch AWS infrastructure region](https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/) - Time not found
-- [CrowdStrike says it will lay off 500 workers](https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/) - Time not found
-- [The web series is back — only this time, they’re TikToks](https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/) - Time not found
-- [Mistral claims its newest AI model delivers leading performance for the price](https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/) - Time not found
-- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
-- [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/) - Time not found
+- [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - Time not found
+- [Musk clashes with neighbors in exclusive Austin suburb](https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/) - Time not found
+- [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/) - Time not found
+- [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/) - Time not found
+- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/) - Time not found
+- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/) - Time not found
+- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) - Time not found
