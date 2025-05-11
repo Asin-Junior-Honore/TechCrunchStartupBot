@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - 14 hours ago
+- [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - 3 minutes ago
+- [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - 19 hours ago
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - 1 day ago
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - 1 day ago
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/) - May 6, 2025
 - [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - May 6, 2025
 - [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/) - May 6, 2025
-- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - May 5, 2025
 - [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
 - [Microsoft adopts Google’s standard for linking up AI agents](https://techcrunch.com/2025/05/07/microsoft-adopts-googles-standard-for-linking-up-ai-agents/) - Time not found
 - [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - Time not found
 - [Musk clashes with neighbors in exclusive Austin suburb](https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/) - Time not found
 - [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/) - Time not found
+- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - May 5, 2025
 - [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - May 5, 2025
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - May 5, 2025
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - May 5, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - Apr 29, 2025
 - [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - Apr 29, 2025
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - Apr 29, 2025
-- [Final 6 days: Save big and bring a plus-one for 50% off to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/6-days-left-to-secure-a-ticket-deal-for-techcrunch-sessions-ai/) - Apr 29, 2025
 - [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
 - [Microsoft adopts Google’s standard for linking up AI agents](https://techcrunch.com/2025/05/07/microsoft-adopts-googles-standard-for-linking-up-ai-agents/) - Time not found
 - [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
