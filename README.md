@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - 16 hours ago
-- [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - 1 day ago
+- [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - 20 hours ago
+- [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - 2 days ago
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - 2 days ago
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - 2 days ago
-- [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - 2 days ago
-- [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - 2 days ago
-- [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - 2 days ago
+- [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - 3 days ago
+- [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - 3 days ago
+- [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - 3 days ago
 - [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/) - 3 days ago
 - [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/) - 3 days ago
 - [Startups Weekly: Different paths on the road to liquidity](https://techcrunch.com/2025/05/09/startups-weekly-different-paths-on-the-road-to-liquidity/) - 3 days ago
@@ -20,11 +20,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/) - 4 days ago
 - [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/) - 4 days ago
 - [Sequoia leads $1.5B tender offer for sales automation startup Clay](https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/) - 4 days ago
-- [Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla](https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/) - 4 days ago
-- [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/) - 4 days ago
-- [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/) - 5 days ago
-- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/) - 5 days ago
-- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - 5 days ago
+- [Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla](https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/) - 5 days ago
+- [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/) - 5 days ago
+- [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/) - May 7, 2025
+- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/) - May 7, 2025
+- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - May 7, 2025
 - [Game, Sett, funding: A startup building AI agents for game development emerges from stealth with $27M](https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/) - May 7, 2025
 - [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/) - May 7, 2025
 - [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/) - May 7, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/) - May 6, 2025
 - [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - May 6, 2025
 - [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/) - May 6, 2025
-- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
-- [Instacart CEO Fidji Simo is joining OpenAI](https://techcrunch.com/2025/05/07/instacart-ceo-fidji-simo-is-joining-openai/) - Time not found
-- [Microsoft adopts Google’s standard for linking up AI agents](https://techcrunch.com/2025/05/07/microsoft-adopts-googles-standard-for-linking-up-ai-agents/) - Time not found
-- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/) - Time not found
-- [Hugging Face releases a free Operator-like agentic AI tool](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/) - Time not found
-- [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/) - Time not found
-- [Musk clashes with neighbors in exclusive Austin suburb](https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/) - Time not found
+- [This American VC is betting on European defense tech; that’s still very unusual](https://techcrunch.com/2025/05/12/this-american-vc-is-betting-on-european-defense-tech-thats-still-very-unusual/) - Time not found
+- [Apple reportedly plans to hike prices of upcoming iPhones](https://techcrunch.com/2025/05/12/apple-reportedly-plans-to-hike-prices-of-upcoming-iphones/) - Time not found
+- [Tech stocks look set to jump as U.S. and China pause reciprocal tariffs](https://techcrunch.com/2025/05/12/tech-stocks-look-set-to-jump-as-u-s-and-china-pause-reciprocal-tariffs/) - Time not found
+- [Egypt’s Nawy, the largest proptech in Africa, raises $52M to take on MENA](https://techcrunch.com/2025/05/11/egypts-nawy-lands-a-52m-series-a-to-take-on-mena/) - Time not found
+- [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
+- [Trump fires Copyright Office director after report raises questions about AI training](https://techcrunch.com/2025/05/11/trump-fires-copyright-office-director-after-report-raises-questions-about-ai-training/) - Time not found
+- [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - Time not found
 - [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - May 5, 2025
 - [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - May 5, 2025
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - May 5, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/) - Apr 29, 2025
 - [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/) - Apr 29, 2025
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - Apr 29, 2025
+- [This American VC is betting on European defense tech; that’s still very unusual](https://techcrunch.com/2025/05/12/this-american-vc-is-betting-on-european-defense-tech-thats-still-very-unusual/) - Time not found
+- [Apple reportedly plans to hike prices of upcoming iPhones](https://techcrunch.com/2025/05/12/apple-reportedly-plans-to-hike-prices-of-upcoming-iphones/) - Time not found
+- [Tech stocks look set to jump as U.S. and China pause reciprocal tariffs](https://techcrunch.com/2025/05/12/tech-stocks-look-set-to-jump-as-u-s-and-china-pause-reciprocal-tariffs/) - Time not found
+- [Egypt’s Nawy, the largest proptech in Africa, raises $52M to take on MENA](https://techcrunch.com/2025/05/11/egypts-nawy-lands-a-52m-series-a-to-take-on-mena/) - Time not found
 - [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
 - [Trump fires Copyright Office director after report raises questions about AI training](https://techcrunch.com/2025/05/11/trump-fires-copyright-office-director-after-report-raises-questions-about-ai-training/) - Time not found
 - [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - Time not found
-- [Microsoft and OpenAI may be renegotiating their partnership](https://techcrunch.com/2025/05/11/microsoft-and-openai-may-be-renegotiating-their-partnership/) - Time not found
-- [The Backbone Pro controller makes mobile gaming worth the hassle](https://techcrunch.com/2025/05/11/the-backbone-pro-controller-makes-mobile-gaming-worth-the-hassle/) - Time not found
-- [Amazon offers peek at new human jobs in an AI bot world](https://techcrunch.com/2025/05/11/amazon-offers-peek-at-new-human-jobs-in-an-ai-bot-world/) - Time not found
-- [The Greek revival you’re not watching (but probably should be)](https://techcrunch.com/2025/05/11/the-greek-revival-youre-not-watching-but-probably-should-be/) - Time not found
