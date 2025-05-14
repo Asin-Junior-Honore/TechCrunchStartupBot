@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 3 hours ago
-- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 18 hours ago
-- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - 20 hours ago
-- [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - 21 hours ago
-- [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/) - 23 hours ago
+- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 2 hours ago
+- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 7 hours ago
+- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 21 hours ago
+- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - 23 hours ago
+- [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - 1 day ago
+- [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/) - 1 day ago
 - [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 1 day ago
 - [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/) - 1 day ago
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/12/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla](https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/) - May 7, 2025
 - [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/) - May 7, 2025
 - [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/) - May 7, 2025
-- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/) - May 7, 2025
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
 - [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
 - [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
 - [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
 - [Hugging Face releases a free Operator-like agentic AI tool](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/) - Time not found
+- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/) - May 7, 2025
 - [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - May 7, 2025
 - [Game, Sett, funding: A startup building AI agents for game development emerges from stealth with $27M](https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/) - May 7, 2025
 - [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/) - May 7, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - Apr 30, 2025
 - [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
 - [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - Apr 30, 2025
-- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/) - Apr 30, 2025
-- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
-- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
-- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
-- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
-- [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
-- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
-- [Hugging Face releases a free Operator-like agentic AI tool](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/) - Time not found
+- [Grok is unpromptedly telling X users about South African genocide](https://techcrunch.com/2025/05/14/grok-is-unpromptedly-telling-x-users-about-south-african-genocide/) - Time not found
+- [Foxconn gets nod for $435M project to make more of Apple chips in India, eventually](https://techcrunch.com/2025/05/14/foxconn-gets-nod-for-435m-project-to-make-more-of-apple-chips-in-india-eventually/) - Time not found
+- [The Kids Online Safety Act is back, with the potential to change the internet](https://techcrunch.com/2025/05/14/the-kids-online-safety-act-is-back-with-the-potential-to-change-the-internet/) - Time not found
+- [OpenAI brings its GPT-4.1 models to ChatGPT](https://techcrunch.com/2025/05/14/openai-brings-its-gpt-4-1-models-to-chatgpt/) - Time not found
+- [White House scraps plan to block data brokers from selling Americans’ sensitive data](https://techcrunch.com/2025/05/14/white-house-scraps-plan-to-block-data-brokers-from-selling-americans-sensitive-data/) - Time not found
+- [How this VC spots the global game changers](https://techcrunch.com/video/how-this-vc-spots-the-global-game-changers/) - Time not found
+- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - Time not found
