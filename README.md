@@ -4,19 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 18 hours ago
-- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 23 hours ago
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 48 minutes ago
+- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 48 minutes ago
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 1 hour ago
+- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 3 hours ago
+- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 22 hours ago
+- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 1 day ago
 - [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 2 days ago
 - [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - 2 days ago
 - [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - 2 days ago
 - [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/) - 2 days ago
 - [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 2 days ago
 - [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/) - 2 days ago
-- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/12/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 2 days ago
+- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/12/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 3 days ago
 - [Congressman is investigating fintech Ramp’s attempt to win $25M federal contract](https://techcrunch.com/2025/05/12/congressman-is-investigating-fintech-ramps-attempt-to-win-25m-federal-contract/) - 3 days ago
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - 3 days ago
 - [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - 4 days ago
-- [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - 5 days ago
+- [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - May 10, 2025
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - May 10, 2025
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - May 10, 2025
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - May 9, 2025
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Meta’s speeding up the ‘Mad Men to Math Men’ pipeline](https://techcrunch.com/podcast/metas-speeding-up-the-mad-men-to-math-men-pipeline/) - May 9, 2025
 - [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/) - May 8, 2025
 - [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/) - May 8, 2025
+- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
+- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
+- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
+- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
+- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
+- [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
+- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
 - [Sequoia leads $1.5B tender offer for sales automation startup Clay](https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/) - May 8, 2025
 - [Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla](https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/) - May 7, 2025
 - [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/) - May 7, 2025
 - [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/) - May 7, 2025
-- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
-- [Trump tells Apple’s CEO to stop expanding iPhone production in India](https://techcrunch.com/2025/05/15/trump-tells-apples-ceo-to-stop-expanding-iphone-production-in-india/) - Time not found
-- [South Korea delays decision on letting Google move hi-res map data overseas](https://techcrunch.com/2025/05/15/south-korea-delays-decision-on-letting-google-move-hi-res-map-data-overseas/) - Time not found
-- [Hedra, the app used to make talking baby podcasts, raises $32M from a16z](https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/) - Time not found
-- [Harvey reportedly in discussions to raise $250M at $5B valuation](https://techcrunch.com/2025/05/15/harvey-reportedly-in-discussions-to-raise-250m-at-5b-valuation/) - Time not found
-- [Billionaire founder of Luminar replaced as CEO following ethics inquiry](https://techcrunch.com/2025/05/14/billionaire-founder-of-luminar-replaced-as-ceo-following-ethics-inquiry/) - Time not found
-- [YouTube introduces an interactive product feed for shoppable TV ads](https://techcrunch.com/2025/05/14/youtube-introduces-an-interactive-product-feed-for-shoppable-tv-ads/) - Time not found
 - [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/) - May 7, 2025
 - [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/) - May 7, 2025
 - [Game, Sett, funding: A startup building AI agents for game development emerges from stealth with $27M](https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/) - May 7, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - May 1, 2025
 - [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - May 1, 2025
 - [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - May 1, 2025
-- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/) - May 1, 2025
-- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/) - Apr 30, 2025
-- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/) - Apr 30, 2025
-- [The rise of retail investors in secondaries, and why delayed IPOs will become the norm](https://techcrunch.com/podcast/the-rise-of-retail-investors-in-secondaries-and-why-delayed-ipos-will-become-the-norm/) - Apr 30, 2025
-- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
-- [Trump tells Apple’s CEO to stop expanding iPhone production in India](https://techcrunch.com/2025/05/15/trump-tells-apples-ceo-to-stop-expanding-iphone-production-in-india/) - Time not found
-- [South Korea delays decision on letting Google move hi-res map data overseas](https://techcrunch.com/2025/05/15/south-korea-delays-decision-on-letting-google-move-hi-res-map-data-overseas/) - Time not found
-- [Hedra, the app used to make talking baby podcasts, raises $32M from a16z](https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/) - Time not found
-- [Harvey reportedly in discussions to raise $250M at $5B valuation](https://techcrunch.com/2025/05/15/harvey-reportedly-in-discussions-to-raise-250m-at-5b-valuation/) - Time not found
-- [Billionaire founder of Luminar replaced as CEO following ethics inquiry](https://techcrunch.com/2025/05/14/billionaire-founder-of-luminar-replaced-as-ceo-following-ethics-inquiry/) - Time not found
-- [YouTube introduces an interactive product feed for shoppable TV ads](https://techcrunch.com/2025/05/14/youtube-introduces-an-interactive-product-feed-for-shoppable-tv-ads/) - Time not found
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - Time not found
+- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - Time not found
+- [Threads now lets creators add up to 5 links to profiles, track clicks](https://techcrunch.com/2025/05/15/threads-now-lets-creators-add-up-to-5-links-to-profiles-track-clicks/) - Time not found
+- [Apple finally launches next-gen ‘CarPlay Ultra’ software, starting with Aston Martin](https://techcrunch.com/2025/05/15/apple-finally-launches-next-gen-carplay-ultra-software-starting-with-aston-martin/) - Time not found
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - Time not found
+- [Doji raises $14M to make virtual try-ons fun through AI avatars](https://techcrunch.com/2025/05/15/doji-raises-14m-to-make-virtual-try-ons-fun-through-ai-avatars/) - Time not found
+- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - Time not found
