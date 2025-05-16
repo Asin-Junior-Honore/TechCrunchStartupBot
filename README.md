@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 11 hours ago
-- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 12 hours ago
-- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 14 hours ago
-- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 17 hours ago
-- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 17 hours ago
-- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 19 hours ago
+- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 14 hours ago
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 15 hours ago
+- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 18 hours ago
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 21 hours ago
+- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 21 hours ago
+- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 23 hours ago
 - [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 2 days ago
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 2 days ago
-- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 2 days ago
-- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - 2 days ago
+- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 3 days ago
+- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - 3 days ago
 - [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - 3 days ago
 - [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/) - 3 days ago
 - [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 3 days ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/12/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 3 days ago
 - [Congressman is investigating fintech Ramp’s attempt to win $25M federal contract](https://techcrunch.com/2025/05/12/congressman-is-investigating-fintech-ramps-attempt-to-win-25m-federal-contract/) - 4 days ago
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - 4 days ago
-- [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - 5 days ago
+- [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - May 11, 2025
 - [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - May 10, 2025
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - May 10, 2025
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - May 10, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Rippling raises $450M at a $16.8B valuation, reveals YC is a customer](https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/) - May 9, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/09/tech-layoffs-2025-list/) - May 9, 2025
 - [Meta’s speeding up the ‘Mad Men to Math Men’ pipeline](https://techcrunch.com/podcast/metas-speeding-up-the-mad-men-to-math-men-pipeline/) - May 9, 2025
-- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
-- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
-- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
-- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
-- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
-- [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
-- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
+- [xAI blames Grok’s obsession with white genocide on an ‘unauthorized modification’](https://techcrunch.com/2025/05/15/xai-blames-groks-obsession-with-white-genocide-on-an-unauthorized-modification/) - Time not found
+- [Sam Altman’s goal for ChatGPT to remember ‘your whole life’ is both exciting and disturbing](https://techcrunch.com/2025/05/15/sam-altmans-goal-for-chatgpt-to-remember-your-whole-life-is-both-exciting-and-disturbing/) - Time not found
+- [Vibe-coding startup Windsurf launches in-house AI models](https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/) - Time not found
+- [Viral outrage over Apple’s EU payment warnings misses key fact](https://techcrunch.com/2025/05/15/viral-outrage-over-apples-eu-payment-warnings-misses-key-fact/) - Time not found
+- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - Time not found
+- [Redpoint raises $650M 3 years after its last big early-stage fund](https://techcrunch.com/2025/05/15/redpoint-raises-650m-3-years-after-its-last-big-early-stage-fund/) - Time not found
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - Time not found
 - [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/) - May 8, 2025
 - [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/) - May 8, 2025
 - [Sequoia leads $1.5B tender offer for sales automation startup Clay](https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/) - May 8, 2025
