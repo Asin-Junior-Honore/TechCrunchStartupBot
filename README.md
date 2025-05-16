@@ -4,10 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 2 hours ago
-- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 5 hours ago
-- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 5 hours ago
-- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 7 hours ago
+- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 3 hours ago
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 4 hours ago
+- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 6 hours ago
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 10 hours ago
+- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 10 hours ago
+- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 12 hours ago
 - [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 1 day ago
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 1 day ago
 - [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 2 days ago
@@ -15,7 +17,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - 2 days ago
 - [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/) - 2 days ago
 - [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 2 days ago
-- [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/) - 2 days ago
+- [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/) - 3 days ago
 - [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/12/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/) - 3 days ago
 - [Congressman is investigating fintech Ramp’s attempt to win $25M federal contract](https://techcrunch.com/2025/05/12/congressman-is-investigating-fintech-ramps-attempt-to-win-25m-federal-contract/) - 3 days ago
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - 3 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Rippling raises $450M at a $16.8B valuation, reveals YC is a customer](https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/) - May 9, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/09/tech-layoffs-2025-list/) - May 9, 2025
 - [Meta’s speeding up the ‘Mad Men to Math Men’ pipeline](https://techcrunch.com/podcast/metas-speeding-up-the-mad-men-to-math-men-pipeline/) - May 9, 2025
-- [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/) - May 8, 2025
-- [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/) - May 8, 2025
+- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
 - [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
-- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
 - [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
 - [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
 - [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
 - [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
 - [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
+- [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/) - May 8, 2025
+- [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/) - May 8, 2025
 - [Sequoia leads $1.5B tender offer for sales automation startup Clay](https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/) - May 8, 2025
 - [Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla](https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/) - May 7, 2025
 - [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/) - May 7, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/) - May 2, 2025
 - [Damn, the Cluely ragebait got us](https://techcrunch.com/podcast/damn-the-cluely-ragebait-got-us/) - May 2, 2025
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/) - May 1, 2025
-- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/) - May 1, 2025
-- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/) - May 1, 2025
-- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/) - Time not found
-- [Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation](https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/) - Time not found
-- [Fieldstone Bio is building microbes that can sense everything from TNT to arsenic](https://techcrunch.com/2025/05/15/fieldstone-bio-is-building-microbes-that-can-sense-everything-from-tnt-to-arsenic/) - Time not found
-- [Lucid’s record quarter got a lift from rental sales and company leases](https://techcrunch.com/2025/05/15/lucids-record-quarter-got-a-lift-from-rental-sales-and-company-leases/) - Time not found
-- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - Time not found
-- [TikTok rolls out a new meditation feature to help you get off the app and sleep](https://techcrunch.com/2025/05/15/tiktok-rolls-out-a-new-meditation-feature-to-help-you-get-off-the-app-and-sleep/) - Time not found
-- [Cognichip emerges from stealth with the goal of using generative AI to develop new chips](https://techcrunch.com/2025/05/15/cognichip-emerges-from-stealth-with-the-goal-of-using-generative-ai-to-develop-new-chips/) - Time not found
+- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
+- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
+- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
+- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
+- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
+- [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/) - Time not found
+- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/) - Time not found
