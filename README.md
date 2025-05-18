@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - May 9, 2025
 - [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - May 9, 2025
 - [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - May 9, 2025
-- [Heybike’s Alpha step-through e-bike is an affordable, all-terrain dreamboat](https://techcrunch.com/2025/05/18/heybikes-alpha-step-through-e-bike-is-an-affordable-all-terrain-dreamboat/) - Time not found
-- [U.S. lawmakers have concerns about Apple-Alibaba deal](https://techcrunch.com/2025/05/18/u-s-lawmakers-have-concerns-about-apple-alibaba-deal/) - Time not found
-- [Microsoft’s Satya Nadella is choosing chatbots over podcasts](https://techcrunch.com/2025/05/17/microsofts-satya-nadella-is-choosing-chatbots-over-podcasts/) - Time not found
-- [MIT disavows doctoral student paper on AI’s productivity benefits](https://techcrunch.com/2025/05/17/mit-disavows-doctoral-students-paper-on-ai-productivity-benefits/) - Time not found
-- [Laser-powered fusion experiment more than doubles its power output](https://techcrunch.com/2025/05/17/laser-powered-fusion-experiment-more-than-doubles-its-power-output/) - Time not found
-- [TechCrunch Week in Review: Coinbase gets hacked](https://techcrunch.com/2025/05/17/techcrunch-week-in-review-coinbase-gets-hacked/) - Time not found
-- [Epic Games asks judge to force Apple to approve Fortnite](https://techcrunch.com/2025/05/17/epic-games-asks-judge-to-force-apple-to-approve-fortnite/) - Time not found
+- [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
+- [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
+- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
+- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
+- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
+- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
+- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
 - [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/) - May 9, 2025
 - [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/) - May 9, 2025
 - [Startups Weekly: Different paths on the road to liquidity](https://techcrunch.com/2025/05/09/startups-weekly-different-paths-on-the-road-to-liquidity/) - May 9, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/) - May 5, 2025
 - [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - May 5, 2025
 - [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - May 5, 2025
-- [Microsoft’s Satya Nadella is choosing chatbots over podcasts](https://techcrunch.com/2025/05/17/microsofts-satya-nadella-is-choosing-chatbots-over-podcasts/) - Time not found
-- [MIT disavows doctoral student paper on AI’s productivity benefits](https://techcrunch.com/2025/05/17/mit-disavows-doctoral-students-paper-on-ai-productivity-benefits/) - Time not found
-- [Laser-powered fusion experiment more than doubles its power output](https://techcrunch.com/2025/05/17/laser-powered-fusion-experiment-more-than-doubles-its-power-output/) - Time not found
-- [TechCrunch Week in Review: Coinbase gets hacked](https://techcrunch.com/2025/05/17/techcrunch-week-in-review-coinbase-gets-hacked/) - Time not found
-- [Epic Games asks judge to force Apple to approve Fortnite](https://techcrunch.com/2025/05/17/epic-games-asks-judge-to-force-apple-to-approve-fortnite/) - Time not found
-- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - Time not found
-- [Build, don’t bind: Accel’s Sonali De Rycker on Europe’s AI crossroads](https://techcrunch.com/2025/05/16/build-dont-bind-accels-sonali-de-rycker-on-europes-ai-crossroads/) - Time not found
+- [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
+- [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
+- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
+- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
+- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
+- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
+- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
