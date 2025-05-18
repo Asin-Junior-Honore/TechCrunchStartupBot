@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - 21 hours ago
+- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - 1 day ago
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - 2 days ago
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - 2 days ago
 - [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/) - 2 days ago
@@ -18,9 +18,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 3 days ago
 - [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 4 days ago
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 4 days ago
-- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - 5 days ago
-- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - 5 days ago
-- [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - 5 days ago
+- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - May 13, 2025
+- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - May 13, 2025
+- [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - May 13, 2025
 - [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/) - May 13, 2025
 - [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - May 13, 2025
 - [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/) - May 13, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - May 9, 2025
 - [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - May 9, 2025
 - [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - May 9, 2025
+- [Heybike’s Alpha step-through e-bike is an affordable, all-terrain dreamboat](https://techcrunch.com/2025/05/18/heybikes-alpha-step-through-e-bike-is-an-affordable-all-terrain-dreamboat/) - Time not found
+- [U.S. lawmakers have concerns about Apple-Alibaba deal](https://techcrunch.com/2025/05/18/u-s-lawmakers-have-concerns-about-apple-alibaba-deal/) - Time not found
 - [Microsoft’s Satya Nadella is choosing chatbots over podcasts](https://techcrunch.com/2025/05/17/microsofts-satya-nadella-is-choosing-chatbots-over-podcasts/) - Time not found
 - [MIT disavows doctoral student paper on AI’s productivity benefits](https://techcrunch.com/2025/05/17/mit-disavows-doctoral-students-paper-on-ai-productivity-benefits/) - Time not found
 - [Laser-powered fusion experiment more than doubles its power output](https://techcrunch.com/2025/05/17/laser-powered-fusion-experiment-more-than-doubles-its-power-output/) - Time not found
 - [TechCrunch Week in Review: Coinbase gets hacked](https://techcrunch.com/2025/05/17/techcrunch-week-in-review-coinbase-gets-hacked/) - Time not found
 - [Epic Games asks judge to force Apple to approve Fortnite](https://techcrunch.com/2025/05/17/epic-games-asks-judge-to-force-apple-to-approve-fortnite/) - Time not found
-- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - Time not found
-- [Build, don’t bind: Accel’s Sonali De Rycker on Europe’s AI crossroads](https://techcrunch.com/2025/05/16/build-dont-bind-accels-sonali-de-rycker-on-europes-ai-crossroads/) - Time not found
 - [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/) - May 9, 2025
 - [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/) - May 9, 2025
 - [Startups Weekly: Different paths on the road to liquidity](https://techcrunch.com/2025/05/09/startups-weekly-different-paths-on-the-road-to-liquidity/) - May 9, 2025
