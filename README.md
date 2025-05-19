@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - 3 hours ago
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - 2 days ago
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - 3 days ago
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - 3 days ago
 - [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/) - 3 days ago
 - [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/) - 3 days ago
 - [Is $1 billion a lot of money these days?](https://techcrunch.com/podcast/is-1-billion-a-lot-of-money-these-days/) - 3 days ago
-- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 3 days ago
-- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 3 days ago
+- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 4 days ago
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 4 days ago
 - [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 4 days ago
 - [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 4 days ago
 - [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 4 days ago
 - [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 4 days ago
-- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 5 days ago
+- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - May 14, 2025
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - May 14, 2025
 - [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - May 13, 2025
 - [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - May 13, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - May 10, 2025
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - May 9, 2025
 - [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - May 9, 2025
+- [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - Time not found
+- [Uber eyes B2B logistics push in India through state-backed open commerce network](https://techcrunch.com/2025/05/19/uber-eyes-b2b-logistics-push-in-india-through-state-backed-open-commerce-network/) - Time not found
+- [VUZ gets $12M for its immersive video experiences across emerging markets and the U.S.](https://techcrunch.com/2025/05/18/vuz-gets-12m-to-scale-immersive-video-experiences-across-emerging-markets-and-the-u-s/) - Time not found
+- [Crypto elite increasingly worried about their personal safety](https://techcrunch.com/2025/05/18/crypto-elite-increasingly-worried-about-their-personal-safety/) - Time not found
+- [Grok says it’s ‘skeptical’ about Holocaust death toll, then blames ‘programming error’](https://techcrunch.com/2025/05/18/grok-says-its-skeptical-about-holocaust-death-toll-then-blames-programming-error/) - Time not found
+- [Heybike’s Alpha step-through e-bike is an affordable, all-terrain dreamboat](https://techcrunch.com/2025/05/18/heybikes-alpha-step-through-e-bike-is-an-affordable-all-terrain-dreamboat/) - Time not found
+- [U.S. lawmakers have concerns about Apple-Alibaba deal](https://techcrunch.com/2025/05/18/u-s-lawmakers-have-concerns-about-apple-alibaba-deal/) - Time not found
 - [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - May 9, 2025
-- [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
-- [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
-- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/) - Time not found
-- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
-- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
-- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
-- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
 - [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/) - May 9, 2025
 - [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/) - May 9, 2025
 - [Startups Weekly: Different paths on the road to liquidity](https://techcrunch.com/2025/05/09/startups-weekly-different-paths-on-the-road-to-liquidity/) - May 9, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - May 5, 2025
 - [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/) - May 5, 2025
 - [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/) - May 5, 2025
-- [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - May 5, 2025
 - [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
 - [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
 - [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/) - Time not found
