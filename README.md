@@ -15,9 +15,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 3 days ago
 - [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 3 days ago
 - [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 3 days ago
-- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 3 days ago
+- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - 4 days ago
 - [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - 4 days ago
-- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 4 days ago
+- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - 5 days ago
 - [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - May 13, 2025
 - [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - May 13, 2025
 - [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - May 13, 2025
@@ -36,10 +36,10 @@ Here are the latest articles from TechCrunch Startups:
 - [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - May 9, 2025
 - [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
 - [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
+- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/) - Time not found
 - [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
 - [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
-- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
-- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
+- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
 - [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
 - [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/) - May 9, 2025
 - [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/) - May 9, 2025
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [A new startup called Bono aims to modernize the way people donate to charities ](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/) - May 5, 2025
 - [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
 - [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
+- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/) - Time not found
 - [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
 - [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
-- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/) - Time not found
-- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/) - Time not found
+- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - Time not found
 - [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
