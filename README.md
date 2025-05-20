@@ -4,20 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sylndr, with fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 4 hours ago
-- [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/) - 18 hours ago
-- [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - 22 hours ago
+- [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - 12 minutes ago
+- [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - 1 hour ago
+- [Sylndr, with fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 8 hours ago
+- [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/) - 22 hours ago
+- [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - 1 day ago
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - 3 days ago
-- [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - 3 days ago
+- [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - 4 days ago
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - 4 days ago
 - [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/) - 4 days ago
 - [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/) - 4 days ago
 - [Is $1 billion a lot of money these days?](https://techcrunch.com/podcast/is-1-billion-a-lot-of-money-these-days/) - 4 days ago
-- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 4 days ago
-- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 4 days ago
-- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - 5 days ago
-- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 5 days ago
-- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - 5 days ago
+- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - 5 days ago
+- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - 5 days ago
+- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - May 15, 2025
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - May 15, 2025
+- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - May 15, 2025
 - [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - May 15, 2025
 - [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - May 14, 2025
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - May 14, 2025
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - May 12, 2025
 - [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - May 11, 2025
 - [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/) - May 10, 2025
-- [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - May 10, 2025
-- [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - May 10, 2025
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - Time not found
 - [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
 - [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
 - [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
 - [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
+- [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - May 10, 2025
+- [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - May 10, 2025
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - May 9, 2025
 - [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - May 9, 2025
 - [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - May 9, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/) - May 6, 2025
 - [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/) - May 5, 2025
 - [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/) - May 5, 2025
-- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/) - May 5, 2025
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - May 5, 2025
-- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - Time not found
-- [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/) - Time not found
-- [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/) - Time not found
-- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/) - Time not found
-- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/) - Time not found
-- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/) - Time not found
-- [InventWood is about to mass-produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/) - Time not found
+- [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - Time not found
+- [In a good sign for consumer internet startups, Creator Ventures raises $45M](https://techcrunch.com/2025/05/20/in-a-good-sign-for-consumer-internet-startups-creator-ventures-raises-45m/) - Time not found
+- [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - Time not found
+- [Monzo’s pivot from cool to corporate: ‘freshness is not about gimmicks’](https://techcrunch.com/2025/05/19/monzos-pivot-from-cool-to-corporate-freshness-is-not-about-gimmicks/) - Time not found
+- [Sylndr, with fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - Time not found
+- [Waymo gets OK to expand robotaxi service into more of Silicon Valley](https://techcrunch.com/2025/05/19/waymo-gets-ok-to-expand-robotaxi-service-into-more-of-silicon-valley/) - Time not found
+- [Klarna’s revenue per employee soars to nearly $1M thanks to AI efficiency push](https://techcrunch.com/2025/05/19/klarnas-revenue-per-employee-soars-to-nearly-1m-thanks-to-ai-efficiency-push/) - Time not found
