@@ -4,29 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Host a tailored Side Event at TechCrunch All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 1 hour ago
-- [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - 5 hours ago
-- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 5 hours ago
-- [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - 7 hours ago
-- [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - 8 hours ago
-- [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/) - 9 hours ago
-- [Volunteer at TechCrunch All Stage in Boston](https://techcrunch.com/2025/05/20/volunteer-at-techcrunch-all-stage-in-boston/) - 10 hours ago
-- [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - 10 hours ago
-- [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/) - 11 hours ago
-- [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/) - 11 hours ago
-- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - 12 hours ago
-- [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - 12 hours ago
-- [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - 13 hours ago
-- [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - 14 hours ago
-- [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 21 hours ago
-- [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/) - 1 day ago
+- [Host a tailored Side Event at TechCrunch All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 4 hours ago
+- [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - 8 hours ago
+- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 9 hours ago
+- [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - 10 hours ago
+- [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - 11 hours ago
+- [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/) - 13 hours ago
+- [Volunteer at TechCrunch All Stage in Boston](https://techcrunch.com/2025/05/20/volunteer-at-techcrunch-all-stage-in-boston/) - 13 hours ago
+- [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - 14 hours ago
+- [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/) - 14 hours ago
+- [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/) - 15 hours ago
+- [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - 15 hours ago
+- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - 15 hours ago
+- [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - 16 hours ago
+- [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - 17 hours ago
+- [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 1 day ago
+- [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/) - 2 days ago
 - [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - 2 days ago
-- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - 3 days ago
+- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - 4 days ago
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - 4 days ago
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - 4 days ago
 - [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/) - 4 days ago
-- [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/) - 4 days ago
-- [Is $1 billion a lot of money these days?](https://techcrunch.com/podcast/is-1-billion-a-lot-of-money-these-days/) - 4 days ago
+- [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/) - 5 days ago
+- [Is $1 billion a lot of money these days?](https://techcrunch.com/podcast/is-1-billion-a-lot-of-money-these-days/) - 5 days ago
 - [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - May 15, 2025
 - [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - May 15, 2025
 - [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - May 15, 2025
