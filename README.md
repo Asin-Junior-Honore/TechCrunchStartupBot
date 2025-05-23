@@ -4,24 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - 12 hours ago
-- [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - 13 hours ago
-- [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - 13 hours ago
-- [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - 14 hours ago
+- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - 17 hours ago
+- [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - 17 hours ago
+- [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - 17 hours ago
+- [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - 18 hours ago
 - [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - 1 day ago
 - [Serve is betting that food delivery and access to public markets are the keys to scaling robotics](https://techcrunch.com/podcast/serve-is-betting-that-food-delivery-and-access-to-public-markets-are-the-keys-to-scaling-robotics/) - 1 day ago
-- [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) - 1 day ago
-- [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/) - 1 day ago
-- [Meta launches program to encourage startups to use its Llama AI models](https://techcrunch.com/2025/05/21/meta-launches-program-to-encourage-startups-to-use-its-llama-ai-models/) - 1 day ago
-- [Siro lands $50M to expand its AI-powered coaching for sales reps](https://techcrunch.com/2025/05/21/siro-lands-50m-from-signalfire-to-expand-its-ai-powered-coaching-solution-for-on-ground-sales-reps/) - 1 day ago
+- [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) - 2 days ago
+- [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/) - 2 days ago
+- [Meta launches program to encourage startups to use its Llama AI models](https://techcrunch.com/2025/05/21/meta-launches-program-to-encourage-startups-to-use-its-llama-ai-models/) - 2 days ago
+- [Siro lands $50M to expand its AI-powered coaching for sales reps](https://techcrunch.com/2025/05/21/siro-lands-50m-from-signalfire-to-expand-its-ai-powered-coaching-solution-for-on-ground-sales-reps/) - 2 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/21/tech-layoffs-2025-list/) - 2 days ago
 - [Einride founder steps down as CEO amid push to scale electric, autonomous trucks](https://techcrunch.com/2025/05/21/einride-founder-steps-down-as-ceo-amid-push-to-scale-electric-autonomous-trucks/) - 2 days ago
 - [TechCrunch Disrupt 2025 Early Bird savings end on May 25](https://techcrunch.com/2025/05/21/techcrunch-disrupt-2025-early-bird-savings-end-on-may-25/) - 2 days ago
 - [Host a tailored Side Event at TechCrunch All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - 2 days ago
-- [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - 2 days ago
-- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 2 days ago
-- [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - 2 days ago
-- [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - 2 days ago
+- [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - 3 days ago
+- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - 3 days ago
+- [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - 3 days ago
+- [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - 3 days ago
 - [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/) - 3 days ago
 - [Volunteer at TechCrunch All Stage in Boston](https://techcrunch.com/2025/05/20/volunteer-at-techcrunch-all-stage-in-boston/) - 3 days ago
 - [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - 3 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 3 days ago
 - [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/) - 4 days ago
 - [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - 4 days ago
+- [After Klarna, Zoom’s CEO also uses an AI avatar on quarterly call](https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/) - Time not found
 - [Anthropic CEO claims AI models hallucinate less than humans](https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/) - Time not found
 - [Hinge Health pops 17%, but joins growing ranks of down-round IPOs](https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/) - Time not found
 - [Klarna CEO and Sutter Hill take victory lap after Jony Ive’s OpenAI deal](https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/) - Time not found
 - [Bluesky will begin verifying ‘notable’ users](https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/) - Time not found
 - [Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji](https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/) - Time not found
 - [Tinder CEO to step down in July](https://techcrunch.com/2025/05/22/tinder-ceo-to-step-down-in-july/) - Time not found
-- [Senate votes to revoke California’s ability to set air pollution standards](https://techcrunch.com/2025/05/22/senate-votes-to-revoke-californias-ability-to-set-air-pollution-standards/) - Time not found
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - May 17, 2025
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - May 16, 2025
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - May 16, 2025
