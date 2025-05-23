@@ -4,11 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - 20 hours ago
-- [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - 21 hours ago
-- [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - 21 hours ago
-- [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - 1 day ago
+- [OpenAI goes all in with Jony Ive as Google plays AI catchup](https://techcrunch.com/podcast/openai-goes-all-in-with-jony-ive-as-google-plays-ai-catchup/) - 13 minutes ago
+- [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/) - 2 hours ago
+- [Founders First: Iliana Quinonez of Google Cloud on AI agents, infrastructure, and democratization at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/23/founders-first-iliana-quinonez-of-google-cloud-on-ai-agents-infrastructure-and-democratization-at-techcrunch-sessions-ai/) - 2 hours ago
+- [Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/) - 2 hours ago
+- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - 1 day ago
+- [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - 1 day ago
+- [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - 1 day ago
+- [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - 2 days ago
 - [Serve is betting that food delivery and access to public markets are the keys to scaling robotics](https://techcrunch.com/podcast/serve-is-betting-that-food-delivery-and-access-to-public-markets-are-the-keys-to-scaling-robotics/) - 2 days ago
 - [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) - 2 days ago
 - [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/) - 2 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - 3 days ago
 - [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - 3 days ago
 - [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - 3 days ago
+- [Discord seeks to solve a problem that it created](https://techcrunch.com/2025/05/23/discord-seeks-to-solve-a-problem-that-it-created/) - Time not found
+- [OpenAI goes all in with Jony Ive as Google plays AI catchup](https://techcrunch.com/podcast/openai-goes-all-in-with-jony-ive-as-google-plays-ai-catchup/) - Time not found
+- [Digg founder Kevin Rose offers to buy Pocket from Mozilla](https://techcrunch.com/2025/05/23/digg-founder-kevin-rose-offers-to-buy-pocket-from-mozilla/) - Time not found
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/05/23/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
+- [California prepares to sue feds after Senate revokes the state’s EV rule](https://techcrunch.com/2025/05/23/california-prepares-to-sue-feds-after-senate-revokes-the-states-ev-rule/) - Time not found
+- [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/) - Time not found
+- [X continues to suffer bugs following Thursday outage](https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/) - Time not found
 - [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - 3 days ago
-- [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 3 days ago
+- [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - 4 days ago
 - [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/) - 4 days ago
 - [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - 4 days ago
-- [Mysterious hacking group Careto was run by the Spanish government, sources say](https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/) - Time not found
-- [After Klarna, Zoom’s CEO also uses an AI avatar on quarterly call](https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/) - Time not found
-- [Anthropic CEO claims AI models hallucinate less than humans](https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/) - Time not found
-- [Hinge Health pops 17%, but joins growing ranks of down-round IPOs](https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/) - Time not found
-- [Klarna CEO and Sutter Hill take victory lap after Jony Ive’s OpenAI deal](https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/) - Time not found
-- [Bluesky will begin verifying ‘notable’ users](https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/) - Time not found
-- [Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji](https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/) - Time not found
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - May 17, 2025
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - May 16, 2025
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - May 16, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - May 10, 2025
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - May 10, 2025
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/) - May 9, 2025
-- [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/) - May 9, 2025
-- [The US is reviewing Benchmark’s investment into Chinese AI startup Manus ](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/) - May 9, 2025
-- [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/) - May 9, 2025
-- [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/) - May 9, 2025
-- [After Klarna, Zoom’s CEO also uses an AI avatar on quarterly call](https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/) - Time not found
-- [Anthropic CEO claims AI models hallucinate less than humans](https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/) - Time not found
-- [Hinge Health pops 17%, but joins growing ranks of down-round IPOs](https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/) - Time not found
-- [Klarna CEO and Sutter Hill take victory lap after Jony Ive’s OpenAI deal](https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/) - Time not found
-- [Bluesky will begin verifying ‘notable’ users](https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/) - Time not found
-- [Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji](https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/) - Time not found
-- [Tinder CEO to step down in July](https://techcrunch.com/2025/05/22/tinder-ceo-to-step-down-in-july/) - Time not found
+- [Discord seeks to solve a problem that it created](https://techcrunch.com/2025/05/23/discord-seeks-to-solve-a-problem-that-it-created/) - Time not found
+- [OpenAI goes all in with Jony Ive as Google plays AI catchup](https://techcrunch.com/podcast/openai-goes-all-in-with-jony-ive-as-google-plays-ai-catchup/) - Time not found
+- [Digg founder Kevin Rose offers to buy Pocket from Mozilla](https://techcrunch.com/2025/05/23/digg-founder-kevin-rose-offers-to-buy-pocket-from-mozilla/) - Time not found
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/05/23/chatgpt-everything-to-know-about-the-ai-chatbot/) - Time not found
+- [California prepares to sue feds after Senate revokes the state’s EV rule](https://techcrunch.com/2025/05/23/california-prepares-to-sue-feds-after-senate-revokes-the-states-ev-rule/) - Time not found
+- [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/) - Time not found
+- [X continues to suffer bugs following Thursday outage](https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/) - Time not found
