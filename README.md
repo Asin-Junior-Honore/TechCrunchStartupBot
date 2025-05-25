@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Congressman is investigating fintech Ramp’s attempt to win $25M federal contract](https://techcrunch.com/2025/05/12/congressman-is-investigating-fintech-ramps-attempt-to-win-25m-federal-contract/) - May 12, 2025
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/) - May 12, 2025
 - [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/) - May 11, 2025
+- [Why a new anti-revenge porn law has free speech experts alarmed ](https://techcrunch.com/2025/05/24/why-a-new-anti-revenge-porn-law-has-free-speech-experts-alarmed/) - Time not found
 - [Week in Review: Notorious hacking group tied to the Spanish government](https://techcrunch.com/2025/05/24/notorious-hacking-group-tied-to-the-spanish-government/) - Time not found
 - [Naukri exposed recruiter email addresses, researcher says](https://techcrunch.com/2025/05/23/naukri-exposed-recruiter-email-addresses-researcher-says/) - Time not found
 - [Khosla Ventures among VCs experimenting with AI-infused roll-ups of mature companies](https://techcrunch.com/2025/05/23/khosla-ventures-among-vcs-experimenting-with-ai-infused-roll-ups-of-mature-companies/) - Time not found
 - [Zoox issues second robotaxi software recall in a month following collision ](https://techcrunch.com/2025/05/23/zoox-issues-second-robotaxi-software-recall-in-a-month-following-collision/) - Time not found
 - [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - Time not found
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - Time not found
-- [Apple CEO reportedly urged Texas’ governor to ditch online child safety bill](https://techcrunch.com/2025/05/23/apple-ceo-reportedly-urged-texas-governor-to-ditch-online-child-safety-bill/) - Time not found
