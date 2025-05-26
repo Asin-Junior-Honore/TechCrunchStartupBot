@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 2 hours ago
-- [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 2 hours ago
-- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 6 hours ago
+- [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 6 hours ago
+- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 6 hours ago
 - [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - 1 day ago
 - [Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - 1 day ago
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - 1 day ago
@@ -22,7 +22,7 @@ Here are the latest articles from TechCrunch Startups:
 - [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - 4 days ago
 - [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - 4 days ago
 - [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - 5 days ago
+- [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - May 21, 2025
 - [Serve is betting that food delivery and access to public markets are the keys to scaling robotics](https://techcrunch.com/podcast/serve-is-betting-that-food-delivery-and-access-to-public-markets-are-the-keys-to-scaling-robotics/) - May 21, 2025
 - [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) - May 21, 2025
 - [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/) - May 21, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Host a tailored Side Event at TechCrunch All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - May 20, 2025
 - [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - May 20, 2025
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - May 20, 2025
+- [Four VW execs found guilty in trial that transformed Europe’s auto market](https://techcrunch.com/2025/05/26/four-vw-execs-found-guilty-in-trial-that-transformed-europes-auto-market/) - Time not found
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - Time not found
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - Time not found
 - [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - Time not found
 - [Tesla opened Cybertruck trade-ins, and the numbers aren’t pretty](https://techcrunch.com/2025/05/25/tesla-opened-cybertruck-trade-ins-and-the-numbers-arent-pretty/) - Time not found
 - [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/) - Time not found
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - Time not found
-- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - Time not found
 - [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - May 20, 2025
 - [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
 - [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
