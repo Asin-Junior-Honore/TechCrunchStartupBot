@@ -4,24 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 13 hours ago
-- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 14 hours ago
-- [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 14 hours ago
+- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 60 minutes ago
+- [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 17 hours ago
+- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 18 hours ago
+- [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 18 hours ago
 - [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - 2 days ago
 - [Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - 2 days ago
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - 2 days ago
-- [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - 3 days ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 3 days ago
-- [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/) - 3 days ago
-- [Startups Weekly: Cutting through Google I/O noise](https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/) - 3 days ago
-- [OpenAI goes all in with Jony Ive as Google plays AI catchup](https://techcrunch.com/podcast/openai-goes-all-in-with-jony-ive-as-google-plays-ai-catchup/) - 3 days ago
+- [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - 4 days ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 4 days ago
+- [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/) - 4 days ago
+- [Startups Weekly: Cutting through Google I/O noise](https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/) - 4 days ago
+- [OpenAI goes all in with Jony Ive as Google plays AI catchup](https://techcrunch.com/podcast/openai-goes-all-in-with-jony-ive-as-google-plays-ai-catchup/) - 4 days ago
 - [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/) - 4 days ago
 - [Founders First: Iliana Quinonez of Google Cloud on AI agents, infrastructure, and democratization at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/23/founders-first-iliana-quinonez-of-google-cloud-on-ai-agents-infrastructure-and-democratization-at-techcrunch-sessions-ai/) - 4 days ago
 - [Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/) - 4 days ago
-- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - 4 days ago
+- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - 5 days ago
 - [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - 5 days ago
 - [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - 5 days ago
-- [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - 5 days ago
+- [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - May 22, 2025
 - [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - May 21, 2025
 - [Serve is betting that food delivery and access to public markets are the keys to scaling robotics](https://techcrunch.com/podcast/serve-is-betting-that-food-delivery-and-access-to-public-markets-are-the-keys-to-scaling-robotics/) - May 21, 2025
 - [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) - May 21, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025 Early Bird savings end on May 25](https://techcrunch.com/2025/05/21/techcrunch-disrupt-2025-early-bird-savings-end-on-may-25/) - May 21, 2025
 - [Host a tailored Side Event at TechCrunch All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - May 20, 2025
 - [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - May 20, 2025
-- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - May 20, 2025
+- [The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot](https://techcrunch.com/2025/05/27/the-browser-company-mulls-selling-or-open-sourcing-arc-browser-amid-ai-focused-pivot/) - Time not found
+- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - Time not found
+- [Why landing your first tech job is way harder than you expected](https://techcrunch.com/2025/05/26/why-landing-your-first-tech-job-is-way-harder-than-you-expected/) - Time not found
 - [Four VW execs found guilty in trial that transformed Europe’s auto market](https://techcrunch.com/2025/05/26/four-vw-execs-found-guilty-in-trial-that-transformed-europes-auto-market/) - Time not found
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - Time not found
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - Time not found
 - [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - Time not found
-- [Tesla opened Cybertruck trade-ins, and the numbers aren’t pretty](https://techcrunch.com/2025/05/25/tesla-opened-cybertruck-trade-ins-and-the-numbers-arent-pretty/) - Time not found
-- [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/) - Time not found
-- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - Time not found
+- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - May 20, 2025
 - [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - May 20, 2025
 - [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
 - [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
@@ -48,8 +49,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - May 20, 2025
 - [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
 - [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/) - May 20, 2025
-- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - May 20, 2025
 - [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - May 20, 2025
+- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - May 20, 2025
 - [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - May 20, 2025
 - [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - May 20, 2025
 - [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - May 19, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/) - May 14, 2025
 - [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/) - May 13, 2025
 - [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/) - May 13, 2025
-- [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/) - May 13, 2025
+- [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/) - Time not found
+- [The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot](https://techcrunch.com/2025/05/27/the-browser-company-mulls-selling-or-open-sourcing-arc-browser-amid-ai-focused-pivot/) - Time not found
+- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - Time not found
+- [Why landing your first tech job is way harder than you expected](https://techcrunch.com/2025/05/26/why-landing-your-first-tech-job-is-way-harder-than-you-expected/) - Time not found
 - [Four VW execs found guilty in trial that transformed Europe’s auto market](https://techcrunch.com/2025/05/26/four-vw-execs-found-guilty-in-trial-that-transformed-europes-auto-market/) - Time not found
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - Time not found
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - Time not found
-- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - Time not found
-- [Tesla opened Cybertruck trade-ins, and the numbers aren’t pretty](https://techcrunch.com/2025/05/25/tesla-opened-cybertruck-trade-ins-and-the-numbers-arent-pretty/) - Time not found
-- [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/) - Time not found
-- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - Time not found
