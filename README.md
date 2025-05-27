@@ -4,16 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 2 hours ago
-- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 2 hours ago
-- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 2 hours ago
-- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 9 hours ago
+- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 2 hours ago
+- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 6 hours ago
+- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 6 hours ago
+- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 6 hours ago
+- [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/) - 12 hours ago
+- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 13 hours ago
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 1 day ago
-- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 1 day ago
-- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - 2 days ago
-- [Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - 2 days ago
+- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - 2 days ago
+- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - 2 days ago
+- [Last 24 hours: TechCrunch Disrupt 2025 Early Bird deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - 2 days ago
 - [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - 4 days ago
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 4 days ago
 - [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/) - 4 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/) - May 21, 2025
 - [Meta launches program to encourage startups to use its Llama AI models](https://techcrunch.com/2025/05/21/meta-launches-program-to-encourage-startups-to-use-its-llama-ai-models/) - May 21, 2025
 - [Siro lands $50M to expand its AI-powered coaching for sales reps](https://techcrunch.com/2025/05/21/siro-lands-50m-from-signalfire-to-expand-its-ai-powered-coaching-solution-for-on-ground-sales-reps/) - May 21, 2025
+- [Texas signs into law online saftey bill reportedly opposed by Apple’s Tim Cook](https://techcrunch.com/2025/05/27/texas-signs-into-law-online-saftey-bill-reportedly-opposed-by-apples-tim-cook/) - Time not found
+- [Rivr’s dog-like robots join Veho vans to solve ‘last-100-yards’ parcel delivery in Austin](https://techcrunch.com/2025/05/27/veho-is-piloting-rivrs-dog-like-robots-for-last-100-yards-parcel-delivery-in-austin/) - Time not found
+- [Meta reportedly splits its AI team to build products faster](https://techcrunch.com/2025/05/27/meta-reportedly-splits-its-ai-team-to-build-products-faster/) - Time not found
+- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - Time not found
+- [WordPress has formed an AI team](https://techcrunch.com/2025/05/27/wordpress-has-formed-an-ai-team/) - Time not found
+- [Report: TuSimple sent sensitive self-driving data to China after US national security agreement](https://techcrunch.com/2025/05/27/report-tusimple-sent-sensitive-self-driving-data-to-china-after-us-national-security-agreement/) - Time not found
+- [Salesforce acquires Informatica for $8 billion](https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/21/tech-layoffs-2025-list/) - May 21, 2025
 - [Einride founder steps down as CEO amid push to scale electric, autonomous trucks](https://techcrunch.com/2025/05/21/einride-founder-steps-down-as-ceo-amid-push-to-scale-electric-autonomous-trucks/) - May 21, 2025
-- [Salesforce acquires Informatica for $8 billion](https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/) - Time not found
-- [Tesla loses more ground in Europe, while BYD makes gains](https://techcrunch.com/2025/05/27/tesla-loses-more-ground-in-europe-while-byd-makes-gains/) - Time not found
-- [YouTube tops Disney and Netflix in TV viewing, Nielsen finds](https://techcrunch.com/2025/05/27/youtube-tops-disney-and-netflix-in-tv-viewing-nielsen-finds/) - Time not found
-- [WhatsApp launches long-awaited iPad app](https://techcrunch.com/2025/05/27/whatsapp-launches-long-awaited-ipad-app/) - Time not found
-- [Ahead of WWDC, Apple says App Store blocked $2B in fraud transactions last year, $9B in past 5 years](https://techcrunch.com/2025/05/27/ahead-of-wwdc-apple-says-app-store-blocked-2b-in-fraud-transactions-last-year-9b-in-past-5-years/) - Time not found
-- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - Time not found
-- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - Time not found
 - [TechCrunch Disrupt 2025 Early Bird savings end on May 25](https://techcrunch.com/2025/05/21/techcrunch-disrupt-2025-early-bird-savings-end-on-may-25/) - May 21, 2025
 - [Host a tailored Side Event at TechCrunch All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/) - May 20, 2025
 - [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - May 20, 2025
@@ -52,8 +54,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - May 20, 2025
 - [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
 - [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/) - May 20, 2025
-- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - May 20, 2025
 - [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - May 20, 2025
+- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - May 20, 2025
 - [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - May 20, 2025
 - [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - May 20, 2025
 - [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - May 19, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - May 15, 2025
 - [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - May 15, 2025
 - [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/) - May 15, 2025
-- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/) - May 15, 2025
-- [Unpacking Rippling vs Deel: corporate espionage and a $16.8B plot twist](https://techcrunch.com/podcast/unpacking-rippling-vs-deel-corporate-espionage-and-a-16-8b-plot-twist/) - May 14, 2025
+- [Texas signs into law online saftey bill reportedly opposed by Apple’s Tim Cook](https://techcrunch.com/2025/05/27/texas-signs-into-law-online-saftey-bill-reportedly-opposed-by-apples-tim-cook/) - Time not found
+- [Rivr’s dog-like robots join Veho vans to solve ‘last-100-yards’ parcel delivery in Austin](https://techcrunch.com/2025/05/27/veho-is-piloting-rivrs-dog-like-robots-for-last-100-yards-parcel-delivery-in-austin/) - Time not found
+- [Meta reportedly splits its AI team to build products faster](https://techcrunch.com/2025/05/27/meta-reportedly-splits-its-ai-team-to-build-products-faster/) - Time not found
+- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - Time not found
+- [WordPress has formed an AI team](https://techcrunch.com/2025/05/27/wordpress-has-formed-an-ai-team/) - Time not found
+- [Report: TuSimple sent sensitive self-driving data to China after US national security agreement](https://techcrunch.com/2025/05/27/report-tusimple-sent-sensitive-self-driving-data-to-china-after-us-national-security-agreement/) - Time not found
 - [Salesforce acquires Informatica for $8 billion](https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/) - Time not found
-- [Tesla loses more ground in Europe, while BYD makes gains](https://techcrunch.com/2025/05/27/tesla-loses-more-ground-in-europe-while-byd-makes-gains/) - Time not found
-- [YouTube tops Disney and Netflix in TV viewing, Nielsen finds](https://techcrunch.com/2025/05/27/youtube-tops-disney-and-netflix-in-tv-viewing-nielsen-finds/) - Time not found
-- [WhatsApp launches long-awaited iPad app](https://techcrunch.com/2025/05/27/whatsapp-launches-long-awaited-ipad-app/) - Time not found
-- [Ahead of WWDC, Apple says App Store blocked $2B in fraud transactions last year, $9B in past 5 years](https://techcrunch.com/2025/05/27/ahead-of-wwdc-apple-says-app-store-blocked-2b-in-fraud-transactions-last-year-9b-in-past-5-years/) - Time not found
-- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - Time not found
-- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - Time not found
