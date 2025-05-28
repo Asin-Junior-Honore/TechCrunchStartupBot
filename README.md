@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [What founders need to know about tech’s growing influence in D.C.](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 3 minutes ago
-- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 5 minutes ago
-- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 22 minutes ago
-- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 2 hours ago
-- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 2 hours ago
-- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 2 hours ago
-- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 6 hours ago
-- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 22 hours ago
+- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 56 minutes ago
+- [What founders need to know about tech’s growing influence in D.C.](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 4 hours ago
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 4 hours ago
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 4 hours ago
+- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 5 hours ago
+- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 6 hours ago
+- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 6 hours ago
+- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 10 hours ago
+- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 1 day ago
 - [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 1 day ago
 - [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 1 day ago
 - [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 1 day ago
 - [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/) - 1 day ago
-- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 1 day ago
+- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 2 days ago
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 2 days ago
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 2 days ago
 - [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/) - May 23, 2025
 - [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - May 22, 2025
 - [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - May 22, 2025
+- [Stellantis pivots to Google’s Android as in-car partnership with Amazon ends](https://techcrunch.com/2025/05/28/stellantis-pivots-to-googles-android-as-in-car-partnership-with-amazon-ends/) - Time not found
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/05/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/) - Time not found
+- [DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/) - Time not found
+- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - Time not found
+- [Odyssey’s new AI model streams 3D interactive worlds](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/) - Time not found
+- [Spotify amps up podcast discovery with new features](https://techcrunch.com/2025/05/28/spotify-amps-up-podcast-discovery-with-new-features/) - Time not found
+- [Google Photos debuts redesigned editor with new AI tools](https://techcrunch.com/2025/05/28/google-photos-debuts-redesigned-editor-with-new-ai-tools/) - Time not found
 - [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - May 22, 2025
-- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - Time not found
-- [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/) - Time not found
-- [Context gets $11M to build an AI-powered office suite](https://techcrunch.com/2025/05/28/context-gets-11m-to-build-an-ai-powered-office-suite/) - Time not found
-- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - Time not found
-- [Why export restrictions aren’t the only thing to pay attention to in Nvidia’s earnings](https://techcrunch.com/2025/05/28/why-export-restrictions-arent-the-only-thing-to-pay-attention-to-in-nvidias-earnings/) - Time not found
-- [Discord explores virtual rewards for its ad product as it prepares for a potential IPO](https://techcrunch.com/2025/05/28/discord-explores-virtual-rewards-for-its-ad-product-as-it-prepares-for-a-potential-ipo/) - Time not found
-- [With iOS 19 on the way, Apple looks toward mobile gaming](https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/) - Time not found
 - [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - May 22, 2025
 - [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - May 21, 2025
 - [Serve is betting that food delivery and access to public markets are the keys to scaling robotics](https://techcrunch.com/podcast/serve-is-betting-that-food-delivery-and-access-to-public-markets-are-the-keys-to-scaling-robotics/) - May 21, 2025
@@ -61,8 +62,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - May 20, 2025
 - [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
 - [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/) - May 20, 2025
-- [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - May 20, 2025
 - [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - May 20, 2025
+- [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/) - May 20, 2025
 - [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - May 20, 2025
 - [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - May 20, 2025
 - [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - May 19, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/) - May 19, 2025
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - May 17, 2025
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - May 16, 2025
-- [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - May 16, 2025
-- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - Time not found
-- [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/) - Time not found
-- [Context gets $11M to build an AI-powered office suite](https://techcrunch.com/2025/05/28/context-gets-11m-to-build-an-ai-powered-office-suite/) - Time not found
-- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - Time not found
-- [Why export restrictions aren’t the only thing to pay attention to in Nvidia’s earnings](https://techcrunch.com/2025/05/28/why-export-restrictions-arent-the-only-thing-to-pay-attention-to-in-nvidias-earnings/) - Time not found
-- [Discord explores virtual rewards for its ad product as it prepares for a potential IPO](https://techcrunch.com/2025/05/28/discord-explores-virtual-rewards-for-its-ad-product-as-it-prepares-for-a-potential-ipo/) - Time not found
-- [With iOS 19 on the way, Apple looks toward mobile gaming](https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/) - Time not found
+- [GameStop bought $500 million of Bitcoin](https://techcrunch.com/2025/05/28/gamestop-bought-500-million-of-bitcoin/) - Time not found
+- [Stellantis pivots to Google’s Android as in-car partnership with Amazon ends](https://techcrunch.com/2025/05/28/stellantis-pivots-to-googles-android-as-in-car-partnership-with-amazon-ends/) - Time not found
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/05/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/) - Time not found
+- [DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/) - Time not found
+- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - Time not found
+- [Odyssey’s new AI model streams 3D interactive worlds](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/) - Time not found
+- [Spotify amps up podcast discovery with new features](https://techcrunch.com/2025/05/28/spotify-amps-up-podcast-discovery-with-new-features/) - Time not found
