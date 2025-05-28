@@ -4,11 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 2 hours ago
-- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 18 hours ago
-- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 22 hours ago
-- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 22 hours ago
-- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 22 hours ago
+- [What founders need to know about tech’s growing influence in D.C.](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 3 minutes ago
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 5 minutes ago
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 22 minutes ago
+- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 2 hours ago
+- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 2 hours ago
+- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 2 hours ago
+- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 6 hours ago
+- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 22 hours ago
+- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 1 day ago
+- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 1 day ago
+- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 1 day ago
 - [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/) - 1 day ago
 - [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 1 day ago
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 2 days ago
@@ -28,19 +34,19 @@ Here are the latest articles from TechCrunch Startups:
 - [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - May 22, 2025
 - [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie ](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/) - May 22, 2025
 - [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/) - May 22, 2025
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - Time not found
+- [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/) - Time not found
+- [Context gets $11M to build an AI-powered office suite](https://techcrunch.com/2025/05/28/context-gets-11m-to-build-an-ai-powered-office-suite/) - Time not found
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - Time not found
+- [Why export restrictions aren’t the only thing to pay attention to in Nvidia’s earnings](https://techcrunch.com/2025/05/28/why-export-restrictions-arent-the-only-thing-to-pay-attention-to-in-nvidias-earnings/) - Time not found
+- [Discord explores virtual rewards for its ad product as it prepares for a potential IPO](https://techcrunch.com/2025/05/28/discord-explores-virtual-rewards-for-its-ad-product-as-it-prepares-for-a-potential-ipo/) - Time not found
+- [With iOS 19 on the way, Apple looks toward mobile gaming](https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/) - Time not found
 - [4 days left: Up to $900 off your ticket and 90% off for your plus-one at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/) - May 22, 2025
 - [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/) - May 21, 2025
 - [Serve is betting that food delivery and access to public markets are the keys to scaling robotics](https://techcrunch.com/podcast/serve-is-betting-that-food-delivery-and-access-to-public-markets-are-the-keys-to-scaling-robotics/) - May 21, 2025
 - [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) - May 21, 2025
 - [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/) - May 21, 2025
 - [Meta launches program to encourage startups to use its Llama AI models](https://techcrunch.com/2025/05/21/meta-launches-program-to-encourage-startups-to-use-its-llama-ai-models/) - May 21, 2025
-- [Elon Musk’s Neuralink raises $600M at $9B valuation](https://techcrunch.com/2025/05/28/elon-musks-neuralink-raises-600m-at-9b-valuation/) - Time not found
-- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - Time not found
-- [Opera’s new browser can code websites and games for you](https://techcrunch.com/2025/05/28/operas-new-browser-can-code-websites-and-games-for-you/) - Time not found
-- [Humain planning $10B VC fund to invest in US, European and Asian startups](https://techcrunch.com/2025/05/28/humain-planning-10b-vc-fund-to-invest-in-us-european-and-asian-startups/) - Time not found
-- [SpaceX’s ninth test flight of Starship launches into space, ends in a spin](https://techcrunch.com/2025/05/27/spacexs-ninth-test-flight-of-starship-launches-into-space-ends-in-a-spin/) - Time not found
-- [Anthropic launches a voice mode for Claude](https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/) - Time not found
-- [OpenAI may soon let you ‘sign in with ChatGPT’ for other apps](https://techcrunch.com/2025/05/27/openai-may-soon-let-you-sign-in-with-chatgpt-for-other-apps/) - Time not found
 - [Siro lands $50M to expand its AI-powered coaching for sales reps](https://techcrunch.com/2025/05/21/siro-lands-50m-from-signalfire-to-expand-its-ai-powered-coaching-solution-for-on-ground-sales-reps/) - May 21, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/21/tech-layoffs-2025-list/) - May 21, 2025
 - [Einride founder steps down as CEO amid push to scale electric, autonomous trucks](https://techcrunch.com/2025/05/21/einride-founder-steps-down-as-ceo-amid-push-to-scale-electric-autonomous-trucks/) - May 21, 2025
@@ -65,16 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/) - May 17, 2025
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/) - May 16, 2025
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/) - May 16, 2025
-- [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/) - May 16, 2025
-- [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/) - May 16, 2025
-- [Is $1 billion a lot of money these days?](https://techcrunch.com/podcast/is-1-billion-a-lot-of-money-these-days/) - May 16, 2025
-- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/) - May 15, 2025
-- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/) - May 15, 2025
-- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/) - May 15, 2025
-- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - Time not found
-- [Opera’s new browser can code websites and games for you](https://techcrunch.com/2025/05/28/operas-new-browser-can-code-websites-and-games-for-you/) - Time not found
-- [Humain planning $10B VC fund to invest in US, European and Asian startups](https://techcrunch.com/2025/05/28/humain-planning-10b-vc-fund-to-invest-in-us-european-and-asian-startups/) - Time not found
-- [SpaceX’s ninth test flight of Starship launches into space, ends in a spin](https://techcrunch.com/2025/05/27/spacexs-ninth-test-flight-of-starship-launches-into-space-ends-in-a-spin/) - Time not found
-- [Anthropic launches a voice mode for Claude](https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/) - Time not found
-- [OpenAI may soon let you ‘sign in with ChatGPT’ for other apps](https://techcrunch.com/2025/05/27/openai-may-soon-let-you-sign-in-with-chatgpt-for-other-apps/) - Time not found
-- [Read-it-later app Pocket is shutting down — here are the best alternatives](https://techcrunch.com/2025/05/27/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/) - Time not found
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - Time not found
+- [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/) - Time not found
+- [Context gets $11M to build an AI-powered office suite](https://techcrunch.com/2025/05/28/context-gets-11m-to-build-an-ai-powered-office-suite/) - Time not found
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - Time not found
+- [Why export restrictions aren’t the only thing to pay attention to in Nvidia’s earnings](https://techcrunch.com/2025/05/28/why-export-restrictions-arent-the-only-thing-to-pay-attention-to-in-nvidias-earnings/) - Time not found
+- [Discord explores virtual rewards for its ad product as it prepares for a potential IPO](https://techcrunch.com/2025/05/28/discord-explores-virtual-rewards-for-its-ad-product-as-it-prepares-for-a-potential-ipo/) - Time not found
+- [With iOS 19 on the way, Apple looks toward mobile gaming](https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/) - Time not found
