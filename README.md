@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - 1 hour ago
-- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - 1 hour ago
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 11 hours ago
-- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 15 hours ago
-- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 17 hours ago
-- [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 20 hours ago
-- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 20 hours ago
-- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 20 hours ago
-- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 22 hours ago
-- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 22 hours ago
-- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 22 hours ago
+- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - 2 hours ago
+- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - 5 hours ago
+- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - 5 hours ago
+- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 15 hours ago
+- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 19 hours ago
+- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 21 hours ago
+- [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 1 day ago
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 1 day ago
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 1 day ago
+- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 1 day ago
+- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 1 day ago
+- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 1 day ago
 - [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 1 day ago
 - [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 2 days ago
 - [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/) - May 23, 2025
 - [Startups Weekly: Cutting through Google I/O noise](https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/) - May 23, 2025
 - [OpenAI goes all in with Jony Ive as Google plays AI catchup](https://techcrunch.com/podcast/openai-goes-all-in-with-jony-ive-as-google-plays-ai-catchup/) - May 23, 2025
+- [Tesla pleads for Senate to spare its booming energy business](https://techcrunch.com/2025/05/29/tesla-pleads-for-senate-to-spare-its-booming-energy-business/) - Time not found
+- [Apple’s US App Store topped $400B in developer billings and sales in 2024](https://techcrunch.com/2025/05/29/apples-us-app-store-topped-400b-in-developer-billings-and-sales-in-2024/) - Time not found
+- [DeepSeek’s updated R1 AI model is more censored, test finds](https://techcrunch.com/2025/05/29/deepseeks-updated-r1-ai-model-is-more-censored-test-finds/) - Time not found
+- [A decade in, bootstrapped Thinkst Canary reaches $20M in ARR without VC funding](https://techcrunch.com/2025/05/29/a-decade-in-bootstrapped-thinkst-canary-reaches-20m-in-arr-without-vc-funding/) - Time not found
+- [Meta AI now has 1B monthly active users](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) - Time not found
+- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - Time not found
+- [Apple to change the way it names operating systems, report says](https://techcrunch.com/2025/05/29/apple-to-change-the-way-it-names-operating-systems-report-says/) - Time not found
 - [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/) - May 23, 2025
-- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - Time not found
-- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - Time not found
-- [X hits pause on its encrypted DMs feature](https://techcrunch.com/2025/05/29/x-hits-pause-on-its-encrypted-dms-feature/) - Time not found
-- [Elon Musk’s stint in the US government is coming to an end](https://techcrunch.com/2025/05/29/elon-musks-stint-in-the-us-government-is-coming-to-an-end/) - Time not found
-- [NVIDIA, AMD may soon start selling new AI chips in China to comply with US restrictions](https://techcrunch.com/2025/05/29/nvidia-amd-may-soon-start-selling-new-ai-chips-in-china-to-comply-with-us-restrictions/) - Time not found
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - Time not found
-- [Founder Sahil Lavingia says he was booted from DOGE after just 55 days ](https://techcrunch.com/2025/05/28/founder-sahil-lavingia-says-he-was-booted-from-doge-after-just-55-days/) - Time not found
 - [Founders First: Iliana Quinonez of Google Cloud on AI agents, infrastructure, and democratization at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/23/founders-first-iliana-quinonez-of-google-cloud-on-ai-agents-infrastructure-and-democratization-at-techcrunch-sessions-ai/) - May 23, 2025
 - [Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/) - May 23, 2025
 - [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/) - May 22, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/) - May 20, 2025
 - [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/) - May 20, 2025
 - [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/) - May 20, 2025
-- [Sylndr, with a fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/) - May 19, 2025
-- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - Time not found
-- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - Time not found
-- [X hits pause on its encrypted DMs feature](https://techcrunch.com/2025/05/29/x-hits-pause-on-its-encrypted-dms-feature/) - Time not found
-- [Elon Musk’s stint in the US government is coming to an end](https://techcrunch.com/2025/05/29/elon-musks-stint-in-the-us-government-is-coming-to-an-end/) - Time not found
-- [NVIDIA, AMD may soon start selling new AI chips in China to comply with US restrictions](https://techcrunch.com/2025/05/29/nvidia-amd-may-soon-start-selling-new-ai-chips-in-china-to-comply-with-us-restrictions/) - Time not found
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - Time not found
-- [Founder Sahil Lavingia says he was booted from DOGE after just 55 days ](https://techcrunch.com/2025/05/28/founder-sahil-lavingia-says-he-was-booted-from-doge-after-just-55-days/) - Time not found
+- [Tesla pleads for Senate to spare its booming energy business](https://techcrunch.com/2025/05/29/tesla-pleads-for-senate-to-spare-its-booming-energy-business/) - Time not found
+- [Apple’s US App Store topped $400B in developer billings and sales in 2024](https://techcrunch.com/2025/05/29/apples-us-app-store-topped-400b-in-developer-billings-and-sales-in-2024/) - Time not found
+- [DeepSeek’s updated R1 AI model is more censored, test finds](https://techcrunch.com/2025/05/29/deepseeks-updated-r1-ai-model-is-more-censored-test-finds/) - Time not found
+- [A decade in, bootstrapped Thinkst Canary reaches $20M in ARR without VC funding](https://techcrunch.com/2025/05/29/a-decade-in-bootstrapped-thinkst-canary-reaches-20m-in-arr-without-vc-funding/) - Time not found
+- [Meta AI now has 1B monthly active users](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) - Time not found
+- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - Time not found
+- [Apple to change the way it names operating systems, report says](https://techcrunch.com/2025/05/29/apple-to-change-the-way-it-names-operating-systems-report-says/) - Time not found
