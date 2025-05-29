@@ -4,28 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 19 minutes ago
-- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 4 hours ago
-- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 6 hours ago
-- [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 9 hours ago
-- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 9 hours ago
-- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 9 hours ago
-- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 11 hours ago
-- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 11 hours ago
-- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 11 hours ago
-- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 15 hours ago
+- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 3 hours ago
+- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 6 hours ago
+- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 9 hours ago
+- [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 12 hours ago
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 12 hours ago
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - 12 hours ago
+- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - 13 hours ago
+- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - 14 hours ago
+- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/) - 14 hours ago
+- [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/) - 18 hours ago
 - [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/) - 1 day ago
-- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 1 day ago
-- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 1 day ago
-- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 1 day ago
+- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/) - 2 days ago
+- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 2 days ago
+- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/) - 2 days ago
 - [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/) - 2 days ago
 - [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 2 days ago
-- [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 2 days ago
-- [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 2 days ago
-- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 2 days ago
-- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - 3 days ago
-- [Last 24 hours: TechCrunch Disrupt 2025 Early Bird deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - 3 days ago
-- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - 3 days ago
+- [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 3 days ago
+- [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 3 days ago
+- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - 4 days ago
+- [Last 24 hours: TechCrunch Disrupt 2025 Early Bird deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - 4 days ago
+- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - 4 days ago
 - [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - May 23, 2025
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - May 23, 2025
 - [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/) - May 23, 2025
