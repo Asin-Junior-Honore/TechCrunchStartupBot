@@ -4,16 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - 31 minutes ago
-- [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - 12 hours ago
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year Award](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - 15 hours ago
-- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - 16 hours ago
-- [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - 19 hours ago
-- [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - 19 hours ago
-- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - 23 hours ago
+- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - 2 hours ago
+- [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - 2 hours ago
+- [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - 2 hours ago
+- [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - 2 hours ago
+- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - 4 hours ago
+- [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - 16 hours ago
+- [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - 18 hours ago
+- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - 19 hours ago
+- [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - 22 hours ago
+- [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - 23 hours ago
+- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - 1 day ago
 - [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - 1 day ago
 - [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - 1 day ago
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 1 day ago
+- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 2 days ago
 - [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 2 days ago
 - [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 2 days ago
 - [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 2 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/) - 3 days ago
 - [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) - 3 days ago
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - 4 days ago
+- [White House investigating how Trump’s chief of staff’s phone was hacked](https://techcrunch.com/2025/05/30/white-house-investigating-how-trumps-chief-of-staffs-phone-was-hacked/) - Time not found
+- [X’s new DM feature, XChat, is rolling out in beta](https://techcrunch.com/2025/05/30/xs-new-dm-feature-xchat-is-rolling-out-in-beta/) - Time not found
+- [Gemini will now automatically summarize your long emails unless you opt out](https://techcrunch.com/2025/05/30/gemini-will-now-automatically-summarize-your-long-emails-unless-you-opt-out/) - Time not found
+- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - Time not found
+- [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - Time not found
+- [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - Time not found
+- [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - Time not found
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - 4 days ago
 - [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - May 25, 2025
 - [Last 24 hours: TechCrunch Disrupt 2025 Early Bird deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - May 25, 2025
-- [US imposes new rules to curb semiconductor design software sales to China](https://techcrunch.com/2025/05/30/us-imposes-new-rules-to-curb-semiconductor-design-software-sales-to-china/) - Time not found
-- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - Time not found
-- [Google fixes bug that led AI Overviews to say it’s now 2024](https://techcrunch.com/2025/05/30/google-fixes-bug-that-led-ai-overviews-to-say-its-now-2024/) - Time not found
-- [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - Time not found
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year Award](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - Time not found
-- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - Time not found
-- [Hugging Face unveils two new humanoid robots](https://techcrunch.com/2025/05/29/hugging-face-unveils-two-new-humanoid-robots/) - Time not found
 - [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - May 25, 2025
 - [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - May 23, 2025
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - May 23, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Last week: Exhibit your startup at TechCrunch Sessions AI ](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/) - May 20, 2025
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - May 20, 2025
 - [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/) - May 20, 2025
-- [TwelveLabs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
-- [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/) - May 20, 2025
-- [Volunteer at TechCrunch All Stage in Boston](https://techcrunch.com/2025/05/20/volunteer-at-techcrunch-all-stage-in-boston/) - May 20, 2025
-- [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/) - May 20, 2025
-- [US imposes new rules to curb semiconductor design software sales to China](https://techcrunch.com/2025/05/30/us-imposes-new-rules-to-curb-semiconductor-design-software-sales-to-china/) - Time not found
-- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - Time not found
-- [Google fixes bug that led AI Overviews to say it’s now 2024](https://techcrunch.com/2025/05/30/google-fixes-bug-that-led-ai-overviews-to-say-its-now-2024/) - Time not found
-- [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - Time not found
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year Award](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - Time not found
-- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - Time not found
-- [Hugging Face unveils two new humanoid robots](https://techcrunch.com/2025/05/29/hugging-face-unveils-two-new-humanoid-robots/) - Time not found
+- [White House investigating how Trump’s chief of staff’s phone was hacked](https://techcrunch.com/2025/05/30/white-house-investigating-how-trumps-chief-of-staffs-phone-was-hacked/) - Time not found
+- [X’s new DM feature, XChat, is rolling out in beta](https://techcrunch.com/2025/05/30/xs-new-dm-feature-xchat-is-rolling-out-in-beta/) - Time not found
+- [Gemini will now automatically summarize your long emails unless you opt out](https://techcrunch.com/2025/05/30/gemini-will-now-automatically-summarize-your-long-emails-unless-you-opt-out/) - Time not found
+- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - Time not found
+- [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - Time not found
+- [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - Time not found
+- [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - Time not found
