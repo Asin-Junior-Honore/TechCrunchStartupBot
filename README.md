@@ -4,23 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startups Weekly: AMD acquisition and other moves to scale AI startups](https://techcrunch.com/2025/05/30/startups-weekly-amd-acquisition-and-other-moves-to-scale-ai-startups/) - 15 hours ago
-- [Elon dips from DOGE, and Silicon Valley enters the ‘find out’ stage](https://techcrunch.com/podcast/elon-dips-from-doge-and-silicon-valley-enters-the-find-out-stage/) - 16 hours ago
-- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - 17 hours ago
-- [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - 18 hours ago
-- [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - 18 hours ago
-- [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - 18 hours ago
-- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - 20 hours ago
+- [Startups Weekly: AMD acquisition and other moves to scale AI startups](https://techcrunch.com/2025/05/30/startups-weekly-amd-acquisition-and-other-moves-to-scale-ai-startups/) - 19 hours ago
+- [Elon dips from DOGE, and Silicon Valley enters the ‘find out’ stage](https://techcrunch.com/podcast/elon-dips-from-doge-and-silicon-valley-enters-the-find-out-stage/) - 20 hours ago
+- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - 22 hours ago
+- [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - 22 hours ago
+- [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - 22 hours ago
+- [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - 22 hours ago
+- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - 1 day ago
 - [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - 1 day ago
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - 1 day ago
-- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - 1 day ago
+- [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - 2 days ago
+- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - 2 days ago
 - [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - 2 days ago
 - [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - 2 days ago
 - [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - 2 days ago
 - [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - 2 days ago
 - [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - 2 days ago
 - [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - 2 days ago
-- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 2 days ago
+- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - 3 days ago
 - [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - 3 days ago
 - [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - 3 days ago
 - [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - 3 days ago
