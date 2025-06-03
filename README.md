@@ -4,17 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Irish fintech NomuPay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - 3 hours ago
-- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 13 hours ago
-- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 14 hours ago
-- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 17 hours ago
-- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 17 hours ago
-- [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 17 hours ago
-- [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/) - 18 hours ago
-- [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/) - 22 hours ago
-- [5 days left to claim your exhibitor table for TechCrunch All Stage ](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/) - 22 hours ago
-- [Day 5 of TechCrunch Sessions: AI Trivia Countdown — test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/) - 22 hours ago
-- [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/) - 22 hours ago
+- [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - 1 hour ago
+- [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - 2 hours ago
+- [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/) - 2 hours ago
+- [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/) - 2 hours ago
+- [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/) - 2 hours ago
+- [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/) - 3 hours ago
+- [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/) - 3 hours ago
+- [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - 7 hours ago
+- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 17 hours ago
+- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 18 hours ago
+- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 21 hours ago
+- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 21 hours ago
+- [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 21 hours ago
+- [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/) - 22 hours ago
+- [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/) - 1 day ago
+- [5 days left to claim your exhibitor table for TechCrunch All Stage ](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/) - 1 day ago
+- [Day 5 of TechCrunch Sessions: AI Trivia Countdown — test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/) - 1 day ago
+- [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/) - 1 day ago
 - [Scale AI hires team behind remote developer recruiting platform Pesto AI](https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/) - 1 day ago
 - [Sam Altman biographer Keach Hagey explains why the OpenAI CEO was ‘born for this moment’](https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/) - 2 days ago
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/) - 2 days ago
@@ -27,24 +34,24 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon dips from DOGE, and Silicon Valley enters the ‘find out’ stage](https://techcrunch.com/podcast/elon-dips-from-doge-and-silicon-valley-enters-the-find-out-stage/) - 4 days ago
 - [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - 4 days ago
 - [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - 4 days ago
+- [Snapchat adds new tools for building Bitmoji games](https://techcrunch.com/2025/06/03/snapchat-adds-new-tools-for-building-bitmoji-games/) - Time not found
+- [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/) - Time not found
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/03/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
+- [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - Time not found
+- [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - Time not found
+- [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/) - Time not found
+- [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/) - Time not found
 - [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - 4 days ago
 - [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - 4 days ago
 - [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - 4 days ago
-- [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - 4 days ago
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - 5 days ago
-- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - 5 days ago
+- [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - 5 days ago
+- [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - May 29, 2025
+- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - May 29, 2025
 - [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - May 29, 2025
-- [An early Joby Aviation backer might soon be its biggest distributor in Saudi Arabia](https://techcrunch.com/2025/06/03/an-early-joby-aviation-backer-might-soon-be-its-biggest-distributor-in-saudi-arabia/) - Time not found
-- [Indeed CEO Chris Hyams resigns, hands over reins to former chief Hisayuki Idekoba](https://techcrunch.com/2025/06/03/indeed-ceo-chris-hyams-resigns-hands-over-reins-to-former-chief-hisayuki-idekoba/) - Time not found
-- [Watch Apple’s WWDC 2025 keynote right here](https://techcrunch.com/2025/06/03/watch-apples-wwdc-2025-keynote-right-here/) - Time not found
-- [TikTok launches ‘TikTok for Artists,’ a new music insights platform](https://techcrunch.com/2025/06/03/tiktok-launches-tiktok-for-artists-a-new-music-insights-platform/) - Time not found
-- [Irish fintech NomuPay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - Time not found
-- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - Time not found
-- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - Time not found
 - [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - May 29, 2025
 - [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - May 29, 2025
-- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - May 29, 2025
 - [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - May 29, 2025
+- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - May 29, 2025
 - [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - May 28, 2025
 - [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - May 28, 2025
 - [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - May 28, 2025
@@ -64,17 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Just 2 weeks left to apply: Startup Battlefield 200 ](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/) - May 26, 2025
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/) - May 26, 2025
 - [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/) - May 26, 2025
-- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/) - May 25, 2025
-- [Last 24 hours: TechCrunch Disrupt 2025 Early Bird deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/) - May 25, 2025
-- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/) - May 25, 2025
-- [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/) - May 23, 2025
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - May 23, 2025
-- [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/) - May 23, 2025
-- [Startups Weekly: Cutting through Google I/O noise](https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/) - May 23, 2025
-- [An early Joby Aviation backer might soon be its biggest distributor in Saudi Arabia](https://techcrunch.com/2025/06/03/an-early-joby-aviation-backer-might-soon-be-its-biggest-distributor-in-saudi-arabia/) - Time not found
-- [Indeed CEO Chris Hyams resigns, hands over reins to former chief Hisayuki Idekoba](https://techcrunch.com/2025/06/03/indeed-ceo-chris-hyams-resigns-hands-over-reins-to-former-chief-hisayuki-idekoba/) - Time not found
-- [Watch Apple’s WWDC 2025 keynote right here](https://techcrunch.com/2025/06/03/watch-apples-wwdc-2025-keynote-right-here/) - Time not found
-- [TikTok launches ‘TikTok for Artists,’ a new music insights platform](https://techcrunch.com/2025/06/03/tiktok-launches-tiktok-for-artists-a-new-music-insights-platform/) - Time not found
-- [Irish fintech NomuPay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - Time not found
-- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - Time not found
-- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - Time not found
+- [Snapchat adds new tools for building Bitmoji games](https://techcrunch.com/2025/06/03/snapchat-adds-new-tools-for-building-bitmoji-games/) - Time not found
+- [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/) - Time not found
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/03/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
+- [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - Time not found
+- [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - Time not found
+- [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/) - Time not found
+- [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/) - Time not found
