@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 15 hours ago
-- [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - 16 hours ago
-- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 17 hours ago
-- [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - 17 hours ago
-- [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - 18 hours ago
-- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - 18 hours ago
-- [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - 18 hours ago
-- [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - 19 hours ago
-- [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/) - 1 day ago
+- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 4 hours ago
+- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 20 hours ago
+- [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - 21 hours ago
+- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 22 hours ago
+- [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - 22 hours ago
+- [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - 22 hours ago
+- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - 22 hours ago
+- [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - 22 hours ago
+- [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - 23 hours ago
+- [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/) - 2 days ago
 - [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/) - 2 days ago
 - [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/) - 2 days ago
 - [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - 2 days ago
@@ -23,8 +24,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/) - 2 days ago
 - [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/) - 2 days ago
 - [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - 2 days ago
-- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 2 days ago
-- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 2 days ago
+- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 3 days ago
+- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 3 days ago
 - [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 3 days ago
 - [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 3 days ago
 - [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 3 days ago
@@ -33,18 +34,18 @@ Here are the latest articles from TechCrunch Startups:
 - [5 days left to claim your exhibitor table for TechCrunch All Stage ](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/) - 3 days ago
 - [Day 5 of TechCrunch Sessions: AI Trivia Countdown — test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/) - 3 days ago
 - [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/) - 3 days ago
-- [Scale AI hires team behind remote developer recruiting platform Pesto AI](https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/) - 3 days ago
+- [Phone unlocking firm Cellebrite to acquire mobile testing startup Corellium for $170M](https://techcrunch.com/2025/06/05/phone-unlocking-firm-cellebrite-to-acquire-mobile-testing-startup-corellium-for-170m/) - Time not found
+- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - Time not found
 - [Alphabet CEO Sundar Pichai dismisses AI job fears, emphasizes expansion plans](https://techcrunch.com/2025/06/04/alphabet-ceo-sundar-pichai-dismisses-ai-job-fears-emphasizes-expansion-plans/) - Time not found
 - [North America takes the bulk of AI VC investments, despite tough political environment](https://techcrunch.com/2025/06/04/north-america-takes-the-bulk-of-ai-vc-investments-despite-tough-political-environment/) - Time not found
 - [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/04/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
 - [Hugging Face says its new robotics model is so efficient it can run on a MacBook](https://techcrunch.com/2025/06/04/hugging-face-says-its-new-robotics-model-is-so-efficient-it-can-run-on-a-macbook/) - Time not found
 - [Ransomware gang claims responsibility for Kettering Health hack](https://techcrunch.com/2025/06/04/ransomware-gang-claims-responsibility-for-kettering-health-hack/) - Time not found
-- [Reddit sues Anthropic for allegedly not paying for training data](https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/) - Time not found
-- [Klarna CEO says company will use humans to offer VIP customer service](https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/) - Time not found
+- [Scale AI hires team behind remote developer recruiting platform Pesto AI](https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/) - 3 days ago
 - [Sam Altman biographer Keach Hagey explains why the OpenAI CEO was ‘born for this moment’](https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/) - 4 days ago
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/) - 4 days ago
 - [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/) - 4 days ago
-- [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/) - 4 days ago
+- [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/) - 5 days ago
 - [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/) - 5 days ago
 - [Day 3 of the TechCrunch Sessions: AI Trivia Countdown — your next shot at winning big](https://techcrunch.com/2025/05/31/day-3-of-the-techcrunch-sessions-ai-trivia-countdown-your-next-shot-at-winning-big/) - May 31, 2025
 - [Serious about AI? The conversations that count start in 5 days at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/31/serious-about-ai-the-conversations-that-count-start-in-5-days-at-techcrunch-sessions-ai/) - May 31, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/) - May 28, 2025
 - [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/) - May 28, 2025
 - [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/) - May 28, 2025
-- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/) - May 28, 2025
+- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - Time not found
 - [Alphabet CEO Sundar Pichai dismisses AI job fears, emphasizes expansion plans](https://techcrunch.com/2025/06/04/alphabet-ceo-sundar-pichai-dismisses-ai-job-fears-emphasizes-expansion-plans/) - Time not found
 - [North America takes the bulk of AI VC investments, despite tough political environment](https://techcrunch.com/2025/06/04/north-america-takes-the-bulk-of-ai-vc-investments-despite-tough-political-environment/) - Time not found
 - [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/04/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
 - [Hugging Face says its new robotics model is so efficient it can run on a MacBook](https://techcrunch.com/2025/06/04/hugging-face-says-its-new-robotics-model-is-so-efficient-it-can-run-on-a-macbook/) - Time not found
 - [Ransomware gang claims responsibility for Kettering Health hack](https://techcrunch.com/2025/06/04/ransomware-gang-claims-responsibility-for-kettering-health-hack/) - Time not found
 - [Reddit sues Anthropic for allegedly not paying for training data](https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/) - Time not found
-- [Klarna CEO says company will use humans to offer VIP customer service](https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/) - Time not found
