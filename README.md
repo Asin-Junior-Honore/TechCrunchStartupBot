@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 1 hour ago
-- [Toma’s AI voice agents have taken off at car dealerships – and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 3 hours ago
-- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 3 hours ago
-- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 7 hours ago
-- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 23 hours ago
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 35 minutes ago
+- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 3 hours ago
+- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 6 hours ago
+- [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 7 hours ago
+- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 7 hours ago
+- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 11 hours ago
+- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 1 day ago
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - 1 day ago
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 1 day ago
 - [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 3 days ago
 - [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 3 days ago
 - [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 3 days ago
+- [Walmart and Wing expand drone delivery to five more U.S. cities](https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/) - Time not found
+- [Amazon launches new R&D group focused on agentic AI and robotics](https://techcrunch.com/2025/06/05/amazon-launches-new-rd-group-focused-on-agentic-ai-and-robotics/) - Time not found
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - Time not found
+- [Anthropic co-founder on cutting access to Windsurf: ‘It would be odd for us to sell Claude to OpenAI’](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/) - Time not found
+- [Bonfire’s new software lets users build their own social communities, free from platform control](https://techcrunch.com/2025/06/05/bonfires-new-software-lets-users-build-their-own-social-communities-free-from-platform-control/) - Time not found
+- [X tests highlighting posts that are liked by users with opposing views](https://techcrunch.com/2025/06/05/x-tests-highlighting-posts-that-are-liked-by-users-with-opposing-views/) - Time not found
+- [Google says its updated Gemini 2.5 Pro AI model is better at coding](https://techcrunch.com/2025/06/05/google-says-its-updated-gemini-2-5-pro-ai-model-is-better-at-coding/) - Time not found
 - [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/) - 3 days ago
 - [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/) - 3 days ago
-- [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/05/how-to-watch-apples-wwdc-2025-keynote/) - Time not found
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/05/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
-- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - Time not found
-- [Apple says its App Store helped generate $1.3T in billings and sales, most without a commission](https://techcrunch.com/2025/06/05/apple-says-its-app-store-helped-generate-1-3t-in-billings-and-sales-most-without-a-commission/) - Time not found
-- [Anthropic unveils custom AI models for U.S. national security customers](https://techcrunch.com/2025/06/05/anthropic-unveils-custom-ai-models-for-u-s-national-security-customers/) - Time not found
-- [The founder of DeviantArt is making a $22,000 display for digital art](https://techcrunch.com/2025/06/05/the-founder-of-deviantart-is-making-a-22000-display-for-digital-art/) - Time not found
-- [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/) - Time not found
 - [5 days left to claim your exhibitor table for TechCrunch All Stage ](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/) - 3 days ago
 - [Day 5 of TechCrunch Sessions: AI Trivia Countdown — test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/) - 3 days ago
 - [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/) - 3 days ago
@@ -65,16 +67,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - May 29, 2025
 - [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - May 29, 2025
 - [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - May 29, 2025
-- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - May 29, 2025
 - [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - May 29, 2025
+- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - May 29, 2025
 - [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - May 28, 2025
 - [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/) - May 28, 2025
-- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/) - May 28, 2025
-- [What founders need to know about tech’s growing influence in DC](https://techcrunch.com/podcast/what-founders-need-to-know-about-techs-growing-influence-in-d-c/) - May 28, 2025
-- [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/05/how-to-watch-apples-wwdc-2025-keynote/) - Time not found
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/05/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
-- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - Time not found
-- [Apple says its App Store helped generate $1.3T in billings and sales, most without a commission](https://techcrunch.com/2025/06/05/apple-says-its-app-store-helped-generate-1-3t-in-billings-and-sales-most-without-a-commission/) - Time not found
-- [Anthropic unveils custom AI models for U.S. national security customers](https://techcrunch.com/2025/06/05/anthropic-unveils-custom-ai-models-for-u-s-national-security-customers/) - Time not found
-- [The founder of DeviantArt is making a $22,000 display for digital art](https://techcrunch.com/2025/06/05/the-founder-of-deviantart-is-making-a-22000-display-for-digital-art/) - Time not found
-- [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/) - Time not found
+- [Walmart and Wing expand drone delivery to five more U.S. cities](https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/) - Time not found
+- [Amazon launches new R&D group focused on agentic AI and robotics](https://techcrunch.com/2025/06/05/amazon-launches-new-rd-group-focused-on-agentic-ai-and-robotics/) - Time not found
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - Time not found
+- [Anthropic co-founder on cutting access to Windsurf: ‘It would be odd for us to sell Claude to OpenAI’](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/) - Time not found
+- [Bonfire’s new software lets users build their own social communities, free from platform control](https://techcrunch.com/2025/06/05/bonfires-new-software-lets-users-build-their-own-social-communities-free-from-platform-control/) - Time not found
+- [X tests highlighting posts that are liked by users with opposing views](https://techcrunch.com/2025/06/05/x-tests-highlighting-posts-that-are-liked-by-users-with-opposing-views/) - Time not found
+- [Google says its updated Gemini 2.5 Pro AI model is better at coding](https://techcrunch.com/2025/06/05/google-says-its-updated-gemini-2-5-pro-ai-model-is-better-at-coding/) - Time not found
