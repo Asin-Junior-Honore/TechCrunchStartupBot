@@ -4,12 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - 14 hours ago
-- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 16 hours ago
-- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 19 hours ago
-- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 21 hours ago
-- [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 23 hours ago
-- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 23 hours ago
+- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - 2 hours ago
+- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - 2 hours ago
+- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - 18 hours ago
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 20 hours ago
+- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 23 hours ago
+- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 1 day ago
+- [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 1 day ago
+- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 1 day ago
 - [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 1 day ago
 - [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 2 days ago
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - 2 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - 3 days ago
 - [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 4 days ago
 - [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 4 days ago
+- [OpenAI’s marketing head takes leave to undergo breast cancer treatment](https://techcrunch.com/2025/06/06/openais-marketing-head-takes-leave-to-undergo-breast-cancer-treatment/) - Time not found
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
+- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/06/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
+- [AMD acqui-hires the employees behind Untether AI](https://techcrunch.com/2025/06/06/amd-acqui-hires-the-employees-behind-untether-ai/) - Time not found
+- [Creators Caucus launches in Congress with support from Patreon, YouTube](https://techcrunch.com/2025/06/06/creator-caucus-launches-in-congress-with-support-from-patreon-youtube/) - Time not found
+- [Nikola founder Trevor Milton is fighting a subpoena from his bankrupt company’s creditors](https://techcrunch.com/2025/06/06/nikola-founder-trevor-milton-is-fighting-a-subpoena-from-his-bankrupt-companys-creditors/) - Time not found
+- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Time not found
 - [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 4 days ago
 - [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 4 days ago
-- [Court denies Apple’s request to pause ruling on App Store payment fees](https://techcrunch.com/2025/06/06/court-denies-apples-request-to-pause-ruling-on-app-store-payment-fees/) - Time not found
-- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - Time not found
-- [Circle IPO soars, giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/) - Time not found
-- [Why are Elon Musk and Donald Trump fighting?](https://techcrunch.com/2025/06/05/why-are-elon-musk-and-donald-trump-fighting/) - Time not found
-- [Europe will have to be more Tenacious to land its first rover on the moon](https://techcrunch.com/2025/06/05/europe-will-have-to-be-more-tenacious-to-land-its-first-rover-on-the-moon/) - Time not found
-- [Elon Musk and Donald Trump are smack-talking each other into their own digital echo chambers](https://techcrunch.com/2025/06/05/elon-musk-and-donald-trump-are-smack-talking-each-other-into-their-own-digital-echo-chambers/) - Time not found
-- [Perplexity received 780 million queries last month, CEO says](https://techcrunch.com/2025/06/05/perplexity-received-780-million-queries-last-month-ceo-says/) - Time not found
 - [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 4 days ago
 - [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/) - 4 days ago
 - [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/) - 4 days ago
@@ -68,13 +70,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - May 29, 2025
 - [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - May 29, 2025
 - [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - May 29, 2025
-- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/) - May 29, 2025
 - [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - May 29, 2025
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/) - May 28, 2025
-- [Court denies Apple’s request to pause ruling on App Store payment fees](https://techcrunch.com/2025/06/06/court-denies-apples-request-to-pause-ruling-on-app-store-payment-fees/) - Time not found
-- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - Time not found
-- [Circle IPO soars, giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/) - Time not found
-- [Why are Elon Musk and Donald Trump fighting?](https://techcrunch.com/2025/06/05/why-are-elon-musk-and-donald-trump-fighting/) - Time not found
-- [Europe will have to be more Tenacious to land its first rover on the moon](https://techcrunch.com/2025/06/05/europe-will-have-to-be-more-tenacious-to-land-its-first-rover-on-the-moon/) - Time not found
-- [Elon Musk and Donald Trump are smack-talking each other into their own digital echo chambers](https://techcrunch.com/2025/06/05/elon-musk-and-donald-trump-are-smack-talking-each-other-into-their-own-digital-echo-chambers/) - Time not found
-- [Perplexity received 780 million queries last month, CEO says](https://techcrunch.com/2025/06/05/perplexity-received-780-million-queries-last-month-ceo-says/) - Time not found
+- [OpenAI’s marketing head takes leave to undergo breast cancer treatment](https://techcrunch.com/2025/06/06/openais-marketing-head-takes-leave-to-undergo-breast-cancer-treatment/) - Time not found
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
+- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/06/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
+- [AMD acqui-hires the employees behind Untether AI](https://techcrunch.com/2025/06/06/amd-acqui-hires-the-employees-behind-untether-ai/) - Time not found
+- [Creators Caucus launches in Congress with support from Patreon, YouTube](https://techcrunch.com/2025/06/06/creator-caucus-launches-in-congress-with-support-from-patreon-youtube/) - Time not found
+- [Nikola founder Trevor Milton is fighting a subpoena from his bankrupt company’s creditors](https://techcrunch.com/2025/06/06/nikola-founder-trevor-milton-is-fighting-a-subpoena-from-his-bankrupt-companys-creditors/) - Time not found
+- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Time not found
