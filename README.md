@@ -4,11 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - 2 hours ago
-- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - 2 hours ago
-- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - 18 hours ago
-- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 20 hours ago
-- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 23 hours ago
+- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - 52 minutes ago
+- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - 2 hours ago
+- [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - 3 hours ago
+- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - 6 hours ago
+- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - 6 hours ago
+- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - 22 hours ago
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 1 day ago
+- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 1 day ago
 - [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 1 day ago
 - [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 1 day ago
 - [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 1 day ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/) - 3 days ago
 - [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/) - 3 days ago
 - [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/) - 3 days ago
+- [The Trump-Musk feud has been great for X, which jumped up the App Store charts](https://techcrunch.com/2025/06/06/the-trump-musk-feud-has-been-great-for-x-which-jumped-up-the-app-store-charts/) - Time not found
+- [Figure AI CEO skips live demo, sidesteps BMW deal questions onstage at tech conference](https://techcrunch.com/2025/06/06/figure-ai-ceo-skips-live-demo-sidesteps-bmw-deal-questions-on-stage-at-tech-conference/) - Time not found
+- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - Time not found
+- [Jony Ive’s LoveFrom helped design Rivian’s first electric bike](https://techcrunch.com/2025/06/06/jony-ives-lovefrom-helped-design-rivians-first-electric-bike/) - Time not found
+- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - Time not found
+- [EleutherAI releases massive AI training dataset of licensed and open domain text](https://techcrunch.com/2025/06/06/eleutherai-releases-massive-ai-training-dataset-of-licensed-and-open-domain-text/) - Time not found
+- [X names Polymarket as its official prediction market partner](https://techcrunch.com/2025/06/06/x-names-polymarket-as-its-official-prediction-market-partner/) - Time not found
 - [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - 3 days ago
 - [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 4 days ago
 - [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 4 days ago
-- [OpenAI’s marketing head takes leave to undergo breast cancer treatment](https://techcrunch.com/2025/06/06/openais-marketing-head-takes-leave-to-undergo-breast-cancer-treatment/) - Time not found
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/06/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
-- [AMD acqui-hires the employees behind Untether AI](https://techcrunch.com/2025/06/06/amd-acqui-hires-the-employees-behind-untether-ai/) - Time not found
-- [Creators Caucus launches in Congress with support from Patreon, YouTube](https://techcrunch.com/2025/06/06/creator-caucus-launches-in-congress-with-support-from-patreon-youtube/) - Time not found
-- [Nikola founder Trevor Milton is fighting a subpoena from his bankrupt company’s creditors](https://techcrunch.com/2025/06/06/nikola-founder-trevor-milton-is-fighting-a-subpoena-from-his-bankrupt-companys-creditors/) - Time not found
-- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Time not found
 - [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 4 days ago
 - [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 4 days ago
 - [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 4 days ago
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - May 29, 2025
 - [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/) - May 29, 2025
 - [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/) - May 29, 2025
-- [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/) - May 29, 2025
-- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/) - May 29, 2025
-- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/) - May 29, 2025
-- [OpenAI’s marketing head takes leave to undergo breast cancer treatment](https://techcrunch.com/2025/06/06/openais-marketing-head-takes-leave-to-undergo-breast-cancer-treatment/) - Time not found
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/06/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
-- [AMD acqui-hires the employees behind Untether AI](https://techcrunch.com/2025/06/06/amd-acqui-hires-the-employees-behind-untether-ai/) - Time not found
-- [Creators Caucus launches in Congress with support from Patreon, YouTube](https://techcrunch.com/2025/06/06/creator-caucus-launches-in-congress-with-support-from-patreon-youtube/) - Time not found
-- [Nikola founder Trevor Milton is fighting a subpoena from his bankrupt company’s creditors](https://techcrunch.com/2025/06/06/nikola-founder-trevor-milton-is-fighting-a-subpoena-from-his-bankrupt-companys-creditors/) - Time not found
-- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Time not found
+- [Italian lawmakers say Italy used spyware to target phones of immigration activists, but not against journalist](https://techcrunch.com/2025/06/06/italian-lawmakers-say-italy-used-spyware-to-target-phones-of-immigration-activists-but-not-against-journalist/) - Time not found
+- [The Trump-Musk feud has been great for X, which jumped up the App Store charts](https://techcrunch.com/2025/06/06/the-trump-musk-feud-has-been-great-for-x-which-jumped-up-the-app-store-charts/) - Time not found
+- [Figure AI CEO skips live demo, sidesteps BMW deal questions onstage at tech conference](https://techcrunch.com/2025/06/06/figure-ai-ceo-skips-live-demo-sidesteps-bmw-deal-questions-on-stage-at-tech-conference/) - Time not found
+- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - Time not found
+- [Jony Ive’s LoveFrom helped design Rivian’s first electric bike](https://techcrunch.com/2025/06/06/jony-ives-lovefrom-helped-design-rivians-first-electric-bike/) - Time not found
+- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - Time not found
+- [EleutherAI releases massive AI training dataset of licensed and open domain text](https://techcrunch.com/2025/06/06/eleutherai-releases-massive-ai-training-dataset-of-licensed-and-open-domain-text/) - Time not found
