@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 11 hours ago
-- [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - 15 hours ago
-- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - 17 hours ago
-- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - 18 hours ago
-- [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - 19 hours ago
-- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - 22 hours ago
-- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - 22 hours ago
+- [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - 43 minutes ago
+- [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 15 hours ago
+- [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - 19 hours ago
+- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - 21 hours ago
+- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - 22 hours ago
+- [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - 23 hours ago
+- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - 1 day ago
+- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - 1 day ago
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - 2 days ago
 - [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 2 days ago
 - [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 2 days ago
@@ -33,27 +34,27 @@ Here are the latest articles from TechCrunch Startups:
 - [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - 4 days ago
 - [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/) - 4 days ago
 - [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/) - 4 days ago
-- [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/) - 4 days ago
+- [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Time not found
 - [After its data was wiped, KiranaPro’s co-founder cannot rule out an external hack](https://techcrunch.com/2025/06/06/after-its-data-was-wiped-kiranapros-co-founder-cannot-rule-out-an-external-hack/) - Time not found
 - [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - Time not found
 - [Trump fast-tracks supersonic travel, amid spate of flight-related executive orders](https://techcrunch.com/2025/06/06/trump-fast-tracks-supersonic-travel-amid-spate-of-flight-related-executive-orders/) - Time not found
 - [TechCrunch Mobility: How Jony Ive’s LoveFrom helped Rivian and what Uber’s next-generation playbook looks like](https://techcrunch.com/2025/06/06/techcrunch-mobility-how-jony-ives-lovefrom-helped-rivian-and-what-ubers-next-generation-playbook-looks-like/) - Time not found
 - [Omada Health IPO signals healthier market, avoids ‘down-round’ trend](https://techcrunch.com/2025/06/06/omada-health-ipo-signals-healthier-market-avoids-down-round-trend/) - Time not found
 - [2025 will be a ‘pivotal year’ for Meta’s augmented and virtual reality, says CTO](https://techcrunch.com/2025/06/06/2025-will-be-a-pivotal-year-for-metas-augmented-and-virtual-reality-says-cto/) - Time not found
-- [Why investing in growth-stage AI startups is getting riskier and more complicated](https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/) - Time not found
+- [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/) - 4 days ago
 - [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/) - 4 days ago
 - [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/) - 4 days ago
 - [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - 4 days ago
-- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 4 days ago
-- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - 4 days ago
-- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - 4 days ago
-- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - 4 days ago
-- [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - 4 days ago
-- [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/) - 4 days ago
-- [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/) - 5 days ago
-- [5 days left to claim your exhibitor table for TechCrunch All Stage ](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/) - 5 days ago
-- [Day 5 of TechCrunch Sessions: AI Trivia Countdown — test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/) - 5 days ago
-- [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/) - 5 days ago
+- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - 5 days ago
+- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - Jun 2, 2025
+- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - Jun 2, 2025
+- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - Jun 2, 2025
+- [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - Jun 2, 2025
+- [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/) - Jun 2, 2025
+- [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/) - Jun 2, 2025
+- [5 days left to claim your exhibitor table for TechCrunch All Stage ](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/) - Jun 2, 2025
+- [Day 5 of TechCrunch Sessions: AI Trivia Countdown — test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/) - Jun 2, 2025
+- [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/) - Jun 2, 2025
 - [Scale AI hires team behind remote developer recruiting platform Pesto AI](https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/) - Jun 2, 2025
 - [Sam Altman biographer Keach Hagey explains why the OpenAI CEO was ‘born for this moment’](https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/) - Jun 1, 2025
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/) - Jun 1, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - May 30, 2025
 - [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - May 30, 2025
 - [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/) - May 29, 2025
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/) - May 29, 2025
+- [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Time not found
 - [After its data was wiped, KiranaPro’s co-founder cannot rule out an external hack](https://techcrunch.com/2025/06/06/after-its-data-was-wiped-kiranapros-co-founder-cannot-rule-out-an-external-hack/) - Time not found
 - [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - Time not found
 - [Trump fast-tracks supersonic travel, amid spate of flight-related executive orders](https://techcrunch.com/2025/06/06/trump-fast-tracks-supersonic-travel-amid-spate-of-flight-related-executive-orders/) - Time not found
 - [TechCrunch Mobility: How Jony Ive’s LoveFrom helped Rivian and what Uber’s next-generation playbook looks like](https://techcrunch.com/2025/06/06/techcrunch-mobility-how-jony-ives-lovefrom-helped-rivian-and-what-ubers-next-generation-playbook-looks-like/) - Time not found
 - [Omada Health IPO signals healthier market, avoids ‘down-round’ trend](https://techcrunch.com/2025/06/06/omada-health-ipo-signals-healthier-market-avoids-down-round-trend/) - Time not found
 - [2025 will be a ‘pivotal year’ for Meta’s augmented and virtual reality, says CTO](https://techcrunch.com/2025/06/06/2025-will-be-a-pivotal-year-for-metas-augmented-and-virtual-reality-says-cto/) - Time not found
-- [Why investing in growth-stage AI startups is getting riskier and more complicated](https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/) - Time not found
