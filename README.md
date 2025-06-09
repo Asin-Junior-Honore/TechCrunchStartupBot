@@ -17,9 +17,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 3 days ago
 - [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 3 days ago
 - [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 3 days ago
-- [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 3 days ago
-- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 3 days ago
-- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 3 days ago
+- [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 4 days ago
+- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 4 days ago
+- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 4 days ago
 - [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 4 days ago
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - 4 days ago
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 4 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - Jun 3, 2025
 - [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - Jun 3, 2025
 - [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/) - Jun 3, 2025
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/08/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
+- [Meta reportedly in talks to invest billions of dollars in Scale AI](https://techcrunch.com/2025/06/08/meta-reportedly-in-talks-to-invest-billions-of-dollars-in-scale-ai/) - Time not found
 - [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/08/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
 - [Axiom Space prepares for its fourth mission to the ISS](https://techcrunch.com/2025/06/08/axiom-space-prepares-for-its-fourth-private-space-mission/) - Time not found
 - [Pioneering Apple engineer Bill Atkinson dies at 74](https://techcrunch.com/2025/06/08/pioneering-apple-engineer-bill-atkinson-dies-at-74/) - Time not found
 - [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/08/how-to-watch-apples-wwdc-2025-keynote/) - Time not found
 - [At WWDC 25, Apple should make amends with developers after AI shortfalls and lawsuits](https://techcrunch.com/2025/06/08/at-wwdc-25-apple-should-make-amends-with-developers-after-ai-shortfalls-and-lawsuits/) - Time not found
-- [Lawyers could face ‘severe’ penalties for fake AI-generated citations, UK court warns](https://techcrunch.com/2025/06/07/lawyers-could-face-severe-penalties-for-fake-ai-generated-citations-uk-court-warns/) - Time not found
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/07/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
 - [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/) - Jun 3, 2025
 - [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/) - Jun 3, 2025
 - [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/) - Jun 3, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - May 30, 2025
 - [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/) - May 30, 2025
 - [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/) - May 30, 2025
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/08/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
+- [Meta reportedly in talks to invest billions of dollars in Scale AI](https://techcrunch.com/2025/06/08/meta-reportedly-in-talks-to-invest-billions-of-dollars-in-scale-ai/) - Time not found
 - [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/08/wwdc-2025-what-to-expect-from-this-years-conference/) - Time not found
 - [Axiom Space prepares for its fourth mission to the ISS](https://techcrunch.com/2025/06/08/axiom-space-prepares-for-its-fourth-private-space-mission/) - Time not found
 - [Pioneering Apple engineer Bill Atkinson dies at 74](https://techcrunch.com/2025/06/08/pioneering-apple-engineer-bill-atkinson-dies-at-74/) - Time not found
 - [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/08/how-to-watch-apples-wwdc-2025-keynote/) - Time not found
 - [At WWDC 25, Apple should make amends with developers after AI shortfalls and lawsuits](https://techcrunch.com/2025/06/08/at-wwdc-25-apple-should-make-amends-with-developers-after-ai-shortfalls-and-lawsuits/) - Time not found
-- [Lawyers could face ‘severe’ penalties for fake AI-generated citations, UK court warns](https://techcrunch.com/2025/06/07/lawyers-could-face-severe-penalties-for-fake-ai-generated-citations-uk-court-warns/) - Time not found
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/07/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/) - Time not found
