@@ -4,30 +4,30 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Will Musk vs. Trump affect xAI’s $5 billion debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 1 day ago
+- [Will Musk vs. Trump affect xAI’s $5 billion debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 2 days ago
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - 2 days ago
 - [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 2 days ago
 - [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - 2 days ago
-- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - 2 days ago
-- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - 2 days ago
-- [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - 2 days ago
+- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - 3 days ago
+- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - 3 days ago
+- [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - 3 days ago
 - [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - 3 days ago
 - [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - 3 days ago
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - 3 days ago
-- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 3 days ago
-- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 3 days ago
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - 4 days ago
+- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - 4 days ago
 - [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 4 days ago
 - [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 4 days ago
 - [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 4 days ago
 - [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 4 days ago
-- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 4 days ago
+- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - 5 days ago
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - 5 days ago
-- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 5 days ago
-- [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - 5 days ago
-- [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - 5 days ago
-- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - 5 days ago
-- [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - 5 days ago
-- [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - 5 days ago
+- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
+- [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - Jun 4, 2025
+- [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - Jun 4, 2025
+- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
+- [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - Jun 4, 2025
+- [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - Jun 4, 2025
 - [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/) - Jun 3, 2025
 - [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/) - Jun 3, 2025
 - [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/) - Jun 3, 2025
