@@ -4,8 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 46 minutes ago
-- [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 4 hours ago
+- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 6 hours ago
+- [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 9 hours ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 2 days ago
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - 2 days ago
 - [Meet the finalists: VivaTech’s 5 most visionary startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 3 days ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - 4 days ago
 - [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - 4 days ago
 - [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - 4 days ago
-- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 4 days ago
+- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - 5 days ago
 - [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - Jun 4, 2025
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - Jun 4, 2025
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/) - Jun 3, 2025
 - [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/) - Jun 3, 2025
 - [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - Jun 3, 2025
+- [Still no AI-powered, ‘more personalized’ Siri from Apple at WWDC 25](https://techcrunch.com/2025/06/09/still-no-ai-powered-more-personalized-siri-from-apple-at-wwdc-25/) - Time not found
+- [Here’s what’s coming to macOS Tahoe](https://techcrunch.com/2025/06/09/heres-whats-coming-to-macos-tahoe/) - Time not found
+- [Apple brings back tabs to the Photos app in iOS 26](https://techcrunch.com/2025/06/09/apple-brings-back-tabs-to-the-photos-app-in-ios-26/) - Time not found
+- [OpenAI claims to have hit $10B in annual revenue](https://techcrunch.com/2025/06/09/openai-claims-to-have-hit-10b-in-annual-revenue/) - Time not found
 - [From spatial widgets to realistic Personas: All the visionOS updates Apple announced at WWDC ](https://techcrunch.com/2025/06/09/from-spatial-widgets-to-realistic-personas-all-the-visionos-updates-apple-announced-at-wwdc/) - Time not found
 - [WWDC 2025: Everything announced, including Liquid Glass, Apple Intelligence updates, and more](https://techcrunch.com/2025/06/09/wwdc-2025-everything-announced-including-liquid-glass-apple-intelligence-updates-and-more/) - Time not found
 - [Here are all the iOS 26 rumors that came true at WWDC](https://techcrunch.com/2025/06/09/here-are-all-the-ios26-rumors-changes-that-came-true-at-wwdc/) - Time not found
-- [iPadOS 26 will make the iPad feel more like a Mac](https://techcrunch.com/2025/06/09/ipados-26-will-make-the-ipad-feel-more-like-a-mac/) - Time not found
-- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - Time not found
-- [Apple updates Spotlight to take actions on your Mac](https://techcrunch.com/2025/06/09/apple-updates-spotlight-to-take-actions-on-your-mac/) - Time not found
-- [Apple brings ChatGPT and other AI models to Xcode](https://techcrunch.com/2025/06/09/apple-brings-chatgpt-and-other-ai-models-to-xcode/) - Time not found
 - [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - Jun 3, 2025
 - [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/) - Jun 3, 2025
 - [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/) - Jun 3, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - May 30, 2025
 - [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/) - May 30, 2025
 - [Last week: Few exhibit tables left to claim at TechCrunch All Stage ](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/) - May 30, 2025
+- [Still no AI-powered, ‘more personalized’ Siri from Apple at WWDC 25](https://techcrunch.com/2025/06/09/still-no-ai-powered-more-personalized-siri-from-apple-at-wwdc-25/) - Time not found
 - [Here’s what’s coming to macOS Tahoe](https://techcrunch.com/2025/06/09/heres-whats-coming-to-macos-tahoe/) - Time not found
 - [Apple brings back tabs to the Photos app in iOS 26](https://techcrunch.com/2025/06/09/apple-brings-back-tabs-to-the-photos-app-in-ios-26/) - Time not found
 - [OpenAI claims to have hit $10B in annual revenue](https://techcrunch.com/2025/06/09/openai-claims-to-have-hit-10b-in-annual-revenue/) - Time not found
 - [From spatial widgets to realistic Personas: All the visionOS updates Apple announced at WWDC ](https://techcrunch.com/2025/06/09/from-spatial-widgets-to-realistic-personas-all-the-visionos-updates-apple-announced-at-wwdc/) - Time not found
 - [WWDC 2025: Everything announced, including Liquid Glass, Apple Intelligence updates, and more](https://techcrunch.com/2025/06/09/wwdc-2025-everything-announced-including-liquid-glass-apple-intelligence-updates-and-more/) - Time not found
 - [Here are all the iOS 26 rumors that came true at WWDC](https://techcrunch.com/2025/06/09/here-are-all-the-ios26-rumors-changes-that-came-true-at-wwdc/) - Time not found
-- [iPadOS 26 will make the iPad feel more like a Mac](https://techcrunch.com/2025/06/09/ipados-26-will-make-the-ipad-feel-more-like-a-mac/) - Time not found
