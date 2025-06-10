@@ -4,9 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 2 hours ago
-- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 4 hours ago
-- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 21 hours ago
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 2 hours ago
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 3 hours ago
+- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 4 hours ago
+- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 4 hours ago
+- [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 6 hours ago
+- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 8 hours ago
+- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 1 day ago
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 1 day ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 3 days ago
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - 3 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - Jun 4, 2025
 - [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - Jun 4, 2025
 - [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
+- [Bedrock Ocean dredges up $25M to map the seafloor with robots](https://techcrunch.com/2025/06/10/bedrock-ocean-dredges-up-25m-to-map-the-seafloor-with-robots/) - Time not found
+- [Whole Foods tells staff cyberattack at its primary distributor UNFI will affect product availability](https://techcrunch.com/2025/06/10/whole-foods-tells-staff-cyberattack-at-its-primary-distributor-unfi-will-affect-product-availability/) - Time not found
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - Time not found
+- [Love it or hate it? Apple’s new ‘Liquid Glass’ design is getting mixed reviews](https://techcrunch.com/2025/06/10/love-it-or-hate-it-apples-new-liquid-glass-design-is-getting-mixed-reviews/) - Time not found
+- [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/) - Time not found
+- [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/) - Time not found
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - Time not found
 - [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - Jun 4, 2025
 - [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - Jun 4, 2025
 - [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/) - Jun 3, 2025
 - [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/) - Jun 3, 2025
-- [Threads is finally getting a DM inbox](https://techcrunch.com/2025/06/10/threads-is-finally-testing-a-separate-dm-inbox/) - Time not found
-- [Apple’s upgraded AI models underwhelm on performance](https://techcrunch.com/2025/06/10/apples-upgraded-ai-models-underwhelm-on-performance/) - Time not found
-- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - Time not found
-- [The US Navy says ‘welcome aboard’ to new startup partnerships](https://techcrunch.com/podcast/the-us-navy-says-welcome-aboard-to-new-startup-partnerships/) - Time not found
-- [At WWDC 2025, Apple sang developers’ praises amid AI letdowns and App Store battles](https://techcrunch.com/2025/06/10/at-wwdc-2025-apple-sang-developers-praises-amid-ai-letdowns-and-app-store-battles/) - Time not found
-- [Report: Meta taps Scale AI’s Alexandr Wang to join new ‘superintelligence’ lab](https://techcrunch.com/2025/06/10/report-meta-taps-scale-ais-alexandr-wang-to-join-new-superintelligence-lab/) - Time not found
-- [ChatGPT is having a partial outage](https://techcrunch.com/2025/06/10/chatgpt-is-having-a-partial-outage/) - Time not found
 - [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/) - Jun 3, 2025
 - [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/) - Jun 3, 2025
 - [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/) - Jun 3, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/) - May 31, 2025
 - [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/) - May 31, 2025
 - [Day 3 of the TechCrunch Sessions: AI Trivia Countdown — your next shot at winning big](https://techcrunch.com/2025/05/31/day-3-of-the-techcrunch-sessions-ai-trivia-countdown-your-next-shot-at-winning-big/) - May 31, 2025
-- [Serious about AI? The conversations that count start in 5 days at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/31/serious-about-ai-the-conversations-that-count-start-in-5-days-at-techcrunch-sessions-ai/) - May 31, 2025
-- [Startups Weekly: AMD acquisition and other moves to scale AI startups](https://techcrunch.com/2025/05/30/startups-weekly-amd-acquisition-and-other-moves-to-scale-ai-startups/) - May 30, 2025
-- [Elon dips from DOGE, and Silicon Valley enters the ‘find out’ stage](https://techcrunch.com/podcast/elon-dips-from-doge-and-silicon-valley-enters-the-find-out-stage/) - May 30, 2025
-- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/) - May 30, 2025
-- [Threads is finally getting a DM inbox](https://techcrunch.com/2025/06/10/threads-is-finally-testing-a-separate-dm-inbox/) - Time not found
-- [Apple’s upgraded AI models underwhelm on performance](https://techcrunch.com/2025/06/10/apples-upgraded-ai-models-underwhelm-on-performance/) - Time not found
-- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - Time not found
-- [The US Navy says ‘welcome aboard’ to new startup partnerships](https://techcrunch.com/podcast/the-us-navy-says-welcome-aboard-to-new-startup-partnerships/) - Time not found
-- [At WWDC 2025, Apple sang developers’ praises amid AI letdowns and App Store battles](https://techcrunch.com/2025/06/10/at-wwdc-2025-apple-sang-developers-praises-amid-ai-letdowns-and-app-store-battles/) - Time not found
-- [Report: Meta taps Scale AI’s Alexandr Wang to join new ‘superintelligence’ lab](https://techcrunch.com/2025/06/10/report-meta-taps-scale-ais-alexandr-wang-to-join-new-superintelligence-lab/) - Time not found
-- [ChatGPT is having a partial outage](https://techcrunch.com/2025/06/10/chatgpt-is-having-a-partial-outage/) - Time not found
+- [Whole Foods tells staff cyberattack at its primary distributor UNFI will affect product availability](https://techcrunch.com/2025/06/10/whole-foods-tells-staff-cyberattack-at-its-primary-distributor-unfi-will-affect-product-availability/) - Time not found
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - Time not found
+- [Love it or hate it? Apple’s new ‘Liquid Glass’ design is getting mixed reviews](https://techcrunch.com/2025/06/10/love-it-or-hate-it-apples-new-liquid-glass-design-is-getting-mixed-reviews/) - Time not found
+- [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/) - Time not found
+- [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/) - Time not found
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - Time not found
+- [Snap plans to sell lightweight, consumer AR glasses in 2026](https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/) - Time not found
