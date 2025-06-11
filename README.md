@@ -4,12 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 2 hours ago
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 3 hours ago
-- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 4 hours ago
-- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 4 hours ago
-- [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 6 hours ago
-- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 8 hours ago
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 4 hours ago
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 6 hours ago
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 8 hours ago
+- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 9 hours ago
+- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 9 hours ago
+- [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 11 hours ago
+- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 13 hours ago
 - [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 1 day ago
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 1 day ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
 - [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - Jun 4, 2025
 - [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - Jun 4, 2025
-- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
+- [OpenAI’s open model is delayed](https://techcrunch.com/2025/06/10/openais-open-model-is-delayed/) - Time not found
+- [Vijay Pande, founding partner of a16z bio and health strategy, steps down](https://techcrunch.com/2025/06/10/vijay-pande-founding-partner-of-a16z-bio-and-health-strategy-steps-down/) - Time not found
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - Time not found
+- [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/06/10/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/) - Time not found
+- [YouTube says its ecosystem created 490K jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/) - Time not found
+- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) - Time not found
 - [Bedrock Ocean dredges up $25M to map the seafloor with robots](https://techcrunch.com/2025/06/10/bedrock-ocean-dredges-up-25m-to-map-the-seafloor-with-robots/) - Time not found
-- [Whole Foods tells staff cyberattack at its primary distributor UNFI will affect product availability](https://techcrunch.com/2025/06/10/whole-foods-tells-staff-cyberattack-at-its-primary-distributor-unfi-will-affect-product-availability/) - Time not found
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - Time not found
-- [Love it or hate it? Apple’s new ‘Liquid Glass’ design is getting mixed reviews](https://techcrunch.com/2025/06/10/love-it-or-hate-it-apples-new-liquid-glass-design-is-getting-mixed-reviews/) - Time not found
-- [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/) - Time not found
-- [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/) - Time not found
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - Time not found
+- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
 - [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - Jun 4, 2025
 - [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - Jun 4, 2025
 - [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/) - Jun 3, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/) - Jun 1, 2025
 - [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/) - May 31, 2025
 - [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/) - May 31, 2025
-- [Day 3 of the TechCrunch Sessions: AI Trivia Countdown — your next shot at winning big](https://techcrunch.com/2025/05/31/day-3-of-the-techcrunch-sessions-ai-trivia-countdown-your-next-shot-at-winning-big/) - May 31, 2025
-- [Whole Foods tells staff cyberattack at its primary distributor UNFI will affect product availability](https://techcrunch.com/2025/06/10/whole-foods-tells-staff-cyberattack-at-its-primary-distributor-unfi-will-affect-product-availability/) - Time not found
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - Time not found
-- [Love it or hate it? Apple’s new ‘Liquid Glass’ design is getting mixed reviews](https://techcrunch.com/2025/06/10/love-it-or-hate-it-apples-new-liquid-glass-design-is-getting-mixed-reviews/) - Time not found
-- [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/) - Time not found
-- [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/) - Time not found
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - Time not found
-- [Snap plans to sell lightweight, consumer AR glasses in 2026](https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/) - Time not found
+- [OpenAI’s open model is delayed](https://techcrunch.com/2025/06/10/openais-open-model-is-delayed/) - Time not found
+- [Vijay Pande, founding partner of a16z bio and health strategy, steps down](https://techcrunch.com/2025/06/10/vijay-pande-founding-partner-of-a16z-bio-and-health-strategy-steps-down/) - Time not found
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - Time not found
+- [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/06/10/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/) - Time not found
+- [YouTube says its ecosystem created 490K jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/) - Time not found
+- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) - Time not found
+- [Bedrock Ocean dredges up $25M to map the seafloor with robots](https://techcrunch.com/2025/06/10/bedrock-ocean-dredges-up-25m-to-map-the-seafloor-with-robots/) - Time not found
