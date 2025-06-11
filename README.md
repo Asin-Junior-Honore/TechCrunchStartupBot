@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 10 hours ago
-- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 19 hours ago
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 22 hours ago
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 23 hours ago
-- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 24 hours ago
+- [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - 6 hours ago
+- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 14 hours ago
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 23 hours ago
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 1 day ago
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 1 day ago
+- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 1 day ago
 - [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 1 day ago
 - [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 1 day ago
 - [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 1 day ago
@@ -16,7 +17,7 @@ Here are the latest articles from TechCrunch Startups:
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 2 days ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 4 days ago
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - 4 days ago
-- [Meet the finalists: VivaTech’s 5 most visionary startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 5 days ago
+- [Meet the finalists: VivaTech’s 5 most visionary startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - Jun 6, 2025
 - [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - Jun 6, 2025
 - [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - Jun 6, 2025
 - [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - Jun 6, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - Jun 4, 2025
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - Jun 4, 2025
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
+- [All of the new features coming to Apple’s iOS apps](https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/) - Time not found
+- [Fervo Energy lands $206M in financing to build massive geothermal power plant](https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/) - Time not found
+- [Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?](https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/) - Time not found
+- [US government’s vaccine website defaced with AI-generated content](https://techcrunch.com/2025/06/11/us-governments-vaccine-website-defaced-with-ai-generated-content/) - Time not found
+- [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/) - Time not found
+- [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/) - Time not found
+- [Wikipedia pauses AI-generated summaries pilot after editors protest](https://techcrunch.com/2025/06/11/wikipedia-pauses-ai-generated-summaries-pilot-after-editors-protest/) - Time not found
 - [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - Jun 4, 2025
-- [Meta’s V-JEPA 2 model teaches AI to understand its surroundings](https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/) - Time not found
-- [Fiverr’s CEO on why AI is coming for everyone](https://techcrunch.com/podcast/fiverrs-ceo-on-why-ai-is-coming-for-everyone/) - Time not found
-- [Musk targets June 22 launch of Tesla’s long-promised robotaxi service](https://techcrunch.com/2025/06/11/musk-targets-june-22-launch-of-teslas-long-promised-robotaxi-service/) - Time not found
-- [Apple executives say new AI-powered Siri wasn’t ‘demoware,’ it just wasn’t ready to ship](https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/) - Time not found
-- [After Google, Meta loses public policy head in India](https://techcrunch.com/2025/06/11/after-google-meta-loses-public-policy-head-in-india/) - Time not found
-- [A big list of the small and hidden features in iOS 26](https://techcrunch.com/2025/06/11/a-big-list-of-the-small-and-hidden-features-in-ios-26/) - Time not found
-- [23andMe says 15% of customers asked to delete their genetic data since bankruptcy](https://techcrunch.com/2025/06/11/23andme-says-15-of-customers-asked-to-delete-their-genetic-data-since-bankruptcy/) - Time not found
 - [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - Jun 4, 2025
 - [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
 - [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - Jun 4, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman biographer Keach Hagey explains why the OpenAI CEO was ‘born for this moment’](https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/) - Jun 1, 2025
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/) - Jun 1, 2025
 - [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/) - Jun 1, 2025
-- [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/) - May 31, 2025
-- [Meta’s V-JEPA 2 model teaches AI to understand its surroundings](https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/) - Time not found
-- [Fiverr’s CEO on why AI is coming for everyone](https://techcrunch.com/podcast/fiverrs-ceo-on-why-ai-is-coming-for-everyone/) - Time not found
-- [Musk targets June 22 launch of Tesla’s long-promised robotaxi service](https://techcrunch.com/2025/06/11/musk-targets-june-22-launch-of-teslas-long-promised-robotaxi-service/) - Time not found
-- [Apple executives say new AI-powered Siri wasn’t ‘demoware,’ it just wasn’t ready to ship](https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/) - Time not found
-- [After Google, Meta loses public policy head in India](https://techcrunch.com/2025/06/11/after-google-meta-loses-public-policy-head-in-india/) - Time not found
-- [A big list of the small and hidden features in iOS 26](https://techcrunch.com/2025/06/11/a-big-list-of-the-small-and-hidden-features-in-ios-26/) - Time not found
-- [23andMe says 15% of customers asked to delete their genetic data since bankruptcy](https://techcrunch.com/2025/06/11/23andme-says-15-of-customers-asked-to-delete-their-genetic-data-since-bankruptcy/) - Time not found
+- [All of the new features coming to Apple’s iOS apps](https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/) - Time not found
+- [Fervo Energy lands $206M in financing to build massive geothermal power plant](https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/) - Time not found
+- [Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?](https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/) - Time not found
+- [US government’s vaccine website defaced with AI-generated content](https://techcrunch.com/2025/06/11/us-governments-vaccine-website-defaced-with-ai-generated-content/) - Time not found
+- [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/) - Time not found
+- [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/) - Time not found
+- [Wikipedia pauses AI-generated summaries pilot after editors protest](https://techcrunch.com/2025/06/11/wikipedia-pauses-ai-generated-summaries-pilot-after-editors-protest/) - Time not found
