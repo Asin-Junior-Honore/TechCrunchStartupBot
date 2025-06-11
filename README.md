@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 6 hours ago
-- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 15 hours ago
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 17 hours ago
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 19 hours ago
-- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 20 hours ago
-- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 20 hours ago
-- [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 22 hours ago
-- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 24 hours ago
+- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 10 hours ago
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 19 hours ago
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 22 hours ago
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 23 hours ago
+- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 24 hours ago
+- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 1 day ago
+- [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 1 day ago
+- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 1 day ago
 - [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 2 days ago
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 2 days ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 4 days ago
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - 4 days ago
-- [Meet the finalists: VivaTech’s 5 most visionary startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 4 days ago
-- [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - 5 days ago
-- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - 5 days ago
+- [Meet the finalists: VivaTech’s 5 most visionary startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - 5 days ago
+- [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - Jun 6, 2025
+- [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - Jun 6, 2025
 - [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - Jun 6, 2025
 - [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - Jun 6, 2025
 - [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Jun 6, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - Jun 4, 2025
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
 - [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - Jun 4, 2025
-- [Sam Altman thinks AI will have ‘novel insights’ next year](https://techcrunch.com/2025/06/11/sam-altman-thinks-ai-will-have-novel-insights-next-year/) - Time not found
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - Time not found
-- [OpenAI’s open model is delayed](https://techcrunch.com/2025/06/10/openais-open-model-is-delayed/) - Time not found
-- [Vijay Pande, founding partner of a16z bio and health strategy, steps down](https://techcrunch.com/2025/06/10/vijay-pande-founding-partner-of-a16z-bio-and-health-strategy-steps-down/) - Time not found
-- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - Time not found
-- [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/06/10/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/) - Time not found
-- [YouTube says its ecosystem created 490K jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/) - Time not found
+- [Meta’s V-JEPA 2 model teaches AI to understand its surroundings](https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/) - Time not found
+- [Fiverr’s CEO on why AI is coming for everyone](https://techcrunch.com/podcast/fiverrs-ceo-on-why-ai-is-coming-for-everyone/) - Time not found
+- [Musk targets June 22 launch of Tesla’s long-promised robotaxi service](https://techcrunch.com/2025/06/11/musk-targets-june-22-launch-of-teslas-long-promised-robotaxi-service/) - Time not found
+- [Apple executives say new AI-powered Siri wasn’t ‘demoware,’ it just wasn’t ready to ship](https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/) - Time not found
+- [After Google, Meta loses public policy head in India](https://techcrunch.com/2025/06/11/after-google-meta-loses-public-policy-head-in-india/) - Time not found
+- [A big list of the small and hidden features in iOS 26](https://techcrunch.com/2025/06/11/a-big-list-of-the-small-and-hidden-features-in-ios-26/) - Time not found
+- [23andMe says 15% of customers asked to delete their genetic data since bankruptcy](https://techcrunch.com/2025/06/11/23andme-says-15-of-customers-asked-to-delete-their-genetic-data-since-bankruptcy/) - Time not found
 - [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - Jun 4, 2025
 - [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
 - [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/) - Jun 4, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/) - Jun 1, 2025
 - [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/) - Jun 1, 2025
 - [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/) - May 31, 2025
-- [Sam Altman thinks AI will have ‘novel insights’ next year](https://techcrunch.com/2025/06/11/sam-altman-thinks-ai-will-have-novel-insights-next-year/) - Time not found
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - Time not found
-- [OpenAI’s open model is delayed](https://techcrunch.com/2025/06/10/openais-open-model-is-delayed/) - Time not found
-- [Vijay Pande, founding partner of a16z bio and health strategy, steps down](https://techcrunch.com/2025/06/10/vijay-pande-founding-partner-of-a16z-bio-and-health-strategy-steps-down/) - Time not found
-- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - Time not found
-- [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/06/10/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/) - Time not found
-- [YouTube says its ecosystem created 490K jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/) - Time not found
+- [Meta’s V-JEPA 2 model teaches AI to understand its surroundings](https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/) - Time not found
+- [Fiverr’s CEO on why AI is coming for everyone](https://techcrunch.com/podcast/fiverrs-ceo-on-why-ai-is-coming-for-everyone/) - Time not found
+- [Musk targets June 22 launch of Tesla’s long-promised robotaxi service](https://techcrunch.com/2025/06/11/musk-targets-june-22-launch-of-teslas-long-promised-robotaxi-service/) - Time not found
+- [Apple executives say new AI-powered Siri wasn’t ‘demoware,’ it just wasn’t ready to ship](https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/) - Time not found
+- [After Google, Meta loses public policy head in India](https://techcrunch.com/2025/06/11/after-google-meta-loses-public-policy-head-in-india/) - Time not found
+- [A big list of the small and hidden features in iOS 26](https://techcrunch.com/2025/06/11/a-big-list-of-the-small-and-hidden-features-in-ios-26/) - Time not found
+- [23andMe says 15% of customers asked to delete their genetic data since bankruptcy](https://techcrunch.com/2025/06/11/23andme-says-15-of-customers-asked-to-delete-their-genetic-data-since-bankruptcy/) - Time not found
