@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - 6 hours ago
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 14 hours ago
-- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 23 hours ago
+- [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - 4 hours ago
+- [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - 11 hours ago
+- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 19 hours ago
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 1 day ago
 - [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 1 day ago
 - [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 1 day ago
 - [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 1 day ago
 - [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 1 day ago
 - [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 1 day ago
-- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 1 day ago
+- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 2 days ago
 - [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 2 days ago
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 2 days ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - 4 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - Jun 5, 2025
 - [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - Jun 4, 2025
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/) - Jun 4, 2025
-- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
+- [Apple is salvaging Image Playground with a boost from ChatGPT](https://techcrunch.com/2025/06/11/apple-is-salvaging-image-playground-with-a-boost-from-chatgpt/) - Time not found
+- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
+- [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - Time not found
 - [All of the new features coming to Apple’s iOS apps](https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/) - Time not found
 - [Fervo Energy lands $206M in financing to build massive geothermal power plant](https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/) - Time not found
 - [Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?](https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/) - Time not found
 - [US government’s vaccine website defaced with AI-generated content](https://techcrunch.com/2025/06/11/us-governments-vaccine-website-defaced-with-ai-generated-content/) - Time not found
-- [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/) - Time not found
-- [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/) - Time not found
-- [Wikipedia pauses AI-generated summaries pilot after editors protest](https://techcrunch.com/2025/06/11/wikipedia-pauses-ai-generated-summaries-pilot-after-editors-protest/) - Time not found
+- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 4, 2025
 - [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/) - Jun 4, 2025
 - [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/) - Jun 4, 2025
 - [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/) - Jun 4, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Scale AI hires team behind remote developer recruiting platform Pesto AI](https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/) - Jun 2, 2025
 - [Sam Altman biographer Keach Hagey explains why the OpenAI CEO was ‘born for this moment’](https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/) - Jun 1, 2025
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/) - Jun 1, 2025
-- [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/) - Jun 1, 2025
-- [All of the new features coming to Apple’s iOS apps](https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/) - Time not found
-- [Fervo Energy lands $206M in financing to build massive geothermal power plant](https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/) - Time not found
-- [Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?](https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/) - Time not found
-- [US government’s vaccine website defaced with AI-generated content](https://techcrunch.com/2025/06/11/us-governments-vaccine-website-defaced-with-ai-generated-content/) - Time not found
-- [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/) - Time not found
-- [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/) - Time not found
-- [Wikipedia pauses AI-generated summaries pilot after editors protest](https://techcrunch.com/2025/06/11/wikipedia-pauses-ai-generated-summaries-pilot-after-editors-protest/) - Time not found
+- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) - Time not found
+- [WWDC 2025: Everything announced, including Liquid Glass, Apple Intelligence updates, and more](https://techcrunch.com/2025/06/09/wwdc-2025-everything-announced-including-liquid-glass-apple-intelligence-updates-and-more/) - Time not found
+- [Apple redesigns its operating systems with ‘Liquid Glass’ at WWDC 25](https://techcrunch.com/2025/06/09/apple-redesigns-its-operating-systems-with-liquid-glass/) - Time not found
+- [Major US grocery distributor warns of disruption after cyberattack](https://techcrunch.com/2025/06/09/major-us-grocery-distributor-warns-of-disruption-after-cyberattack/) - Time not found
+- [Anthropic’s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/) - Time not found
+- [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Time not found
+- [Jony Ive’s LoveFrom helped design Rivian’s first electric bike](https://techcrunch.com/2025/06/06/jony-ives-lovefrom-helped-design-rivians-first-electric-bike/) - Time not found
