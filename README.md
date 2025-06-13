@@ -4,14 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 14 minutes ago
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 18 hours ago
-- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - 20 hours ago
-- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - 21 hours ago
-- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 23 hours ago
-- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - 23 hours ago
-- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - 23 hours ago
-- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - 24 hours ago
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 5 minutes ago
+- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - 23 minutes ago
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - 3 hours ago
+- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 4 hours ago
+- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 22 hours ago
+- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - 1 day ago
+- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 1 day ago
+- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - 1 day ago
+- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - 1 day ago
+- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - 1 day ago
 - [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - 1 day ago
 - [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - 2 days ago
 - [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - 2 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - Jun 6, 2025
 - [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - Jun 6, 2025
 - [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - Jun 6, 2025
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - Time not found
+- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Time not found
+- [Nvidia to exclude China from its revenue and profit forecasts](https://techcrunch.com/2025/06/13/nvidia-to-exclude-china-from-its-revenue-and-profit-forecasts/) - Time not found
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Time not found
+- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - Time not found
+- [Iconiq VCs spent two years courting Chime and the firm isn’t selling its stake](https://techcrunch.com/2025/06/13/iconiq-vcs-spent-two-years-courting-chime-and-the-firm-isnt-selling-its-stake/) - Time not found
+- [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexandr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/) - Time not found
 - [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - Jun 6, 2025
 - [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Jun 6, 2025
 - [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - Jun 6, 2025
-- [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
-- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
-- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) - Time not found
-- [WWDC 2025: Everything announced, including Liquid Glass, Apple Intelligence updates, and more](https://techcrunch.com/2025/06/09/wwdc-2025-everything-announced-including-liquid-glass-apple-intelligence-updates-and-more/) - Time not found
-- [Major US grocery distributor warns of disruption after cyberattack](https://techcrunch.com/2025/06/09/major-us-grocery-distributor-warns-of-disruption-after-cyberattack/) - Time not found
-- [Anthropic’s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/) - Time not found
-- [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Time not found
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - Jun 5, 2025
 - [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - Jun 5, 2025
 - [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - Jun 5, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/) - Jun 3, 2025
 - [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - Jun 3, 2025
 - [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - Jun 2, 2025
-- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/) - Jun 2, 2025
-- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - Jun 2, 2025
-- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - Jun 2, 2025
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - Time not found
+- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Time not found
+- [Nvidia to exclude China from its revenue and profit forecasts](https://techcrunch.com/2025/06/13/nvidia-to-exclude-china-from-its-revenue-and-profit-forecasts/) - Time not found
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Time not found
 - [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - Time not found
 - [Iconiq VCs spent two years courting Chime and the firm isn’t selling its stake](https://techcrunch.com/2025/06/13/iconiq-vcs-spent-two-years-courting-chime-and-the-firm-isnt-selling-its-stake/) - Time not found
 - [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexandr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/) - Time not found
-- [After a string of successes, early-stage fund Felicis raises fresh $900M](https://techcrunch.com/2025/06/12/after-a-string-of-successes-early-stage-fund-felicis-raises-fresh-900m/) - Time not found
-- [The Meta AI app is a privacy disaster](https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/) - Time not found
-- [Bluesky backlash misses the point](https://techcrunch.com/2025/06/12/bluesky-backlash-misses-the-point/) - Time not found
-- [Meta teams with XGS Energy to build a 150 MW geothermal power plant](https://techcrunch.com/2025/06/12/meta-teams-with-xgs-energy-to-build-a-150-mw-geothermal-power-plant/) - Time not found
