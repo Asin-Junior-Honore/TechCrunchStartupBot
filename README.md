@@ -4,25 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 10 hours ago
-- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - 12 hours ago
-- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 15 hours ago
-- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - 15 hours ago
-- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - 15 hours ago
-- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - 16 hours ago
-- [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - 19 hours ago
+- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 13 hours ago
+- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - 16 hours ago
+- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 19 hours ago
+- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - 19 hours ago
+- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - 19 hours ago
+- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - 19 hours ago
+- [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - 23 hours ago
 - [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - 1 day ago
 - [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - 2 days ago
 - [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 2 days ago
 - [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 2 days ago
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 2 days ago
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 2 days ago
-- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 2 days ago
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 3 days ago
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 3 days ago
+- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/) - 3 days ago
 - [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - 3 days ago
 - [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/) - 3 days ago
 - [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/) - 3 days ago
-- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 3 days ago
+- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/) - 4 days ago
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - 4 days ago
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - Jun 7, 2025
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Jun 7, 2025
@@ -35,9 +35,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - Jun 6, 2025
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - Jun 5, 2025
 - [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
+- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
 - [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) - Time not found
 - [WWDC 2025: Everything announced, including Liquid Glass, Apple Intelligence updates, and more](https://techcrunch.com/2025/06/09/wwdc-2025-everything-announced-including-liquid-glass-apple-intelligence-updates-and-more/) - Time not found
-- [Apple redesigns its operating systems with ‘Liquid Glass’ at WWDC 25](https://techcrunch.com/2025/06/09/apple-redesigns-its-operating-systems-with-liquid-glass/) - Time not found
 - [Major US grocery distributor warns of disruption after cyberattack](https://techcrunch.com/2025/06/09/major-us-grocery-distributor-warns-of-disruption-after-cyberattack/) - Time not found
 - [Anthropic’s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/) - Time not found
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/) - Jun 2, 2025
 - [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/) - Jun 2, 2025
 - [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/) - Jun 2, 2025
+- [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexanr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexanr-wang-is-leaving/) - Time not found
 - [After a string of successes, early-stage fund Felicis raises fresh $900M](https://techcrunch.com/2025/06/12/after-a-string-of-successes-early-stage-fund-felicis-raises-fresh-900m/) - Time not found
 - [The Meta AI app is a privacy disaster](https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/) - Time not found
 - [Bluesky backlash misses the point](https://techcrunch.com/2025/06/12/bluesky-backlash-misses-the-point/) - Time not found
 - [Meta teams with XGS Energy to build a 150 MW geothermal power plant](https://techcrunch.com/2025/06/12/meta-teams-with-xgs-energy-to-build-a-150-mw-geothermal-power-plant/) - Time not found
 - [Tesla sues former Optimus engineer over alleged trade secret theft](https://techcrunch.com/2025/06/12/tesla-sues-former-optimus-engineer-over-alleged-trade-secret-theft/) - Time not found
 - [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - Time not found
