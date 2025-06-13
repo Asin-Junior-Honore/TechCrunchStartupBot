@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 5 minutes ago
-- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - 23 minutes ago
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - 3 hours ago
-- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 4 hours ago
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 22 hours ago
+- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - 3 hours ago
+- [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - 3 hours ago
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 4 hours ago
+- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - 4 hours ago
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - 7 hours ago
+- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 8 hours ago
+- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 1 day ago
 - [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - 1 day ago
 - [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 1 day ago
@@ -18,7 +20,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - 1 day ago
 - [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - 2 days ago
 - [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - 2 days ago
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 2 days ago
+- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - 3 days ago
 - [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/) - 3 days ago
 - [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/) - 3 days ago
 - [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 3 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Jun 7, 2025
 - [Meet the finalists: VivaTech’s 5 most visionary startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/) - Jun 6, 2025
 - [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/) - Jun 6, 2025
+- [TechCrunch Mobility: The cost of Waymo](https://techcrunch.com/2025/06/13/techcrunch-mobility-the-cost-of-waymo/) - Time not found
+- [Google tests Audio Overviews for Search queries](https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/) - Time not found
+- [Apple’s Liquid Glass design is paving the way for AR glasses](https://techcrunch.com/2025/06/13/apples-liquid-glass-design-is-paving-the-way-for-ar-glasses/) - Time not found
+- [Silicon Valley tech execs are joining the US Army Reserve](https://techcrunch.com/2025/06/13/silicon-valley-tech-execs-are-joining-the-us-army-reserve/) - Time not found
+- [Amazon joins the big nuclear party, buying 1.92 GW for AWS](https://techcrunch.com/2025/06/13/amazon-joins-the-big-nuclear-party-buying-1-92-gw-for-aws/) - Time not found
+- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - Time not found
+- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/06/13/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/) - Time not found
 - [Inside Anthropic’s AI ambitions with Jared Kaplan](https://techcrunch.com/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/) - Jun 6, 2025
 - [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/) - Jun 6, 2025
-- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - Time not found
-- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Time not found
-- [Nvidia to exclude China from its revenue and profit forecasts](https://techcrunch.com/2025/06/13/nvidia-to-exclude-china-from-its-revenue-and-profit-forecasts/) - Time not found
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Time not found
-- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - Time not found
-- [Iconiq VCs spent two years courting Chime and the firm isn’t selling its stake](https://techcrunch.com/2025/06/13/iconiq-vcs-spent-two-years-courting-chime-and-the-firm-isnt-selling-its-stake/) - Time not found
-- [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexandr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/) - Time not found
 - [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/) - Jun 6, 2025
 - [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/) - Jun 6, 2025
 - [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - Jun 6, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/) - Jun 3, 2025
 - [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/) - Jun 3, 2025
 - [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/) - Jun 3, 2025
-- [Irish fintech Nomupay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/) - Jun 3, 2025
-- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/) - Jun 2, 2025
-- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - Time not found
-- [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Time not found
-- [Nvidia to exclude China from its revenue and profit forecasts](https://techcrunch.com/2025/06/13/nvidia-to-exclude-china-from-its-revenue-and-profit-forecasts/) - Time not found
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Time not found
-- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - Time not found
-- [Iconiq VCs spent two years courting Chime and the firm isn’t selling its stake](https://techcrunch.com/2025/06/13/iconiq-vcs-spent-two-years-courting-chime-and-the-firm-isnt-selling-its-stake/) - Time not found
-- [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexandr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/) - Time not found
+- [TechCrunch Mobility: The cost of Waymo](https://techcrunch.com/2025/06/13/techcrunch-mobility-the-cost-of-waymo/) - Time not found
+- [Google tests Audio Overviews for Search queries](https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/) - Time not found
+- [Apple’s Liquid Glass design is paving the way for AR glasses](https://techcrunch.com/2025/06/13/apples-liquid-glass-design-is-paving-the-way-for-ar-glasses/) - Time not found
+- [Silicon Valley tech execs are joining the US Army Reserve](https://techcrunch.com/2025/06/13/silicon-valley-tech-execs-are-joining-the-us-army-reserve/) - Time not found
+- [Amazon joins the big nuclear party, buying 1.92 GW for AWS](https://techcrunch.com/2025/06/13/amazon-joins-the-big-nuclear-party-buying-1-92-gw-for-aws/) - Time not found
+- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - Time not found
+- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/06/13/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/) - Time not found
