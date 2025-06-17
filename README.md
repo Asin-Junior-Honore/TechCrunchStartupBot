@@ -4,29 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - 2 hours ago
-- [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/) - 5 hours ago
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 6 hours ago
-- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/16/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 6 hours ago
-- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/16/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 6 hours ago
-- [The countdown begins: 7 days left to save up to $210 on TechCrunch All Stage passes](https://techcrunch.com/2025/06/16/the-countdown-begins-7-days-left-to-save-up-to-210-on-techcrunch-all-stage-passes/) - 6 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/16/tech-layoffs-2025-list/) - 6 hours ago
-- [Alta raises $11M to bring ‘Clueless’ fashion tech to life with all-star investors](https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/) - 7 hours ago
-- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - 21 hours ago
+- [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - 7 hours ago
+- [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/) - 10 hours ago
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 11 hours ago
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/16/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 11 hours ago
+- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/16/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 11 hours ago
+- [The countdown begins: 7 days left to save up to $210 on TechCrunch All Stage passes](https://techcrunch.com/2025/06/16/the-countdown-begins-7-days-left-to-save-up-to-210-on-techcrunch-all-stage-passes/) - 11 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/16/tech-layoffs-2025-list/) - 11 hours ago
+- [Alta raises $11M to bring ‘Clueless’ fashion tech to life with all-star investors](https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/) - 12 hours ago
+- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - 1 day ago
 - [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/) - 1 day ago
 - [Clay secures a new round at a $3B valuation, sources say](https://techcrunch.com/2025/06/13/clay-secures-a-new-round-at-a-3b-valuation-sources-say/) - 3 days ago
 - [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - 3 days ago
 - [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - 3 days ago
 - [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - 3 days ago
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - 3 days ago
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - 4 days ago
 - [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - 4 days ago
 - [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - 4 days ago
 - [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 4 days ago
-- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - 4 days ago
-- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - 4 days ago
-- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - 4 days ago
-- [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - 4 days ago
+- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - 5 days ago
+- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - 5 days ago
+- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - 5 days ago
+- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - 5 days ago
+- [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - 5 days ago
 - [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - Jun 11, 2025
 - [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/) - Jun 11, 2025
 - [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/) - Jun 10, 2025
@@ -36,7 +36,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/) - Jun 10, 2025
 - [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
 - [New details emerge on Meta’s $14.3B deal for Scale](https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/) - Time not found
-- [Bluesky backlash misses the point](https://techcrunch.com/2025/06/12/bluesky-backlash-misses-the-point/) - Time not found
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Time not found
 - [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
 - [Waymo rides cost more than Uber or Lyft — and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/) - Time not found
 - [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/) - Jun 4, 2025
 - [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/) - Jun 3, 2025
 - [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/) - Jun 3, 2025
-- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
-- [New details emerge on Meta’s $14.3B deal for Scale](https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/) - Time not found
-- [Bluesky backlash misses the point](https://techcrunch.com/2025/06/12/bluesky-backlash-misses-the-point/) - Time not found
-- [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
-- [Waymo rides cost more than Uber or Lyft — and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/) - Time not found
-- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
-- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) - Time not found
+- [The cracks in the OpenAI-Microsoft relationship are reportedly widening](https://techcrunch.com/2025/06/16/the-cracks-in-the-openai-microsoft-relationship-are-reportedly-widening/) - Time not found
+- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
+- [Instagram tests a reposts feature](https://techcrunch.com/2025/06/16/instagram-tests-a-reposts-feature/) - Time not found
+- [Instagram users complain of mass bans, pointing finger at AI](https://techcrunch.com/2025/06/16/instagram-users-complain-of-mass-bans-pointing-finger-at-ai/) - Time not found
+- [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - Time not found
+- [Threads is testing spoiler text, Zuckerberg says](https://techcrunch.com/2025/06/16/threads-is-testing-spoiler-text-zuckerberg-says/) - Time not found
+- [Patreon will increase the cut it takes from new creators](https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/) - Time not found
