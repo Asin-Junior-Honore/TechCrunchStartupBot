@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 8 hours ago
-- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - 9 hours ago
-- [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - 10 hours ago
-- [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - 11 hours ago
-- [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/) - 13 hours ago
-- [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/) - 13 hours ago
-- [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/) - 14 hours ago
-- [Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock ](https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/) - 15 hours ago
-- [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/) - 16 hours ago
-- [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/) - 16 hours ago
-- [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - 1 day ago
+- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - 2 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 11 hours ago
+- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - 13 hours ago
+- [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - 14 hours ago
+- [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - 15 hours ago
+- [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/) - 17 hours ago
+- [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/) - 17 hours ago
+- [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/) - 18 hours ago
+- [Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock ](https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/) - 19 hours ago
+- [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/) - 20 hours ago
+- [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/) - 20 hours ago
+- [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - 2 days ago
 - [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/) - 2 days ago
 - [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 2 days ago
 - [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/16/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 2 days ago
@@ -22,25 +23,25 @@ Here are the latest articles from TechCrunch Startups:
 - [The countdown begins: 7 days left to save up to $210 on TechCrunch All Stage passes](https://techcrunch.com/2025/06/16/the-countdown-begins-7-days-left-to-save-up-to-210-on-techcrunch-all-stage-passes/) - 2 days ago
 - [Alta raises $11M to bring ‘Clueless’ fashion tech to life with all-star investors](https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/) - 2 days ago
 - [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - 2 days ago
-- [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/) - 2 days ago
+- [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/) - 3 days ago
 - [Clay secures a new round at a $3B valuation, sources say](https://techcrunch.com/2025/06/13/clay-secures-a-new-round-at-a-3b-valuation-sources-say/) - 4 days ago
-- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - 4 days ago
-- [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - 4 days ago
+- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - 5 days ago
+- [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - 5 days ago
 - [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - 5 days ago
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - 5 days ago
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Jun 13, 2025
 - [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - Jun 12, 2025
 - [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - Jun 12, 2025
 - [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - Jun 12, 2025
 - [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - Jun 12, 2025
 - [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - Jun 12, 2025
-- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - Jun 12, 2025
+- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - Time not found
 - [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
 - [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
 - [OpenAI’s $200M DoD contract could squeeze frenemy Microsoft](https://techcrunch.com/2025/06/17/openais-200m-dod-contract-could-squeeze-frenemy-microsoft/) - Time not found
 - [EVs dominate the most American-made cars index and it’s not just because of Tesla](https://techcrunch.com/2025/06/17/evs-dominate-the-most-american-made-cars-index-and-its-not-just-because-of-tesla/) - Time not found
 - [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - Time not found
-- [Amazon expects to reduce corporate jobs due to AI](https://techcrunch.com/2025/06/17/amazon-expects-to-reduce-corporate-jobs-due-to-ai/) - Time not found
+- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/) - Jun 12, 2025
 - [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - Jun 12, 2025
 - [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - Jun 12, 2025
 - [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - Jun 11, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Toma’s AI voice agents have taken off at car dealerships — and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/) - Jun 5, 2025
 - [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/) - Jun 5, 2025
 - [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/) - Jun 5, 2025
-- [CrowdStrike’s former CTO on cyber rivalries and how automation can undermine security for early-stage startups](https://techcrunch.com/podcast/crowdstrikes-former-cto-on-cyber-rivalries-and-how-automation-can-undermine-security-for-early-stage-startups/) - Jun 4, 2025
 - [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
 - [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
 - [New details emerge on Meta’s $14.3B deal for Scale](https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/) - Time not found
