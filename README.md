@@ -4,14 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Seed to Series C: What VCs actually want from AI startups](https://techcrunch.com/podcast/seed-to-series-c-what-vcs-actually-want-from-ai-startups/) - 5 minutes ago
-- [Scale smarter: 5 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/18/scale-smarter-5-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 51 minutes ago
-- [Grifin secures $11M to make investing less intimidating for its female user base](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating-for-its-female-user-base/) - 3 hours ago
-- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - 10 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 20 hours ago
-- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - 22 hours ago
-- [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - 22 hours ago
-- [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - 23 hours ago
+- [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - 13 minutes ago
+- [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/) - 2 hours ago
+- [Seed to Series C: What VCs actually want from AI startups](https://techcrunch.com/podcast/seed-to-series-c-what-vcs-actually-want-from-ai-startups/) - 4 hours ago
+- [Scale smarter: 5 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/18/scale-smarter-5-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 5 hours ago
+- [Grifin secures $11M to make investing less intimidating](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating/) - 7 hours ago
+- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - 14 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 24 hours ago
+- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - 1 day ago
+- [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - 1 day ago
+- [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - 1 day ago
 - [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/) - 1 day ago
 - [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/) - 1 day ago
 - [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - Jun 13, 2025
 - [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Jun 13, 2025
 - [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Jun 13, 2025
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - Jun 12, 2025
-- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - Jun 12, 2025
 - [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
 - [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
+- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - Time not found
 - [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
-- [New details emerge on Meta’s $14.3B deal for Scale](https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/) - Time not found
 - [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
 - [Waymo rides cost more than Uber or Lyft — and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/) - Time not found
 - [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
+- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - Jun 12, 2025
+- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - Jun 12, 2025
 - [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - Jun 12, 2025
 - [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/) - Jun 12, 2025
 - [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/) - Jun 12, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/) - Jun 6, 2025
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) - Jun 5, 2025
 - [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/) - Jun 5, 2025
-- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/) - Jun 5, 2025
-- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/) - Jun 5, 2025
-- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
-- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
-- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
-- [New details emerge on Meta’s $14.3B deal for Scale](https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/) - Time not found
-- [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/) - Time not found
-- [Waymo rides cost more than Uber or Lyft — and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/) - Time not found
-- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/) - Time not found
+- [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - Time not found
+- [Midjourney launches its first AI video generation model, V1](https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/) - Time not found
+- [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/) - Time not found
+- [OpenAI drops Scale AI as a data provider following Meta deal](https://techcrunch.com/2025/06/18/openai-drops-scale-ai-as-a-data-provider-following-meta-deal/) - Time not found
+- [A glitch is turning Threads into a literal echo chamber](https://techcrunch.com/2025/06/18/a-glitch-is-turning-threads-into-a-literal-echo-chamber/) - Time not found
+- [xAI is facing a lawsuit for operating over 400 MW of gas turbines without permits](https://techcrunch.com/2025/06/18/xai-is-facing-a-lawsuit-for-operating-over-400-mw-of-gas-turbines-without-permits/) - Time not found
+- [Facebook will soon roll out support for passkeys on Android and iOS](https://techcrunch.com/2025/06/18/facebook-will-soon-roll-out-support-for-passkeys-on-android-and-ios/) - Time not found
