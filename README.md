@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 17 hours ago
-- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/19/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - 17 hours ago
-- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - 18 hours ago
-- [4 days left: Lock in your TechCrunch All Stage pass — or miss $210 in savings](https://techcrunch.com/2025/06/19/4-days-left-lock-in-your-techcrunch-all-stage-pass-or-miss-210-in-savings/) - 18 hours ago
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/06/19/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 22 hours ago
+- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 22 hours ago
+- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/19/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - 22 hours ago
+- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - 22 hours ago
+- [4 days left: Lock in your TechCrunch All Stage pass — or miss $210 in savings](https://techcrunch.com/2025/06/19/4-days-left-lock-in-your-techcrunch-all-stage-pass-or-miss-210-in-savings/) - 22 hours ago
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/06/19/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 1 day ago
 - [Stripe’s former growth lead helps African diaspora invest in startups, real estate](https://techcrunch.com/2025/06/19/stripes-former-growth-lead-helps-african-diaspora-back-home/) - 1 day ago
-- [Here are the 24 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/06/18/here-are-the-24-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 1 day ago
-- [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - 1 day ago
+- [Here are the 24 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/06/18/here-are-the-24-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 2 days ago
+- [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - 2 days ago
 - [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - 2 days ago
 - [Midjourney launches its first AI video generation model, V1](https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/) - 2 days ago
 - [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/) - 2 days ago
@@ -19,7 +19,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Scale smarter: 5 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/18/scale-smarter-5-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 2 days ago
 - [Grifin secures $11M to make investing less intimidating](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating/) - 2 days ago
 - [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - 2 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 2 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 3 days ago
 - [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - 3 days ago
 - [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - 3 days ago
 - [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - 3 days ago
@@ -34,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - 4 days ago
 - [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/16/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/) - 4 days ago
 - [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/16/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/) - 4 days ago
-- [The Robinhood founder who might just revolutionize energy (if he succeeds)](https://techcrunch.com/2025/06/19/the-robinhood-founder-who-might-just-revolutionize-energy-if-he-succeeds/) - Time not found
-- [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/) - Time not found
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/06/19/every-fusion-startup-that-has-raised-over-100m/) - Time not found
-- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - Time not found
-- [Amazon to invest $233M to enhance its India infrastructure](https://techcrunch.com/2025/06/19/amazon-to-invest-233m-to-enhance-its-india-infrastructure/) - Time not found
-- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/19/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - Time not found
-- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - Time not found
+- [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - Time not found
+- [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
+- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
+- [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
+- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
+- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - Time not found
+- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
 - [The countdown begins: 7 days left to save up to $210 on TechCrunch All Stage passes](https://techcrunch.com/2025/06/16/the-countdown-begins-7-days-left-to-save-up-to-210-on-techcrunch-all-stage-passes/) - 4 days ago
 - [Alta raises $11M to bring ‘Clueless’ fashion tech to life with all-star investors](https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/) - 4 days ago
-- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - 4 days ago
-- [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/) - 5 days ago
+- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - 5 days ago
+- [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/) - Jun 15, 2025
 - [Clay secures a new round at a $3B valuation, sources say](https://techcrunch.com/2025/06/13/clay-secures-a-new-round-at-a-3b-valuation-sources-say/) - Jun 13, 2025
 - [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - Jun 13, 2025
 - [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - Jun 13, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/) - Jun 9, 2025
 - [Will Musk vs. Trump affect xAI’s $5B debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/) - Jun 7, 2025
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/) - Jun 7, 2025
-- [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - Time not found
-- [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
-- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
-- [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
-- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
-- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - Time not found
-- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
+- [The Robinhood founder who might just revolutionize energy (if he succeeds)](https://techcrunch.com/2025/06/19/the-robinhood-founder-who-might-just-revolutionize-energy-if-he-succeeds/) - Time not found
+- [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/) - Time not found
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/06/19/every-fusion-startup-that-has-raised-over-100m/) - Time not found
+- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - Time not found
+- [Amazon to invest $233M to enhance its India infrastructure](https://techcrunch.com/2025/06/19/amazon-to-invest-233m-to-enhance-its-india-infrastructure/) - Time not found
+- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/19/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - Time not found
+- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - Time not found
