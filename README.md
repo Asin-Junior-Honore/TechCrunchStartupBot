@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 2 hours ago
-- [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/) - 16 hours ago
-- [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - 19 hours ago
-- [The startups rolling out of Europe’s early-stage micromobility scene](https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/) - 22 hours ago
-- [Startups Weekly: Fast and furious](https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/) - 23 hours ago
-- [Could OpenAI fill Microsoft’s shoes?](https://techcrunch.com/podcast/could-openai-fill-microsofts-shoes/) - 24 hours ago
+- [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 6 hours ago
+- [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/) - 20 hours ago
+- [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - 23 hours ago
+- [The startups rolling out of Europe’s early-stage micromobility scene](https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/) - 1 day ago
+- [Startups Weekly: Fast and furious](https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/) - 1 day ago
+- [Could OpenAI fill Microsoft’s shoes?](https://techcrunch.com/podcast/could-openai-fill-microsofts-shoes/) - 1 day ago
 - [VanMoof is back with a new custom e-bike and rebooted repair network](https://techcrunch.com/2025/06/20/vanmoof-is-back-with-a-new-custom-e-bike-and-rebooted-repair-network/) - 1 day ago
 - [Boston Side Events lineup at TechCrunch All Stage with Fidelity Private Shares, Women Tech Meetup, Prepare 4 VC, and more](https://techcrunch.com/2025/06/20/boston-side-events-line-up-at-all-stage-with-fidelity-private-shares-women-tech-meetup-prepare-4-vc-and-more/) - 1 day ago
 - [Find out how Flexport’s CEO, Ryan Petersen, builds when the rules keep changing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 1 day ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - 2 days ago
 - [4 days left: Lock in your TechCrunch All Stage pass — or miss $210 in savings](https://techcrunch.com/2025/06/19/4-days-left-lock-in-your-techcrunch-all-stage-pass-or-miss-210-in-savings/) - 2 days ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/06/19/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 2 days ago
-- [Stripe’s former growth lead helps African diaspora invest in startups, real estate](https://techcrunch.com/2025/06/19/stripes-former-growth-lead-helps-african-diaspora-back-home/) - 2 days ago
+- [Stripe’s former growth lead helps African diaspora invest in startups, real estate](https://techcrunch.com/2025/06/19/stripes-former-growth-lead-helps-african-diaspora-back-home/) - 3 days ago
 - [Here are the 24 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/06/18/here-are-the-24-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 3 days ago
 - [6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - 3 days ago
 - [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - 3 days ago
@@ -30,24 +30,24 @@ Here are the latest articles from TechCrunch Startups:
 - [Seed to Series C: What VCs actually want from AI startups](https://techcrunch.com/podcast/seed-to-series-c-what-vcs-actually-want-from-ai-startups/) - 3 days ago
 - [Scale smarter: 5 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/18/scale-smarter-5-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 3 days ago
 - [Grifin secures $11M to make investing less intimidating](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating/) - 3 days ago
-- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - 3 days ago
+- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - 4 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - 4 days ago
 - [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - 4 days ago
 - [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - 4 days ago
-- [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - Time not found
-- [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/) - Time not found
-- [Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/) - Time not found
-- [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
-- [TechCrunch Mobility: Applied Intuition’s eye-popping valuation, the new age of micromobility, and Waymo’s wild week ](https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/) - Time not found
-- [Anthropic says most AI models, not just Claude, will resort to blackmail](https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/) - Time not found
-- [The new math: Why seed investors are selling their winners earlier](https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/) - Time not found
+- [6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - Time not found
+- [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
+- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
+- [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
+- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
+- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - Time not found
+- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
 - [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - 4 days ago
 - [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/) - 4 days ago
 - [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/) - 4 days ago
 - [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/) - 4 days ago
 - [Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock ](https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/) - 4 days ago
-- [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/) - 4 days ago
 - [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/) - 4 days ago
+- [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/) - 4 days ago
 - [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - Jun 16, 2025
 - [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/) - Jun 16, 2025
 - [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - Jun 16, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/) - Jun 12, 2025
 - [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/) - Jun 12, 2025
 - [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/) - Jun 11, 2025
-- [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - Time not found
-- [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/) - Time not found
-- [Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/) - Time not found
-- [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
-- [TechCrunch Mobility: Applied Intuition’s eye-popping valuation, the new age of micromobility, and Waymo’s wild week ](https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/) - Time not found
-- [Anthropic says most AI models, not just Claude, will resort to blackmail](https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/) - Time not found
-- [The new math: Why seed investors are selling their winners earlier](https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/) - Time not found
+- [6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - Time not found
+- [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
+- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
+- [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
+- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/) - Time not found
+- [The US Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/) - Time not found
+- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/) - Time not found
