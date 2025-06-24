@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/) - 42 seconds ago
-- [Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer on what makes a pitch land at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/24/medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-on-what-makes-a-pitch-land-at-techcrunch-disrupt-2025/) - 42 seconds ago
-- [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/) - 31 minutes ago
-- [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/) - 20 hours ago
-- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 22 hours ago
+- [In just 4 months, AI medical scribe Abridge doubles valuation to $5.3B](https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/) - 2 minutes ago
+- [At TechCrunch Disrupt 2025, Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer discuss what makes a pitch land](https://techcrunch.com/2025/06/24/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - 4 hours ago
+- [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/) - 4 hours ago
+- [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/) - 5 hours ago
+- [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/) - 24 hours ago
+- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 1 day ago
 - [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/) - 1 day ago
 - [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/) - 1 day ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Stripe’s former growth lead helps African diaspora invest in startups, real estate](https://techcrunch.com/2025/06/19/stripes-former-growth-lead-helps-african-diaspora-back-home/) - Jun 19, 2025
 - [Here are the 24 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/06/18/here-are-the-24-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Jun 18, 2025
 - [6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - Jun 18, 2025
-- [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - Jun 18, 2025
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
 - [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
 - [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
 - [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
+- [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - Jun 18, 2025
 - [Midjourney launches its first AI video generation model, V1](https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/) - Jun 18, 2025
 - [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/) - Jun 18, 2025
 - [Seed to Series C: What VCs actually want from AI startups](https://techcrunch.com/podcast/seed-to-series-c-what-vcs-actually-want-from-ai-startups/) - Jun 18, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/) - Jun 13, 2025
 - [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - Jun 13, 2025
 - [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Jun 13, 2025
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Jun 13, 2025
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
 - [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
