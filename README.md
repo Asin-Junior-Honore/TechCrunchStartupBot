@@ -4,11 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/) - 16 hours ago
-- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 18 hours ago
-- [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/) - 20 hours ago
-- [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/) - 23 hours ago
+- [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/) - 42 seconds ago
+- [Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer on what makes a pitch land at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/24/medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-on-what-makes-a-pitch-land-at-techcrunch-disrupt-2025/) - 42 seconds ago
+- [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/) - 31 minutes ago
+- [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/) - 20 hours ago
+- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 22 hours ago
+- [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/) - 1 day ago
+- [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/) - 1 day ago
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - 2 days ago
 - [Last day to save on your TechCrunch All Stage pass — prices go up tonight](https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/) - 2 days ago
 - [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - 3 days ago
@@ -18,8 +21,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: Fast and furious](https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/) - 4 days ago
 - [Could OpenAI fill Microsoft’s shoes?](https://techcrunch.com/podcast/could-openai-fill-microsofts-shoes/) - 4 days ago
 - [VanMoof is back with a new custom e-bike and rebooted repair network](https://techcrunch.com/2025/06/20/vanmoof-is-back-with-a-new-custom-e-bike-and-rebooted-repair-network/) - 4 days ago
-- [Boston Side Events lineup at TechCrunch All Stage with Fidelity Private Shares, Women Tech Meetup, Prepare 4 VC, and more](https://techcrunch.com/2025/06/20/boston-side-events-line-up-at-all-stage-with-fidelity-private-shares-women-tech-meetup-prepare-4-vc-and-more/) - 4 days ago
 - [Find out how Flexport’s CEO, Ryan Petersen, builds when the rules keep changing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Boston Side Events lineup at TechCrunch All Stage with Fidelity Private Shares, Women Tech Meetup, Prepare 4 VC, and more](https://techcrunch.com/2025/06/20/boston-side-events-line-up-at-all-stage-with-fidelity-private-shares-women-tech-meetup-prepare-4-vc-and-more/) - 4 days ago
 - [Startup hiring isn’t just about the pitch, it’s about the package — Pulley, 645 Ventures, and Epigram Legal break it down at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 4 days ago
 - [3 more days to fuel your next big move — and save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/20/3-more-days-to-fuel-your-next-big-move-and-save-up-to-210-on-techcrunch-all-stage-passes/) - 4 days ago
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/06/19/every-fusion-startup-that-has-raised-over-100m/) - Jun 19, 2025
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Here are the 24 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/06/18/here-are-the-24-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Jun 18, 2025
 - [6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) - Jun 18, 2025
 - [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/) - Jun 18, 2025
-- [Midjourney launches its first AI video generation model, V1](https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/) - Jun 18, 2025
-- [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/) - Jun 18, 2025
-- [Seed to Series C: What VCs actually want from AI startups](https://techcrunch.com/podcast/seed-to-series-c-what-vcs-actually-want-from-ai-startups/) - Jun 18, 2025
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
 - [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/) - Time not found
 - [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) - Time not found
 - [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/) - Time not found
+- [Midjourney launches its first AI video generation model, V1](https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/) - Jun 18, 2025
+- [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/) - Jun 18, 2025
+- [Seed to Series C: What VCs actually want from AI startups](https://techcrunch.com/podcast/seed-to-series-c-what-vcs-actually-want-from-ai-startups/) - Jun 18, 2025
 - [Scale smarter: 5 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/18/scale-smarter-5-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - Jun 18, 2025
 - [Grifin secures $11M to make investing less intimidating](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating/) - Jun 18, 2025
 - [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - Jun 17, 2025
@@ -52,8 +55,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/) - Jun 17, 2025
 - [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/) - Jun 17, 2025
 - [Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock ](https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/) - Jun 17, 2025
-- [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/) - Jun 17, 2025
 - [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/) - Jun 17, 2025
+- [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/) - Jun 17, 2025
 - [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/) - Jun 16, 2025
 - [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/) - Jun 16, 2025
 - [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/) - Jun 16, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/) - Jun 13, 2025
 - [Meta’s big AI bet and our not-so-hot-take on fintech IPOs](https://techcrunch.com/podcast/metas-big-ai-bet-and-our-not-so-hot-take-on-fintech-ipos/) - Jun 13, 2025
 - [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/) - Jun 13, 2025
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/) - Jun 12, 2025
-- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/) - Jun 12, 2025
-- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/) - Jun 12, 2025
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
 - [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
