@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels](https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/) - 36 minutes ago
-- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/26/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 2 hours ago
-- [Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars](https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/) - 14 hours ago
-- [Kalshi closes $185M round as rival Polymarket reportedly seeks $200M](https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/) - 20 hours ago
-- [Rubrik acquires Predibase to accelerate adoption of AI agents](https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/) - 23 hours ago
+- [Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels](https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/) - 5 hours ago
+- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/26/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 6 hours ago
+- [Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars](https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/) - 18 hours ago
+- [Kalshi closes $185M round as rival Polymarket reportedly seeks $200M](https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/) - 1 day ago
+- [Rubrik acquires Predibase to accelerate adoption of AI agents](https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/) - 1 day ago
 - [Introducing the Going Public Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Better Auth, an authentication tool by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/) - 1 day ago
 - [Bill Gates-backed Airloom begins building its first power plant](https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/) - 1 day ago
