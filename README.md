@@ -4,13 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Big Tech lands an early win in legal battles against publishers](https://techcrunch.com/podcast/big-tech-lands-an-early-win-in-legal-battles-against-publishers/) - 2 minutes ago
-- [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - 9 minutes ago
-- [Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 2 hours ago
-- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/06/27/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 2 hours ago
-- [At TechCrunch All Stage, Jahanvi Sardana shares how top startups reshape markets](https://techcrunch.com/2025/06/26/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - 18 hours ago
-- [Why a16z VC believes that Cluely, the ‘cheat on everything’ startup, is the new blueprint for AI startups](https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/) - 19 hours ago
-- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/06/26/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 19 hours ago
+- [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — Claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/) - 3 minutes ago
+- [What comes after Twitter and Meta? The founders of 01A share their playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/27/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - 2 hours ago
+- [Startups Weekly: Tech and the law](https://techcrunch.com/2025/06/27/startups-weekly-tech-and-the-law/) - 3 hours ago
+- [Petlibro’s new smart camera uses AI to describe your pet’s movements, and it’s adorable](https://techcrunch.com/2025/06/27/petlibros-new-smart-camera-uses-ai-to-describe-your-pets-movements-and-its-adorable/) - 3 hours ago
+- [Big Tech lands an early win in legal battles against publishers](https://techcrunch.com/podcast/big-tech-lands-an-early-win-in-legal-battles-against-publishers/) - 4 hours ago
+- [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - 4 hours ago
+- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/06/27/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 6 hours ago
+- [Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 6 hours ago
+- [At TechCrunch All Stage, Jahanvi Sardana shares how top startups reshape markets](https://techcrunch.com/2025/06/26/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - 22 hours ago
+- [Why a16z VC believes that Cluely, the ‘cheat on everything’ startup, is the new blueprint for AI startups](https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/) - 23 hours ago
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/06/26/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - 23 hours ago
 - [Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels](https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/) - 1 day ago
 - [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/26/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 1 day ago
 - [Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars](https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/) - 2 days ago
@@ -29,18 +34,18 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - 4 days ago
 - [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/) - 4 days ago
 - [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Meta hires key OpenAI researcher to work on AI reasoning models](https://techcrunch.com/2025/06/26/meta-hires-key-openai-researcher-to-work-on-ai-reasoning-models/) - Time not found
+- [Sam Altman comes out swinging at The New York Times](https://techcrunch.com/2025/06/25/sam-altman-comes-out-swinging-at-the-new-york-times/) - Time not found
+- [iPhone customers upset by Apple Wallet ad pushing ‘F1’ movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/) - Time not found
+- [Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2](https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/) - Time not found
+- [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
+- [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
+- [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
 - [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/) - 4 days ago
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Jun 22, 2025
 - [Last day to save on your TechCrunch All Stage pass — prices go up tonight](https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/) - Jun 22, 2025
 - [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - Jun 21, 2025
 - [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/) - Jun 20, 2025
-- [Sam Altman comes out swinging at The New York Times](https://techcrunch.com/2025/06/25/sam-altman-comes-out-swinging-at-the-new-york-times/) - Time not found
-- [iPhone customers upset by Apple Wallet ad pushing ‘F1’ movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/) - Time not found
-- [Tesla’s robotaxis have already caught the attention of federal safety regulators](https://techcrunch.com/2025/06/23/teslas-robotaxis-have-already-caught-the-attention-of-federal-safety-regulators/) - Time not found
-- [Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2](https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/) - Time not found
-- [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
-- [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
-- [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Time not found
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/) - Jun 20, 2025
 - [The startups rolling out of Europe’s early-stage micromobility scene](https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/) - Jun 20, 2025
 - [Startups Weekly: Fast and furious](https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/) - Jun 20, 2025
@@ -66,14 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Grifin secures $11M to make investing less intimidating](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating/) - Jun 18, 2025
 - [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/) - Jun 17, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/) - Jun 17, 2025
-- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/) - Jun 17, 2025
-- [Applied Intuition raises $600M as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/) - Jun 17, 2025
-- [In just 3 months, Ramp’s valuation jumped to $16B, up from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/) - Jun 17, 2025
-- [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/) - Jun 17, 2025
-- [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/) - Jun 17, 2025
+- [Meta hires key OpenAI researcher to work on AI reasoning models](https://techcrunch.com/2025/06/26/meta-hires-key-openai-researcher-to-work-on-ai-reasoning-models/) - Time not found
 - [Sam Altman comes out swinging at The New York Times](https://techcrunch.com/2025/06/25/sam-altman-comes-out-swinging-at-the-new-york-times/) - Time not found
 - [iPhone customers upset by Apple Wallet ad pushing ‘F1’ movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/) - Time not found
-- [Tesla’s robotaxis have already caught the attention of federal safety regulators](https://techcrunch.com/2025/06/23/teslas-robotaxis-have-already-caught-the-attention-of-federal-safety-regulators/) - Time not found
 - [Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2](https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/) - Time not found
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/) - Time not found
 - [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/) - Time not found
