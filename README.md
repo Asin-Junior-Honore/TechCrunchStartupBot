@@ -4,21 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/) - 38 minutes ago
-- [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/) - 1 hour ago
-- [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - 2 hours ago
-- [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [Israeli quantum startup Qedma just raised $26 million, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/) - 3 hours ago
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 17 hours ago
-- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - 18 hours ago
-- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 21 hours ago
-- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - 21 hours ago
+- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 57 seconds ago
+- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 42 minutes ago
+- [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - 1 hour ago
+- [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - 2 hours ago
+- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - 3 hours ago
+- [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/) - 5 hours ago
+- [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/) - 5 hours ago
+- [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - 6 hours ago
+- [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/) - 7 hours ago
+- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - 22 hours ago
+- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 1 day ago
+- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - 1 day ago
 - [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 2 days ago
 - [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/) - 2 days ago
 - [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/) - 2 days ago
 - [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/) - 2 days ago
 - [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - 2 days ago
-- [David George from a16z on the future of going public at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/01/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/) - 2 days ago
 - [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/) - 2 days ago
 - [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - 3 days ago
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - 3 days ago
 - [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - 3 days ago
-- [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A ](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) - 3 days ago
-- [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - 3 days ago
-- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/06/30/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - 3 days ago
 - [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
 - [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
 - [Why AI will eat McKinsey’s lunch — but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Meta reportedly hires four more researchers from OpenAI](https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/) - Time not found
 - [Anthropic’s Claude AI became a terrible business owner in experiment that got ‘weird’](https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/) - Time not found
 - [Google launches Doppl, a new app that lets you visualize how an outfit might look on you](https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/) - Time not found
+- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - 3 days ago
+- [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - 3 days ago
 - [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - 4 days ago
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - Jun 27, 2025
 - [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/) - Jun 27, 2025
@@ -50,7 +52,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Petlibro’s new smart camera uses AI to describe your pet’s movements, and it’s adorable](https://techcrunch.com/2025/06/27/petlibros-new-smart-camera-uses-ai-to-describe-your-pets-movements-and-its-adorable/) - Jun 27, 2025
 - [Big Tech lands an early win in legal battles against publishers](https://techcrunch.com/podcast/big-tech-lands-an-early-win-in-legal-battles-against-publishers/) - Jun 27, 2025
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/) - Jun 27, 2025
-- [Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - Jun 27, 2025
 - [At TechCrunch All Stage, Jahanvi Sardana shares how top startups reshape markets](https://techcrunch.com/2025/06/26/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/) - Jun 26, 2025
 - [Why a16z VC believes that Cluely, the ‘cheat on everything’ startup, is the new blueprint for AI startups](https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/) - Jun 26, 2025
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/06/26/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Jun 26, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/) - Jun 23, 2025
 - [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/) - Jun 23, 2025
 - [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - Jun 23, 2025
-- [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/) - Jun 23, 2025
 - [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
 - [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
 - [Why AI will eat McKinsey’s lunch — but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/) - Time not found
