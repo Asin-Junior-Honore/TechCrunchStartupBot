@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 9 hours ago
-- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - 11 hours ago
-- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 13 hours ago
-- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - 13 hours ago
-- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 1 day ago
-- [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/) - 1 day ago
-- [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/) - 1 day ago
+- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - 14 hours ago
+- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 17 hours ago
+- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - 17 hours ago
+- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 2 days ago
+- [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/) - 2 days ago
+- [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/) - 2 days ago
 - [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/) - 2 days ago
 - [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - 2 days ago
 - [David George from a16z on the future of going public at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/01/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -18,7 +18,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/) - 2 days ago
 - [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - 2 days ago
 - [Legal software company Clio drops $1B on law data giant vLex](https://techcrunch.com/2025/06/30/legal-software-company-clio-drops-1b-on-law-data-giant-vlex/) - 2 days ago
-- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - 2 days ago
+- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - 3 days ago
 - [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - 3 days ago
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 3 days ago
 - [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - 3 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/) - Jun 27, 2025
 - [What comes after Twitter and Meta? The founders of 01A share their playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/27/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - Jun 27, 2025
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/) - Jun 27, 2025
-- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
-- [Why AI will eat McKinsey’s lunch — but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/) - Time not found
-- [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Time not found
-- [Meta reportedly hires four more researchers from OpenAI](https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/) - Time not found
-- [Anthropic’s Claude AI became a terrible business owner in experiment that got ‘weird’](https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/) - Time not found
-- [Google launches Doppl, a new app that lets you visualize how an outfit might look on you](https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/) - Time not found
-- [In just 3 months, CoreWeave CEO, once a crypto-mining bro, becomes a deca-billionaire](https://techcrunch.com/2025/06/26/in-just-3-months-coreweave-ceo-once-a-crypto-mining-bro-becomes-a-deca-billionaire/) - Time not found
+- [Google rolls out its new Veo 3 video generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
+- [AI job predictions become corporate America’s newest competitive sport](https://techcrunch.com/2025/07/02/ai-job-predictions-become-corporate-americas-newest-competitive-sport/) - Time not found
+- [French B2B neobank Qonto reaches 600,000 customers, files for banking license](https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/) - Time not found
+- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
+- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - Time not found
+- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - Time not found
+- [Lucid sales inch forward as EV maker pushes to ramp Gravity production](https://techcrunch.com/2025/07/02/lucid-sales-inch-forward-as-ev-maker-pushes-to-ramp-gravity-production/) - Time not found
 - [Startups Weekly: Tech and the law](https://techcrunch.com/2025/06/27/startups-weekly-tech-and-the-law/) - Jun 27, 2025
 - [Petlibro’s new smart camera uses AI to describe your pet’s movements, and it’s adorable](https://techcrunch.com/2025/06/27/petlibros-new-smart-camera-uses-ai-to-describe-your-pets-movements-and-its-adorable/) - Jun 27, 2025
 - [Big Tech lands an early win in legal battles against publishers](https://techcrunch.com/podcast/big-tech-lands-an-early-win-in-legal-battles-against-publishers/) - Jun 27, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/) - Jun 21, 2025
 - [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/) - Jun 20, 2025
 - [What the next generation of AI natives mean for founders and funders](https://techcrunch.com/video/what-the-next-generation-of-ai-natives-mean-for-founders-and-funders/) - Jun 20, 2025
-- [AI job predictions become corporate America’s newest competitive sport](https://techcrunch.com/2025/07/02/ai-job-predictions-become-corporate-americas-newest-competitive-sport/) - Time not found
-- [French B2B neobank Qonto reaches 600,000 customers, files for banking license](https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/) - Time not found
-- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - Time not found
-- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - Time not found
-- [Lucid sales inch forward as EV maker pushes to ramp Gravity production](https://techcrunch.com/2025/07/02/lucid-sales-inch-forward-as-ev-maker-pushes-to-ramp-gravity-production/) - Time not found
-- [Substack brings new updates to livestreaming as it increases video push](https://techcrunch.com/2025/07/02/substack-brings-new-updates-to-livestreaming-as-it-increases-video-push/) - Time not found
+- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
+- [Why AI will eat McKinsey’s lunch — but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/) - Time not found
+- [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Time not found
+- [Meta reportedly hires four more researchers from OpenAI](https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/) - Time not found
+- [Anthropic’s Claude AI became a terrible business owner in experiment that got ‘weird’](https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/) - Time not found
+- [Google launches Doppl, a new app that lets you visualize how an outfit might look on you](https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/) - Time not found
+- [In just 3 months, CoreWeave CEO, once a crypto-mining bro, becomes a deca-billionaire](https://techcrunch.com/2025/06/26/in-just-3-months-coreweave-ceo-once-a-crypto-mining-bro-becomes-a-deca-billionaire/) - Time not found
