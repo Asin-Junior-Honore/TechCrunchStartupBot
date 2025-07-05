@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 8 hours ago
-- [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - 1 day ago
-- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - 1 day ago
-- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 1 day ago
+- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 13 hours ago
+- [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - 2 days ago
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - 2 days ago
+- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 2 days ago
 - [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - 2 days ago
 - [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - 2 days ago
@@ -17,23 +17,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - 2 days ago
 - [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/) - 2 days ago
-- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - 2 days ago
+- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - 3 days ago
 - [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - 3 days ago
 - [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - 3 days ago
-- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 3 days ago
-- [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/) - 3 days ago
-- [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/) - 3 days ago
+- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - 4 days ago
+- [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/) - 4 days ago
+- [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/) - 4 days ago
 - [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/) - 4 days ago
 - [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - 4 days ago
 - [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/) - 4 days ago
 - [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/) - 4 days ago
 - [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - 4 days ago
 - [Legal software company Clio drops $1B on law data giant vLex](https://techcrunch.com/2025/06/30/legal-software-company-clio-drops-1b-on-law-data-giant-vlex/) - 4 days ago
-- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - 4 days ago
+- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - 5 days ago
 - [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - 5 days ago
-- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - 5 days ago
-- [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - 5 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/) - 5 days ago
+- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 30, 2025
+- [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - Jun 30, 2025
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/) - Jun 30, 2025
 - [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
 - [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
@@ -43,9 +43,9 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Time not found
 - [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - 5 days ago
 - [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - 5 days ago
-- [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A ](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) - 5 days ago
-- [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - 5 days ago
+- [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A ](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) - Jun 30, 2025
+- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - Jun 30, 2025
+- [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - Jun 30, 2025
 - [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Jun 29, 2025
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - Jun 27, 2025
 - [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/) - Jun 27, 2025
