@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 13 hours ago
+- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 16 hours ago
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - 2 days ago
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - 2 days ago
 - [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 2 days ago
@@ -27,22 +27,22 @@ Here are the latest articles from TechCrunch Startups:
 - [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - 4 days ago
 - [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/) - 4 days ago
 - [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/) - 4 days ago
-- [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - 4 days ago
-- [Legal software company Clio drops $1B on law data giant vLex](https://techcrunch.com/2025/06/30/legal-software-company-clio-drops-1b-on-law-data-giant-vlex/) - 4 days ago
-- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - 5 days ago
-- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - 5 days ago
+- [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - 5 days ago
+- [Legal software company Clio drops $1B on law data giant vLex](https://techcrunch.com/2025/06/30/legal-software-company-clio-drops-1b-on-law-data-giant-vlex/) - 5 days ago
+- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - Jun 30, 2025
+- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - Jun 30, 2025
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 30, 2025
 - [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - Jun 30, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/) - Jun 30, 2025
+- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - Time not found
+- [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/) - Time not found
+- [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/) - Time not found
+- [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/) - Time not found
 - [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
-- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
-- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
-- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - Time not found
-- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
-- [Why AI will eat McKinsey’s lunch — but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/) - Time not found
-- [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Time not found
-- [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - 5 days ago
-- [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/) - Time not found
+- [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - Time not found
+- [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - Jun 30, 2025
+- [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - Jun 30, 2025
 - [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A ](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) - Jun 30, 2025
 - [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - Jun 30, 2025
 - [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - Jun 30, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/) - Jun 24, 2025
 - [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/) - Jun 24, 2025
 - [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/) - Jun 23, 2025
+- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - Time not found
+- [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/) - Time not found
+- [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/) - Time not found
+- [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/) - Time not found
 - [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
-- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
-- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
-- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - Time not found
-- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
-- [Why AI will eat McKinsey’s lunch — but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/) - Time not found
-- [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Time not found
+- [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/) - Time not found
+- [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - Time not found
