@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - 1 hour ago
+- [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/) - 2 hours ago
+- [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - 5 hours ago
 - [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 2 days ago
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - 3 days ago
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - Jun 30, 2025
 - [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - Jun 30, 2025
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 30, 2025
+- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
+- [Google rolls out its new Veo 3 video-generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
+- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
+- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - Time not found
+- [Tesla’s energy storage business gets sucked into the company’s downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/) - Time not found
+- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/) - Time not found
 - [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - Jun 30, 2025
-- [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/) - Time not found
-- [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - Time not found
-- [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/) - Time not found
-- [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/) - Time not found
-- [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/) - Time not found
-- [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - Time not found
-- [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/) - Jun 30, 2025
 - [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - Jun 30, 2025
 - [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - Jun 30, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [In just 4 months, AI medical scribe Abridge doubles valuation to $5.3B](https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/) - Jun 24, 2025
 - [At TechCrunch Disrupt 2025, Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer discuss what makes a pitch land](https://techcrunch.com/2025/06/24/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - Jun 24, 2025
 - [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/) - Jun 24, 2025
-- [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/) - Jun 24, 2025
 - [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
 - [Google rolls out its new Veo 3 video-generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
