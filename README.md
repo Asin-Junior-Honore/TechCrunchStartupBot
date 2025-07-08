@@ -4,22 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 13 hours ago
-- [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - 1 day ago
+- [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/) - 2 hours ago
+- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 17 hours ago
+- [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - 2 days ago
 - [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - 2 days ago
 - [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 3 days ago
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - 4 days ago
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - 4 days ago
 - [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 4 days ago
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - 4 days ago
-- [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - 4 days ago
-- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - 4 days ago
+- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - 5 days ago
+- [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - 5 days ago
+- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - 5 days ago
 - [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/) - 5 days ago
-- [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/) - 5 days ago
-- [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - 5 days ago
-- [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/) - 5 days ago
+- [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/) - Jul 3, 2025
+- [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - Jul 3, 2025
+- [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
+- [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/) - Jul 3, 2025
 - [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - Jul 2, 2025
 - [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/) - Jul 2, 2025
 - [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - Jul 2, 2025
@@ -33,21 +34,21 @@ Here are the latest articles from TechCrunch Startups:
 - [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - Jun 30, 2025
 - [Legal software company Clio drops $1B on law data giant vLex](https://techcrunch.com/2025/06/30/legal-software-company-clio-drops-1b-on-law-data-giant-vlex/) - Jun 30, 2025
 - [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - Jun 30, 2025
+- [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
+- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
+- [Google rolls out its new Veo 3 video-generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
+- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
+- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - Time not found
+- [Tesla’s energy storage business gets sucked into the company’s downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/) - Time not found
 - [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - Jun 30, 2025
-- [Meta reportedly recruits Apple’s head of AI models](https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/) - Time not found
-- [Tulum Energy rediscovered a forgotten hydrogen tech and used it to raise $27M](https://techcrunch.com/2025/07/07/tulum-energy-rediscovered-a-forgotten-hydrogen-tech-and-used-it-to-raise-27m/) - Time not found
-- [Cursor apologizes for unclear pricing changes that upset users](https://techcrunch.com/2025/07/07/cursor-apologizes-for-unclear-pricing-changes-that-upset-users/) - Time not found
-- [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/) - Time not found
-- [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/) - Time not found
-- [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/) - Time not found
-- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 30, 2025
 - [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - Jun 30, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/) - Jun 30, 2025
 - [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - Jun 30, 2025
 - [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - Jun 30, 2025
-- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - Jun 30, 2025
 - [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A ](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) - Jun 30, 2025
+- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - Jun 30, 2025
 - [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - Jun 30, 2025
 - [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) - Jun 29, 2025
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - Jun 27, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Bill Gates-backed Airloom begins building its first power plant](https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/) - Jun 25, 2025
 - [India’s GoKwik raised a small $13M round for a hefty leap in valuation](https://techcrunch.com/2025/06/24/indias-gokwik-raised-a-small-13m-round-for-a-hefty-leap-in-valuation/) - Jun 24, 2025
 - [In just 4 months, AI medical scribe Abridge doubles valuation to $5.3B](https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/) - Jun 24, 2025
-- [At TechCrunch Disrupt 2025, Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer discuss what makes a pitch land](https://techcrunch.com/2025/06/24/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - Jun 24, 2025
 - [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
 - [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
