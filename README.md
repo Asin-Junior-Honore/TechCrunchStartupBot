@@ -4,15 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/) - 6 hours ago
-- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 21 hours ago
+- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - 45 minutes ago
+- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - 1 hour ago
+- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - 1 hour ago
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/) - 2 hours ago
+- [Jeff Chow of Miro shares how team intelligence drives better product-building at TechCrunch All Stage](https://techcrunch.com/2025/07/08/jeff-chow-of-miro-shares-how-team-intelligence-drives-better-product-building-at-techcrunch-all-stage/) - 2 hours ago
+- [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/) - 2 hours ago
+- [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/) - 10 hours ago
+- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 1 day ago
 - [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - 2 days ago
 - [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - 2 days ago
 - [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - 4 days ago
-- [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - 5 days ago
-- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - 5 days ago
-- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - 5 days ago
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - Jul 3, 2025
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Jul 3, 2025
+- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - Jul 3, 2025
+- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
 - [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - Jul 3, 2025
 - [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - Jul 3, 2025
 - [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - Jul 3, 2025
@@ -27,6 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/) - Jul 1, 2025
 - [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/) - Jul 1, 2025
 - [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/) - Jul 1, 2025
+- [ByteDance reportedly plans to release US-specific version of CapCut](https://techcrunch.com/2025/07/08/bytedance-reportedly-plans-to-release-us-specific-version-of-capcut/) - Time not found
+- [Bookshop.org mocks Jeff Bezos wedding invite in anti-Prime Day promo](https://techcrunch.com/2025/07/08/bookshop-org-mocks-jeff-bezos-wedding-invite-in-anti-prime-day-promo/) - Time not found
+- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - Time not found
+- [The tech behind Rivian’s 2026 Quad-Motor truck and SUV — and that kick turn](https://techcrunch.com/2025/07/08/the-tech-behind-rivians-2026-quad-motor-truck-and-suv-and-that-kick-turn/) - Time not found
+- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - Time not found
+- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - Time not found
+- [Mastodon’s latest update readies the app for Quote Posts, revamps design](https://techcrunch.com/2025/07/08/mastodons-latest-update-readies-the-app-for-quote-posts-revamps-design/) - Time not found
 - [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/) - Jul 1, 2025
 - [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - Jul 1, 2025
 - [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/) - Jul 1, 2025
@@ -34,13 +48,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Sri Mandir keeps investors hooked as digital devotion grows](https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/) - Jun 30, 2025
 - [Legal software company Clio drops $1B on law data giant vLex](https://techcrunch.com/2025/06/30/legal-software-company-clio-drops-1b-on-law-data-giant-vlex/) - Jun 30, 2025
 - [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/) - Jun 30, 2025
-- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
-- [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
-- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
-- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
-- [Google rolls out its new Veo 3 video-generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
-- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/) - Time not found
-- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/) - Time not found
 - [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/) - Jun 30, 2025
 - [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/) - Jun 30, 2025
 - [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - Jun 30, 2025
@@ -64,17 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/06/26/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/) - Jun 26, 2025
 - [Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels](https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/) - Jun 26, 2025
 - [Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars](https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/) - Jun 25, 2025
-- [Kalshi closes $185M round as rival Polymarket reportedly seeks $200M](https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/) - Jun 25, 2025
-- [Rubrik acquires Predibase to accelerate adoption of AI agents](https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/) - Jun 25, 2025
-- [Introducing the Going Public Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/) - Jun 25, 2025
-- [Better Auth, an authentication tool by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/) - Jun 25, 2025
-- [Bill Gates-backed Airloom begins building its first power plant](https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/) - Jun 25, 2025
-- [India’s GoKwik raised a small $13M round for a hefty leap in valuation](https://techcrunch.com/2025/06/24/indias-gokwik-raised-a-small-13m-round-for-a-hefty-leap-in-valuation/) - Jun 24, 2025
-- [In just 4 months, AI medical scribe Abridge doubles valuation to $5.3B](https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/) - Jun 24, 2025
-- [Frontier is helping Arbor build a “vegetarian rocket engine” to power data centers](https://techcrunch.com/2025/07/08/frontier-is-helping-arbor-build-a-vegetarian-rocket-engine-to-power-data-centers/) - Time not found
-- [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/) - Time not found
-- [OpenAI tightens the screws on security to keep away prying eyes](https://techcrunch.com/2025/07/07/openai-tightens-the-screws-on-security-to-keep-away-prying-eyes/) - Time not found
-- [Meta reportedly recruits Apple’s head of AI models](https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/) - Time not found
-- [Tulum Energy rediscovered a forgotten hydrogen tech and used it to raise $27M](https://techcrunch.com/2025/07/07/tulum-energy-rediscovered-a-forgotten-hydrogen-tech-and-used-it-to-raise-27m/) - Time not found
-- [Cursor apologizes for unclear pricing changes that upset users](https://techcrunch.com/2025/07/07/cursor-apologizes-for-unclear-pricing-changes-that-upset-users/) - Time not found
-- [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/) - Time not found
+- [ByteDance reportedly plans to release US-specific version of CapCut](https://techcrunch.com/2025/07/08/bytedance-reportedly-plans-to-release-us-specific-version-of-capcut/) - Time not found
+- [Bookshop.org mocks Jeff Bezos wedding invite in anti-Prime Day promo](https://techcrunch.com/2025/07/08/bookshop-org-mocks-jeff-bezos-wedding-invite-in-anti-prime-day-promo/) - Time not found
+- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - Time not found
+- [The tech behind Rivian’s 2026 Quad-Motor truck and SUV — and that kick turn](https://techcrunch.com/2025/07/08/the-tech-behind-rivians-2026-quad-motor-truck-and-suv-and-that-kick-turn/) - Time not found
+- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - Time not found
+- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - Time not found
+- [Mastodon’s latest update readies the app for Quote Posts, revamps design](https://techcrunch.com/2025/07/08/mastodons-latest-update-readies-the-app-for-quote-posts-revamps-design/) - Time not found
