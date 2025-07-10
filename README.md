@@ -4,27 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - 16 minutes ago
-- [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - 8 hours ago
-- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 9 hours ago
-- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 9 hours ago
-- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/) - 10 hours ago
-- [Learn how to avoid the pitfalls that stall startup fundraising at TechCrunch All Stage on July 15](https://techcrunch.com/2025/07/09/learn-how-to-avoid-the-pitfalls-that-stall-startup-fundraising-at-techcrunch-all-stage/) - 10 hours ago
-- [PR is your scaling power: Learn from Insight Partners’ Nikki Parker at TechCrunch All Stage](https://techcrunch.com/2025/07/09/pr-is-your-scaling-power-learn-from-insight-partners-nikki-parker-at-techcrunch-all-stage/) - 11 hours ago
-- [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/) - 11 hours ago
+- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - 4 hours ago
+- [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - 11 hours ago
+- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 12 hours ago
+- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Learn how to avoid the pitfalls that stall startup fundraising at TechCrunch All Stage on July 15](https://techcrunch.com/2025/07/09/learn-how-to-avoid-the-pitfalls-that-stall-startup-fundraising-at-techcrunch-all-stage/) - 14 hours ago
+- [PR is your scaling power: Learn from Insight Partners’ Nikki Parker at TechCrunch All Stage](https://techcrunch.com/2025/07/09/pr-is-your-scaling-power-learn-from-insight-partners-nikki-parker-at-techcrunch-all-stage/) - 14 hours ago
+- [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/) - 14 hours ago
 - [Rivian spinoff Also raises another $200M to build e-bikes and more](https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/) - 1 day ago
 - [LangChain is about to become a unicorn, sources say](https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/) - 1 day ago
-- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - 1 day ago
-- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - 1 day ago
-- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - 1 day ago
-- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - 1 day ago
-- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/) - 1 day ago
-- [Jeff Chow of Miro shares how team intelligence drives better product-building at TechCrunch All Stage](https://techcrunch.com/2025/07/08/jeff-chow-of-miro-shares-how-team-intelligence-drives-better-product-building-at-techcrunch-all-stage/) - 1 day ago
-- [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/) - 1 day ago
+- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - 2 days ago
+- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - 2 days ago
+- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - 2 days ago
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - 2 days ago
+- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/) - 2 days ago
+- [Jeff Chow of Miro shares how team intelligence drives better product-building at TechCrunch All Stage](https://techcrunch.com/2025/07/08/jeff-chow-of-miro-shares-how-team-intelligence-drives-better-product-building-at-techcrunch-all-stage/) - 2 days ago
+- [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/) - 2 days ago
 - [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/) - 2 days ago
-- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 2 days ago
+- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 3 days ago
 - [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - 3 days ago
-- [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - 3 days ago
+- [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - 4 days ago
 - [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - Jul 4, 2025
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - Jul 3, 2025
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Jul 3, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - Jul 3, 2025
 - [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - Jul 3, 2025
 - [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/) - Jul 3, 2025
-- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - Time not found
-- [Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs](https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/) - Time not found
-- [California lawmaker behind SB 1047 reignites push for mandated AI safety reports](https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/) - Time not found
-- [Steve Davis left DOGE in May, but officials say he’s still running the show](https://techcrunch.com/2025/07/09/steve-davis-left-doge-in-may-but-officials-say-hes-still-running-the-show/) - Time not found
-- [Neobank Revolut seeks $65B valuation, a year after its $45B deal](https://techcrunch.com/2025/07/09/neobank-revolut-seeks-65b-valuation-a-year-after-its-45b-deal/) - Time not found
-- [X’s ad business improved under departing CEO Linda Yaccarino, but it’s still tough times ahead](https://techcrunch.com/2025/07/09/xs-ad-business-improved-under-departing-ceo-linda-yaccarino-but-its-still-tough-times-ahead/) - Time not found
-- [OpenAI is reportedly releasing an AI browser in the coming weeks](https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/) - Time not found
+- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
+- [Meta reportedly recruits Apple’s head of AI models](https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/) - Time not found
+- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
+- [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
+- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
+- [Google rolls out its new Veo 3 video-generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
 - [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/) - Jul 3, 2025
 - [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - Jul 3, 2025
 - [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/) - Jun 27, 2025
 - [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/) - Jun 27, 2025
 - [What comes after Twitter and Meta? The founders of 01A share their playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/27/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - Jun 27, 2025
-- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - Time not found
-- [Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs](https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/) - Time not found
-- [California lawmaker behind SB 1047 reignites push for mandated AI safety reports](https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/) - Time not found
-- [Steve Davis left DOGE in May, but officials say he’s still running the show](https://techcrunch.com/2025/07/09/steve-davis-left-doge-in-may-but-officials-say-hes-still-running-the-show/) - Time not found
-- [Neobank Revolut seeks $65B valuation, a year after its $45B deal](https://techcrunch.com/2025/07/09/neobank-revolut-seeks-65b-valuation-a-year-after-its-45b-deal/) - Time not found
-- [X’s ad business improved under departing CEO Linda Yaccarino, but it’s still tough times ahead](https://techcrunch.com/2025/07/09/xs-ad-business-improved-under-departing-ceo-linda-yaccarino-but-its-still-tough-times-ahead/) - Time not found
-- [OpenAI is reportedly releasing an AI browser in the coming weeks](https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/) - Time not found
+- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
+- [Meta reportedly recruits Apple’s head of AI models](https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/) - Time not found
+- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
+- [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
+- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/) - Time not found
+- [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Time not found
+- [Google rolls out its new Veo 3 video-generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/) - Time not found
