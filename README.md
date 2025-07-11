@@ -4,11 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 14 hours ago
-- [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - 18 hours ago
-- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - 23 hours ago
-- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - 1 day ago
+- [Julie Wainwright is building what comes next— Join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - 40 minutes ago
+- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 1 hour ago
+- [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/) - 2 hours ago
+- [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/) - 2 hours ago
+- [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 18 hours ago
+- [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - 22 hours ago
+- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - 1 day ago
+- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - 2 days ago
 - [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - 2 days ago
 - [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - Jul 6, 2025
 - [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/) - Jul 6, 2025
 - [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - Jul 4, 2025
+- [Bitcoin surpasses $118K, its second all-time high, in less than 24 hours](https://techcrunch.com/2025/07/11/bitcoin-surpasses-118k-its-second-all-time-high-in-less-than-24-hours/) - Time not found
+- [Julie Wainwright is building what comes next— Join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - Time not found
+- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - Time not found
+- [AI chatbot’s simple ‘123456’ password risked exposing personal data of millions of McDonald’s job applicants](https://techcrunch.com/2025/07/11/ai-chatbots-simple-123456-password-risked-exposing-personal-data-of-millions-of-mcdonalds-job-applicants/) - Time not found
+- [YC-backed Apolink by 19-year-old bags $4.3M to build 24/7 connectivity for LEO satellites](https://techcrunch.com/2025/07/11/yc-backed-apolink-by-19-year-old-bags-4-3m-to-build-24-7-connectivity-for-leo-satellites/) - Time not found
+- [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/) - Time not found
+- [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/) - Time not found
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - Jul 3, 2025
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Jul 3, 2025
 - [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - Jul 3, 2025
 - [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
-- [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
-- [Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs](https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/) - Time not found
-- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
-- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
-- [Hugging Face opens up orders for its Reachy Mini desktop robots](https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots/) - Time not found
-- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
-- [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
 - [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - Jul 3, 2025
 - [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - Jul 3, 2025
 - [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - Jul 3, 2025
@@ -67,14 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/) - Jun 30, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/) - Jun 30, 2025
 - [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/) - Jun 30, 2025
-- [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - Jun 30, 2025
-- [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A ](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) - Jun 30, 2025
-- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/) - Jun 30, 2025
-- [Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage](https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/) - Jun 30, 2025
-- [RealSense spins out of Intel to scale its stereoscopic imaging technology](https://techcrunch.com/2025/07/11/realsense-spins-out-of-intel-to-scale-its-stereoscopic-imaging-technology/) - Time not found
-- [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
-- [Tesla is already trying to expand its robotaxi service to Arizona ](https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/) - Time not found
-- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
-- [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - Time not found
-- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - Time not found
-- [Former Intel CEO launches a benchmark to measure AI alignment](https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/) - Time not found
+- [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
+- [Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs](https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/) - Time not found
+- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
+- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
+- [Hugging Face opens up orders for its Reachy Mini desktop robots](https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots/) - Time not found
+- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
+- [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/) - Time not found
