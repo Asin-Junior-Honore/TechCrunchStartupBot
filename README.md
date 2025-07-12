@@ -4,43 +4,43 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - 5 hours ago
-- [A cloud-seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/) - 6 hours ago
-- [Hugging Face’s new robot is the Seinfeld of AI devices](https://techcrunch.com/podcast/hugging-faces-new-robot-is-the-seinfeld-of-ai-devices/) - 7 hours ago
-- [Goldman Sachs is testing viral AI agent Devin as a ‘new employee’](https://techcrunch.com/2025/07/11/goldman-sachs-is-testing-viral-ai-agent-devin-as-a-new-employee/) - 7 hours ago
-- [Medium’s CEO explains what it took to stop losing $2.6M monthly](https://techcrunch.com/2025/07/11/mediums-ceo-explains-what-it-took-to-stop-losing-2-6m-monthly/) - 7 hours ago
-- [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/) - 8 hours ago
-- [Julie Wainwright is building what comes next — join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - 9 hours ago
-- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 10 hours ago
-- [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/) - 11 hours ago
-- [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/) - 11 hours ago
+- [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - 8 hours ago
+- [A cloud-seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/) - 9 hours ago
+- [Hugging Face’s new robot is the Seinfeld of AI devices](https://techcrunch.com/podcast/hugging-faces-new-robot-is-the-seinfeld-of-ai-devices/) - 10 hours ago
+- [Goldman Sachs is testing viral AI agent Devin as a ‘new employee’](https://techcrunch.com/2025/07/11/goldman-sachs-is-testing-viral-ai-agent-devin-as-a-new-employee/) - 10 hours ago
+- [Medium’s CEO explains what it took to stop losing $2.6M monthly](https://techcrunch.com/2025/07/11/mediums-ceo-explains-what-it-took-to-stop-losing-2-6m-monthly/) - 11 hours ago
+- [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/) - 11 hours ago
+- [Julie Wainwright is building what comes next — join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/) - 14 hours ago
+- [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/) - 14 hours ago
 - [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 1 day ago
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 1 day ago
 - [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - 1 day ago
-- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - 1 day ago
+- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - 2 days ago
 - [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - 2 days ago
 - [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - 2 days ago
-- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 2 days ago
-- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 2 days ago
-- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/) - 2 days ago
-- [Learn how to avoid the pitfalls that stall startup fundraising at TechCrunch All Stage on July 15](https://techcrunch.com/2025/07/09/learn-how-to-avoid-the-pitfalls-that-stall-startup-fundraising-at-techcrunch-all-stage/) - 2 days ago
-- [PR is your scaling power: Learn from Insight Partners’ Nikki Parker at TechCrunch All Stage](https://techcrunch.com/2025/07/09/pr-is-your-scaling-power-learn-from-insight-partners-nikki-parker-at-techcrunch-all-stage/) - 2 days ago
-- [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/) - 2 days ago
+- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Learn how to avoid the pitfalls that stall startup fundraising at TechCrunch All Stage on July 15](https://techcrunch.com/2025/07/09/learn-how-to-avoid-the-pitfalls-that-stall-startup-fundraising-at-techcrunch-all-stage/) - 3 days ago
+- [PR is your scaling power: Learn from Insight Partners’ Nikki Parker at TechCrunch All Stage](https://techcrunch.com/2025/07/09/pr-is-your-scaling-power-learn-from-insight-partners-nikki-parker-at-techcrunch-all-stage/) - 3 days ago
+- [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/) - 3 days ago
 - [Rivian spinoff Also raises another $200M to build e-bikes and more](https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/) - 3 days ago
 - [LangChain is about to become a unicorn, sources say](https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/) - 3 days ago
-- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - 3 days ago
-- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - 3 days ago
-- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - 3 days ago
-- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/) - 3 days ago
-- [Jeff Chow of Miro shares how team intelligence drives better product-building at TechCrunch All Stage](https://techcrunch.com/2025/07/08/jeff-chow-of-miro-shares-how-team-intelligence-drives-better-product-building-at-techcrunch-all-stage/) - 3 days ago
-- [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
-- [Firefly Aerospace files for an IPO](https://techcrunch.com/2025/07/11/firefly-aerospace-files-for-an-ipo/) - Time not found
-- [Can an ‘ethical’ spyware maker justify providing its tech to ICE?](https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/) - Time not found
-- [Tesla reportedly close to starting sales in India](https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/) - Time not found
-- [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - Time not found
-- [AI coding tools may not speed up every developer, study shows](https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-developer-study-shows/) - Time not found
-- [India’s richest man wants to turn every TV into a PC](https://techcrunch.com/2025/07/11/indias-richest-man-wants-to-turn-every-tv-into-a-pc/) - Time not found
+- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - 4 days ago
+- [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - 4 days ago
+- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - 4 days ago
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/) - 4 days ago
+- [Jeff Chow of Miro shares how team intelligence drives better product-building at TechCrunch All Stage](https://techcrunch.com/2025/07/08/jeff-chow-of-miro-shares-how-team-intelligence-drives-better-product-building-at-techcrunch-all-stage/) - 4 days ago
+- [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
+- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
+- [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
+- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
+- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
+- [Hugging Face opens up orders for its Reachy Mini desktop robots](https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots/) - Time not found
+- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
 - [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/) - 3 days ago
 - [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/) - 4 days ago
 - [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/) - 4 days ago
