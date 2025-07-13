@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - 3 hours ago
+- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - 7 hours ago
 - [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/) - 1 day ago
 - [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - 2 days ago
 - [A cloud-seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/) - 2 days ago
@@ -28,19 +28,19 @@ Here are the latest articles from TechCrunch Startups:
 - [Learn how to avoid the pitfalls that stall startup fundraising at TechCrunch All Stage on July 15](https://techcrunch.com/2025/07/09/learn-how-to-avoid-the-pitfalls-that-stall-startup-fundraising-at-techcrunch-all-stage/) - 4 days ago
 - [PR is your scaling power: Learn from Insight Partners’ Nikki Parker at TechCrunch All Stage](https://techcrunch.com/2025/07/09/pr-is-your-scaling-power-learn-from-insight-partners-nikki-parker-at-techcrunch-all-stage/) - 4 days ago
 - [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/) - 4 days ago
-- [Rivian spinoff Also raises another $200M to build e-bikes and more](https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/) - 5 days ago
+- [Rivian spinoff Also raises another $200M to build e-bikes and more](https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/) - Jul 8, 2025
 - [LangChain is about to become a unicorn, sources say](https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/) - Jul 8, 2025
 - [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/) - Jul 8, 2025
 - [Wayve CEO Alex Kendall brings the future of autonomous AI to TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/wayve-ceo-alex-kendall-brings-the-future-of-autonomous-ai-to-techcrunch-disrupt-2025/) - Jul 8, 2025
 - [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/) - Jul 8, 2025
 - [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - Jul 8, 2025
-- [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
-- [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
-- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
-- [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
-- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
-- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
-- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
+- [Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/) - Time not found
+- [UK launches £500M package to support diverse, underrepresented investors and founders](https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/) - Time not found
+- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - Time not found
+- [A United Nations research institute created an AI refugee avatar](https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/) - Time not found
+- [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
+- [Week in Review: X CEO Linda Yaccarino steps down](https://techcrunch.com/2025/07/12/week-in-review-x-ceo-linda-yaccarino-steps-down/) - Time not found
+- [xAI and Grok apologize for ‘horrific behavior’](https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/) - Time not found
 - [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/) - Jul 8, 2025
 - [Jeff Chow of Miro shares how team intelligence drives better product-building at TechCrunch All Stage](https://techcrunch.com/2025/07/08/jeff-chow-of-miro-shares-how-team-intelligence-drives-better-product-building-at-techcrunch-all-stage/) - Jul 8, 2025
 - [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/) - Jul 8, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/) - Jul 1, 2025
 - [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/) - Jul 1, 2025
 - [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/) - Jul 1, 2025
-- [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
-- [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
-- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
-- [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
-- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
-- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
-- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) - Time not found
+- [Study warns of ‘significant risks’ in using AI therapy chatbots](https://techcrunch.com/2025/07/13/study-warns-of-significant-risks-in-using-ai-therapy-chatbots/) - Time not found
+- [Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/) - Time not found
+- [UK launches £500M package to support diverse, underrepresented investors and founders](https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/) - Time not found
+- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - Time not found
+- [A United Nations research institute created an AI refugee avatar](https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/) - Time not found
+- [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
+- [Week in Review: X CEO Linda Yaccarino steps down](https://techcrunch.com/2025/07/12/week-in-review-x-ceo-linda-yaccarino-steps-down/) - Time not found
