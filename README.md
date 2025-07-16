@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - 1 hour ago
-- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - 1 hour ago
-- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - 2 hours ago
-- [Hugging Face bets on cute robots to bring open source AI to life](https://techcrunch.com/podcast/hugging-face-bets-on-cute-robots-to-bring-open-source-ai-to-life/) - 2 hours ago
-- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - 19 hours ago
+- [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - 35 minutes ago
+- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - 4 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - 5 hours ago
+- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - 5 hours ago
+- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - 5 hours ago
+- [Hugging Face bets on cute robots to bring open source AI to life](https://techcrunch.com/podcast/hugging-face-bets-on-cute-robots-to-bring-open-source-ai-to-life/) - 5 hours ago
+- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - 23 hours ago
 - [Rwazi raises $12M Series A to help companies with consumer insights and intelligence](https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/) - 1 day ago
 - [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - 1 day ago
 - [Auriga Space raises $6M to shoot rockets off an electromagnetic launch track](https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/) - Jul 11, 2025
 - [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 10, 2025
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - Jul 10, 2025
-- [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - Jul 10, 2025
-- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - Jul 10, 2025
+- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Time not found
 - [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) - Time not found
 - [Rivian CEO RJ Scaringe’s voting control slips following divorce settlement ](https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/) - Time not found
 - [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
 - [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
 - [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
-- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
 - [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
+- [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - Jul 10, 2025
+- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - Jul 10, 2025
 - [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - Jul 9, 2025
 - [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - Jul 9, 2025
 - [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - Jul 9, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
 - [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - Jul 3, 2025
 - [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/) - Jul 3, 2025
-- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/) - Jul 3, 2025
-- [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/) - Jul 3, 2025
+- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Time not found
 - [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) - Time not found
 - [Rivian CEO RJ Scaringe’s voting control slips following divorce settlement ](https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/) - Time not found
 - [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
 - [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
 - [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
-- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
 - [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
