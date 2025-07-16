@@ -4,17 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/) - 5 hours ago
-- [Rwazi raises $12M Series A to help companies with consumer insights and intelligence](https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/) - 6 hours ago
-- [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - 7 hours ago
-- [TechCrunch All Stage launches in Boston today — don’t miss what founders are learning](https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/) - 10 hours ago
+- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - 4 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/) - 10 hours ago
+- [Rwazi raises $12M Series A to help companies with consumer insights and intelligence](https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/) - 11 hours ago
+- [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - 11 hours ago
+- [Auriga Space raises $6M to shoot rockets off an electromagnetic launch track](https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/) - 12 hours ago
+- [TechCrunch All Stage launches in Boston today — don’t miss what founders are learning](https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/) - 15 hours ago
 - [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/07/14/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 1 day ago
 - [Rainmaker partners with Atmo to squeeze more rain from clouds](https://techcrunch.com/2025/07/14/rainmaker-partners-with-atmo-to-squeeze-more-rain-from-clouds/) - 1 day ago
 - [The votes are in: TechCrunch Disrupt 2025 Audience Choice winners revealed for roundtables and breakouts](https://techcrunch.com/2025/07/14/the-votes-are-in-techcrunch-disrupt-2025-audience-choice-winners-revealed-for-roundtables-and-breakouts/) - 1 day ago
 - [Tomorrow: TechCrunch All Stage launches in Boston — and ticket prices rise](https://techcrunch.com/2025/07/14/tomorrow-techcrunch-all-stage-launches-in-boston-and-ticket-prices-rise/) - 1 day ago
 - [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/) - 2 days ago
-- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - 2 days ago
-- [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/) - 3 days ago
+- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - 3 days ago
+- [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/) - 4 days ago
 - [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - 4 days ago
 - [A cloud-seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/) - 4 days ago
 - [Hugging Face’s new robot is the Seinfeld of AI devices](https://techcrunch.com/podcast/hugging-faces-new-robot-is-the-seinfeld-of-ai-devices/) - 4 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - Jul 9, 2025
 - [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - Jul 9, 2025
 - [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - Jul 9, 2025
-- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - Jul 9, 2025
-- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/) - Jul 9, 2025
 - [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) - Time not found
+- [Rivian CEO RJ Scaringe’s voting control slips following divorce settlement ](https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/) - Time not found
 - [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
 - [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
 - [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
+- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
 - [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
-- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
-- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
+- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - Jul 9, 2025
+- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/) - Jul 9, 2025
 - [Learn how to avoid the pitfalls that stall startup fundraising at TechCrunch All Stage on July 15](https://techcrunch.com/2025/07/09/learn-how-to-avoid-the-pitfalls-that-stall-startup-fundraising-at-techcrunch-all-stage/) - Jul 9, 2025
 - [PR is your scaling power: Learn from Insight Partners’ Nikki Parker at TechCrunch All Stage](https://techcrunch.com/2025/07/09/pr-is-your-scaling-power-learn-from-insight-partners-nikki-parker-at-techcrunch-all-stage/) - Jul 9, 2025
 - [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/) - Jul 9, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/) - Jul 3, 2025
 - [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/) - Jul 3, 2025
 - [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
-- [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/) - Jul 3, 2025
-- [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/) - Jul 2, 2025
 - [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) - Time not found
+- [Rivian CEO RJ Scaringe’s voting control slips following divorce settlement ](https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/) - Time not found
 - [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
 - [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
 - [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) - Time not found
+- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/) - Time not found
 - [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/) - Time not found
-- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) - Time not found
-- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/) - Time not found
