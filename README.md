@@ -4,13 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 25 minutes ago
-- [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - 17 hours ago
-- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - 21 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - 21 hours ago
-- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - 21 hours ago
-- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - 22 hours ago
-- [Hugging Face bets on cute robots to bring open source AI to life](https://techcrunch.com/podcast/hugging-face-bets-on-cute-robots-to-bring-open-source-ai-to-life/) - 22 hours ago
+- [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - 44 minutes ago
+- [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - 52 minutes ago
+- [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - 1 hour ago
+- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 4 hours ago
+- [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - 21 hours ago
+- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - 1 day ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - 1 day ago
+- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - 1 day ago
+- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - 1 day ago
+- [Hugging Face bets on cute robots to bring open source AI to life](https://techcrunch.com/podcast/hugging-face-bets-on-cute-robots-to-bring-open-source-ai-to-life/) - 1 day ago
 - [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - 2 days ago
 - [Rwazi raises $12M Series A to help companies with consumer insights and intelligence](https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/) - 2 days ago
 - [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - 2 days ago
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/) - Jul 11, 2025
 - [Julie Wainwright is building what comes next — join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - Jul 11, 2025
 - [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - Jul 11, 2025
+- [Hackers are trying to steal passwords and sensitive data from users of Signal clone](https://techcrunch.com/2025/07/17/hackers-are-trying-to-steal-passwords-and-sensitive-data-from-users-of-signal-clone/) - Time not found
+- [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - Time not found
+- [Zuckerberg and Meta investors reach settlement in $8B privacy case](https://techcrunch.com/2025/07/17/zuckerberg-and-meta-investors-reach-settlement-in-8b-privacy-case/) - Time not found
+- [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - Time not found
+- [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - Time not found
+- [North Korean hackers blamed for record spike in crypto thefts in 2025](https://techcrunch.com/2025/07/17/north-korean-hackers-blamed-for-record-spike-in-crypto-thefts-in-2025/) - Time not found
+- [Spotify expands audiobook access to family plan members for the first time](https://techcrunch.com/2025/07/17/spotify-expands-audiobook-access-to-family-plan-members-for-the-first-time/) - Time not found
 - [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/) - Jul 11, 2025
 - [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/) - Jul 11, 2025
 - [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 10, 2025
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
-- [Slack bolsters search with AI, adds transcriptions and summaries for huddles](https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/) - Time not found
-- [Roblox introduces new safeguards for teens, including age estimation tech](https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/) - Time not found
-- [TikTok lures songwriters with new promotional features](https://techcrunch.com/2025/07/17/tiktok-lures-songwriters-promotional-features/) - Time not found
-- [Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media](https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/) - Time not found
-- [Apple News+ adds a new game that uses emoji and Genmoji to sovle puzzles](https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-sovle-puzzles/) - Time not found
-- [Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades](https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/) - Time not found
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - Jul 10, 2025
 - [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - Jul 10, 2025
 - [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - Jul 10, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/) - Jul 4, 2025
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/) - Jul 3, 2025
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/) - Jul 3, 2025
-- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/) - Jul 3, 2025
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 3, 2025
-- [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/) - Jul 3, 2025
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
-- [Slack bolsters search with AI, adds transcriptions and summaries for huddles](https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/) - Time not found
-- [Roblox introduces new safeguards for teens, including age estimation tech](https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/) - Time not found
-- [TikTok lures songwriters with new promotional features](https://techcrunch.com/2025/07/17/tiktok-lures-songwriters-promotional-features/) - Time not found
-- [Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media](https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/) - Time not found
-- [Apple News+ adds a new game that uses emoji and Genmoji to sovle puzzles](https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-sovle-puzzles/) - Time not found
-- [Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades](https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/) - Time not found
+- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Time not found
+- [Chinese authorities are using a new tool to hack seized phones and extract data](https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/) - Time not found
+- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Time not found
+- [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) - Time not found
+- [Rivian CEO RJ Scaringe’s voting control slips following divorce settlement ](https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/) - Time not found
+- [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
+- [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
