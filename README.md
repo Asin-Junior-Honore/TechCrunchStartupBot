@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - 5 hours ago
-- [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - 10 hours ago
-- [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - 10 hours ago
-- [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - 13 hours ago
-- [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - 13 hours ago
-- [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - 13 hours ago
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 16 hours ago
-- [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - 1 day ago
+- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - 10 hours ago
+- [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - 14 hours ago
+- [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - 14 hours ago
+- [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - 17 hours ago
+- [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - 17 hours ago
+- [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - 17 hours ago
+- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 20 hours ago
+- [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - 2 days ago
 - [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - 2 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - 2 days ago
 - [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - 2 days ago
@@ -22,25 +22,25 @@ Here are the latest articles from TechCrunch Startups:
 - [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - 3 days ago
 - [Auriga Space raises $6M to shoot rockets off an electromagnetic launch track](https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/) - 3 days ago
 - [TechCrunch All Stage launches in Boston today — don’t miss what founders are learning](https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/) - 3 days ago
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/07/14/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 3 days ago
+- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/07/14/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 4 days ago
 - [Rainmaker partners with Atmo to squeeze more rain from clouds](https://techcrunch.com/2025/07/14/rainmaker-partners-with-atmo-to-squeeze-more-rain-from-clouds/) - 4 days ago
 - [The votes are in: TechCrunch Disrupt 2025 Audience Choice winners revealed for roundtables and breakouts](https://techcrunch.com/2025/07/14/the-votes-are-in-techcrunch-disrupt-2025-audience-choice-winners-revealed-for-roundtables-and-breakouts/) - 4 days ago
 - [Tomorrow: TechCrunch All Stage launches in Boston — and ticket prices rise](https://techcrunch.com/2025/07/14/tomorrow-techcrunch-all-stage-launches-in-boston-and-ticket-prices-rise/) - 4 days ago
 - [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/) - 4 days ago
-- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - 5 days ago
+- [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - Jul 13, 2025
 - [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/) - Jul 12, 2025
 - [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - Jul 11, 2025
 - [A cloud-seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/) - Jul 11, 2025
 - [Hugging Face’s new robot is the Seinfeld of AI devices](https://techcrunch.com/podcast/hugging-faces-new-robot-is-the-seinfeld-of-ai-devices/) - Jul 11, 2025
 - [Goldman Sachs is testing viral AI agent Devin as a ‘new employee’](https://techcrunch.com/2025/07/11/goldman-sachs-is-testing-viral-ai-agent-devin-as-a-new-employee/) - Jul 11, 2025
 - [Medium’s CEO explains what it took to stop losing $2.6M monthly](https://techcrunch.com/2025/07/11/mediums-ceo-explains-what-it-took-to-stop-losing-2-6m-monthly/) - Jul 11, 2025
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
-- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Time not found
-- [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Time not found
-- [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) - Time not found
-- [Rivian CEO RJ Scaringe’s voting control slips following divorce settlement ](https://techcrunch.com/2025/07/14/rivian-ceo-rj-scaringes-voting-control-slips-following-divorce-settlement/) - Time not found
-- [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/) - Time not found
-- [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) - Time not found
+- [Perplexity sees India as a shortcut in its race against OpenAI](https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/) - Time not found
+- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - Time not found
+- [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
+- [Microsoft is buying tons of carbon removal from Xprize startup Vaulted Deep](https://techcrunch.com/2025/07/17/microsoft-is-buying-tons-of-carbon-removal-from-xprize-startup-vaulted-deep/) - Time not found
+- [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - Time not found
+- [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - Time not found
+- [OpenAI launches a general purpose agent in ChatGPT](https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/) - Time not found
 - [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/) - Jul 11, 2025
 - [Julie Wainwright is building what comes next — join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - Jul 11, 2025
 - [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - Jul 11, 2025
