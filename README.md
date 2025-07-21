@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 1 day ago
+- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 2 days ago
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - 2 days ago
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - 2 days ago
-- [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - 2 days ago
-- [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - 2 days ago
+- [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - 3 days ago
+- [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - 3 days ago
 - [Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot](https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/) - 3 days ago
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 3 days ago
 - [CaaStle founder charged with fraud, turns herself in](https://techcrunch.com/2025/07/18/caastle-founder-charged-with-fraud-turns-herself-in/) - 3 days ago
 - [OpenAI, Thinking Machines Lab, and the built-in chaos of a $2B seed round](https://techcrunch.com/podcast/openai-thinking-machines-lab-and-the-built-in-chaos-of-a-2b-seed-round/) - 3 days ago
-- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - 3 days ago
+- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - 4 days ago
 - [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - 4 days ago
 - [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - 4 days ago
 - [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - 4 days ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - 4 days ago
 - [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 4 days ago
 - [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - 5 days ago
-- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - 5 days ago
+- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Jul 16, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - Jul 16, 2025
 - [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - Jul 16, 2025
 - [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - Jul 16, 2025
