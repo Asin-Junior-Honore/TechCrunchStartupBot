@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 2 hours ago
-- [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 5 hours ago
-- [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 5 hours ago
-- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 6 hours ago
-- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 7 hours ago
+- [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 10 hours ago
+- [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 10 hours ago
+- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 11 hours ago
+- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - 11 hours ago
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 2 days ago
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - 2 days ago
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - 2 days ago
@@ -24,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - 4 days ago
 - [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - 4 days ago
 - [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - 4 days ago
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 4 days ago
+- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - 5 days ago
 - [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - Jul 16, 2025
 - [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Jul 16, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - Jul 16, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Jul 15, 2025
 - [Rwazi raises $12M Series A to help companies with consumer insights and intelligence](https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/) - Jul 15, 2025
 - [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - Jul 15, 2025
+- [OpenAI and Google outdo the mathletes, but not each other](https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other/) - Time not found
+- [Serial spyware founder Scott Zuckerman wants the FTC to unban him from the surveillance industry](https://techcrunch.com/2025/07/21/serial-spyware-founder-scott-zuckerman-wants-the-ftc-to-unban-him-from-the-surveillance-industry/) - Time not found
 - [ChatGPT users send 2.5 billion prompts a day](https://techcrunch.com/2025/07/21/chatgpt-users-send-2-5-billion-prompts-a-day/) - Time not found
 - [Hackers exploiting SharePoint zero-day seen targeting government agencies](https://techcrunch.com/2025/07/21/hackers-exploiting-sharepoint-zero-day-seen-targeting-government-agencies-say-researchers/) - Time not found
-- [72% of U.S. teens have used AI companions, study finds](https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/) - Time not found
+- [72% of US teens have used AI companions, study finds](https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/) - Time not found
 - [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - Time not found
 - [Chrome for iOS makes it easier to switch between work and personal Google accounts](https://techcrunch.com/2025/07/21/chrome-for-ios-makes-it-easier-to-switch-between-work-and-personal-google-accounts/) - Time not found
-- [TechCrunch Mobility: Uber makes a bet on premium robotaxis](https://techcrunch.com/2025/07/21/techcrunch-mobility-uber-makes-a-bet-on-premium-robotaxis/) - Time not found
-- [AI voice company Hyper raises $6.3M to help automate 911 calls](https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-911-calls/) - Time not found
 - [Auriga Space raises $6M to shoot rockets off an electromagnetic launch track](https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/) - Jul 15, 2025
 - [TechCrunch All Stage launches in Boston today — don’t miss what founders are learning](https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/) - Jul 15, 2025
 - [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/07/14/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - Jul 14, 2025
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
 - [OpenAI launches a general purpose agent in ChatGPT](https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/) - Time not found
 - [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
+- [Call of Duty cheaters complain after Activision launches new wave of mass-bans](https://techcrunch.com/2025/07/16/call-of-duty-cheaters-complain-after-activision-launches-new-wave-of-mass-bans/) - Time not found
 - [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Time not found
 - [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Time not found
-- [AI coding tools are shifting to a surprising place: The terminal](https://techcrunch.com/2025/07/15/ai-coding-tools-are-shifting-to-a-surprising-place-the-terminal/) - Time not found
