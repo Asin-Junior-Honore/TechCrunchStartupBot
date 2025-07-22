@@ -4,14 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 29 minutes ago
-- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 30 minutes ago
-- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 37 minutes ago
-- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 19 hours ago
-- [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 22 hours ago
-- [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 22 hours ago
-- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - 23 hours ago
+- [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - 1 hour ago
+- [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 2 hours ago
+- [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - 2 hours ago
+- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 4 hours ago
+- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 4 hours ago
+- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 4 hours ago
+- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 23 hours ago
+- [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 1 day ago
+- [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 1 day ago
+- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 3 days ago
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - 3 days ago
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - 3 days ago
@@ -21,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 4 days ago
 - [CaaStle founder charged with fraud, turns herself in](https://techcrunch.com/2025/07/18/caastle-founder-charged-with-fraud-turns-herself-in/) - 4 days ago
 - [OpenAI, Thinking Machines Lab, and the built-in chaos of a $2B seed round](https://techcrunch.com/podcast/openai-thinking-machines-lab-and-the-built-in-chaos-of-a-2b-seed-round/) - 4 days ago
-- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - 5 days ago
+- [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - Jul 17, 2025
 - [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - Jul 17, 2025
 - [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - Jul 17, 2025
 - [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - Jul 17, 2025
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - Jul 16, 2025
 - [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Jul 16, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - Jul 16, 2025
-- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - Jul 16, 2025
-- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - Jul 16, 2025
-- [Hugging Face bets on cute robots to bring open source AI to life](https://techcrunch.com/podcast/hugging-face-bets-on-cute-robots-to-bring-open-source-ai-to-life/) - Jul 16, 2025
 - [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
 - [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
 - [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Time not found
 - [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Time not found
+- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - Jul 16, 2025
+- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - Jul 16, 2025
+- [Hugging Face bets on cute robots to bring open source AI to life](https://techcrunch.com/podcast/hugging-face-bets-on-cute-robots-to-bring-open-source-ai-to-life/) - Jul 16, 2025
 - [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/) - Jul 15, 2025
 - [Rwazi raises $12M Series A to help companies with consumer insights and intelligence](https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/) - Jul 15, 2025
 - [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/) - Jul 15, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - Jul 10, 2025
 - [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - Jul 10, 2025
 - [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/) - Jul 9, 2025
-- [SaaS is in the past. The future belongs to agents, says Narada AI’s CEO.](https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/) - Jul 9, 2025
-- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/) - Jul 9, 2025
-- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - Jul 9, 2025
 - [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
 - [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
