@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - 17 hours ago
-- [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 18 hours ago
-- [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - 18 hours ago
-- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - 19 hours ago
-- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 20 hours ago
-- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 20 hours ago
-- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 20 hours ago
+- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 1 hour ago
+- [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - 21 hours ago
+- [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 22 hours ago
+- [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - 22 hours ago
+- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - 23 hours ago
+- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 1 day ago
+- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 1 day ago
+- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 1 day ago
 - [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 2 days ago
 - [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 2 days ago
 - [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 2 days ago
@@ -19,11 +20,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 4 days ago
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - 4 days ago
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - 4 days ago
-- [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - 4 days ago
-- [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - 4 days ago
+- [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - 5 days ago
+- [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - 5 days ago
 - [Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot](https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/) - 5 days ago
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 5 days ago
-- [CaaStle founder charged with fraud, turns herself in](https://techcrunch.com/2025/07/18/caastle-founder-charged-with-fraud-turns-herself-in/) - 5 days ago
+- [CaaStle founder charged with fraud, turns herself in](https://techcrunch.com/2025/07/18/caastle-founder-charged-with-fraud-turns-herself-in/) - Jul 18, 2025
 - [OpenAI, Thinking Machines Lab, and the built-in chaos of a $2B seed round](https://techcrunch.com/podcast/openai-thinking-machines-lab-and-the-built-in-chaos-of-a-2b-seed-round/) - Jul 18, 2025
 - [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - Jul 17, 2025
 - [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - Jul 17, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - Jul 17, 2025
 - [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Jul 17, 2025
 - [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - Jul 16, 2025
+- [Trump is set to unveil his AI roadmap: Here’s what to know](https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/) - Time not found
+- [Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices](https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/) - Time not found
+- [Instagram adds new protections for accounts that primarily feature children](https://techcrunch.com/2025/07/23/instagram-adds-new-protections-for-accounts-that-primarily-feature-children/) - Time not found
+- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - Time not found
+- [Gupshup raises $60M in equity and debt, leaves unicorn status hanging](https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/) - Time not found
+- [PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people](https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/) - Time not found
+- [Apple alerted Iranians to iPhone spyware attacks, say researchers](https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/) - Time not found
 - [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/) - Jul 16, 2025
-- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
-- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
-- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
-- [SpaceX worker injury rates at Starbase outpace industry rivals](https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/) - Time not found
-- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
-- [OpenAI launches a general purpose agent in ChatGPT](https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/) - Time not found
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/) - Jul 16, 2025
 - [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/) - Jul 16, 2025
 - [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/) - Jul 16, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - Jul 10, 2025
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - Jul 10, 2025
 - [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/) - Jul 10, 2025
-- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/) - Jul 10, 2025
-- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
-- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
-- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
-- [SpaceX worker injury rates at Starbase outpace industry rivals](https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/) - Time not found
-- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
-- [OpenAI launches a general purpose agent in ChatGPT](https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/) - Time not found
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
+- [Trump is set to unveil his AI roadmap: Here’s what to know](https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/) - Time not found
+- [Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices](https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/) - Time not found
+- [Instagram adds new protections for accounts that primarily feature children](https://techcrunch.com/2025/07/23/instagram-adds-new-protections-for-accounts-that-primarily-feature-children/) - Time not found
+- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - Time not found
+- [Gupshup raises $60M in equity and debt, leaves unicorn status hanging](https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/) - Time not found
+- [PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people](https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/) - Time not found
+- [Apple alerted Iranians to iPhone spyware attacks, say researchers](https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/) - Time not found
