@@ -4,13 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 14 hours ago
-- [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - 18 hours ago
-- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - 18 hours ago
-- [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - 18 hours ago
-- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 18 hours ago
-- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - 19 hours ago
-- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 21 hours ago
+- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 18 hours ago
+- [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - 21 hours ago
+- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - 22 hours ago
+- [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - 22 hours ago
+- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 22 hours ago
+- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - 23 hours ago
+- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 1 day ago
 - [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - 2 days ago
 - [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 2 days ago
 - [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - 2 days ago
@@ -23,9 +23,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 3 days ago
 - [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 4 days ago
-- [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - 5 days ago
-- [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - 5 days ago
+- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - 5 days ago
+- [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - Jul 19, 2025
+- [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - Jul 19, 2025
 - [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - Jul 18, 2025
 - [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - Jul 18, 2025
 - [Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot](https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/) - Jul 18, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI, Thinking Machines Lab, and the built-in chaos of a $2B seed round](https://techcrunch.com/podcast/openai-thinking-machines-lab-and-the-built-in-chaos-of-a-2b-seed-round/) - Jul 18, 2025
 - [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - Jul 17, 2025
 - [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - Jul 17, 2025
-- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
-- [Trump’s ‘anti-woke AI’ order could reshape how US tech companies train their models](https://techcrunch.com/2025/07/23/trumps-anti-woke-ai-order-could-reshape-how-us-tech-companies-train-their-models/) - Time not found
-- [Sundar Pichai is ‘very excited’ about Google Cloud’s OpenAI partnership](https://techcrunch.com/2025/07/23/sundar-pichai-is-very-excited-about-google-clouds-openai-partnership/) - Time not found
-- [A troubled SPAC plans to buy iRocket for $400M but it already returned most of its cash](https://techcrunch.com/2025/07/23/a-troubled-spac-plans-to-buy-irocket-for-400m-but-it-already-returned-most-of-its-cash/) - Time not found
-- [YouTube sees a rise in ad revenue to reach nearly $10B](https://techcrunch.com/2025/07/23/youtube-sees-a-rise-in-ad-revenue-to-reach-nearly-10b/) - Time not found
-- [Google’s AI Overviews have 2B monthly users, AI Mode 100M in the US and India](https://techcrunch.com/2025/07/23/googles-ai-overviews-have-2b-monthly-users-ai-mode-100m-in-the-us-and-india/) - Time not found
-- [Tesla profits pulled down by falling EV sales and regulatory credits](https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/) - Time not found
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
+- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
+- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
+- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
+- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
+- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
 - [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - Jul 17, 2025
 - [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - Jul 17, 2025
 - [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - Jul 17, 2025
