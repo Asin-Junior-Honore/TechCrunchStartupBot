@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 2 hours ago
-- [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - 5 hours ago
-- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - 5 hours ago
-- [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - 6 hours ago
-- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 6 hours ago
-- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - 7 hours ago
-- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 9 hours ago
+- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 8 hours ago
+- [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - 11 hours ago
+- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - 11 hours ago
+- [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - 11 hours ago
+- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 11 hours ago
+- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - 12 hours ago
+- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 14 hours ago
 - [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - 1 day ago
 - [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 1 day ago
 - [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - 1 day ago
-- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - 1 day ago
-- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 1 day ago
-- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 1 day ago
-- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 1 day ago
+- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - 2 days ago
+- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 2 days ago
+- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 2 days ago
+- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 2 days ago
 - [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 2 days ago
 - [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 2 days ago
 - [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 2 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI, Thinking Machines Lab, and the built-in chaos of a $2B seed round](https://techcrunch.com/podcast/openai-thinking-machines-lab-and-the-built-in-chaos-of-a-2b-seed-round/) - Jul 18, 2025
 - [‘Utopian’ city California Forever announces huge tech manufacturing park ](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/) - Jul 17, 2025
 - [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/) - Jul 17, 2025
-- [Trump’s AI Action Plan aims to block chip exports to China but lacks key details](https://techcrunch.com/2025/07/23/trumps-ai-action-plan-aims-to-block-chip-exports-to-china-but-lacks-key-details/) - Time not found
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - Time not found
-- [Open source X rival Mastodon begins raising funds with new in-app donation feature](https://techcrunch.com/2025/07/23/open-source-x-rival-mastodon-begins-raising-funds-with-new-in-app-donation-feature/) - Time not found
-- [Trump’s AI strategy trades guardrails for growth in race against China](https://techcrunch.com/2025/07/23/trumps-ai-strategy-trades-guardrails-for-growth-in-race-against-china/) - Time not found
-- [India expands its e-commerce crackdown with a new $200M case against Walmart’s fashion arm Myntra](https://techcrunch.com/2025/07/23/india-expands-its-e-commerce-crackdown-with-a-new-200m-case-against-walmarts-fashion-arm-myntra/) - Time not found
-- [Meta researchers are developing a gesture-controlled wristband that can interact with a computer](https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/) - Time not found
-- [Google Photos adds AI features for ‘remixing’ photos in different styles, turning pics into videos](https://techcrunch.com/2025/07/23/google-photos-adds-ai-features-for-remixing-photos-in-different-styles-turning-pics-into-videos/) - Time not found
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
+- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
+- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
+- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
+- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
+- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
 - [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/) - Jul 17, 2025
 - [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - Jul 17, 2025
 - [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - Jul 17, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Medium’s CEO explains what it took to stop losing $2.6M monthly](https://techcrunch.com/2025/07/11/mediums-ceo-explains-what-it-took-to-stop-losing-2-6m-monthly/) - Jul 11, 2025
 - [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/) - Jul 11, 2025
 - [Julie Wainwright is building what comes next — join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/) - Jul 11, 2025
-- [Trump’s AI Action Plan aims to block chip exports to China but lacks key details](https://techcrunch.com/2025/07/23/trumps-ai-action-plan-aims-to-block-chip-exports-to-china-but-lacks-key-details/) - Time not found
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - Time not found
-- [Open source X rival Mastodon begins raising funds with new in-app donation feature](https://techcrunch.com/2025/07/23/open-source-x-rival-mastodon-begins-raising-funds-with-new-in-app-donation-feature/) - Time not found
-- [Trump’s AI strategy trades guardrails for growth in race against China](https://techcrunch.com/2025/07/23/trumps-ai-strategy-trades-guardrails-for-growth-in-race-against-china/) - Time not found
-- [India expands its e-commerce crackdown with a new $200M case against Walmart’s fashion arm Myntra](https://techcrunch.com/2025/07/23/india-expands-its-e-commerce-crackdown-with-a-new-200m-case-against-walmarts-fashion-arm-myntra/) - Time not found
-- [Meta researchers are developing a gesture-controlled wristband that can interact with a computer](https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/) - Time not found
-- [Google Photos adds AI features for ‘remixing’ photos in different styles, turning pics into videos](https://techcrunch.com/2025/07/23/google-photos-adds-ai-features-for-remixing-photos-in-different-styles-turning-pics-into-videos/) - Time not found
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
+- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
+- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
+- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
+- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
+- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
