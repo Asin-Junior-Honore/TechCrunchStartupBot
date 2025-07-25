@@ -4,25 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - 1 hour ago
-- [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - 1 hour ago
-- [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - 4 hours ago
-- [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/) - 7 hours ago
-- [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/) - 9 hours ago
+- [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/) - 2 hours ago
+- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - 6 hours ago
+- [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - 6 hours ago
+- [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - 9 hours ago
+- [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/) - 12 hours ago
+- [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/) - 14 hours ago
 - [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 1 day ago
 - [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - 1 day ago
 - [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - 1 day ago
 - [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - 1 day ago
 - [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 1 day ago
 - [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - 1 day ago
-- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 1 day ago
+- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - 2 days ago
 - [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - 2 days ago
 - [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 2 days ago
 - [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - 2 days ago
-- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - 2 days ago
-- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 2 days ago
-- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 2 days ago
-- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 2 days ago
+- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - 3 days ago
+- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 3 days ago
+- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 3 days ago
+- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 3 days ago
 - [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 3 days ago
 - [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 3 days ago
 - [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - Jul 19, 2025
 - [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - Jul 18, 2025
 - [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - Jul 18, 2025
-- [Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot](https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/) - Jul 18, 2025
 - [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
 - [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
 - [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
 - [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
+- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
 - [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Time not found
+- [Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot](https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/) - Jul 18, 2025
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - Jul 18, 2025
 - [CaaStle founder charged with fraud, turns herself in](https://techcrunch.com/2025/07/18/caastle-founder-charged-with-fraud-turns-herself-in/) - Jul 18, 2025
 - [OpenAI, Thinking Machines Lab, and the built-in chaos of a $2B seed round](https://techcrunch.com/podcast/openai-thinking-machines-lab-and-the-built-in-chaos-of-a-2b-seed-round/) - Jul 18, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/) - Jul 13, 2025
 - [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/) - Jul 12, 2025
 - [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/) - Jul 11, 2025
-- [A cloud-seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/) - Jul 11, 2025
-- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - Time not found
-- [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - Time not found
-- [AI companions: A threat to love, or an evolution of it?](https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/) - Time not found
-- [Apple iOS 26 public beta arrives](https://techcrunch.com/2025/07/24/apple-ios-26-public-beta-arrives/) - Time not found
-- [Google’s new Web Guide search experiment organizes results with AI](https://techcrunch.com/2025/07/24/googles-new-web-guide-search-experiment-organizes-results-with-ai/) - Time not found
-- [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/) - Time not found
-- [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - Time not found
+- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
+- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
+- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/) - Time not found
+- [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Time not found
+- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/) - Time not found
