@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - 6 hours ago
-- [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - 13 hours ago
+- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - 10 hours ago
+- [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - 17 hours ago
 - [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/) - 1 day ago
-- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - 1 day ago
-- [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - 1 day ago
+- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - 2 days ago
+- [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - 2 days ago
 - [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - 2 days ago
 - [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/) - 2 days ago
 - [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/) - 2 days ago
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 2 days ago
+- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - 3 days ago
 - [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - 3 days ago
 - [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - 3 days ago
 - [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - 3 days ago
@@ -26,11 +26,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - 4 days ago
 - [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - 4 days ago
 - [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) - 4 days ago
-- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 4 days ago
+- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - 5 days ago
 - [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - 5 days ago
-- [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - 5 days ago
-- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - Jul 21, 2025
+- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - Jul 21, 2025
+- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - Jul 21, 2025
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Jul 19, 2025
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - Jul 19, 2025
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - Jul 19, 2025
