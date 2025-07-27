@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - 15 hours ago
-- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - 1 day ago
+- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - 20 hours ago
+- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - 2 days ago
 - [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - 2 days ago
-- [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/) - 2 days ago
+- [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/) - 3 days ago
 - [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - 3 days ago
 - [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - 3 days ago
 - [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - 3 days ago
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - Jul 21, 2025
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/) - Jul 19, 2025
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/) - Jul 19, 2025
-- [U.K. starts enforcing online age check rules](https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/) - Time not found
-- [Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow](https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/) - Time not found
-- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - Time not found
-- [Tesla vet says that ‘reviewing real products’ — not mockups — is the key to staying innovative](https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/) - Time not found
-- [Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/) - Time not found
-- [Tesla wants to bring robotaxis to San Francisco. Here’s what’s standing in the way.](https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/) - Time not found
-- [India bans streaming apps you’ve never heard of — but millions watch](https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/) - Time not found
+- [Google is testing a vibe-coding app called Opal](https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/) - Time not found
+- [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/) - Time not found
+- [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - Time not found
+- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
+- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/) - Jul 19, 2025
 - [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/) - Jul 18, 2025
 - [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/) - Jul 18, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [The votes are in: TechCrunch Disrupt 2025 Audience Choice winners revealed for roundtables and breakouts](https://techcrunch.com/2025/07/14/the-votes-are-in-techcrunch-disrupt-2025-audience-choice-winners-revealed-for-roundtables-and-breakouts/) - Jul 14, 2025
 - [Tomorrow: TechCrunch All Stage launches in Boston — and ticket prices rise](https://techcrunch.com/2025/07/14/tomorrow-techcrunch-all-stage-launches-in-boston-and-ticket-prices-rise/) - Jul 14, 2025
 - [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/) - Jul 13, 2025
-- [U.K. starts enforcing online age check rules](https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/) - Time not found
-- [Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow](https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/) - Time not found
-- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - Time not found
-- [Tesla vet says that ‘reviewing real products’ — not mockups — is the key to staying innovative](https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/) - Time not found
-- [Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/) - Time not found
-- [Tesla wants to bring robotaxis to San Francisco. Here’s what’s standing in the way.](https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/) - Time not found
-- [India bans streaming apps you’ve never heard of — but millions watch](https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/) - Time not found
+- [Google is testing a vibe-coding app called Opal](https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/) - Time not found
+- [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/) - Time not found
+- [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - Time not found
+- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/) - Time not found
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/) - Time not found
+- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/) - Time not found
