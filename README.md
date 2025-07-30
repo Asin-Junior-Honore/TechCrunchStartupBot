@@ -4,13 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 2 minutes ago
-- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 12 minutes ago
-- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 21 minutes ago
-- [How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/) - 1 hour ago
-- [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - 3 hours ago
-- [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - 18 hours ago
-- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 21 hours ago
+- [Who really benefits from the AI boom?](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - 12 minutes ago
+- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - 2 hours ago
+- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 4 hours ago
+- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 4 hours ago
+- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 4 hours ago
+- [How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/) - 5 hours ago
+- [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - 7 hours ago
+- [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - 22 hours ago
+- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 1 day ago
 - [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - 1 day ago
 - [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - 1 day ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - Jul 23, 2025
 - [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - Jul 23, 2025
 - [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/) - Jul 23, 2025
-- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - Jul 23, 2025
-- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - Jul 23, 2025
+- [Who really benefits from the AI boom?](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - Time not found
+- [Palo Alto Networks agrees to buy CyberArk for $25 billion](https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/) - Time not found
+- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - Time not found
+- [Hackers stole Social Security numbers during Allianz Life cyberattack](https://techcrunch.com/2025/07/30/hackers-stole-social-security-numbers-during-allianz-life-cyberattack/) - Time not found
+- [Zuckerberg signals Meta won’t open source all of its ‘superintelligence’ AI models](https://techcrunch.com/2025/07/30/zuckerberg-says-meta-likely-wont-open-source-all-of-its-superintelligence-ai-models/) - Time not found
 - [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - Time not found
 - [A guide to using Edits, Meta’s CapCut rival for short-form video editing](https://techcrunch.com/2025/07/30/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/) - Time not found
-- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - Time not found
-- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - Time not found
-- [Minnesota activates National Guard as cyberattack on Saint Paul disrupts public services](https://techcrunch.com/2025/07/30/minnesota-activates-national-guard-as-cyberattack-on-saint-paul-disrupts-public-services/) - Time not found
-- [Skechers is making kids’ shoes with a hidden AirTag compartment](https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/) - Time not found
-- [How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/) - Time not found
+- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - Jul 23, 2025
+- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - Jul 23, 2025
 - [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/) - Jul 23, 2025
 - [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/) - Jul 22, 2025
 - [Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - Jul 22, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge](https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/) - Jul 17, 2025
 - [Mistral’s Le Chat chatbot gets a productivity push with new ‘deep research’ mode](https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/) - Jul 17, 2025
 - [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/) - Jul 17, 2025
-- [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/) - Jul 17, 2025
-- [Scale AI lays off 14% of staff, largely in data-labeling business](https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/) - Jul 16, 2025
-- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - Time not found
-- [A guide to using Edits, Meta’s CapCut rival for short-form video editing](https://techcrunch.com/2025/07/30/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/) - Time not found
-- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - Time not found
-- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - Time not found
-- [Minnesota activates National Guard as cyberattack on Saint Paul disrupts public services](https://techcrunch.com/2025/07/30/minnesota-activates-national-guard-as-cyberattack-on-saint-paul-disrupts-public-services/) - Time not found
-- [Skechers is making kids’ shoes with a hidden AirTag compartment](https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/) - Time not found
-- [How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/) - Time not found
+- [Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow](https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/) - Time not found
+- [Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/) - Time not found
+- [Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist](https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/) - Time not found
+- [Google is testing a vibe-coding app called Opal](https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/) - Time not found
+- [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/) - Time not found
+- [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - Time not found
+- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
