@@ -4,25 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/) - 5 hours ago
-- [Who really benefits from the AI boom?](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - 8 hours ago
-- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - 10 hours ago
-- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 12 hours ago
-- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 12 hours ago
-- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 12 hours ago
-- [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - 13 hours ago
-- [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - 15 hours ago
+- [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/) - 9 hours ago
+- [Who really benefits from the AI boom?](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - 12 hours ago
+- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - 14 hours ago
+- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 16 hours ago
+- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 16 hours ago
+- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 16 hours ago
+- [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - 17 hours ago
+- [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - 19 hours ago
 - [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - 1 day ago
-- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 1 day ago
+- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 2 days ago
 - [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - 2 days ago
 - [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - 2 days ago
 - [This founder left Silicon Valley to challenge US defense supremacy from Athens, and investors are paying attention](https://techcrunch.com/2025/07/29/this-founder-left-silicon-valley-to-challenge-u-s-defense-supremacy-from-athens-and-investors-are-paying-attention/) - 2 days ago
 - [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/) - 2 days ago
-- [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - 2 days ago
+- [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - 3 days ago
 - [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/) - 3 days ago
-- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - 4 days ago
+- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - 5 days ago
 - [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - Jul 25, 2025
 - [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - Jul 25, 2025
 - [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/) - Jul 24, 2025
