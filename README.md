@@ -4,29 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - 2 hours ago
-- [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - 2 hours ago
-- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - 7 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/) - 11 hours ago
-- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 11 hours ago
-- [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 12 hours ago
+- [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - 5 hours ago
+- [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - 5 hours ago
+- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - 10 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/) - 14 hours ago
+- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 14 hours ago
+- [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 15 hours ago
 - [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/) - 1 day ago
 - [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - 1 day ago
-- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 1 day ago
-- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 1 day ago
-- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 1 day ago
-- [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - 1 day ago
+- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 2 days ago
+- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 2 days ago
+- [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 2 days ago
+- [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - 2 days ago
 - [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - 2 days ago
 - [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - 2 days ago
 - [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 2 days ago
-- [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - 2 days ago
-- [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - 2 days ago
-- [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - 2 days ago
+- [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - 3 days ago
+- [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - 3 days ago
 - [This founder left Silicon Valley to challenge US defense supremacy from Athens, and investors are paying attention](https://techcrunch.com/2025/07/29/this-founder-left-silicon-valley-to-challenge-u-s-defense-supremacy-from-athens-and-investors-are-paying-attention/) - 3 days ago
 - [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/) - 3 days ago
 - [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - 3 days ago
-- [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/) - 3 days ago
+- [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/) - 4 days ago
 - [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - Jul 26, 2025
 - [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - Jul 25, 2025
 - [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - Jul 25, 2025
@@ -34,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - Jul 24, 2025
 - [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/) - Jul 24, 2025
 - [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - Jul 24, 2025
-- [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - Time not found
-- [Amazon CEO wants to put ads in your Alexa+ conversations](https://techcrunch.com/2025/07/31/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations/) - Time not found
-- [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - Time not found
-- [Apple projects tariff costs will hit $1.1B next quarter](https://techcrunch.com/2025/07/31/apple-projects-tariff-costs-will-hit-1-1b-next-quarter/) - Time not found
-- [Reddit revenue soars as it bets on AI and advertising](https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/) - Time not found
-- [Apple has now sold 3 billion iPhones](https://techcrunch.com/2025/07/31/apple-has-now-sold-three-billion-iphones/) - Time not found
-- [Apple plans to ‘significantly’ grow AI investments, Cook says](https://techcrunch.com/2025/07/31/apple-plans-to-significantly-grow-ai-investments-cook-says/) - Time not found
+- [OpenAI launches Study Mode in ChatGPT](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/) - Time not found
+- [Anthropic unveils new rate limits to curb Claude Code power users](https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/) - Time not found
+- [Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow](https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/) - Time not found
+- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - Time not found
+- [Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/) - Time not found
+- [Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist](https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/) - Time not found
+- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/) - Time not found
 - [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/) - Jul 24, 2025
 - [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/) - Jul 24, 2025
 - [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - Jul 23, 2025
