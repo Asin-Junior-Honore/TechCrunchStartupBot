@@ -4,32 +4,32 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - 8 hours ago
-- [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - 12 hours ago
-- [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - 1 day ago
+- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - 11 hours ago
+- [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - 15 hours ago
+- [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - 2 days ago
 - [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - 2 days ago
 - [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 2 days ago
 - [The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - 2 days ago
 - [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - 2 days ago
 - [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - 2 days ago
-- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - 2 days ago
+- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - 3 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/) - 3 days ago
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/) - 3 days ago
-- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - 3 days ago
+- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - 4 days ago
 - [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - 4 days ago
 - [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/) - 4 days ago
 - [PlayerZero raises $15M to prevent AI agents from shipping buggy code ](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/) - 4 days ago
 - [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - 4 days ago
 - [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - 4 days ago
 - [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - 4 days ago
-- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 4 days ago
-- [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - 5 days ago
-- [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - 5 days ago
-- [This founder left Silicon Valley to challenge US defense supremacy from Athens, and investors are paying attention](https://techcrunch.com/2025/07/29/this-founder-left-silicon-valley-to-challenge-u-s-defense-supremacy-from-athens-and-investors-are-paying-attention/) - 5 days ago
+- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - 5 days ago
+- [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - Jul 29, 2025
+- [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - Jul 29, 2025
+- [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - Jul 29, 2025
+- [This founder left Silicon Valley to challenge US defense supremacy from Athens, and investors are paying attention](https://techcrunch.com/2025/07/29/this-founder-left-silicon-valley-to-challenge-u-s-defense-supremacy-from-athens-and-investors-are-paying-attention/) - Jul 29, 2025
 - [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/) - Jul 28, 2025
 - [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - Jul 28, 2025
 - [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - Jul 28, 2025
