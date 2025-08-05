@@ -4,10 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - 7 hours ago
+- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 43 minutes ago
+- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 3 hours ago
+- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - 12 hours ago
 - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - 2 days ago
 - [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - 2 days ago
-- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - 2 days ago
+- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - 3 days ago
 - [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - 3 days ago
 - [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - 3 days ago
 - [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 3 days ago
@@ -32,15 +34,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - Jul 29, 2025
 - [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - Jul 29, 2025
 - [This founder left Silicon Valley to challenge US defense supremacy from Athens, and investors are paying attention](https://techcrunch.com/2025/07/29/this-founder-left-silicon-valley-to-challenge-u-s-defense-supremacy-from-athens-and-investors-are-paying-attention/) - Jul 29, 2025
-- [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/) - Jul 28, 2025
-- [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - Jul 28, 2025
+- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - Time not found
+- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - Time not found
 - [Google says its AI-based bug hunter found 20 security vulnerabilities](https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/) - Time not found
 - [Foxconn sells former GM factory to mystery buyer after failing to make EVs](https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/) - Time not found
 - [Rivian sues to sell its EVs directly in Ohio](https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/) - Time not found
 - [Amazon denies report it’s shutting down Wondery podcast studio](https://techcrunch.com/2025/08/04/amazon-denies-report-its-shutting-down-wondery-podcast-studio/) - Time not found
 - [TechCrunch Mobility: Tesla’s ride-hailing gambit](https://techcrunch.com/2025/08/04/techcrunch-mobility-teslas-ride-hailing-gambit/) - Time not found
-- [Perplexity accused of scraping websites that explicitly blocked AI scraping](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/) - Time not found
-- [OpenAI says ChatGPT is on track to reach 700M weekly users](https://techcrunch.com/2025/08/04/openai-says-chatgpt-is-on-track-to-reach-700m-weekly-users/) - Time not found
+- [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/) - Jul 28, 2025
+- [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - Jul 28, 2025
 - [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - Jul 28, 2025
 - [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/) - Jul 28, 2025
 - [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - Jul 26, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/) - Jul 21, 2025
 - [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/) - Jul 21, 2025
 - [Figma looks to raise nearly $1B as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/) - Jul 21, 2025
-- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - Jul 21, 2025
-- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/) - Jul 21, 2025
-- [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Time not found
-- [Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel](https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/) - Time not found
-- [Your public ChatGPT queries are getting indexed by Google and other search engines](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) - Time not found
-- [The best dating apps aren’t even dating apps](https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/) - Time not found
-- [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - Time not found
-- [OpenAI launches Study Mode in ChatGPT](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/) - Time not found
+- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - Time not found
+- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - Time not found
+- [Google says its AI-based bug hunter found 20 security vulnerabilities](https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/) - Time not found
+- [Foxconn sells former GM factory to mystery buyer after failing to make EVs](https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/) - Time not found
+- [Rivian sues to sell its EVs directly in Ohio](https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/) - Time not found
+- [Amazon denies report it’s shutting down Wondery podcast studio](https://techcrunch.com/2025/08/04/amazon-denies-report-its-shutting-down-wondery-podcast-studio/) - Time not found
+- [TechCrunch Mobility: Tesla’s ride-hailing gambit](https://techcrunch.com/2025/08/04/techcrunch-mobility-teslas-ride-hailing-gambit/) - Time not found
