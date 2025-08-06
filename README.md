@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - 11 hours ago
-- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 17 hours ago
-- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 17 hours ago
-- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 18 hours ago
+- [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - 15 hours ago
+- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 21 hours ago
+- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 22 hours ago
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - 1 day ago
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 1 day ago
-- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 1 day ago
+- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 2 days ago
 - [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - 2 days ago
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - 3 days ago
+- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - 4 days ago
 - [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - 4 days ago
 - [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - 4 days ago
-- [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - 5 days ago
-- [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - 5 days ago
+- [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - Aug 1, 2025
+- [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - Aug 1, 2025
 - [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - Aug 1, 2025
 - [The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - Aug 1, 2025
 - [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - Jul 31, 2025
