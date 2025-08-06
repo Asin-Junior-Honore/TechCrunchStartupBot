@@ -4,21 +4,22 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 5 hours ago
-- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 6 hours ago
-- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 6 hours ago
-- [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - 13 hours ago
-- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 20 hours ago
-- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 22 hours ago
-- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - 1 day ago
+- [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - 4 hours ago
+- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 10 hours ago
+- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 11 hours ago
+- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 11 hours ago
+- [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - 18 hours ago
+- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 1 day ago
+- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 1 day ago
+- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - 2 days ago
 - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - 3 days ago
 - [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - 3 days ago
-- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - 3 days ago
+- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - 4 days ago
 - [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - 4 days ago
 - [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - 4 days ago
 - [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 4 days ago
 - [The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - 5 days ago
+- [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - Jul 31, 2025
 - [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - Jul 31, 2025
 - [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - Jul 31, 2025
 - [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - Jul 31, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - Jul 30, 2025
 - [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/) - Jul 30, 2025
 - [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - Jul 29, 2025
-- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - Jul 29, 2025
 - [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
 - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Your public ChatGPT queries are getting indexed by Google and other search engines](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) - Time not found
 - [The best dating apps aren’t even dating apps](https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/) - Time not found
 - [How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/) - Time not found
+- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - Jul 29, 2025
 - [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - Jul 29, 2025
 - [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - Jul 29, 2025
 - [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/) - Jul 29, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [For Aileen Lee, mundane tech still has the most promise](https://techcrunch.com/podcast/for-aileen-lee-mundane-tech-is-still-has-the-most-promise/) - Jul 22, 2025
 - [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/) - Jul 22, 2025
 - [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/) - Jul 22, 2025
-- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/) - Jul 22, 2025
 - [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
 - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Time not found
