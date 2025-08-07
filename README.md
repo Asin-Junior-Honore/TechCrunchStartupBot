@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 6 hours ago
-- [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - 9 hours ago
-- [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - 9 hours ago
-- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - 10 hours ago
-- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - 12 hours ago
-- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - 12 hours ago
+- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 9 hours ago
+- [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - 12 hours ago
+- [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - 12 hours ago
+- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - 13 hours ago
+- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - 15 hours ago
+- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - 15 hours ago
 - [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - 1 day ago
-- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 1 day ago
-- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 1 day ago
-- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 1 day ago
+- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 2 days ago
+- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 2 days ago
+- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 2 days ago
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - 2 days ago
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 2 days ago
 - [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 2 days ago
@@ -36,9 +36,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - Jul 30, 2025
 - [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
+- [Roku launches Howdy, a $2.99 ad-free streaming service](https://techcrunch.com/2025/08/05/roku-launches-howdy-a-2-99-ad-free-streaming-service/) - Time not found
 - [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Time not found
 - [Your public ChatGPT queries are getting indexed by Google and other search engines](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) - Time not found
 - [The best dating apps aren’t even dating apps](https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/) - Time not found
 - [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/) - Jul 30, 2025
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) - Jul 23, 2025
 - [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
+- [Roku launches Howdy, a $2.99 ad-free streaming service](https://techcrunch.com/2025/08/05/roku-launches-howdy-a-2-99-ad-free-streaming-service/) - Time not found
 - [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Time not found
 - [Your public ChatGPT queries are getting indexed by Google and other search engines](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) - Time not found
 - [The best dating apps aren’t even dating apps](https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/) - Time not found
