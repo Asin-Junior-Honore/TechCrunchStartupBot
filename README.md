@@ -4,9 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - 15 hours ago
-- [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - 17 hours ago
-- [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - 10 minutes ago
+- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/) - 2 hours ago
+- [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - 19 hours ago
+- [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - 21 hours ago
+- [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 1 day ago
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 2 days ago
 - [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - 2 days ago
 - [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - 2 days ago
@@ -18,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 3 days ago
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - 3 days ago
-- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 3 days ago
+- [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - 4 days ago
 - [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - 4 days ago
 - [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - 4 days ago
 - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Aug 2, 2025
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - Jul 31, 2025
 - [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - Jul 31, 2025
 - [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - Jul 31, 2025
-- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - Jul 31, 2025
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/) - Jul 31, 2025
-- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - Jul 31, 2025
+- [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
 - [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/) - Time not found
 - [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/) - Time not found
 - [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
-- [Roku launches Howdy, a $2.99 ad-free streaming service](https://techcrunch.com/2025/08/05/roku-launches-howdy-a-2-99-ad-free-streaming-service/) - Time not found
 - [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
+- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - Jul 31, 2025
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/) - Jul 31, 2025
+- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - Jul 31, 2025
 - [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - Jul 31, 2025
 - [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/) - Jul 30, 2025
 - [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/) - Jul 30, 2025
@@ -68,13 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Preston Thorpe is a software engineer at a San Francisco startup — he’s also serving his 11th year in prison](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-francisco-startup-hes-also-serving-his-11th-year-in-prison/) - Jul 24, 2025
 - [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/) - Jul 24, 2025
 - [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/) - Jul 24, 2025
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/) - Jul 23, 2025
-- [AI’s talent arms race is starting to look like pro sports](https://techcrunch.com/podcast/ais-talent-arms-race-is-starting-to-look-like-pro-sports/) - Jul 23, 2025
-- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/) - Jul 23, 2025
+- [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
 - [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/) - Time not found
 - [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/) - Time not found
 - [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
-- [Roku launches Howdy, a $2.99 ad-free streaming service](https://techcrunch.com/2025/08/05/roku-launches-howdy-a-2-99-ad-free-streaming-service/) - Time not found
 - [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/) - Time not found
