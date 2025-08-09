@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - 1 hour ago
-- [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - 4 hours ago
-- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 6 hours ago
-- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/) - 6 hours ago
-- [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - 23 hours ago
+- [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - 6 hours ago
+- [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - 7 hours ago
+- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - 9 hours ago
+- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 10 hours ago
+- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/) - 10 hours ago
+- [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - 1 day ago
 - [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - 1 day ago
 - [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 1 day ago
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 2 days ago
