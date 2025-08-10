@@ -16,13 +16,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - 3 days ago
 - [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - 3 days ago
 - [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - 3 days ago
-- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - 3 days ago
-- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - 3 days ago
+- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - 4 days ago
+- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - 4 days ago
 - [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - 4 days ago
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - 4 days ago
 - [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - 4 days ago
-- [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - 5 days ago
+- [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - Aug 5, 2025
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - Aug 4, 2025
 - [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - Aug 4, 2025
 - [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - Aug 4, 2025
