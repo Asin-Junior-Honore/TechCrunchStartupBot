@@ -4,22 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - 5 hours ago
-- [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - 9 hours ago
-- [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - 2 days ago
-- [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - 2 days ago
+- [Nigerian profitable food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - 1 hour ago
+- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - 9 hours ago
+- [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - 13 hours ago
+- [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - 3 days ago
+- [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - 3 days ago
 - [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - 3 days ago
 - [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/) - 3 days ago
 - [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - 3 days ago
-- [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - 3 days ago
+- [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - 4 days ago
 - [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 4 days ago
-- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 4 days ago
+- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - 5 days ago
 - [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - 5 days ago
 - [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - 5 days ago
-- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - 5 days ago
-- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - 5 days ago
-- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - 5 days ago
+- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - Aug 6, 2025
+- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - Aug 6, 2025
+- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - Aug 6, 2025
 - [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - Aug 5, 2025
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Aug 5, 2025
 - [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - Aug 5, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - Aug 2, 2025
 - [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - Aug 1, 2025
 - [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - Aug 1, 2025
-- [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - Aug 1, 2025
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
+- [The backlash against Duolingo going ‘AI-first’ didn’t even matter](https://techcrunch.com/2025/08/07/the-backlash-against-duolingo-going-ai-first-didnt-even-matter/) - Time not found
 - [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/) - Time not found
 - [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/) - Time not found
+- [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
-- [Grok Imagine, xAI’s new AI image and video generator, lets you make NSFW content](https://techcrunch.com/2025/08/04/grok-imagine-xais-new-ai-image-and-video-generator-lets-you-make-nsfw-content/) - Time not found
-- [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
+- [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - Aug 1, 2025
 - [The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - Aug 1, 2025
 - [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - Jul 31, 2025
 - [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - Jul 31, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - Jul 25, 2025
 - [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - Jul 25, 2025
 - [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/) - Jul 24, 2025
-- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/) - Jul 24, 2025
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
+- [The backlash against Duolingo going ‘AI-first’ didn’t even matter](https://techcrunch.com/2025/08/07/the-backlash-against-duolingo-going-ai-first-didnt-even-matter/) - Time not found
 - [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/) - Time not found
 - [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/) - Time not found
+- [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
-- [Grok Imagine, xAI’s new AI image and video generator, lets you make NSFW content](https://techcrunch.com/2025/08/04/grok-imagine-xais-new-ai-image-and-video-generator-lets-you-make-nsfw-content/) - Time not found
-- [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/) - Time not found
