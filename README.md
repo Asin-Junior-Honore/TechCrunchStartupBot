@@ -4,10 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 1 hour ago
-- [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - 2 hours ago
-- [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - 13 hours ago
-- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - 21 hours ago
+- [Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - 34 minutes ago
+- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - 2 hours ago
+- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 3 hours ago
+- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - 7 hours ago
+- [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - 18 hours ago
+- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - 1 day ago
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - 1 day ago
 - [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - 3 days ago
 - [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - 3 days ago
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - Aug 4, 2025
 - [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - Aug 4, 2025
 - [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - Aug 4, 2025
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Aug 2, 2025
-- [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - Aug 2, 2025
-- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - Aug 2, 2025
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Time not found
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/) - Time not found
 - [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
+- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Aug 2, 2025
+- [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - Aug 2, 2025
+- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/) - Aug 2, 2025
 - [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - Aug 1, 2025
 - [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - Aug 1, 2025
 - [Term sheets, traction, and truth bombs: Inside the Series A mindset at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - Aug 1, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/) - Jul 28, 2025
 - [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - Jul 28, 2025
 - [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/) - Jul 28, 2025
-- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/) - Jul 26, 2025
-- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/) - Jul 25, 2025
-- [Should Silicon Valley celebrate Trump’s AI plans?](https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/) - Jul 25, 2025
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Time not found
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
