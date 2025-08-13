@@ -4,15 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Google vet raises $8M for Continua to bring AI agents to group chats](https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/) - 3 hours ago
-- [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/) - 3 hours ago
-- [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/) - 4 hours ago
-- [Anduril opens solid rocket motor factory amidst ongoing chemical chokepoint](https://techcrunch.com/2025/08/12/anduril-opens-solid-rocket-motor-factory-amidst-ongoing-chemical-chokepoint/) - 5 hours ago
-- [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/) - 5 hours ago
-- [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - 16 hours ago
-- [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - 20 hours ago
-- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - 21 hours ago
-- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 22 hours ago
+- [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/) - 51 minutes ago
+- [Google vet raises $8M for Continua to bring AI agents to group chats](https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/) - 8 hours ago
+- [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/) - 8 hours ago
+- [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/) - 9 hours ago
+- [Anduril opens solid rocket motor factory amidst ongoing chemical chokepoint](https://techcrunch.com/2025/08/12/anduril-opens-solid-rocket-motor-factory-amidst-ongoing-chemical-chokepoint/) - 10 hours ago
+- [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/) - 10 hours ago
+- [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - 21 hours ago
+- [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - 1 day ago
+- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - 1 day ago
+- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 1 day ago
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - 1 day ago
 - [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - Aug 6, 2025
 - [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/) - Aug 6, 2025
 - [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/) - Aug 5, 2025
-- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Aug 5, 2025
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Time not found
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/) - Time not found
 - [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/) - Time not found
 - [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Time not found
+- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/) - Aug 5, 2025
 - [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - Aug 5, 2025
 - [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/) - Aug 5, 2025
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - Aug 5, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation ](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/) - Jul 29, 2025
 - [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/) - Jul 29, 2025
 - [Get inside Disrupt: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/29/get-inside-disrupt-volunteer-at-techcrunch-disrupt-2025/) - Jul 29, 2025
-- [Fed up with brands that use corn syrup and skim milk, this mother developed her own ‘clean’ baby formula](https://techcrunch.com/2025/07/29/fed-up-with-brands-that-use-corn-syrup-and-skim-milk-this-mother-developed-her-own-clean-baby-formula/) - Jul 29, 2025
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Time not found
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) - Time not found
