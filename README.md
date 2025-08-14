@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - 14 hours ago
-- [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - 15 hours ago
-- [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/) - 16 hours ago
-- [Women are making real progress in venture capital, and the numbers prove it](https://techcrunch.com/podcast/women-are-making-real-progress-in-venture-capital-and-the-numbers-prove-it/) - 18 hours ago
+- [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - 18 hours ago
+- [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - 19 hours ago
+- [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/) - 20 hours ago
+- [Women are making real progress in venture capital, and the numbers prove it](https://techcrunch.com/podcast/women-are-making-real-progress-in-venture-capital-and-the-numbers-prove-it/) - 22 hours ago
 - [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/) - 1 day ago
 - [Google vet raises $8M for Continua to bring AI agents to group chats](https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/) - 2 days ago
 - [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/) - 2 days ago
@@ -16,12 +16,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/) - 2 days ago
 - [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - 2 days ago
 - [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - 2 days ago
-- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - 2 days ago
-- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 2 days ago
+- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - 3 days ago
+- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 3 days ago
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - 3 days ago
 - [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - 3 days ago
-- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - 3 days ago
+- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - 4 days ago
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - 4 days ago
 - [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - Aug 8, 2025
 - [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - Aug 8, 2025
