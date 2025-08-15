@@ -4,24 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/14/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 17 hours ago
-- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - 19 hours ago
-- [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - 20 hours ago
-- [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/) - 21 hours ago
-- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - 22 hours ago
-- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - 1 minute ago
+- [Perplexity’s bid for Google Chrome could be just the beginning](https://techcrunch.com/podcast/perplexitys-bid-for-google-chrome-could-be-just-the-beginning/) - 1 hour ago
+- [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/14/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 21 hours ago
+- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - 22 hours ago
+- [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - 1 day ago
+- [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/) - 1 day ago
+- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - 1 day ago
+- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - 1 day ago
 - [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - 2 days ago
 - [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - 2 days ago
 - [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/) - 2 days ago
 - [Women are making real progress in venture capital, and the numbers prove it](https://techcrunch.com/podcast/women-are-making-real-progress-in-venture-capital-and-the-numbers-prove-it/) - 2 days ago
-- [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/) - 2 days ago
+- [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/) - 3 days ago
 - [Google vet raises $8M for Continua to bring AI agents to group chats](https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/) - 3 days ago
 - [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/) - 3 days ago
 - [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/) - 3 days ago
 - [Anduril opens solid rocket motor factory amidst ongoing chemical chokepoint](https://techcrunch.com/2025/08/12/anduril-opens-solid-rocket-motor-factory-amidst-ongoing-chemical-chokepoint/) - 3 days ago
 - [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/) - 3 days ago
 - [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - 3 days ago
-- [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - 3 days ago
+- [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - 4 days ago
 - [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - 4 days ago
 - [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 4 days ago
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 4 days ago
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Aug 10, 2025
 - [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - Aug 8, 2025
 - [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - Aug 8, 2025
-- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - Aug 8, 2025
-- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Aug 8, 2025
-- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/) - Aug 8, 2025
 - [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/) - Time not found
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [The hidden cost of living in Mark Zuckerberg’s $110M compound](https://techcrunch.com/2025/08/10/the-hidden-cost-of-living-amid-mark-zuckerbergs-110m-compound/) - Time not found
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Time not found
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/) - Time not found
+- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - Aug 8, 2025
+- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Aug 8, 2025
+- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/) - Aug 8, 2025
 - [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - Aug 7, 2025
 - [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - Aug 7, 2025
 - [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - Aug 7, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/) - Jul 31, 2025
 - [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/) - Jul 31, 2025
 - [What’s the real cost of chasing AGI? Power consolidation is just the start, says the AI Now Institute.](https://techcrunch.com/podcast/who-really-benefits-from-the-ai-boom/) - Jul 31, 2025
-- [Figma’s stock soared in its highly anticipated IPO, market cap instantly hit $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/) - Jul 31, 2025
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/) - Jul 31, 2025
-- [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - Jul 31, 2025
 - [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/) - Time not found
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
