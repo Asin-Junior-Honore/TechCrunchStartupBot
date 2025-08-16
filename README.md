@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - 2 minutes ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - 4 hours ago
-- [Perplexity’s bid for Google Chrome could be just the beginning](https://techcrunch.com/podcast/perplexitys-bid-for-google-chrome-could-be-just-the-beginning/) - 5 hours ago
-- [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - 5 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - 9 hours ago
+- [Perplexity’s bid for Google Chrome could be just the beginning](https://techcrunch.com/podcast/perplexitys-bid-for-google-chrome-could-be-just-the-beginning/) - 10 hours ago
+- [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 11 hours ago
 - [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/14/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 1 day ago
 - [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - 1 day ago
 - [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - 1 day ago
@@ -30,7 +30,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - 4 days ago
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - 4 days ago
-- [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - 5 days ago
+- [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - Aug 11, 2025
 - [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - Aug 10, 2025
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Aug 10, 2025
 - [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - Aug 8, 2025
