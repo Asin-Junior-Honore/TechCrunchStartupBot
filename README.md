@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 11 hours ago
-- [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - 13 hours ago
-- [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - 13 hours ago
-- [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - 2 days ago
-- [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - 3 days ago
-- [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - 3 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - 3 days ago
+- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 16 hours ago
+- [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - 17 hours ago
+- [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - 18 hours ago
+- [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - 3 days ago
+- [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - 4 days ago
+- [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - 4 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - 4 days ago
 - [Perplexity’s bid for Google Chrome could be just the beginning](https://techcrunch.com/podcast/perplexitys-bid-for-google-chrome-could-be-just-the-beginning/) - 4 days ago
 - [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - 4 days ago
-- [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - 4 days ago
-- [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/) - 5 days ago
-- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - 5 days ago
-- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - 5 days ago
+- [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - 5 days ago
+- [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/) - Aug 14, 2025
+- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - Aug 14, 2025
+- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - Aug 14, 2025
 - [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - Aug 13, 2025
 - [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - Aug 13, 2025
 - [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/) - Aug 13, 2025
@@ -35,12 +35,12 @@ Here are the latest articles from TechCrunch Startups:
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - Aug 11, 2025
 - [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - Aug 11, 2025
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
+- [Sam Altman, over bread rolls, explores life after GPT-5](https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/) - Time not found
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
 - [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/) - Time not found
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
 - [Why I finally left Spotify](https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/) - Time not found
-- [iOS 26 beta 6 adds new ringtones, snappy app launches, and more](https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/) - Time not found
 - [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - Aug 11, 2025
 - [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/) - Aug 10, 2025
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/) - Aug 10, 2025
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/) - Aug 1, 2025
 - [From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?](https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/) - Aug 1, 2025
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
+- [Sam Altman, over bread rolls, explores life after GPT-5](https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/) - Time not found
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
 - [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/) - Time not found
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
 - [Why I finally left Spotify](https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/) - Time not found
-- [iOS 26 beta 6 adds new ringtones, snappy app launches, and more](https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/) - Time not found
