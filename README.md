@@ -4,10 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/) - 16 minutes ago
-- [CPG startup Keychain snags $30M to build in India, grow in the U.S.](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/) - 2 hours ago
-- [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/) - 5 hours ago
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 24 hours ago
+- [Discover how developer tools are shifting fast with Lauri Moore and David Cramer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/19/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/) - 2 hours ago
+- [Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?](https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/) - 3 hours ago
+- [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/) - 4 hours ago
+- [CPG startup Keychain snags $30M to build in India, grow in the US](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/) - 6 hours ago
+- [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/) - 9 hours ago
+- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 1 day ago
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - 1 day ago
 - [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - 1 day ago
 - [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - 3 days ago
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/) - Aug 12, 2025
 - [Anduril opens solid rocket motor factory amidst ongoing chemical chokepoint](https://techcrunch.com/2025/08/12/anduril-opens-solid-rocket-motor-factory-amidst-ongoing-chemical-chokepoint/) - Aug 12, 2025
 - [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/) - Aug 12, 2025
-- [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - Aug 11, 2025
-- [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - Aug 11, 2025
-- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - Aug 11, 2025
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
 - [Why I finally left Spotify](https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/) - Time not found
+- [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - Aug 11, 2025
+- [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - Aug 11, 2025
+- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - Aug 11, 2025
 - [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - Aug 11, 2025
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - Aug 11, 2025
 - [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - Aug 11, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/) - Aug 5, 2025
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/) - Aug 4, 2025
 - [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/) - Aug 4, 2025
-- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/) - Aug 4, 2025
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) - Aug 2, 2025
-- [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/) - Aug 2, 2025
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Time not found
