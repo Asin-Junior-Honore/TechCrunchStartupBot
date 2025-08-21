@@ -4,20 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - 9 minutes ago
-- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - 1 hour ago
-- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - 6 hours ago
-- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - 6 hours ago
-- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - 6 hours ago
-- [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/) - 7 hours ago
-- [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/) - 7 hours ago
-- [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/) - 21 hours ago
+- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - 5 hours ago
+- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - 6 hours ago
+- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - 11 hours ago
+- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - 11 hours ago
+- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - 11 hours ago
+- [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/) - 12 hours ago
+- [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/) - 12 hours ago
+- [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/) - 1 day ago
 - [Discover how developer tools are shifting fast with Lauri Moore and David Cramer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/19/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/) - 1 day ago
 - [Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?](https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/) - 1 day ago
 - [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/) - 1 day ago
 - [CPG startup Keychain snags $30M to build in India, grow in the US](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/) - 1 day ago
-- [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/) - 1 day ago
+- [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/) - 2 days ago
 - [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 2 days ago
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - 2 days ago
 - [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - Aug 14, 2025
 - [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - Aug 14, 2025
 - [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - Aug 13, 2025
-- [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - Aug 13, 2025
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/) - Time not found
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
+- [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - Aug 13, 2025
 - [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/) - Aug 13, 2025
 - [Women are making real progress in venture capital, and the numbers prove it](https://techcrunch.com/podcast/women-are-making-real-progress-in-venture-capital-and-the-numbers-prove-it/) - Aug 13, 2025
 - [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/) - Aug 12, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - Aug 6, 2025
 - [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - Aug 6, 2025
 - [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - Aug 6, 2025
-- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/) - Aug 6, 2025
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
