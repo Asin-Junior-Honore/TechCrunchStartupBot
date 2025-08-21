@@ -4,14 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - 16 hours ago
-- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - 17 hours ago
-- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - 22 hours ago
-- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - 22 hours ago
-- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - 22 hours ago
-- [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/) - 23 hours ago
-- [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/) - 23 hours ago
+- [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/) - 2 hours ago
+- [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - 2 hours ago
+- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - 20 hours ago
+- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - 21 hours ago
+- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - 1 day ago
+- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - 1 day ago
+- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - 1 day ago
+- [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/) - 1 day ago
+- [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/) - 1 day ago
 - [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/) - 2 days ago
 - [Discover how developer tools are shifting fast with Lauri Moore and David Cramer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/19/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/) - 2 days ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - Aug 14, 2025
 - [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/) - Aug 14, 2025
 - [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - Aug 14, 2025
-- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - Aug 14, 2025
-- [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - Aug 13, 2025
 - [Appeals court says NLRB structure unconstitutional, in a win for SpaceX](https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/) - Time not found
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/) - Time not found
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Time not found
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/) - Time not found
+- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - Aug 14, 2025
+- [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/) - Aug 13, 2025
 - [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/) - Aug 13, 2025
 - [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/) - Aug 13, 2025
 - [Women are making real progress in venture capital, and the numbers prove it](https://techcrunch.com/podcast/women-are-making-real-progress-in-venture-capital-and-the-numbers-prove-it/) - Aug 13, 2025
@@ -69,8 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - Aug 7, 2025
 - [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/) - Aug 6, 2025
 - [Figma’s IPO success is ‘a little bit of a meme stock,’ says Sapphire Ventures’ Jai Das](https://techcrunch.com/podcast/figmas-ipo-success-is-a-little-bit-of-a-meme-stock-says-sapphire-ventures-jai-das/) - Aug 6, 2025
-- [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/) - Aug 6, 2025
-- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/) - Aug 6, 2025
 - [Appeals court says NLRB structure unconstitutional, in a win for SpaceX](https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/) - Time not found
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
