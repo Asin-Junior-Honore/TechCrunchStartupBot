@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/) - 4 hours ago
-- [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/) - 5 hours ago
-- [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - 7 hours ago
-- [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/) - 11 hours ago
+- [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/) - 7 hours ago
+- [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/) - 8 hours ago
+- [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - 9 hours ago
+- [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/) - 14 hours ago
 - [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 1 day ago
 - [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - 1 day ago
 - [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - 1 day ago
-- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - 1 day ago
-- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - 1 day ago
-- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - 1 day ago
+- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - 2 days ago
+- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - 2 days ago
+- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - 2 days ago
 - [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/) - 2 days ago
 - [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/) - 2 days ago
 - [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/) - 2 days ago
@@ -21,11 +21,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/) - 2 days ago
 - [Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?](https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/) - 2 days ago
 - [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/) - 2 days ago
-- [CPG startup Keychain snags $30M to build in India, grow in the US](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/) - 2 days ago
+- [CPG startup Keychain snags $30M to build in India, grow in the US](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/) - 3 days ago
 - [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/) - 3 days ago
 - [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - 3 days ago
-- [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - 3 days ago
-- [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - 3 days ago
+- [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - 4 days ago
+- [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - 4 days ago
 - [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - Aug 16, 2025
 - [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - Aug 15, 2025
 - [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - Aug 15, 2025
@@ -34,7 +34,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - Aug 15, 2025
 - [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - Aug 14, 2025
 - [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - Aug 14, 2025
-- [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/) - Time not found
+- [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
 - [Appeals court says NLRB structure unconstitutional, in a win for SpaceX](https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/) - Time not found
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
@@ -71,7 +71,7 @@ Here are the latest articles from TechCrunch Startups:
 - [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/) - Aug 7, 2025
 - [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/) - Aug 7, 2025
 - [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - Aug 7, 2025
-- [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/) - Time not found
+- [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
 - [Appeals court says NLRB structure unconstitutional, in a win for SpaceX](https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/) - Time not found
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
