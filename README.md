@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 16 hours ago
+- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 2 hours ago
+- [Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 20 hours ago
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - 2 days ago
 - [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/) - 2 days ago
 - [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - Aug 16, 2025
 - [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - Aug 15, 2025
 - [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - Aug 15, 2025
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Aug 15, 2025
+- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
 - [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/) - Time not found
 - [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Time not found
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Aug 15, 2025
 - [Perplexity’s bid for Google Chrome could be just the beginning](https://techcrunch.com/podcast/perplexitys-bid-for-google-chrome-could-be-just-the-beginning/) - Aug 15, 2025
 - [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - Aug 15, 2025
 - [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - Aug 14, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/) - Aug 8, 2025
 - [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - Aug 8, 2025
 - [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/) - Aug 8, 2025
-- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Aug 8, 2025
+- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
 - [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/) - Time not found
 - [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/) - Time not found
