@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 10 hours ago
-- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 18 hours ago
+- [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 14 hours ago
+- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 22 hours ago
 - [Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 2 days ago
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - 3 days ago
 - [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/) - 3 days ago
 - [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/) - 3 days ago
-- [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/) - 3 days ago
+- [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/) - 4 days ago
 - [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/) - 4 days ago
 - [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - 4 days ago
 - [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/) - 4 days ago
-- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 5 days ago
 - [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - 5 days ago
-- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - 5 days ago
+- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - Aug 20, 2025
 - [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - Aug 20, 2025
 - [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - Aug 20, 2025
 - [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - Aug 20, 2025
