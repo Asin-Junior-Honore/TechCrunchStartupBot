@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - 5 hours ago
-- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - 5 hours ago
-- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - 6 hours ago
-- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 6 hours ago
-- [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 22 hours ago
+- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - 2 hours ago
+- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 4 hours ago
+- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - 10 hours ago
+- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - 10 hours ago
+- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - 11 hours ago
+- [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 1 day ago
 - [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 1 day ago
 - [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 2 days ago
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - 3 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/) - Aug 19, 2025
 - [CPG startup Keychain snags $30M to build in India, grow in the US](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/) - Aug 19, 2025
 - [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/) - Aug 19, 2025
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - Aug 18, 2025
 - [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/) - Time not found
 - [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/) - Time not found
+- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/) - Aug 18, 2025
 - [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/) - Aug 18, 2025
 - [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - Aug 18, 2025
 - [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - Aug 16, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/) - Aug 11, 2025
 - [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/) - Aug 11, 2025
 - [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/) - Aug 11, 2025
-- [Profitable Nigerian food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/) - Aug 11, 2025
 - [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
