@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Assort Health nabs $50M to automate patient phone calls, sources say](https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/) - 4 minutes ago
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops tomorrow](https://techcrunch.com/2025/08/26/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-tomorrow/) - 9 hours ago
-- [How one AI startup is helping rice farmers battle climate change](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/) - 10 hours ago
-- [Eyebot gets $20M Series A to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/) - 12 hours ago
+- [Assort Health nabs $50M to automate patient phone calls, sources say](https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/) - 3 hours ago
+- [The wait is almost over: The 2025 Startup Battlefield 200 list drops tomorrow](https://techcrunch.com/2025/08/26/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-tomorrow/) - 11 hours ago
+- [How one AI startup is helping rice farmers battle climate change](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/) - 12 hours ago
+- [Eyebot gets $20M Series A to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/) - 15 hours ago
 - [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - 1 day ago
 - [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 1 day ago
-- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - 1 day ago
-- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - 1 day ago
-- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - 1 day ago
+- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - 2 days ago
+- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - 2 days ago
+- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - 2 days ago
 - [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 2 days ago
-- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 2 days ago
+- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 3 days ago
 - [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 3 days ago
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - 4 days ago
 - [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/) - 4 days ago
@@ -34,10 +34,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/) - Aug 19, 2025
 - [Discover how developer tools are shifting fast with Lauri Moore and David Cramer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/19/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - Aug 19, 2025
 - [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/) - Aug 19, 2025
+- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
 - [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
-- [Hackers who exposed North Korean government hacker explain why they did it](https://techcrunch.com/2025/08/21/hackers-who-exposed-north-korean-government-hacker-explain-why-they-did-it/) - Time not found
 - [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/) - Time not found
 - [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/) - Time not found
 - [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/) - Aug 11, 2025
 - [Pronto’s 10-minute house-help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/) - Aug 11, 2025
 - [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/) - Aug 11, 2025
+- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
 - [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
-- [Hackers who exposed North Korean government hacker explain why they did it](https://techcrunch.com/2025/08/21/hackers-who-exposed-north-korean-government-hacker-explain-why-they-did-it/) - Time not found
 - [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/) - Time not found
 - [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/) - Time not found
 - [Google launches a new Pixel Journal app](https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/) - Time not found
