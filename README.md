@@ -4,23 +4,24 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - 7 hours ago
-- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - 11 hours ago
-- [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 15 hours ago
-- [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/) - 16 hours ago
-- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 18 hours ago
-- [Terraton wants to be the McDonald’s of biochar](https://techcrunch.com/2025/08/27/terraton-wants-to-be-the-mcdonalds-of-biochar/) - 18 hours ago
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - 3 hours ago
+- [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - 12 hours ago
+- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - 16 hours ago
+- [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 19 hours ago
+- [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/) - 20 hours ago
+- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 23 hours ago
+- [Terraton wants to be the McDonald’s of biochar](https://techcrunch.com/2025/08/27/terraton-wants-to-be-the-mcdonalds-of-biochar/) - 23 hours ago
 - [Assort Health nabs $50M to automate patient phone calls, sources say](https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/) - 1 day ago
 - [How one AI startup is helping rice farmers battle climate change](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/) - 2 days ago
 - [Eyebot gets $20M Series A to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/) - 2 days ago
-- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - 2 days ago
-- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 2 days ago
+- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - 3 days ago
+- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 3 days ago
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - 3 days ago
 - [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - 3 days ago
 - [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - 3 days ago
-- [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 3 days ago
+- [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - 4 days ago
 - [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - 4 days ago
-- [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 4 days ago
+- [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - 5 days ago
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - Aug 22, 2025
 - [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/) - Aug 22, 2025
 - [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/) - Aug 21, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - Aug 20, 2025
 - [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/) - Aug 20, 2025
 - [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/) - Aug 20, 2025
-- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - Aug 20, 2025
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid ](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/) - Time not found
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/) - Time not found
 - [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/) - Time not found
+- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/) - Aug 20, 2025
 - [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/) - Aug 20, 2025
 - [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/) - Aug 20, 2025
 - [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/) - Aug 19, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/) - Aug 12, 2025
 - [Google vet raises $8M for Continua to bring AI agents to group chats](https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/) - Aug 12, 2025
 - [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/) - Aug 12, 2025
-- [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/) - Aug 12, 2025
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
