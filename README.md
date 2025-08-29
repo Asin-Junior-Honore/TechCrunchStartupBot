@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Trillion with a ‘T’? That’s a lot of dollars, Nvidia.](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 34 minutes ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - 37 minutes ago
-- [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - 1 hour ago
-- [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/) - 1 hour ago
-- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - 8 hours ago
+- [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 4 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - 4 hours ago
+- [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - 5 hours ago
+- [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/) - 5 hours ago
+- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - 11 hours ago
 - [MathGPT.ai, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/) - 1 day ago
 - [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/) - 1 day ago
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 1 day ago
