@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 16 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - 16 hours ago
-- [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - 16 hours ago
-- [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/) - 17 hours ago
-- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - 23 hours ago
+- [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 20 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - 21 hours ago
+- [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - 21 hours ago
+- [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/) - 21 hours ago
+- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - 1 day ago
 - [MathGPT.ai, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/) - 2 days ago
 - [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/) - 2 days ago
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 2 days ago
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - 2 days ago
 - [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - 2 days ago
-- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - 2 days ago
+- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - 3 days ago
 - [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 3 days ago
 - [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/) - 3 days ago
 - [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 3 days ago
@@ -22,10 +22,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Assort Health nabs $50M to automate patient phone calls, sources say](https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/) - 3 days ago
 - [How one AI startup is helping rice farmers battle climate change](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/) - 4 days ago
 - [Eyebot gets $20M Series A to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/) - 4 days ago
-- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - 4 days ago
-- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 4 days ago
-- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - 5 days ago
-- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - 5 days ago
+- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - 5 days ago
+- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - 5 days ago
+- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Aug 25, 2025
+- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - Aug 25, 2025
 - [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - Aug 25, 2025
 - [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - Aug 24, 2025
 - [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - Aug 24, 2025
@@ -39,8 +39,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic launches a Claude AI agent that lives in Chrome](https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/) - Time not found
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
+- [AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit](https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/) - Time not found
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
-- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
 - [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/) - Aug 21, 2025
 - [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - Aug 21, 2025
 - [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/) - Aug 21, 2025
@@ -76,5 +76,5 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic launches a Claude AI agent that lives in Chrome](https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/) - Time not found
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
+- [AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit](https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/) - Time not found
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
-- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/) - Time not found
