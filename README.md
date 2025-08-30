@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 3 hours ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 3 hours ago
+- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 7 hours ago
 - [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 1 day ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - 1 day ago
 - [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - 1 day ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - Aug 23, 2025
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - Aug 22, 2025
 - [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/) - Aug 22, 2025
-- [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/) - Aug 21, 2025
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Time not found
+- [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/) - Aug 21, 2025
 - [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/) - Aug 21, 2025
 - [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/) - Aug 21, 2025
 - [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - Aug 21, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) - Aug 14, 2025
 - [Lovable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/lovable-projects-1b-in-arr-within-next-12-months/) - Aug 14, 2025
 - [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/) - Aug 14, 2025
-- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/) - Aug 14, 2025
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
