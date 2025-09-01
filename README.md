@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/) - 3 minutes ago
-- [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/) - 3 hours ago
-- [Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - 6 hours ago
+- [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - 1 hour ago
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/) - 4 hours ago
+- [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/) - 7 hours ago
+- [Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - 10 hours ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 days ago
 - [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 2 days ago
 - [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 3 days ago
@@ -18,8 +19,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/) - 4 days ago
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 4 days ago
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - 4 days ago
-- [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - 4 days ago
-- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - 5 days ago
+- [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - 5 days ago
+- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - Aug 27, 2025
 - [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Aug 27, 2025
 - [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/) - Aug 27, 2025
 - [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - Aug 27, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - Aug 25, 2025
 - [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - Aug 25, 2025
 - [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - Aug 24, 2025
-- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - Aug 24, 2025
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic launches a Claude AI agent that lives in Chrome](https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/) - Time not found
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
+- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - Aug 24, 2025
 - [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - Aug 23, 2025
 - [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/) - Aug 22, 2025
 - [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/) - Aug 22, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - Aug 15, 2025
 - [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - Aug 15, 2025
 - [Perplexity’s bid for Google Chrome could be just the beginning](https://techcrunch.com/podcast/perplexitys-bid-for-google-chrome-could-be-just-the-beginning/) - Aug 15, 2025
-- [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/) - Aug 15, 2025
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
