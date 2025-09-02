@@ -4,17 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - 2 hours ago
-- [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - 2 hours ago
-- [Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 3 hours ago
-- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 12 hours ago
-- [U.S. and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - 13 hours ago
-- [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - 17 hours ago
-- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - 21 hours ago
+- [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 1 hour ago
+- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - 6 hours ago
+- [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - 6 hours ago
+- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 16 hours ago
+- [US and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - 17 hours ago
+- [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - 20 hours ago
+- [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - 21 hours ago
+- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - 1 day ago
 - [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - 1 day ago
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/) - 1 day ago
 - [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/) - 1 day ago
-- [Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - 1 day ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 3 days ago
 - [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 3 days ago
 - [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 4 days ago
