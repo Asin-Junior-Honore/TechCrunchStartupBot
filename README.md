@@ -4,22 +4,23 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - 35 minutes ago
-- [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - 5 hours ago
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/) - 8 hours ago
-- [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/) - 11 hours ago
-- [Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - 14 hours ago
+- [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - 2 hours ago
+- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - 5 hours ago
+- [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - 10 hours ago
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/) - 13 hours ago
+- [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/) - 16 hours ago
+- [Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - 19 hours ago
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 2 days ago
-- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 2 days ago
+- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 3 days ago
 - [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - 3 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - 3 days ago
 - [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - 3 days ago
 - [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - 3 days ago
+- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - 4 days ago
 - [MathGPT.ai, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/) - 4 days ago
 - [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/) - 4 days ago
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 4 days ago
-- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - 4 days ago
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - 5 days ago
 - [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - Aug 27, 2025
 - [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - Aug 27, 2025
 - [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Aug 27, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - Aug 25, 2025
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Aug 25, 2025
 - [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - Aug 25, 2025
-- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - Aug 25, 2025
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Anthropic launches a Claude AI agent that lives in Chrome](https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/) - Time not found
 - [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/) - Time not found
 - [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/) - Time not found
+- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/) - Aug 25, 2025
 - [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/) - Aug 24, 2025
 - [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/) - Aug 24, 2025
 - [Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/) - Aug 23, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/) - Aug 18, 2025
 - [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations ](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/) - Aug 16, 2025
 - [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/) - Aug 15, 2025
-- [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - Aug 15, 2025
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
