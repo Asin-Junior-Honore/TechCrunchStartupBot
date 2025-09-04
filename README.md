@@ -4,12 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/) - 35 minutes ago
-- [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - 20 hours ago
-- [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - 23 hours ago
-- [Karen Hao on the making of a $90B AI empire](https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/) - 24 hours ago
-- [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 24 hours ago
+- [AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A](https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/) - 1 hour ago
+- [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 3 hours ago
+- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/) - 4 hours ago
+- [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - 24 hours ago
+- [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - 1 day ago
+- [Karen Hao on the making of a $90B AI empire](https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/) - 1 day ago
+- [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 1 day ago
 - [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/) - 1 day ago
 - [3 days left to lock in your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/03/3-days-left-to-lock-in-your-table-at-techcrunch-disrupt-2025/) - 1 day ago
 - [TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices](https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/) - 1 day ago
@@ -18,7 +20,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 2 days ago
 - [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - 2 days ago
 - [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - 2 days ago
-- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 2 days ago
+- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 3 days ago
 - [US and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - 3 days ago
 - [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - 3 days ago
 - [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - 3 days ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - Aug 29, 2025
 - [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - Aug 29, 2025
 - [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/) - Aug 29, 2025
-- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - Aug 29, 2025
-- [MathGPT.ai, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/) - Aug 28, 2025
 - [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/) - Time not found
 - [Homicide at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - Time not found
 - [Nvidia says two mystery customers accounted for 39% of Q2 revenue](https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
 - [Get ready, EV owners: Here come the dongles](https://techcrunch.com/2025/08/28/get-ready-ev-owners-here-come-the-dongles/) - Time not found
+- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/) - Aug 29, 2025
+- [MathGPT.ai, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/) - Aug 28, 2025
 - [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/) - Aug 28, 2025
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - Aug 28, 2025
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - Aug 28, 2025
@@ -69,8 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/) - Aug 21, 2025
 - [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/) - Aug 21, 2025
 - [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - Aug 20, 2025
-- [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/) - Aug 20, 2025
-- [Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/) - Aug 20, 2025
 - [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/) - Time not found
 - [Homicide at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - Time not found
 - [Nvidia says two mystery customers accounted for 39% of Q2 revenue](https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/) - Time not found
