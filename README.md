@@ -4,28 +4,28 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - 7 hours ago
-- [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - 10 hours ago
-- [Karen Hao on the making of a $90B AI empire](https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/) - 11 hours ago
-- [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 12 hours ago
-- [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/) - 13 hours ago
-- [3 days left to lock in your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/03/3-days-left-to-lock-in-your-table-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices](https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/) - 14 hours ago
-- [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/) - 15 hours ago
-- [College social app Fizz expands into grocery delivery](https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/) - 15 hours ago
-- [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 1 day ago
+- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - 11 hours ago
+- [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - 14 hours ago
+- [Karen Hao on the making of a $90B AI empire](https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/) - 15 hours ago
+- [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - 16 hours ago
+- [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/) - 17 hours ago
+- [3 days left to lock in your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/03/3-days-left-to-lock-in-your-table-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices](https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/) - 18 hours ago
+- [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/) - 19 hours ago
+- [College social app Fizz expands into grocery delivery](https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/) - 19 hours ago
+- [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 2 days ago
 - [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - 2 days ago
 - [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - 2 days ago
 - [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 2 days ago
 - [US and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - 2 days ago
 - [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - 2 days ago
 - [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - 2 days ago
-- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - 2 days ago
+- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - 3 days ago
 - [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - 3 days ago
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/) - 3 days ago
 - [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/) - 3 days ago
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 4 days ago
-- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - 5 days ago
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/) - 5 days ago
+- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - Aug 30, 2025
 - [Trillion with a ‘T’? That’s a lot of dollars, Nvidia](https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/) - Aug 29, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/) - Aug 29, 2025
 - [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/) - Aug 29, 2025
@@ -37,9 +37,9 @@ Here are the latest articles from TechCrunch Startups:
 - [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/) - Time not found
 - [Homicide at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/) - Time not found
 - [Nvidia says two mystery customers accounted for 39% of Q2 revenue](https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/) - Time not found
+- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/) - Time not found
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/) - Time not found
 - [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/) - Time not found
-- [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/) - Time not found
 - [Get ready, EV owners: Here come the dongles](https://techcrunch.com/2025/08/28/get-ready-ev-owners-here-come-the-dongles/) - Time not found
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/) - Aug 28, 2025
 - [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/) - Aug 27, 2025
