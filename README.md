@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/) - 23 hours ago
-- [Atlassian’s $610M bet, and why everyone’s fighting over your browser](https://techcrunch.com/podcast/atlassians-610m-bet-and-why-everyones-fighting-over-your-browser/) - 24 hours ago
+- [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/) - 1 day ago
+- [Atlassian’s $610M bet, and why everyone’s fighting over your browser](https://techcrunch.com/podcast/atlassians-610m-bet-and-why-everyones-fighting-over-your-browser/) - 1 day ago
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - 1 day ago
 - [OpenAI hires the team behind Xcode coding assistant Alex](https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/) - 1 day ago
 - [The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/) - 1 day ago
@@ -28,9 +28,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - 4 days ago
 - [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - 4 days ago
 - [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - 4 days ago
-- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 4 days ago
+- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - 5 days ago
 - [US and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - 5 days ago
-- [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - 5 days ago
+- [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - Sep 1, 2025
 - [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - Sep 1, 2025
 - [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - Sep 1, 2025
 - [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - Sep 1, 2025
