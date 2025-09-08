@@ -4,10 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 1 hour ago
-- [InDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 4 hours ago
-- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 15 hours ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 21 hours ago
+- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - 35 minutes ago
+- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - 1 hour ago
+- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 2 hours ago
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 5 hours ago
+- [InDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 8 hours ago
+- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 19 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 1 day ago
 - [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - 2 days ago
 - [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/) - 3 days ago
@@ -21,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 4 days ago
 - [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/) - 4 days ago
 - [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/) - 4 days ago
-- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - 5 days ago
+- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - Sep 3, 2025
 - [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - Sep 3, 2025
 - [Karen Hao on the making of a $90B AI empire](https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/) - Sep 3, 2025
 - [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - Sep 3, 2025
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/) - Sep 3, 2025
 - [College social app Fizz expands into grocery delivery](https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/) - Sep 3, 2025
 - [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - Sep 2, 2025
-- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - Sep 2, 2025
-- [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - Sep 2, 2025
-- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - Sep 1, 2025
+- [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) - Time not found
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - Time not found
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
-- [Atlassian to buy Arc developer The Browser Company for $610M](https://techcrunch.com/2025/09/04/atlassian-to-buy-arc-developer-the-browser-company-for-610m/) - Time not found
 - [Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features](https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/) - Time not found
 - [Tesla’s 4th ‘Master Plan’ reads like LLM-generated nonsense](https://techcrunch.com/2025/09/02/teslas-4th-master-plan-reads-like-llm-generated-nonsense/) - Time not found
 - [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/) - Time not found
 - [US and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - Time not found
+- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - Sep 2, 2025
+- [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - Sep 2, 2025
+- [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/) - Sep 1, 2025
 - [US and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/) - Sep 1, 2025
 - [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - Sep 1, 2025
 - [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - Sep 1, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [How one AI startup is helping rice farmers battle climate change](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/) - Aug 26, 2025
 - [Eyebot gets $20M Series A to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/) - Aug 26, 2025
 - [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/) - Aug 25, 2025
-- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/) - Aug 25, 2025
-- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/) - Aug 25, 2025
-- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/) - Aug 25, 2025
 - [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) - Time not found
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - Time not found
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
