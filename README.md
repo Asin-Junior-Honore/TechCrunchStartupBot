@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) - 4 hours ago
-- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 13 hours ago
-- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - 16 hours ago
-- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - 17 hours ago
-- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 17 hours ago
-- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 21 hours ago
-- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 24 hours ago
-- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 1 day ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 2 days ago
-- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - 2 days ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 3 minutes ago
+- [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) - 8 hours ago
+- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 17 hours ago
+- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - 21 hours ago
+- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - 21 hours ago
+- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 22 hours ago
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 1 day ago
+- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 1 day ago
+- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 2 days ago
+- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - 3 days ago
 - [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/) - 4 days ago
 - [Atlassian’s $610M bet, and why everyone’s fighting over your browser](https://techcrunch.com/podcast/atlassians-610m-bet-and-why-everyones-fighting-over-your-browser/) - 4 days ago
@@ -23,10 +23,10 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI hires the team behind Xcode coding assistant Alex](https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/) - 4 days ago
 - [The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/today-is-your-last-chance-to-exhibit-your-brand-in-front-of-10k-tech-leaders-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/) - 4 days ago
-- [AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A](https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/) - 5 days ago
-- [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - 5 days ago
-- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/) - 5 days ago
+- [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/) - 5 days ago
+- [AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A](https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/) - Sep 4, 2025
+- [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - Sep 4, 2025
+- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/) - Sep 4, 2025
 - [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/) - Sep 4, 2025
 - [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/) - Sep 3, 2025
 - [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - Sep 3, 2025
