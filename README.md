@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 1 hour ago
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 4 hours ago
-- [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) - 12 hours ago
-- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 21 hours ago
-- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 21 hours ago
-- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 21 hours ago
+- [Ramp says it has hit $1B in annualized revenue](https://techcrunch.com/2025/09/09/ramp-says-it-has-hit-1b-in-annualized-revenue/) - 3 hours ago
+- [Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 5 hours ago
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 8 hours ago
+- [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) - 16 hours ago
+- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 1 day ago
 - [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - 1 day ago
 - [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - 1 day ago
 - [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 1 day ago
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 1 day ago
-- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 1 day ago
+- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 2 days ago
 - [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 2 days ago
 - [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - 3 days ago
 - [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 4 days ago
@@ -33,14 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI ](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/) - Sep 3, 2025
 - [Karen Hao on the making of a $90B AI empire](https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/) - Sep 3, 2025
 - [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/) - Sep 3, 2025
-- [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/) - Sep 3, 2025
 - [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) - Time not found
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - Time not found
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
 - [Atlassian to buy Arc developer The Browser Company for $610M](https://techcrunch.com/2025/09/04/atlassian-to-buy-arc-developer-the-browser-company-for-610m/) - Time not found
 - [Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features](https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/) - Time not found
 - [Tesla’s 4th ‘Master Plan’ reads like LLM-generated nonsense](https://techcrunch.com/2025/09/02/teslas-4th-master-plan-reads-like-llm-generated-nonsense/) - Time not found
-- [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/) - Time not found
+- [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/) - Sep 3, 2025
 - [3 days left to lock in your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/03/3-days-left-to-lock-in-your-table-at-techcrunch-disrupt-2025/) - Sep 3, 2025
 - [TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices](https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/) - Sep 3, 2025
 - [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/) - Sep 3, 2025
@@ -70,11 +70,9 @@ Here are the latest articles from TechCrunch Startups:
 - [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/) - Aug 27, 2025
 - [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Aug 27, 2025
 - [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/) - Aug 27, 2025
-- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - Aug 27, 2025
 - [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) - Time not found
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - Time not found
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
 - [Atlassian to buy Arc developer The Browser Company for $610M](https://techcrunch.com/2025/09/04/atlassian-to-buy-arc-developer-the-browser-company-for-610m/) - Time not found
 - [Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features](https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/) - Time not found
 - [Tesla’s 4th ‘Master Plan’ reads like LLM-generated nonsense](https://techcrunch.com/2025/09/02/teslas-4th-master-plan-reads-like-llm-generated-nonsense/) - Time not found
-- [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/) - Time not found
