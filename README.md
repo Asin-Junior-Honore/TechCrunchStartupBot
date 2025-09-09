@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 55 minutes ago
-- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 1 hour ago
-- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 1 hour ago
-- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - 5 hours ago
-- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - 5 hours ago
-- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 6 hours ago
-- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 9 hours ago
-- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 12 hours ago
-- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 23 hours ago
+- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 6 hours ago
+- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - 10 hours ago
+- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - 10 hours ago
+- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 11 hours ago
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 14 hours ago
+- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 17 hours ago
+- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 1 day ago
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 1 day ago
 - [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - 2 days ago
 - [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - 3 days ago
