@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 1 hour ago
-- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) - 21 hours ago
-- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 23 hours ago
-- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/) - 23 hours ago
-- [Replit hits $3B valuation on $150M annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/) - 23 hours ago
+- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 1 hour ago
+- [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 5 hours ago
+- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) - 1 day ago
+- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 1 day ago
+- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/) - 1 day ago
+- [Replit hits $3B valuation on $150M annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/) - 1 day ago
 - [Bluesky will comply with age-verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/) - 1 day ago
 - [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - 1 day ago
 - [Vibe coding? Meet vibe security](https://techcrunch.com/podcast/vibe-coding-meet-vibe-security/) - 1 day ago
@@ -33,13 +34,13 @@ Here are the latest articles from TechCrunch Startups:
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 3 days ago
 - [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 3 days ago
 - [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - 4 days ago
-- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - Sep 6, 2025
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
 - [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) - Time not found
 - [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/09/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/) - Time not found
 - [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) - Time not found
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - Time not found
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
+- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - Sep 6, 2025
 - [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - Sep 5, 2025
 - [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/) - Sep 5, 2025
 - [Atlassian’s $610M bet, and why everyone’s fighting over your browser](https://techcrunch.com/podcast/atlassians-610m-bet-and-why-everyones-fighting-over-your-browser/) - Sep 5, 2025
@@ -69,7 +70,6 @@ Here are the latest articles from TechCrunch Startups:
 - [India’s Offgrid raises $15M to make lithium optional for battery storage](https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/) - Sep 1, 2025
 - [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/) - Sep 1, 2025
 - [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/) - Sep 1, 2025
-- [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/) - Sep 1, 2025
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
 - [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) - Time not found
 - [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/09/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/) - Time not found
