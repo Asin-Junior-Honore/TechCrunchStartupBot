@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 46 minutes ago
-- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 1 hour ago
-- [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 3 hours ago
-- [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - 19 hours ago
-- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 4 hours ago
+- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 5 hours ago
+- [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 7 hours ago
+- [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - 23 hours ago
+- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 1 day ago
 - [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) - 2 days ago
 - [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 2 days ago
@@ -42,7 +42,7 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
 - [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - 4 days ago
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - 4 days ago
-- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 4 days ago
+- [inDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) - 5 days ago
 - [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) - Sep 7, 2025
 - [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) - Sep 6, 2025
 - [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/) - Sep 5, 2025
