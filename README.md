@@ -4,10 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - 15 hours ago
-- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 20 hours ago
-- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 20 hours ago
-- [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 22 hours ago
+- [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - 17 seconds ago
+- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - 2 hours ago
+- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - 19 hours ago
+- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 1 day ago
+- [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 1 day ago
 - [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - 2 days ago
 - [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -24,22 +26,22 @@ Here are the latest articles from TechCrunch Startups:
 - [This app just raised $14M to take on the loneliness epidemic](https://techcrunch.com/2025/09/10/this-gen-z-founded-app-just-raised-14m-to-take-on-the-loneliness-episdemic/) - 3 days ago
 - [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/) - 3 days ago
 - [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/) - 3 days ago
-- [Sources: AI training startup Mercor eyes $10B+ valuation on $450M run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450m-run-rate/) - 3 days ago
+- [Sources: AI training startup Mercor eyes $10B+ valuation on $450M run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450m-run-rate/) - 4 days ago
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Ramp says it has hit $1B in annualized revenue](https://techcrunch.com/2025/09/09/ramp-says-it-has-hit-1b-in-annualized-revenue/) - 4 days ago
 - [Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - 4 days ago
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - 4 days ago
 - [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) - 4 days ago
-- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - 5 days ago
-- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - Sep 8, 2025
+- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/) - Sep 8, 2025
+- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - Sep 8, 2025
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
 - [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) - Time not found
 - [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/09/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/) - Time not found
 - [Apple debuts the $999 ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-999-ultra-thin-iphone-air/) - Time not found
 - [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
+- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - Sep 8, 2025
+- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - Sep 8, 2025
 - [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - Sep 8, 2025
 - [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/) - Sep 8, 2025
 - [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) - Sep 8, 2025
@@ -68,8 +70,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/) - Sep 3, 2025
 - [College social app Fizz expands into grocery delivery](https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/) - Sep 3, 2025
 - [Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/) - Sep 2, 2025
-- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/) - Sep 2, 2025
-- [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/) - Sep 2, 2025
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
 - [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) - Time not found
