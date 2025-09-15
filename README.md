@@ -4,29 +4,29 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/) - 8 hours ago
-- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - 1 day ago
-- [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - 1 day ago
+- [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/) - 13 hours ago
+- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - 2 days ago
+- [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - 2 days ago
 - [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - 2 days ago
 - [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 3 days ago
 - [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 3 days ago
 - [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - 3 days ago
-- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 3 days ago
+- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - 4 days ago
-- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) - 4 days ago
-- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 4 days ago
-- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/) - 4 days ago
-- [Replit hits $3B valuation on $150M annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/) - 4 days ago
-- [Bluesky will comply with age-verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/) - 4 days ago
-- [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - 4 days ago
-- [Vibe coding? Meet vibe security](https://techcrunch.com/podcast/vibe-coding-meet-vibe-security/) - 5 days ago
-- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - 5 days ago
-- [After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning](https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/) - 5 days ago
-- [AI gaming startup Born raises $15M to build ‘social’ AI companions that combat loneliness](https://techcrunch.com/2025/09/10/born-maker-of-virtual-pet-pengu-raises-15m-to-launch-a-new-wave-of-social-ai-companions/) - 5 days ago
-- [This app just raised $14M to take on the loneliness epidemic](https://techcrunch.com/2025/09/10/this-gen-z-founded-app-just-raised-14m-to-take-on-the-loneliness-episdemic/) - 5 days ago
-- [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/) - 5 days ago
-- [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/) - 5 days ago
+- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) - 5 days ago
+- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) - 5 days ago
+- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/) - 5 days ago
+- [Replit hits $3B valuation on $150M annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/) - 5 days ago
+- [Bluesky will comply with age-verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/) - 5 days ago
+- [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - 5 days ago
+- [Vibe coding? Meet vibe security](https://techcrunch.com/podcast/vibe-coding-meet-vibe-security/) - Sep 10, 2025
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - Sep 10, 2025
+- [After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning](https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/) - Sep 10, 2025
+- [AI gaming startup Born raises $15M to build ‘social’ AI companions that combat loneliness](https://techcrunch.com/2025/09/10/born-maker-of-virtual-pet-pengu-raises-15m-to-launch-a-new-wave-of-social-ai-companions/) - Sep 10, 2025
+- [This app just raised $14M to take on the loneliness epidemic](https://techcrunch.com/2025/09/10/this-gen-z-founded-app-just-raised-14m-to-take-on-the-loneliness-episdemic/) - Sep 10, 2025
+- [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/) - Sep 10, 2025
+- [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/) - Sep 10, 2025
 - [Sources: AI training startup Mercor eyes $10B+ valuation on $450M run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450m-run-rate/) - Sep 9, 2025
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) - Sep 9, 2025
 - [Ramp says it has hit $1B in annualized revenue](https://techcrunch.com/2025/09/09/ramp-says-it-has-hit-1b-in-annualized-revenue/) - Sep 9, 2025
@@ -38,9 +38,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
 - [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) - Time not found
+- [Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic](https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/) - Time not found
 - [Apple debuts the $999 ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-999-ultra-thin-iphone-air/) - Time not found
 - [Smart ring maker Oura’s CEO addresses recent backlash, says future is a ‘cloud of wearables’](https://techcrunch.com/2025/09/09/smart-ring-maker-ouras-ceo-addresses-recent-backlash-says-future-is-a-cloud-of-wearables/) - Time not found
-- [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
 - [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - Sep 8, 2025
 - [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - Sep 8, 2025
 - [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - Sep 8, 2025
@@ -75,6 +75,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
 - [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) - Time not found
+- [Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic](https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/) - Time not found
 - [Apple debuts the $999 ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-999-ultra-thin-iphone-air/) - Time not found
 - [Smart ring maker Oura’s CEO addresses recent backlash, says future is a ‘cloud of wearables’](https://techcrunch.com/2025/09/09/smart-ring-maker-ouras-ceo-addresses-recent-backlash-says-future-is-a-cloud-of-wearables/) - Time not found
-- [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/) - Time not found
