@@ -4,15 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Y Combinator-backed Rulebase wants to be the AI coworker for fintech](https://techcrunch.com/2025/09/16/y-combinator-backed-rulebase-wants-to-be-the-ai-coworker-for-fintech/) - 3 minutes ago
-- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 15 hours ago
-- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - 16 hours ago
-- [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 16 hours ago
-- [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 17 hours ago
-- [Inside the shift at Disrupt: Building community and scaling in the AI era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 19 hours ago
-- [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 20 hours ago
-- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/) - 3 hours ago
+- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 20 hours ago
+- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - 20 hours ago
+- [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 20 hours ago
+- [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 21 hours ago
+- [Inside the shift at Disrupt: Building community and scaling in the AI era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 23 hours ago
+- [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 1 day ago
+- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/) - 1 day ago
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s OK)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-ok/) - 2 days ago
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - 3 days ago
@@ -21,7 +21,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 4 days ago
 - [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 4 days ago
-- [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - 5 days ago
+- [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - Sep 11, 2025
 - [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - Sep 11, 2025
 - [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) - Sep 11, 2025
 - [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) - Sep 10, 2025
