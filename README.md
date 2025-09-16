@@ -4,12 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/) - 3 hours ago
-- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 20 hours ago
-- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - 20 hours ago
-- [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 20 hours ago
-- [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 21 hours ago
-- [Inside the shift at Disrupt: Building community and scaling in the AI era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 23 hours ago
+- [CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M ](https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/) - 1 hour ago
+- [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/) - 2 hours ago
+- [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/) - 3 hours ago
+- [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/) - 7 hours ago
+- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 23 hours ago
+- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - 24 hours ago
+- [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 1 day ago
+- [Inside the shift at Disrupt: Building community and scaling in the AI era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 1 day ago
 - [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 1 day ago
 - [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 1 day ago
@@ -30,10 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Replit hits $3B valuation on $150M annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/) - Sep 10, 2025
 - [Bluesky will comply with age-verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/) - Sep 10, 2025
 - [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - Sep 10, 2025
-- [Vibe coding? Meet vibe security](https://techcrunch.com/podcast/vibe-coding-meet-vibe-security/) - Sep 10, 2025
-- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - Sep 10, 2025
-- [After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning](https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/) - Sep 10, 2025
-- [AI gaming startup Born raises $15M to build ‘social’ AI companions that combat loneliness](https://techcrunch.com/2025/09/10/born-maker-of-virtual-pet-pengu-raises-15m-to-launch-a-new-wave-of-social-ai-companions/) - Sep 10, 2025
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
@@ -41,6 +41,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
 - [Google is shutting down Tables, its Airtable rival](https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/) - Time not found
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
+- [Vibe coding? Meet vibe security](https://techcrunch.com/podcast/vibe-coding-meet-vibe-security/) - Sep 10, 2025
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - Sep 10, 2025
+- [After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning](https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/) - Sep 10, 2025
+- [AI gaming startup Born raises $15M to build ‘social’ AI companions that combat loneliness](https://techcrunch.com/2025/09/10/born-maker-of-virtual-pet-pengu-raises-15m-to-launch-a-new-wave-of-social-ai-companions/) - Sep 10, 2025
 - [This app just raised $14M to take on the loneliness epidemic](https://techcrunch.com/2025/09/10/this-gen-z-founded-app-just-raised-14m-to-take-on-the-loneliness-episdemic/) - Sep 10, 2025
 - [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/) - Sep 10, 2025
 - [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/) - Sep 10, 2025
@@ -67,10 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI hires the team behind Xcode coding assistant Alex](https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/) - Sep 5, 2025
 - [The blueprint for lasting companies and communities with Discord’s Jason Citron and Campus’s Tade Oyerinde at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/) - Sep 5, 2025
 - [Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/today-is-your-last-chance-to-exhibit-your-brand-in-front-of-10k-tech-leaders-at-techcrunch-disrupt-2025/) - Sep 5, 2025
-- [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/) - Sep 4, 2025
-- [AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A](https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/) - Sep 4, 2025
-- [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/) - Sep 4, 2025
-- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/) - Sep 4, 2025
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
