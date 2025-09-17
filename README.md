@@ -4,26 +4,27 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M ](https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/) - 6 hours ago
-- [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/) - 7 hours ago
-- [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 8 hours ago
-- [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/) - 8 hours ago
-- [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/) - 12 hours ago
+- [Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move](https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/) - 3 hours ago
+- [CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M ](https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/) - 9 hours ago
+- [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/) - 11 hours ago
+- [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 11 hours ago
+- [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/) - 11 hours ago
+- [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/) - 15 hours ago
 - [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 1 day ago
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - 1 day ago
 - [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 1 day ago
 - [Inside the shift at Disrupt: Building community and scaling in the AI era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 1 day ago
-- [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 1 day ago
-- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 1 day ago
-- [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 2 days ago
+- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 2 days ago
+- [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/) - 2 days ago
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s OK)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-ok/) - 2 days ago
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - 3 days ago
-- [xAI reportedly lays off 500 workers from data-annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - 3 days ago
-- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - 3 days ago
-- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 4 days ago
+- [xAI reportedly lays off 500 workers from data-annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - 4 days ago
+- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - 4 days ago
+- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - 5 days ago
 - [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - 5 days ago
 - [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/) - Sep 11, 2025
 - [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/) - Sep 11, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/) - Sep 10, 2025
 - [Replit hits $3B valuation on $150M annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/) - Sep 10, 2025
 - [Bluesky will comply with age-verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/) - Sep 10, 2025
-- [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - Sep 10, 2025
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
 - [Google is shutting down Tables, its Airtable rival](https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/) - Time not found
 - [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) - Time not found
+- [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/) - Sep 10, 2025
 - [Vibe coding? Meet vibe security](https://techcrunch.com/podcast/vibe-coding-meet-vibe-security/) - Sep 10, 2025
 - [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/) - Sep 10, 2025
 - [After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning](https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/) - Sep 10, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/) - Sep 5, 2025
 - [OpenAI hires the team behind Xcode coding assistant Alex](https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/) - Sep 5, 2025
 - [The blueprint for lasting companies and communities with Discord’s Jason Citron and Campus’s Tade Oyerinde at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/) - Sep 5, 2025
-- [Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/today-is-your-last-chance-to-exhibit-your-brand-in-front-of-10k-tech-leaders-at-techcrunch-disrupt-2025/) - Sep 5, 2025
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
