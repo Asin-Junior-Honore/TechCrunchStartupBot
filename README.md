@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - 5 hours ago
-- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 11 hours ago
-- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 16 hours ago
-- [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 18 hours ago
-- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 18 hours ago
-- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) - 1 day ago
+- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - 9 hours ago
+- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 15 hours ago
+- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 20 hours ago
+- [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 22 hours ago
+- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 23 hours ago
+- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) - 2 days ago
 - [Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research](https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/) - 2 days ago
 - [Why European founders are winning (and it’s not about working less)](https://techcrunch.com/podcast/why-european-founders-are-winning-and-its-not-about-working-less/) - 2 days ago
 - [Airbuds is the music social network Apple and Spotify wish they had built](https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/) - 2 days ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/) - 3 days ago
 - [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/) - 3 days ago
-- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 3 days ago
+- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - 4 days ago
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - 4 days ago
 - [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 4 days ago
