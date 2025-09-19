@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 4 hours ago
-- [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 6 hours ago
-- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 6 hours ago
-- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) - 20 hours ago
+- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 3 hours ago
+- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 8 hours ago
+- [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 10 hours ago
+- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 11 hours ago
+- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) - 1 day ago
 - [Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research](https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/) - 1 day ago
 - [Why European founders are winning (and it’s not about working less)](https://techcrunch.com/podcast/why-european-founders-are-winning-and-its-not-about-working-less/) - 1 day ago
 - [Airbuds is the music social network Apple and Spotify wish they had built](https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/) - 1 day ago
 - [AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 1 day ago
 - [From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/) - 1 day ago
 - [Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/) - 1 day ago
-- [Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round](https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/) - 1 day ago
+- [Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round](https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/) - 2 days ago
 - [Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move](https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/) - 2 days ago
 - [CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M ](https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/) - 2 days ago
 - [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/) - 2 days ago
@@ -29,11 +30,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 3 days ago
 - [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/) - 3 days ago
+- [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/) - 4 days ago
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s OK)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-ok/) - 4 days ago
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - Sep 13, 2025
 - [xAI reportedly lays off 500 workers from data-annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - Sep 13, 2025
-- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - Sep 13, 2025
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Time not found
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
 - [Why the Oracle-OpenAI deal caught Wall Street by surprise](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/) - Time not found
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/) - Time not found
+- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - Sep 13, 2025
 - [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) - Sep 12, 2025
 - [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) - Sep 12, 2025
 - [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) - Sep 12, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/) - Sep 8, 2025
 - [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/) - Sep 8, 2025
 - [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/) - Sep 8, 2025
-- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents ](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/) - Sep 8, 2025
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Time not found
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) - Time not found
