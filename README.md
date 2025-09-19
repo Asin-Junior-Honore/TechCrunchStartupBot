@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Live demo fails, AI safety wins, and the Golden Age of Robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - 30 minutes ago
-- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 1 hour ago
-- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/) - 2 hours ago
-- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - 13 hours ago
-- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 19 hours ago
-- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 24 hours ago
+- [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) - 2 hours ago
+- [Live demo fails, AI safety wins, and the Golden Age of Robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - 4 hours ago
+- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 5 hours ago
+- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 5 hours ago
+- [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/) - 6 hours ago
+- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - 16 hours ago
+- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 1 day ago
 - [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 1 day ago
 - [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - 4 days ago
 - [Inside the shift at Disrupt: Building community and scaling in the AI era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) - 4 days ago
 - [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/) - 4 days ago
-- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 4 days ago
+- [OpenAI’s research on AI models deliberately lying is wild ](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/) - Time not found
+- [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) - Time not found
 - [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/) - Time not found
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Time not found
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
-- [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
-- [‘Selling coffee beans to Starbucks’ — how the AI boom could leave AI’s biggest companies behind](https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/) - Time not found
+- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/) - 4 days ago
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s OK)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-ok/) - Sep 14, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) - Sep 9, 2025
 - [Ramp says it has hit $1B in annualized revenue](https://techcrunch.com/2025/09/09/ramp-says-it-has-hit-1b-in-annualized-revenue/) - Sep 9, 2025
 - [Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/) - Sep 9, 2025
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) - Sep 9, 2025
+- [OpenAI’s research on AI models deliberately lying is wild ](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/) - Time not found
+- [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) - Time not found
 - [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/) - Time not found
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Time not found
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
-- [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
-- [‘Selling coffee beans to Starbucks’ — how the AI boom could leave AI’s biggest companies behind](https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/) - Time not found
