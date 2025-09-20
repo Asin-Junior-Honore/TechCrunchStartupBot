@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/) - 2 hours ago
-- [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) - 19 hours ago
-- [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 20 hours ago
-- [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) - 22 hours ago
+- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/) - 6 hours ago
+- [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) - 23 hours ago
+- [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 23 hours ago
+- [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) - 1 day ago
 - [Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - 1 day ago
 - [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 1 day ago
 - [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 1 day ago
@@ -34,10 +34,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) - Sep 15, 2025
 - [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Sep 15, 2025
 - [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/) - Sep 15, 2025
+- [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) - Time not found
 - [Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi](https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/) - Time not found
 - [OpenAI’s research on AI models deliberately lying is wild ](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/) - Time not found
 - [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) - Time not found
-- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Time not found
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/) - Sep 10, 2025
 - [Sources: AI training startup Mercor eyes $10B+ valuation on $450M run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450m-run-rate/) - Sep 9, 2025
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) - Sep 9, 2025
+- [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) - Time not found
 - [Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi](https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/) - Time not found
 - [OpenAI’s research on AI models deliberately lying is wild ](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/) - Time not found
 - [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) - Time not found
-- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) - Time not found
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) - Time not found
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) - Time not found
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) - Time not found
