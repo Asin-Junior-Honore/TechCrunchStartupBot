@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/) - 6 hours ago
-- [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) - 23 hours ago
-- [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 23 hours ago
+- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/) - 11 hours ago
+- [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) - 1 day ago
+- [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 1 day ago
 - [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) - 1 day ago
 - [Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - 1 day ago
 - [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 1 day ago
@@ -24,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) - 3 days ago
 - [From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/) - 3 days ago
 - [Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round](https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/) - 3 days ago
+- [Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round](https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/) - 4 days ago
 - [Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move](https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/) - 4 days ago
 - [CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M ](https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/) - 4 days ago
 - [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/) - 4 days ago
