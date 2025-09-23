@@ -4,30 +4,30 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 6 hours ago
-- [Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 6 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/22/tech-layoffs-2025-list/) - 8 hours ago
-- [Clock’s ticking: Get hands-on experience volunteering at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/clocks-ticking-get-hands-on-experience-volunteering-at-techcrunch-disrupt-2025/) - 9 hours ago
-- [Elizabeth Stone on what’s next for Netflix — and streaming itself — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elizabeth-stone-on-whats-next-for-netflix-and-streaming-itself-at-techcrunch-disrupt-2025/) - 10 hours ago
-- [Lift off: First look at the Space Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/lift-off-first-look-at-the-space-stage-agenda-at-techcrunch-disrupt-2025/) - 10 hours ago
-- [5 days left to save up to $668 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/09/22/5-days-left-to-save-up-to-668-on-your-techcrunch-disrupt-2025-pass-dont-pay-more-for-the-same-seat/) - 11 hours ago
-- [Bluesky says it’s getting more aggressive about moderation and enforcement](https://techcrunch.com/2025/09/22/bluesky-says-its-getting-more-aggressive-about-moderation-and-enforcement/) - 11 hours ago
-- [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/) - 19 hours ago
-- [6 days left: Last chance for savings on TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-savings-on-techcrunch-disrupt-2025-passes/) - 1 day ago
-- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in savings now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-savings-now/) - 2 days ago
+- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 5 hours ago
+- [What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 9 hours ago
+- [Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 9 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/22/tech-layoffs-2025-list/) - 12 hours ago
+- [Clock’s ticking: Get hands-on experience volunteering at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/clocks-ticking-get-hands-on-experience-volunteering-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Elizabeth Stone on what’s next for Netflix — and streaming itself — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elizabeth-stone-on-whats-next-for-netflix-and-streaming-itself-at-techcrunch-disrupt-2025/) - 13 hours ago
+- [Lift off: First look at the Space Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/lift-off-first-look-at-the-space-stage-agenda-at-techcrunch-disrupt-2025/) - 14 hours ago
+- [5 days left to save up to $668 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/09/22/5-days-left-to-save-up-to-668-on-your-techcrunch-disrupt-2025-pass-dont-pay-more-for-the-same-seat/) - 14 hours ago
+- [Bluesky says it’s getting more aggressive about moderation and enforcement](https://techcrunch.com/2025/09/22/bluesky-says-its-getting-more-aggressive-about-moderation-and-enforcement/) - 14 hours ago
+- [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/) - 22 hours ago
+- [6 days left: Last chance for savings on TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-savings-on-techcrunch-disrupt-2025-passes/) - 2 days ago
+- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in savings now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-savings-now/) - 3 days ago
 - [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) - 3 days ago
 - [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - 3 days ago
 - [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) - 3 days ago
-- [Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - 3 days ago
-- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 3 days ago
-- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 3 days ago
-- [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/) - 3 days ago
+- [Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - 4 days ago
+- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 4 days ago
+- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 4 days ago
+- [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/) - 4 days ago
 - [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - 4 days ago
 - [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - 4 days ago
-- [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 4 days ago
-- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 4 days ago
+- [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - 5 days ago
+- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/) - 5 days ago
 - [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) - Sep 17, 2025
 - [Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research](https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/) - Sep 17, 2025
 - [Why European founders are winning (and it’s not about working less)](https://techcrunch.com/podcast/why-european-founders-are-winning-and-its-not-about-working-less/) - Sep 17, 2025
