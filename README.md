@@ -4,17 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 3 hours ago
-- [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/) - 3 hours ago
-- [Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/) - 5 hours ago
-- [Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/) - 5 hours ago
-- [Alloy is bringing data management to the robotics industry](https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/) - 5 hours ago
-- [AI company Superpanel raises $5.3M seed to automate legal intake](https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/) - 5 hours ago
-- [StrictlyVC at TechCrunch Disrupt 2025: The full LP track agenda revealed](https://techcrunch.com/2025/09/23/strictlyvc-at-disrupt-2025-the-full-lp-track-agenda-revealed/) - 6 hours ago
-- [TechCrunch Disrupt 2025 ticket rates increase after just 4 days](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/) - 6 hours ago
-- [Sila opens US factory to make silicon anodes for energy-dense EV batteries](https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/) - 11 hours ago
-- [Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures](https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/) - 15 hours ago
-- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 3 hours ago
+- [Do startups still need Silicon Valley? Leaders at SignalFire, Lago, and Revolution debate at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 8 hours ago
+- [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/) - 8 hours ago
+- [Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/) - 10 hours ago
+- [Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/) - 10 hours ago
+- [Alloy is bringing data management to the robotics industry](https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/) - 10 hours ago
+- [AI company Superpanel raises $5.3M seed to automate legal intake](https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/) - 10 hours ago
+- [StrictlyVC at TechCrunch Disrupt 2025: The full LP track agenda revealed](https://techcrunch.com/2025/09/23/strictlyvc-at-disrupt-2025-the-full-lp-track-agenda-revealed/) - 11 hours ago
+- [TechCrunch Disrupt 2025 ticket rates increase after just 4 days](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/) - 11 hours ago
+- [Sila opens US factory to make silicon anodes for energy-dense EV batteries](https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/) - 15 hours ago
+- [Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures](https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/) - 20 hours ago
+- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 1 day ago
 - [What early-stage investors really look for in founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/) - 1 day ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/22/tech-layoffs-2025-list/) - 1 day ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - 4 days ago
 - [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - 4 days ago
 - [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/) - 4 days ago
-- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - 5 days ago
 - [Updates to Studio, YouTube Live, new GenAI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/) - Time not found
 - [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) - Time not found
 - [Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi](https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) - Time not found
 - [Atlassian acquires DX, a developer productivity platform, for $1B](https://techcrunch.com/2025/09/18/atlassian-acquires-dx-a-developer-productivity-platform-for-1b/) - Time not found
 - [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/) - Time not found
+- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - Sep 18, 2025
 - [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - Sep 18, 2025
 - [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - Sep 18, 2025
 - [From scrappy challenger to IPO: Chris Britt brings Chime’s playbook to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/from-scrappy-challenger-to-ipo-chris-britt-brings-chimes-playbook-to-techcrunch-disrupt-2025/) - Sep 18, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s OK)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-ok/) - Sep 14, 2025
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) - Sep 13, 2025
 - [xAI reportedly lays off 500 workers from data-annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) - Sep 13, 2025
-- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) - Sep 13, 2025
 - [Updates to Studio, YouTube Live, new GenAI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/) - Time not found
 - [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) - Time not found
 - [Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi](https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/) - Time not found
