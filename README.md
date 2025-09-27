@@ -4,13 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) - 2 hours ago
-- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) - 3 hours ago
-- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/) - 4 hours ago
-- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/) - 5 hours ago
-- [From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/) - 6 hours ago
-- [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/) - 6 hours ago
-- [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - 21 hours ago
+- [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - 5 hours ago
+- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) - 7 hours ago
+- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) - 7 hours ago
+- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/) - 9 hours ago
+- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/) - 10 hours ago
+- [From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/) - 10 hours ago
+- [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/) - 11 hours ago
+- [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Startup founders say Trump’s $100K H-1B fee is a ‘talent tariff’ that will hurt innovation](https://techcrunch.com/2025/09/25/startup-founders-say-trumps-100k-h-1b-fee-is-a-talent-tariff-that-will-hurt-innovation/) - 1 day ago
 - [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/) - 1 day ago
 - [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/) - 1 day ago
@@ -26,14 +27,13 @@ Here are the latest articles from TechCrunch Startups:
 - [From Digg to deals: Kevin Rose on reinvention and investing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/from-digg-to-deals-kevin-rose-on-reinvention-and-investing-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Step into the future: The full AI Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/step-into-the-future-the-full-ai-stage-agenda-at-techcrunch-disrupt-2025/) - 2 days ago
 - [3 days left: Don’t miss your last chance to lock $668 of savings for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/3-days-left-dont-miss-your-last-chance-to-lock-in-regular-bird-pricing-for-techcrunch-disrupt-2025/) - 2 days ago
-- [South Korea’s ‘Silicon Valley’ strives to live up to its global ambitions](https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/) - 2 days ago
+- [South Korea’s ‘Silicon Valley’ strives to live up to its global ambitions](https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/) - 3 days ago
 - [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Do startups still need Silicon Valley? Leaders at SignalFire, Lago, and Revolution debate at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/) - 3 days ago
 - [Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/) - 3 days ago
 - [Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Alloy is bringing data management to the robotics industry](https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/) - 3 days ago
-- [AI company Superpanel raises $5.3M seed to automate legal intake](https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/) - 3 days ago
 - [It isn’t your imagination: Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/) - Time not found
 - [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/) - Time not found
 - [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/) - Time not found
@@ -44,7 +44,7 @@ Here are the latest articles from TechCrunch Startups:
 - [AI company Superpanel raises $5.3M seed to automate legal intake](https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/) - 3 days ago
 - [StrictlyVC at TechCrunch Disrupt 2025: The full LP track agenda revealed](https://techcrunch.com/2025/09/23/strictlyvc-at-disrupt-2025-the-full-lp-track-agenda-revealed/) - 3 days ago
 - [TechCrunch Disrupt 2025 ticket rates increase after just 4 days](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/) - 3 days ago
-- [Sila opens US factory to make silicon anodes for energy-dense EV batteries](https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/) - 3 days ago
+- [Sila opens US factory to make silicon anodes for energy-dense EV batteries](https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/) - 4 days ago
 - [Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures](https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/) - 4 days ago
 - [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) - 4 days ago
 - [What early-stage investors really look for in founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) - 4 days ago
@@ -55,7 +55,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Lift off: First look at the Space Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/lift-off-first-look-at-the-space-stage-agenda-at-techcrunch-disrupt-2025/) - 4 days ago
 - [5 days left to save up to $668 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/09/22/5-days-left-to-save-up-to-668-on-your-techcrunch-disrupt-2025-pass-dont-pay-more-for-the-same-seat/) - 4 days ago
 - [Bluesky says it’s getting more aggressive about moderation and enforcement](https://techcrunch.com/2025/09/22/bluesky-says-its-getting-more-aggressive-about-moderation-and-enforcement/) - 4 days ago
-- [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/) - 5 days ago
+- [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/) - Sep 21, 2025
 - [6 days left: Last chance for savings on TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-savings-on-techcrunch-disrupt-2025-passes/) - Sep 21, 2025
 - [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in savings now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-savings-now/) - Sep 20, 2025
 - [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) - Sep 19, 2025
