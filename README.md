@@ -4,9 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Former Microsoft execs launch AI agents to end Excel-led finance](https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/) - 1 hour ago
-- [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/) - 8 hours ago
-- [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) - 21 hours ago
+- [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/) - 1 hour ago
+- [From Robinhood to Aetherflux: Baiju Bhatt’s next frontier at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/from-robinhood-to-aetherflux-baiju-bhatts-next-frontier-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [This week’s bundle savings: Founder and Investor Pass deals for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/founder-investor-only-bundle-pass-deal-for-techcrunch-disrupt-2025-this-week/) - 2 hours ago
+- [Complex Chaos thinks AI can help people find common ground](https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/) - 2 hours ago
+- [The TechCrunch Disrupt Stage revealed: Behold the first look ](https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/) - 2 hours ago
+- [The startup behind open source tool Polars raises $21M from Accel](https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/) - 3 hours ago
+- [Former Microsoft execs launch AI agents to end Excel-led finance](https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/) - 5 hours ago
+- [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/) - 12 hours ago
+- [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - 3 days ago
 - [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) - 3 days ago
 - [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) - 3 days ago
@@ -19,21 +25,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/) - 4 days ago
 - [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/) - 4 days ago
 - [Love, lies, and algorithms: Is AI really helping us find ‘the one’? Live at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/love-lies-and-algorithms-is-ai-really-helping-us-find-the-one/) - 4 days ago
-- [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Doorstep raises $8M seed to help find missing food deliveries](https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/) - 4 days ago
+- [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Less than 48 hours to grab your TechCrunch Disrupt 2025 ticket savings](https://techcrunch.com/2025/09/25/these-are-the-last-2-days-for-techcrunch-disrupt-2025-ticket-savings/) - 4 days ago
 - [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/) - 4 days ago
-- [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) - 5 days ago
-- [Chipiron’s big idea: rethinking MRI access, not replacing old machines ](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/) - 5 days ago
-- [How Chipiron’s rethinking the future of MRI](https://techcrunch.com/podcast/how-chipirons-rethinking-the-future-of-mri/) - 5 days ago
+- [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) - Sep 24, 2025
+- [Chipiron’s big idea: rethinking MRI access, not replacing old machines ](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/) - Sep 24, 2025
+- [How Chipiron’s rethinking the future of MRI](https://techcrunch.com/podcast/how-chipirons-rethinking-the-future-of-mri/) - Sep 24, 2025
 - [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) - Sep 24, 2025
 - [From Digg to deals: Kevin Rose on reinvention and investing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/from-digg-to-deals-kevin-rose-on-reinvention-and-investing-at-techcrunch-disrupt-2025/) - Sep 24, 2025
-- [Step into the future: The full AI Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/step-into-the-future-the-full-ai-stage-agenda-at-techcrunch-disrupt-2025/) - Sep 24, 2025
-- [3 days left: Don’t miss your last chance to lock $668 of savings for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/3-days-left-dont-miss-your-last-chance-to-lock-in-regular-bird-pricing-for-techcrunch-disrupt-2025/) - Sep 24, 2025
-- [South Korea’s ‘Silicon Valley’ strives to live up to its global ambitions](https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/) - Sep 24, 2025
-- [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - Sep 23, 2025
-- [Do startups still need Silicon Valley? Leaders at SignalFire, Lago, and Revolution debate at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - Sep 23, 2025
-- [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/) - Sep 23, 2025
 - [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/) - Time not found
 - [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) - Time not found
 - [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/) - Time not found
@@ -41,6 +41,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/) - Time not found
 - [It isn’t your imagination: Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/) - Time not found
 - [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/) - Time not found
+- [Step into the future: The full AI Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/step-into-the-future-the-full-ai-stage-agenda-at-techcrunch-disrupt-2025/) - Sep 24, 2025
+- [3 days left: Don’t miss your last chance to lock $668 of savings for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/3-days-left-dont-miss-your-last-chance-to-lock-in-regular-bird-pricing-for-techcrunch-disrupt-2025/) - Sep 24, 2025
+- [South Korea’s ‘Silicon Valley’ strives to live up to its global ambitions](https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/) - Sep 24, 2025
+- [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - Sep 23, 2025
+- [Do startups still need Silicon Valley? Leaders at SignalFire, Lago, and Revolution debate at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) - Sep 23, 2025
+- [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/) - Sep 23, 2025
 - [Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/) - Sep 23, 2025
 - [Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/) - Sep 23, 2025
 - [Alloy is bringing data management to the robotics industry](https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/) - Sep 23, 2025
@@ -65,12 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) - Sep 19, 2025
 - [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) - Sep 19, 2025
 - [Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/) - Sep 19, 2025
-- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) - Sep 19, 2025
-- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) - Sep 19, 2025
-- [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/) - Sep 19, 2025
-- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) - Sep 18, 2025
-- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) - Sep 18, 2025
-- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/) - Sep 18, 2025
 - [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/) - Time not found
 - [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) - Time not found
 - [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/) - Time not found
