@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - 13 hours ago
-- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 14 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/) - 15 hours ago
-- [Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/) - 16 hours ago
-- [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/) - 16 hours ago
-- [AI that talks back: Character AI in the spotlight with Karandeep Anand at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/) - 17 hours ago
-- [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table ](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/) - 18 hours ago
-- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/) - 18 hours ago
-- [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/) - 18 hours ago
-- [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/) - 18 hours ago
-- [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/) - 19 hours ago
-- [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/) - 20 hours ago
-- [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - 1 day ago
+- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - 17 hours ago
+- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 18 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/) - 19 hours ago
+- [Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/) - 20 hours ago
+- [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/) - 20 hours ago
+- [AI that talks back: Character AI in the spotlight with Karandeep Anand at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/) - 21 hours ago
+- [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table ](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/) - 22 hours ago
+- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/) - 22 hours ago
+- [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/) - 22 hours ago
+- [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/) - 22 hours ago
+- [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/) - 23 hours ago
+- [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/) - 1 day ago
+- [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - 2 days ago
 - [Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) - 2 days ago
 - [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/) - 2 days ago
 - [From Robinhood to Aetherflux: Baiju Bhatt’s next frontier at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/from-robinhood-to-aetherflux-baiju-bhatts-next-frontier-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -28,10 +28,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/) - 2 days ago
 - [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - 5 days ago
-- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) - 5 days ago
-- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) - 5 days ago
-- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/) - 5 days ago
-- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/) - 5 days ago
+- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) - Sep 26, 2025
+- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) - Sep 26, 2025
+- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/) - Sep 26, 2025
+- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/) - Sep 26, 2025
 - [From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/) - Sep 26, 2025
 - [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/) - Sep 26, 2025
 - [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - Time not found
@@ -46,8 +46,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/) - Sep 25, 2025
 - [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/) - Sep 25, 2025
 - [Love, lies, and algorithms: Is AI really helping us find ‘the one’? Live at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/love-lies-and-algorithms-is-ai-really-helping-us-find-the-one/) - Sep 25, 2025
-- [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/) - Sep 25, 2025
 - [Doorstep raises $8M seed to help find missing food deliveries](https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/) - Sep 25, 2025
+- [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/) - Sep 25, 2025
 - [Less than 48 hours to grab your TechCrunch Disrupt 2025 ticket savings](https://techcrunch.com/2025/09/25/these-are-the-last-2-days-for-techcrunch-disrupt-2025-ticket-savings/) - Sep 25, 2025
 - [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/) - Sep 24, 2025
 - [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) - Sep 24, 2025
