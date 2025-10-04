@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) - 5 hours ago
-- [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) - 6 hours ago
-- [Can you think like a YC partner? This game will help you find out](https://techcrunch.com/2025/10/03/can-you-think-like-a-yc-partner-this-game-will-help-you-find-out/) - 9 hours ago
-- [Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/) - 10 hours ago
-- [Supabase nabs $5B valuation, four months after hitting $2B](https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b/) - 10 hours ago
-- [AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/) - 12 hours ago
-- [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/) - 14 hours ago
-- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - 15 hours ago
-- [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/) - 15 hours ago
+- [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) - 9 hours ago
+- [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) - 10 hours ago
+- [Can you think like a YC partner? This game will help you find out](https://techcrunch.com/2025/10/03/can-you-think-like-a-yc-partner-this-game-will-help-you-find-out/) - 13 hours ago
+- [Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/) - 14 hours ago
+- [Supabase nabs $5B valuation, four months after hitting $2B](https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b/) - 14 hours ago
+- [AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/) - 16 hours ago
+- [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/) - 18 hours ago
+- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - 19 hours ago
+- [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/) - 19 hours ago
 - [How startups could be affected by a prolonged government shutdown](https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/) - 2 days ago
 - [Celebrating the partners driving Disrupt’s big ideas, connections, and community](https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/) - 2 days ago
 - [Phoebe Gates and Sophia Kianni share the playbook for scaling consumer AI and winning Gen Z at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -26,14 +26,14 @@ Here are the latest articles from TechCrunch Startups:
 - [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Meet the end-of-life planning startup co-founded by NBA All-Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/) - 3 days ago
 - [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - 3 days ago
+- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/) - 3 days ago
 - [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/) - 3 days ago
-- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - 3 days ago
-- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 3 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/) - 3 days ago
-- [Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - 4 days ago
+- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - 4 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/) - 4 days ago
+- [Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/) - 4 days ago
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
 - [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - Time not found
@@ -50,13 +50,13 @@ Here are the latest articles from TechCrunch Startups:
 - [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/) - 4 days ago
 - [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/) - 4 days ago
 - [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - 4 days ago
-- [Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) - 4 days ago
-- [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/) - 5 days ago
-- [From Robinhood to Aetherflux: Baiju Bhatt’s next frontier at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/from-robinhood-to-aetherflux-baiju-bhatts-next-frontier-at-techcrunch-disrupt-2025/) - 5 days ago
-- [This week’s bundle savings: Founder and Investor Pass deals for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/founder-investor-only-bundle-pass-deal-for-techcrunch-disrupt-2025-this-week/) - 5 days ago
-- [ComplexChaos thinks AI can help people find common ground](https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/) - 5 days ago
-- [The TechCrunch Disrupt Stage revealed: Behold the first look ](https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/) - 5 days ago
-- [The startup behind open source tool Polars raises $21M from Accel](https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/) - 5 days ago
+- [Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) - 5 days ago
+- [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/) - Sep 29, 2025
+- [From Robinhood to Aetherflux: Baiju Bhatt’s next frontier at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/from-robinhood-to-aetherflux-baiju-bhatts-next-frontier-at-techcrunch-disrupt-2025/) - Sep 29, 2025
+- [This week’s bundle savings: Founder and Investor Pass deals for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/founder-investor-only-bundle-pass-deal-for-techcrunch-disrupt-2025-this-week/) - Sep 29, 2025
+- [ComplexChaos thinks AI can help people find common ground](https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/) - Sep 29, 2025
+- [The TechCrunch Disrupt Stage revealed: Behold the first look ](https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/) - Sep 29, 2025
+- [The startup behind open source tool Polars raises $21M from Accel](https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/) - Sep 29, 2025
 - [Former Microsoft execs launch AI agents to end Excel-led finance](https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/) - Sep 29, 2025
 - [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/) - Sep 28, 2025
 - [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) - Sep 28, 2025
