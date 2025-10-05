@@ -4,8 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/) - 17 hours ago
-- [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/) - 19 hours ago
+- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) - 1 minute ago
+- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/) - 21 hours ago
+- [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/) - 24 hours ago
 - [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) - 2 days ago
 - [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) - 2 days ago
 - [Can you think like a YC partner? This game will help you find out](https://techcrunch.com/2025/10/03/can-you-think-like-a-yc-partner-this-game-will-help-you-find-out/) - 2 days ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - 4 days ago
 - [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/) - 4 days ago
 - [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/) - 4 days ago
-- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - 5 days ago
-- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - Sep 30, 2025
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
 - [Ted Cruz blocks bill that would extend privacy protections to all Americans](https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/) - Time not found
@@ -41,14 +41,16 @@ Here are the latest articles from TechCrunch Startups:
 - [Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) - Time not found
 - [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/) - Time not found
 - [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/) - Time not found
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/) - 5 days ago
-- [Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/) - 5 days ago
-- [AI that talks back: Character AI in the spotlight with Karandeep Anand at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table ](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/) - 5 days ago
-- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/) - 5 days ago
-- [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/) - 5 days ago
-- [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/) - 5 days ago
+- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - Sep 30, 2025
+- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/) - Sep 30, 2025
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/) - Sep 30, 2025
+- [Hance will demo its kilobyte-size AI audio-processing software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/) - Sep 30, 2025
+- [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/) - Sep 30, 2025
+- [AI that talks back: Character AI in the spotlight with Karandeep Anand at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/) - Sep 30, 2025
+- [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table ](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/) - Sep 30, 2025
+- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/) - Sep 30, 2025
+- [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/) - Sep 30, 2025
+- [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/) - Sep 30, 2025
 - [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/) - Sep 30, 2025
 - [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/) - Sep 30, 2025
 - [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - Sep 29, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/) - Sep 26, 2025
 - [From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/) - Sep 26, 2025
 - [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/) - Sep 26, 2025
-- [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) - Sep 25, 2025
-- [Startup founders say Trump’s $100K H-1B fee is a ‘talent tariff’ that will hurt innovation](https://techcrunch.com/2025/09/25/startup-founders-say-trumps-100k-h-1b-fee-is-a-talent-tariff-that-will-hurt-innovation/) - Sep 25, 2025
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
+- [Ted Cruz blocks bill that would extend privacy protections to all Americans](https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/) - Time not found
 - [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - Time not found
 - [Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) - Time not found
 - [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/) - Time not found
-- [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) - Time not found
 - [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/) - Time not found
