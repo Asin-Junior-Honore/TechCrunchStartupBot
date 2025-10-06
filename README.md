@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - 4 hours ago
-- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) - 4 hours ago
-- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - 9 hours ago
+- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) - 9 hours ago
+- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) - 11 hours ago
 - [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/) - 1 day ago
 - [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/) - 1 day ago
 - [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) - 2 days ago
@@ -17,15 +17,15 @@ Here are the latest articles from TechCrunch Startups:
 - [AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/) - 2 days ago
 - [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - 2 days ago
 - [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/) - 2 days ago
-- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - 2 days ago
-- [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/) - 2 days ago
+- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - 3 days ago
+- [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/) - 3 days ago
 - [How startups could be affected by a prolonged government shutdown](https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/) - 3 days ago
 - [Celebrating the partners driving Disrupt’s big ideas, connections, and community](https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/) - 3 days ago
 - [Phoebe Gates and Sophia Kianni share the playbook for scaling consumer AI and winning Gen Z at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/) - 3 days ago
 - [OpenAI is the world’s most valuable private company after private stock sale](https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/) - 3 days ago
 - [Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow](https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/) - 3 days ago
 - [Perplexity acquires the team behind Sequoia-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/) - 3 days ago
-- [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/) - 3 days ago
+- [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/) - 4 days ago
 - [Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them](https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/) - 4 days ago
 - [Self-driving trucks startup Einride raises $100M](https://techcrunch.com/2025/10/01/self-driving-trucks-startup-einride-raises-100m/) - 4 days ago
 - [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 4 days ago
