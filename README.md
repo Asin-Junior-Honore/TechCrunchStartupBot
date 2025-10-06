@@ -4,10 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/) - 8 hours ago
-- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - 19 hours ago
-- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) - 20 hours ago
-- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [Okosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/) - 13 seconds ago
+- [Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/) - 2 hours ago
+- [TechCrunch Disrupt 2025 exhibit tables are selling out fast and time is running out](https://techcrunch.com/2025/10/06/techcrunch-disrupt-2025-exhibit-tables-are-selling-out-fast-and-time-is-running-out/) - 2 hours ago
+- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72 Private Investments](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/) - 12 hours ago
+- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - 24 hours ago
+- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) - 1 day ago
+- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) - 1 day ago
 - [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/) - 2 days ago
 - [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/) - 2 days ago
 - [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) - 3 days ago
@@ -28,12 +31,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Perplexity acquires the team behind Sequoia-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/) - 4 days ago
 - [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/) - 4 days ago
 - [Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them](https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/) - 5 days ago
-- [Self-driving trucks startup Einride raises $100M](https://techcrunch.com/2025/10/01/self-driving-trucks-startup-einride-raises-100m/) - 5 days ago
-- [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - 5 days ago
+- [Self-driving trucks startup Einride raises $100M](https://techcrunch.com/2025/10/01/self-driving-trucks-startup-einride-raises-100m/) - Oct 1, 2025
+- [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Meet the end-of-life planning startup co-founded by NBA All-Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/) - Oct 1, 2025
-- [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/) - Oct 1, 2025
-- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
-- [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - Oct 1, 2025
 - [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/) - Time not found
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model](https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/) - Time not found
 - [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - Time not found
 - [Vibe-coding startup Anything nabs a $100M valuation after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) - Time not found
+- [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/) - Oct 1, 2025
+- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
+- [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - Oct 1, 2025
 - [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/) - Oct 1, 2025
 - [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - Sep 30, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) - Sep 28, 2025
 - [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) - Sep 26, 2025
 - [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) - Sep 26, 2025
-- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) - Sep 26, 2025
-- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/) - Sep 26, 2025
-- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/) - Sep 26, 2025
 - [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/) - Time not found
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
