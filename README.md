@@ -4,8 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - 1 minute ago
-- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - 1 hour ago
+- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - 4 hours ago
+- [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/) - 4 hours ago
+- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - 5 hours ago
 - [Ökosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/) - 1 day ago
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - 1 day ago
 - [Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/) - 1 day ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI is the world’s most valuable private company after private stock sale](https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/) - Oct 2, 2025
 - [Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow](https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/) - Oct 2, 2025
 - [Perplexity acquires the team behind Sequoia-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/) - Oct 2, 2025
-- [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/) - Oct 2, 2025
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) - Time not found
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Time not found
 - [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/) - Time not found
@@ -41,13 +41,14 @@ Here are the latest articles from TechCrunch Startups:
 - [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/) - Time not found
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
+- [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/) - Oct 2, 2025
 - [Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them](https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/) - Oct 1, 2025
 - [Self-driving trucks startup Einride raises $100M](https://techcrunch.com/2025/10/01/self-driving-trucks-startup-einride-raises-100m/) - Oct 1, 2025
 - [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Meet the end-of-life planning startup co-founded by NBA All-Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/) - Oct 1, 2025
 - [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/) - Oct 1, 2025
-- [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - Oct 1, 2025
 - [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
+- [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - Oct 1, 2025
 - [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/) - Oct 1, 2025
 - [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - Sep 30, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [ComplexChaos thinks AI can help people find common ground](https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/) - Sep 29, 2025
 - [The TechCrunch Disrupt Stage revealed: Behold the first look ](https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/) - Sep 29, 2025
 - [The startup behind open source tool Polars raises $21M from Accel](https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/) - Sep 29, 2025
-- [Former Microsoft execs launch AI agents to end Excel-led finance](https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/) - Sep 29, 2025
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) - Time not found
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Time not found
 - [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/) - Time not found
