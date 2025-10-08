@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt/) - 5 minutes ago
-- [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - 53 minutes ago
-- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - 2 hours ago
-- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - 5 hours ago
-- [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - 10 hours ago
-- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - 19 hours ago
-- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - 24 hours ago
+- [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - 3 hours ago
+- [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - 4 hours ago
+- [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - 5 hours ago
+- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - 6 hours ago
+- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - 9 hours ago
+- [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - 15 hours ago
+- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - 23 hours ago
+- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - 1 day ago
 - [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/) - 1 day ago
 - [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - 1 day ago
 - [Ökosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/) - Oct 3, 2025
 - [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) - Oct 3, 2025
 - [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/) - Oct 3, 2025
-- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - Oct 3, 2025
 - [OpenAI launches AgentKit to help developers build and ship AI agents ](https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/) - Time not found
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) - Time not found
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - Time not found
 - [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Salesforce launches enterprise vibe-coding product, Agentforce Vibes](https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/) - Time not found
+- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - Oct 3, 2025
 - [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/) - Oct 3, 2025
 - [How startups could be affected by a prolonged government shutdown](https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/) - Oct 2, 2025
 - [Celebrating the partners driving Disrupt’s big ideas, connections, and community](https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/) - Oct 2, 2025
@@ -54,8 +55,8 @@ Here are the latest articles from TechCrunch Startups:
 - [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Meet the end-of-life planning startup co-founded by NBA All-Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/) - Oct 1, 2025
 - [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/) - Oct 1, 2025
-- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - Oct 1, 2025
+- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/) - Oct 1, 2025
 - [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science ](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/) - Sep 30, 2025
@@ -65,12 +66,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/) - Sep 30, 2025
 - [AI that talks back: Character AI in the spotlight with Karandeep Anand at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/) - Sep 30, 2025
 - [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table ](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/) - Sep 30, 2025
-- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/) - Sep 30, 2025
 - [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/) - Sep 30, 2025
 - [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/) - Sep 30, 2025
+- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/) - Sep 30, 2025
 - [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/) - Sep 30, 2025
 - [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/) - Sep 30, 2025
-- [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) - Sep 29, 2025
 - [OpenAI launches AgentKit to help developers build and ship AI agents ](https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/) - Time not found
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) - Time not found
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Time not found
