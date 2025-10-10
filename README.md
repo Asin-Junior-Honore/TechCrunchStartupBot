@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/) - 2 hours ago
-- [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) - 4 hours ago
-- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) - 6 hours ago
-- [Datacurve raises $15 million to take on Scale AI](https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/) - 12 hours ago
-- [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/) - 13 hours ago
-- [This distributed data storage startup wants to take on Big Cloud](https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/) - 13 hours ago
-- [Knapsack picks up $10M to help bridge the gap between design and engineering teams](https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/) - 13 hours ago
-- [Navigating the next frontier at TechCrunch Disrupt 2025: Where investors see opportunity in space](https://techcrunch.com/2025/10/09/navigating-the-next-frontier-at-techcrunch-disrupt-2025-where-investors-see-opportunity-in-space/) - 13 hours ago
-- [How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/) - 14 hours ago
-- [Startup Battlefield alum DevAlly raises €2M to help companies with Europe’s feisty new accessibility law](https://techcrunch.com/2025/10/09/startup-battlefield-alum-devally-raises-2m-to-help-companies-with-europes-feisty-new-accessibility-law/) - 20 hours ago
-- [Novoloop’s upcycled plastic takes a step closer to production](https://techcrunch.com/2025/10/08/novoloops-upcycled-plastic-takes-a-step-closer-to-production/) - 22 hours ago
+- [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/) - 6 hours ago
+- [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) - 8 hours ago
+- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) - 10 hours ago
+- [Datacurve raises $15 million to take on Scale AI](https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/) - 16 hours ago
+- [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/) - 17 hours ago
+- [This distributed data storage startup wants to take on Big Cloud](https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/) - 17 hours ago
+- [Navigating the next frontier at TechCrunch Disrupt 2025: Where investors see opportunity in space](https://techcrunch.com/2025/10/09/navigating-the-next-frontier-at-techcrunch-disrupt-2025-where-investors-see-opportunity-in-space/) - 17 hours ago
+- [Knapsack picks up $10M to help bridge the gap between design and engineering teams](https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/) - 17 hours ago
+- [How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/) - 18 hours ago
+- [Startup Battlefield alum DevAlly raises €2M to help companies with Europe’s feisty new accessibility law](https://techcrunch.com/2025/10/09/startup-battlefield-alum-devally-raises-2m-to-help-companies-with-europes-feisty-new-accessibility-law/) - 1 day ago
+- [Novoloop’s upcycled plastic takes a step closer to production](https://techcrunch.com/2025/10/08/novoloops-upcycled-plastic-takes-a-step-closer-to-production/) - 1 day ago
 - [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) - 1 day ago
-- [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - 1 day ago
+- [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - 2 days ago
 - [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - 2 days ago
 - [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - 2 days ago
@@ -32,14 +32,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/) - 4 days ago
 - [TechCrunch Disrupt 2025 exhibit tables are selling out fast and time is running out](https://techcrunch.com/2025/10/06/techcrunch-disrupt-2025-exhibit-tables-are-selling-out-fast-and-time-is-running-out/) - 4 days ago
 - [Heidi Health raises $65M Series B led by Steve Cohen’s Point72 Private Investments](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/) - 4 days ago
-- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - 4 days ago
+- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) - 5 days ago
 - [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) - 5 days ago
 - [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/) - Time not found
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) - Time not found
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Time not found
 - [The reinforcement gap — or why some AI skills improve faster than others  ](https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/) - Time not found
-- [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) - Time not found
 - [Bending Spoons acquires file transfer service WeTransfer](https://techcrunch.com/2024/07/31/bending-spoons-acquires-file-transfer-service-wetransfer/) - Time not found
+- [Moxxie Ventures, led by ex-Twitter media head, raises $95M third fund](https://techcrunch.com/2024/07/30/moxxie-ventures-led-by-ex-twitter-media-head-raises-95m-third-fund/) - Time not found
 - [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - Time not found
 - [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) - 5 days ago
 - [If you’re not an AI startup, good luck raising money from VCs](https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/) - Oct 4, 2025
