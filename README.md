@@ -4,31 +4,31 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - 6 hours ago
+- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - 9 hours ago
 - [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) - 1 day ago
 - [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/) - 2 days ago
 - [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) - 2 days ago
 - [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) - 2 days ago
 - [Datacurve raises $15 million to take on Scale AI](https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/) - 2 days ago
-- [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/) - 2 days ago
-- [This distributed data storage startup wants to take on Big Cloud](https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/) - 2 days ago
-- [Navigating the next frontier at TechCrunch Disrupt 2025: Where investors see opportunity in space](https://techcrunch.com/2025/10/09/navigating-the-next-frontier-at-techcrunch-disrupt-2025-where-investors-see-opportunity-in-space/) - 2 days ago
-- [Knapsack picks up $10M to help bridge the gap between design and engineering teams](https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/) - 2 days ago
-- [How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/) - 2 days ago
+- [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/) - 3 days ago
+- [This distributed data storage startup wants to take on Big Cloud](https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/) - 3 days ago
+- [Navigating the next frontier at TechCrunch Disrupt 2025: Where investors see opportunity in space](https://techcrunch.com/2025/10/09/navigating-the-next-frontier-at-techcrunch-disrupt-2025-where-investors-see-opportunity-in-space/) - 3 days ago
+- [Knapsack picks up $10M to help bridge the gap between design and engineering teams](https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/) - 3 days ago
+- [How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Startup Battlefield alum DevAlly raises €2M to help companies with Europe’s feisty new accessibility law](https://techcrunch.com/2025/10/09/startup-battlefield-alum-devally-raises-2m-to-help-companies-with-europes-feisty-new-accessibility-law/) - 3 days ago
 - [Novoloop’s upcycled plastic takes a step closer to production](https://techcrunch.com/2025/10/08/novoloops-upcycled-plastic-takes-a-step-closer-to-production/) - 3 days ago
 - [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) - 3 days ago
 - [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - 3 days ago
-- [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - 3 days ago
-- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - 3 days ago
-- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - 3 days ago
+- [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - 4 days ago
+- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - 4 days ago
+- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - 4 days ago
 - [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - 4 days ago
 - [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - 4 days ago
 - [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - 4 days ago
-- [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/) - 4 days ago
-- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - 4 days ago
+- [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/) - 5 days ago
+- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - 5 days ago
 - [Ökosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/) - Oct 6, 2025
 - [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Oct 6, 2025
 - [Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/) - Oct 6, 2025
@@ -69,8 +69,8 @@ Here are the latest articles from TechCrunch Startups:
 - [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Meet the end-of-life planning startup co-founded by NBA All-Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/) - Oct 1, 2025
 - [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/) - Oct 1, 2025
-- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/) - Oct 1, 2025
+- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/) - Oct 1, 2025
 - [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/) - Time not found
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) - Time not found
 - [The reinforcement gap — or why some AI skills improve faster than others  ](https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/) - Time not found
