@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - 52 minutes ago
+- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - 6 hours ago
 - [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) - 1 day ago
 - [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/) - 2 days ago
 - [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) - 2 days ago
@@ -23,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - 3 days ago
 - [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - 3 days ago
 - [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - 3 days ago
+- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - 4 days ago
 - [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - 4 days ago
 - [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - 4 days ago
 - [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - 4 days ago
