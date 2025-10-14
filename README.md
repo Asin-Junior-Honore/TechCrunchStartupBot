@@ -4,18 +4,25 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - 4 hours ago
-- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - 23 hours ago
+- [Coco Robotics taps UCLA professor to lead new physical AI research lab](https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/) - 27 minutes ago
+- [OpenAI and Broadcom partner on AI hardware](https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/) - 51 minutes ago
+- [Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites](https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/) - 1 hour ago
+- [Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table](https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/) - 2 hours ago
+- [Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise in less than 4 days](https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/) - 2 hours ago
+- [FleetWorks raises $17M to match truckers with cargo faster](https://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster/) - 3 hours ago
+- [Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/) - 3 hours ago
+- [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - 8 hours ago
+- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - 1 day ago
+- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - 1 day ago
 - [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - 2 days ago
 - [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) - 2 days ago
 - [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - 3 days ago
 - [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) - 4 days ago
-- [Flipkart’s Super.money quietly partners with Juspay to expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-juspay-as-it-expands-its-reach/) - 4 days ago
+- [Flipkart’s Super.money quietly partners with Juspay to expand its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-juspay-as-it-expands-its-reach/) - 5 days ago
 - [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) - 5 days ago
-- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) - 5 days ago
+- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) - Oct 9, 2025
 - [Datacurve raises $15 million to take on Scale AI](https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/) - Oct 9, 2025
 - [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/) - Oct 9, 2025
 - [This distributed data storage startup wants to take on Big Cloud](https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/) - Oct 9, 2025
@@ -27,13 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) - Oct 8, 2025
 - [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - Oct 8, 2025
 - [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - Oct 8, 2025
-- [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - Oct 8, 2025
-- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - Oct 8, 2025
-- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - Oct 8, 2025
-- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - Oct 8, 2025
-- [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - Oct 7, 2025
-- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - Oct 7, 2025
-- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - Oct 7, 2025
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/) - Time not found
 - [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/) - Time not found
@@ -41,6 +41,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Bending Spoons acquires file transfer service WeTransfer](https://techcrunch.com/2024/07/31/bending-spoons-acquires-file-transfer-service-wetransfer/) - Time not found
 - [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/) - Time not found
 - [Applied Intuition closes $300M secondary four months after raising $250M](https://techcrunch.com/2024/07/25/applied-intuition-300-million-secondary-fidelity/) - Time not found
+- [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - Oct 8, 2025
+- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - Oct 8, 2025
+- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - Oct 8, 2025
+- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - Oct 8, 2025
+- [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - Oct 7, 2025
+- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - Oct 7, 2025
+- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - Oct 7, 2025
 - [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/) - Oct 7, 2025
 - [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - Oct 7, 2025
 - [Ökosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/) - Oct 6, 2025
@@ -64,13 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/) - Oct 3, 2025
 - [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/) - Oct 3, 2025
 - [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/) - Oct 3, 2025
-- [How startups could be affected by a prolonged government shutdown](https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/) - Oct 2, 2025
-- [Celebrating the partners driving Disrupt’s big ideas, connections, and community](https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/) - Oct 2, 2025
-- [Phoebe Gates and Sophia Kianni share the playbook for scaling consumer AI and winning Gen Z at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/) - Oct 2, 2025
-- [OpenAI is the world’s most valuable private company after private stock sale](https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/) - Oct 2, 2025
-- [Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow](https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/) - Oct 2, 2025
-- [Perplexity acquires the team behind Sequoia-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/) - Oct 2, 2025
-- [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/) - Oct 2, 2025
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/) - Time not found
 - [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/) - Time not found
