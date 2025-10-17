@@ -4,13 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - 18 hours ago
-- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - 20 hours ago
-- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - 20 hours ago
-- [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - 20 hours ago
-- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - 22 hours ago
-- [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - 22 hours ago
-- [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/) - 22 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - 13 minutes ago
+- [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - 20 minutes ago
+- [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - 1 hour ago
+- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - 2 hours ago
+- [Last flash sale before TechCrunch Disrupt 2025 doors open – save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - 2 hours ago
+- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - 22 hours ago
+- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - 24 hours ago
+- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - 1 day ago
+- [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - 1 day ago
+- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - 1 day ago
+- [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - 1 day ago
+- [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/) - 1 day ago
 - [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) - 1 day ago
 - [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/) - 1 day ago
 - [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) - 2 days ago
@@ -29,11 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Save up to $624 on your TechCrunch Disrupt 2025 pass before prices rise in less than 4 days](https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/) - 3 days ago
 - [FleetWorks raises $17M to match truckers with cargo faster](https://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster/) - 3 days ago
 - [Aquawise will show off its AI-driven water-quality tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/) - 3 days ago
-- [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - 3 days ago
-- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - 4 days ago
-- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) - 4 days ago
-- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - 4 days ago
-- [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) - Oct 12, 2025
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
@@ -41,6 +41,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Time not found
 - [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - Time not found
 - [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/) - Time not found
+- [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - 3 days ago
+- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - 4 days ago
+- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - 4 days ago
+- [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) - Oct 12, 2025
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Oct 12, 2025
 - [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) - Oct 12, 2025
 - [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - Oct 11, 2025
@@ -66,11 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) - Oct 7, 2025
 - [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) - Oct 7, 2025
 - [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/) - Oct 7, 2025
-- [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/) - Oct 7, 2025
-- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/) - Oct 7, 2025
-- [Ökosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/) - Oct 6, 2025
-- [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) - Oct 6, 2025
-- [Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/) - Oct 6, 2025
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
