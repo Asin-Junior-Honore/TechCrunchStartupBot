@@ -4,16 +4,16 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) - 9 hours ago
-- [From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/) - 10 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - 12 hours ago
-- [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - 12 hours ago
-- [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - 13 hours ago
-- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - 13 hours ago
-- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - 14 hours ago
-- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - 1 day ago
-- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - 1 day ago
-- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - 1 day ago
+- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) - 13 hours ago
+- [From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/) - 15 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - 16 hours ago
+- [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - 16 hours ago
+- [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - 17 hours ago
+- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - 18 hours ago
+- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - 18 hours ago
+- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - 2 days ago
+- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - 2 days ago
+- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - 2 days ago
 - [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - 2 days ago
 - [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - 2 days ago
 - [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - 2 days ago
@@ -23,8 +23,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) - 2 days ago
 - [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) - 2 days ago
 - [Enhanced Games founder on the controversial ‘future of sports’](https://techcrunch.com/podcast/enhanced-games-founder-on-the-controversial-future-of-sports/) - 2 days ago
-- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - 2 days ago
-- [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/) - 2 days ago
+- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - 3 days ago
+- [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/) - 3 days ago
 - [The full Space Stage agenda at TechCrunch Disrupt 2025: The future of tech launches here](https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/) - 3 days ago
 - [Less than 3 days remain to secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/15/less-than-3-days-remain-to-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - 3 days ago
 - [3 days left: Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise](https://techcrunch.com/2025/10/15/3-days-left-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise/) - 3 days ago
@@ -46,7 +46,7 @@ Here are the latest articles from TechCrunch Startups:
 - [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - 4 days ago
 - [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - 5 days ago
 - [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - 5 days ago
+- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - Oct 13, 2025
 - [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) - Oct 12, 2025
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Oct 12, 2025
 - [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) - Oct 12, 2025
