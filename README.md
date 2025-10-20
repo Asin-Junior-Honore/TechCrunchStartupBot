@@ -4,6 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
+- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 1 hour ago
+- [Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1](https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/) - 2 hours ago
+- [Final countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase ](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/) - 2 hours ago
 - [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) - 2 days ago
 - [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) - 3 days ago
 - [From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/) - 3 days ago
@@ -22,8 +25,8 @@ Here are the latest articles from TechCrunch Startups:
 - [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) - 4 days ago
 - [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/) - 4 days ago
 - [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) - 5 days ago
-- [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) - 5 days ago
-- [Enhanced Games founder on the controversial ‘future of sports’](https://techcrunch.com/podcast/enhanced-games-founder-on-the-controversial-future-of-sports/) - 5 days ago
+- [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) - Oct 15, 2025
+- [Enhanced Games founder on the controversial ‘future of sports’](https://techcrunch.com/podcast/enhanced-games-founder-on-the-controversial-future-of-sports/) - Oct 15, 2025
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Oct 15, 2025
 - [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/) - Oct 15, 2025
 - [The full Space Stage agenda at TechCrunch Disrupt 2025: The future of tech launches here](https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/) - Oct 15, 2025
@@ -31,16 +34,16 @@ Here are the latest articles from TechCrunch Startups:
 - [3 days left: Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise](https://techcrunch.com/2025/10/15/3-days-left-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise/) - Oct 15, 2025
 - [Coinbase boosts investment in India’s CoinDCX, valuing exchange at $2.45B](https://techcrunch.com/2025/10/14/coinbase-boosts-investment-in-indias-coindcx-valuing-exchange-at-2-45b/) - Oct 14, 2025
 - [Coco Robotics taps UCLA professor to lead new physical AI research lab](https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/) - Oct 14, 2025
-- [OpenAI and Broadcom partner on AI hardware](https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/) - Oct 14, 2025
-- [Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites](https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/) - Oct 14, 2025
-- [Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table](https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/) - Oct 14, 2025
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
+- [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
-- [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/) - Time not found
 - [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) - Time not found
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
+- [OpenAI and Broadcom partner on AI hardware](https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/) - Oct 14, 2025
+- [Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites](https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/) - Oct 14, 2025
+- [Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table](https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/) - Oct 14, 2025
 - [Save up to $624 on your TechCrunch Disrupt 2025 pass before prices rise in less than 4 days](https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/) - Oct 14, 2025
 - [FleetWorks raises $17M to match truckers with cargo faster](https://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster/) - Oct 14, 2025
 - [Aquawise will show off its AI-driven water-quality tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/) - Oct 14, 2025
@@ -68,12 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - Oct 8, 2025
 - [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - Oct 8, 2025
 - [Why the new H-1B policy helps outsourcers, not startups](https://techcrunch.com/podcast/why-the-new-h-1b-policy-helps-outsourcers-not-startups/) - Oct 8, 2025
-- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/) - Oct 8, 2025
-- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/) - Oct 8, 2025
-- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - Oct 8, 2025
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
+- [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
-- [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/) - Time not found
 - [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) - Time not found
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) - Time not found
