@@ -21,11 +21,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/) - 4 days ago
 - [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) - 4 days ago
 - [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/) - 4 days ago
-- [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) - 4 days ago
-- [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) - 4 days ago
+- [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) - 5 days ago
+- [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) - 5 days ago
 - [Enhanced Games founder on the controversial ‘future of sports’](https://techcrunch.com/podcast/enhanced-games-founder-on-the-controversial-future-of-sports/) - 5 days ago
-- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - 5 days ago
-- [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/) - 5 days ago
+- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Oct 15, 2025
+- [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/) - Oct 15, 2025
 - [The full Space Stage agenda at TechCrunch Disrupt 2025: The future of tech launches here](https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/) - Oct 15, 2025
 - [Less than 3 days remain to secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/15/less-than-3-days-remain-to-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - Oct 15, 2025
 - [3 days left: Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise](https://techcrunch.com/2025/10/15/3-days-left-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise/) - Oct 15, 2025
@@ -36,9 +36,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table](https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/) - Oct 14, 2025
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
+- [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/) - Time not found
 - [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) - Time not found
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
-- [OpenAI has five years to turn $13 billion into $1 trillion](https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/) - Time not found
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
 - [Save up to $624 on your TechCrunch Disrupt 2025 pass before prices rise in less than 4 days](https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/) - Oct 14, 2025
@@ -73,8 +73,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) - Oct 8, 2025
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
+- [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/) - Time not found
 - [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) - Time not found
 - [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
-- [OpenAI has five years to turn $13 billion into $1 trillion](https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/) - Time not found
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
