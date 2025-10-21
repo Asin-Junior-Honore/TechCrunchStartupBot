@@ -4,26 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/) - 8 hours ago
-- [San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 10 hours ago
-- [Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one](https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/) - 11 hours ago
-- [Final countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase ](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/) - 11 hours ago
+- [Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/) - 12 hours ago
+- [San Francisco mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 13 hours ago
+- [Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one](https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/) - 14 hours ago
+- [Final countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase ](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/) - 14 hours ago
 - [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) - 2 days ago
 - [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) - 3 days ago
 - [From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/) - 3 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - 3 days ago
-- [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - 3 days ago
-- [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - 3 days ago
-- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - 3 days ago
-- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - 3 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - 4 days ago
+- [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - 4 days ago
+- [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - 4 days ago
+- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - 4 days ago
+- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - 4 days ago
 - [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - 4 days ago
 - [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - 4 days ago
-- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - 4 days ago
-- [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - 4 days ago
-- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - 4 days ago
-- [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - 4 days ago
-- [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/) - 4 days ago
-- [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) - 5 days ago
+- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - 5 days ago
+- [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - 5 days ago
+- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - 5 days ago
+- [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - 5 days ago
+- [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/) - 5 days ago
+- [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) - Oct 16, 2025
 - [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/) - Oct 15, 2025
 - [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) - Oct 15, 2025
 - [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) - Oct 15, 2025
@@ -34,12 +34,12 @@ Here are the latest articles from TechCrunch Startups:
 - [Less than 3 days remain to secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/15/less-than-3-days-remain-to-secure-your-exhibit-table-at-techcrunch-disrupt-2025/) - Oct 15, 2025
 - [3 days left: Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise](https://techcrunch.com/2025/10/15/3-days-left-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise/) - Oct 15, 2025
 - [Coinbase boosts investment in India’s CoinDCX, valuing exchange at $2.45B](https://techcrunch.com/2025/10/14/coinbase-boosts-investment-in-indias-coindcx-valuing-exchange-at-2-45b/) - Oct 14, 2025
+- [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) - Time not found
 - [WhatsApp changes its terms to bar general-purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
 - [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) - Time not found
-- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
 - [Coco Robotics taps UCLA professor to lead new physical AI research lab](https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/) - Oct 14, 2025
 - [OpenAI and Broadcom partner on AI hardware](https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/) - Oct 14, 2025
@@ -71,10 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) - Oct 8, 2025
 - [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/) - Oct 8, 2025
 - [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt-2025/) - Oct 8, 2025
+- [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) - Time not found
 - [WhatsApp changes its terms to bar general-purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
 - [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) - Time not found
-- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable co-workers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/) - Time not found
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) - Time not found
