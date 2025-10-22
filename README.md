@@ -4,16 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 51 minutes ago
-- [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on Oct 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 2 hours ago
-- [David Sacks’ Craft leads $42 million Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 2 hours ago
-- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 2 hours ago
-- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 3 hours ago
-- [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 18 hours ago
-- [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 19 hours ago
-- [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) - 20 hours ago
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 22 hours ago
-- [a16z-backed Codi launches AI agent office manager](https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/) - 23 hours ago
+- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 2 hours ago
+- [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 5 hours ago
+- [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 6 hours ago
+- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 6 hours ago
+- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 6 hours ago
+- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 7 hours ago
+- [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 22 hours ago
+- [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 22 hours ago
+- [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) - 24 hours ago
+- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 1 day ago
+- [a16z-backed Codi launches AI agent office manager](https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/) - 1 day ago
 - [The full TechCrunch Disrupt Stage revealed: Where the future of tech breaks first](https://techcrunch.com/2025/10/21/the-full-techcrunch-disrupt-stage-revealed-where-the-future-of-tech-breaks-first/) - 1 day ago
 - [Aura introduces a $499 e-ink digital photo frame that lets you go cordless](https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/) - 1 day ago
 - [Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase ](https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 1 day ago
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - Oct 16, 2025
 - [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - Oct 16, 2025
 - [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - Oct 16, 2025
-- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - Oct 16, 2025
 - [Amazon identifies the issue that broke much of the internet, says AWS is back to normal](https://techcrunch.com/2025/10/21/amazon-dns-outage-breaks-much-of-the-internet/) - Time not found
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) - Time not found
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) - Time not found
 - [WhatsApp changes its terms to bar general-purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
+- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - Oct 16, 2025
 - [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - Oct 16, 2025
 - [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/) - Oct 16, 2025
 - [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) - Oct 16, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) - Oct 12, 2025
 - [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - Oct 11, 2025
 - [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) - Oct 10, 2025
-- [Flipkart’s Super.money quietly partners with Juspay to expand its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-juspay-as-it-expands-its-reach/) - Oct 9, 2025
 - [Amazon identifies the issue that broke much of the internet, says AWS is back to normal](https://techcrunch.com/2025/10/21/amazon-dns-outage-breaks-much-of-the-internet/) - Time not found
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) - Time not found
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
