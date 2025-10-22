@@ -4,26 +4,26 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 6 hours ago
-- [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 7 hours ago
-- [Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) - 8 hours ago
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 10 hours ago
-- [a16z-backed Codi launches AI agent office manager](https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/) - 11 hours ago
-- [The full TechCrunch Disrupt Stage revealed: Where the future of tech breaks first](https://techcrunch.com/2025/10/21/the-full-techcrunch-disrupt-stage-revealed-where-the-future-of-tech-breaks-first/) - 14 hours ago
-- [Aura introduces a $499 e-ink digital photo frame that lets you go cordless](https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/) - 14 hours ago
-- [Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase ](https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 14 hours ago
-- [Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/) - 1 day ago
+- [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 10 hours ago
+- [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 10 hours ago
+- [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) - 12 hours ago
+- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) - 14 hours ago
+- [a16z-backed Codi launches AI agent office manager](https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/) - 14 hours ago
+- [The full TechCrunch Disrupt Stage revealed: Where the future of tech breaks first](https://techcrunch.com/2025/10/21/the-full-techcrunch-disrupt-stage-revealed-where-the-future-of-tech-breaks-first/) - 17 hours ago
+- [Aura introduces a $499 e-ink digital photo frame that lets you go cordless](https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/) - 17 hours ago
+- [Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase ](https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 18 hours ago
+- [Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/) - 2 days ago
 - [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 2 days ago
 - [Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one](https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/) - 2 days ago
 - [Final countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase ](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/) - 2 days ago
-- [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) - 3 days ago
-- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) - 4 days ago
-- [From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/) - 4 days ago
+- [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) - 4 days ago
+- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) - 5 days ago
+- [From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/) - 5 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - 5 days ago
 - [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - 5 days ago
 - [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - 5 days ago
-- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - 5 days ago
-- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - 5 days ago
+- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - Oct 17, 2025
+- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - Oct 17, 2025
 - [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - Oct 16, 2025
 - [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - Oct 16, 2025
 - [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - Oct 16, 2025
