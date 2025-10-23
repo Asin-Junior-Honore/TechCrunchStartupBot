@@ -4,13 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) - 16 hours ago
-- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 18 hours ago
-- [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 21 hours ago
-- [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 22 hours ago
-- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 22 hours ago
-- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 22 hours ago
-- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 23 hours ago
+- [Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/) - 35 minutes ago
+- [Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise ](https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/) - 1 hour ago
+- [Announcing the top judges for the final round of Startup Battlefield 200, only at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/) - 1 hour ago
+- [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/get-hands-on-the-full-techcrunch-disrupt-2025-roundtable-agenda/) - 2 hours ago
+- [Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 2 hours ago
+- [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) - 19 hours ago
+- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 22 hours ago
+- [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 1 day ago
+- [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 1 day ago
+- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 1 day ago
+- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 1 day ago
+- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 1 day ago
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 2 days ago
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 2 days ago
 - [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) - 2 days ago
@@ -29,11 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - Oct 17, 2025
 - [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - Oct 17, 2025
 - [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - Oct 17, 2025
-- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - Oct 17, 2025
-- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - Oct 17, 2025
-- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - Oct 16, 2025
-- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - Oct 16, 2025
-- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - Oct 16, 2025
 - [OpenAI launches an AI-powered browser: ChatGPT Atlas](https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/) - Time not found
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) - Time not found
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
@@ -41,6 +41,11 @@ Here are the latest articles from TechCrunch Startups:
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) - Time not found
 - [WhatsApp changes its terms to bar general-purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
+- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - Oct 17, 2025
+- [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - Oct 17, 2025
+- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) - Oct 16, 2025
+- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) - Oct 16, 2025
+- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) - Oct 16, 2025
 - [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/) - Oct 16, 2025
 - [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/) - Oct 16, 2025
 - [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/) - Oct 16, 2025
@@ -66,11 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - Oct 14, 2025
 - [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - Oct 13, 2025
 - [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) - Oct 13, 2025
-- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) - Oct 13, 2025
-- [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) - Oct 12, 2025
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) - Oct 12, 2025
-- [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) - Oct 12, 2025
-- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) - Oct 11, 2025
 - [OpenAI launches an AI-powered browser: ChatGPT Atlas](https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/) - Time not found
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) - Time not found
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
