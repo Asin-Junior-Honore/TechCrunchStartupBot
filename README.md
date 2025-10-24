@@ -4,19 +4,19 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Introducing Build Mode: TechCrunch’s new podcast for founders ](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/) - 2 hours ago
-- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 2 hours ago
-- [Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/) - 5 hours ago
-- [Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise ](https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/) - 5 hours ago
-- [Announcing the top judges for the final round of Startup Battlefield 200, only at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/) - 5 hours ago
-- [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/get-hands-on-the-full-techcrunch-disrupt-2025-roundtable-agenda/) - 6 hours ago
-- [Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 6 hours ago
-- [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) - 23 hours ago
+- [Introducing Build Mode: TechCrunch’s new podcast for founders ](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/) - 7 hours ago
+- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 7 hours ago
+- [Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/) - 10 hours ago
+- [Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise ](https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/) - 10 hours ago
+- [Announcing the top judges for the final round of Startup Battlefield 200, only at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/) - 10 hours ago
+- [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/get-hands-on-the-full-techcrunch-disrupt-2025-roundtable-agenda/) - 11 hours ago
+- [Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 11 hours ago
+- [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) - 1 day ago
 - [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 1 day ago
 - [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 1 day ago
 - [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 1 day ago
-- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 1 day ago
 - [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 1 day ago
+- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 1 day ago
 - [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 1 day ago
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 2 days ago
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 2 days ago
@@ -35,12 +35,12 @@ Here are the latest articles from TechCrunch Startups:
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) - Oct 17, 2025
 - [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) - Oct 17, 2025
 - [OpenAI launches an AI-powered browser: ChatGPT Atlas](https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/) - Time not found
+- [Amazon identifies the issue that broke much of the internet, says AWS is back to normal](https://techcrunch.com/2025/10/21/amazon-dns-outage-breaks-much-of-the-internet/) - Time not found
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) - Time not found
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) - Time not found
 - [WhatsApp changes its terms to bar general-purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
-- [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
 - [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/) - Oct 17, 2025
 - [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs ](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/) - Oct 17, 2025
 - [Last flash sale before TechCrunch Disrupt 2025 doors open — save up to $624 ](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/) - Oct 17, 2025
@@ -72,9 +72,9 @@ Here are the latest articles from TechCrunch Startups:
 - [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) - Oct 14, 2025
 - [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) - Oct 13, 2025
 - [OpenAI launches an AI-powered browser: ChatGPT Atlas](https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/) - Time not found
+- [Amazon identifies the issue that broke much of the internet, says AWS is back to normal](https://techcrunch.com/2025/10/21/amazon-dns-outage-breaks-much-of-the-internet/) - Time not found
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) - Time not found
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) - Time not found
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) - Time not found
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) - Time not found
 - [WhatsApp changes its terms to bar general-purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) - Time not found
-- [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/) - Time not found
