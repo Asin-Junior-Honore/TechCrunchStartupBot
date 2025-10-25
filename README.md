@@ -4,9 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) - 2 hours ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) - 20 hours ago
-- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) - 21 hours ago
+- [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) - 6 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) - 1 day ago
+- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) - 1 day ago
 - [OpenAI wants to power your browser, and that might be a security nightmare](https://techcrunch.com/podcast/openai-wants-to-power-your-browser-and-that-might-be-a-security-nightmare/) - 1 day ago
 - [TechCrunch Disrupt 2025 Side Events schedule: Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/) - 1 day ago
 - [The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/) - 1 day ago
@@ -24,8 +24,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 3 days ago
 - [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 3 days ago
 - [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 3 days ago
-- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 3 days ago
 - [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 3 days ago
+- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 3 days ago
 - [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 3 days ago
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - 4 days ago
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - 4 days ago
