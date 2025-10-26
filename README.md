@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/) - 2 hours ago
+- [TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/) - 1 hour ago
 - [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) - 1 day ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) - 2 days ago
 - [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) - 2 days ago
