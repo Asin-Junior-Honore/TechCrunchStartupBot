@@ -4,31 +4,31 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/) - 4 hours ago
-- [TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/) - 9 hours ago
+- [Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/) - 9 hours ago
+- [TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/) - 13 hours ago
 - [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) - 2 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) - 2 days ago
-- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) - 2 days ago
-- [OpenAI wants to power your browser, and that might be a security nightmare](https://techcrunch.com/podcast/openai-wants-to-power-your-browser-and-that-might-be-a-security-nightmare/) - 2 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) - 3 days ago
+- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) - 3 days ago
+- [OpenAI wants to power your browser, and that might be a security nightmare](https://techcrunch.com/podcast/openai-wants-to-power-your-browser-and-that-might-be-a-security-nightmare/) - 3 days ago
 - [TechCrunch Disrupt 2025 Side Events schedule: Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/) - 3 days ago
 - [The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/) - 3 days ago
 - [AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/ai-at-the-edge-how-startups-are-powering-the-future-of-space-at-techcrunch-disrupt-2025/) - 3 days ago
 - [Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city](https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/) - 3 days ago
-- [20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users](https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/) - 3 days ago
-- [Introducing Build Mode: TechCrunch’s new podcast for founders ](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/) - 3 days ago
-- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 3 days ago
+- [20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users](https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/) - 4 days ago
+- [Introducing Build Mode: TechCrunch’s new podcast for founders ](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/) - 4 days ago
+- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - 4 days ago
 - [Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise ](https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/) - 4 days ago
 - [Announcing the top judges for the final round of Startup Battlefield 200, only at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/) - 4 days ago
 - [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/get-hands-on-the-full-techcrunch-disrupt-2025-roundtable-agenda/) - 4 days ago
 - [Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/) - 4 days ago
 - [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) - 4 days ago
-- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 4 days ago
+- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) - 5 days ago
 - [Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots ](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/) - 5 days ago
-- [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - 5 days ago
-- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - 5 days ago
-- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - 5 days ago
-- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - 5 days ago
+- [Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on October 27](https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/) - Oct 22, 2025
+- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/) - Oct 22, 2025
+- [David Sacks’ Craft leads $42M Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/) - Oct 22, 2025
+- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/) - Oct 22, 2025
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) - Oct 21, 2025
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) - Oct 21, 2025
 - [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) - Oct 21, 2025
