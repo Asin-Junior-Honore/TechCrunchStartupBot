@@ -4,14 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - 23 hours ago
+- [Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO](https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/) - 3 hours ago
+- [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - 1 day ago
 - [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - 3 days ago
 - [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/) - 3 days ago
 - [Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly](https://techcrunch.com/podcast/equity-live-from-300m-seed-rounds-to-data-center-builds-ai-is-feeling-bubbly/) - 3 days ago
-- [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) - 3 days ago
+- [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) - 4 days ago
 - [Nvidia is reportedly investing up to $1B in Poolside ](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/) - 4 days ago
-- [India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet](https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/) - 5 days ago
-- [Cluely’s Roy Lee on the rage-bait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/) - 5 days ago
+- [India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet](https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/) - Oct 29, 2025
+- [Cluely’s Roy Lee on the rage-bait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/) - Oct 29, 2025
 - [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/) - Oct 29, 2025
 - [2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt](https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/) - Oct 29, 2025
 - [San Francisco mayor: ‘We should be the testbed for emerging tech’](https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/) - Oct 29, 2025
@@ -24,16 +25,15 @@ Here are the latest articles from TechCrunch Startups:
 - [Phia’s founders on how AI is changing online shopping](https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/) - Oct 29, 2025
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/) - Oct 28, 2025
-- [Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/) - Oct 28, 2025
-- [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/) - Oct 28, 2025
+- [Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
+- [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power](https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/) - Oct 28, 2025
 - [Mirror’s founder is back with a new ‘connected screen’ startup: a gaming device called ‘Board’](https://techcrunch.com/2025/10/28/mirrors-founder-is-back-with-a-new-connected-screen-startup-a-gaming-device-called-board/) - Oct 28, 2025
 - [Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025](https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/) - Oct 28, 2025
-- [Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/) - Time not found
 - [VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI](https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/) - Time not found
 - [OpenAI offers free ChatGPT Go for one year to all users in India](https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/) - Time not found
+- [Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [AccessGrid raises $4.4M to help turn phones into key fobs](https://techcrunch.com/2025/10/28/accessgrid-raises-4-4m-to-help-turn-phones-into-key-fobs/) - Oct 28, 2025
 - [Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps](https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/) - Oct 28, 2025
 - [TechCrunch Disrupt 2025: Day 2](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/) - Oct 28, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city](https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/) - Oct 24, 2025
 - [20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users](https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/) - Oct 23, 2025
 - [Introducing Build Mode: TechCrunch’s new podcast for founders ](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/) - Oct 23, 2025
-- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) - Oct 23, 2025
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
