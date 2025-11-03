@@ -4,20 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - 15 hours ago
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - 2 days ago
+- [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - 19 hours ago
+- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - 3 days ago
 - [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/) - 3 days ago
 - [Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly](https://techcrunch.com/podcast/equity-live-from-300m-seed-rounds-to-data-center-builds-ai-is-feeling-bubbly/) - 3 days ago
 - [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) - 3 days ago
-- [Nvidia is reportedly investing up to $1B in Poolside ](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/) - 3 days ago
+- [Nvidia is reportedly investing up to $1B in Poolside ](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/) - 4 days ago
 - [India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet](https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/) - 4 days ago
 - [Cluely’s Roy Lee on the rage-bait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/) - 4 days ago
-- [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/) - 4 days ago
-- [2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt](https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/) - 4 days ago
-- [San Francisco mayor: ‘We should be the testbed for emerging tech’](https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/) - 5 days ago
-- [Startups should rethink how they pursue sales and traction, according to VC Tim Chen](https://techcrunch.com/podcast/startups-should-rethink-how-they-pursue-sales-and-traction-according-to-vc-tim-chen/) - 5 days ago
-- [TechCrunch Disrupt 2025: How to watch the Startup Battlefield finale, Cluely, Solana, SF’s mayor](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-how-to-watch-the-startup-battlefield-finale-cluely-solana-sfs-mayor/) - 5 days ago
-- [How AI labs use Mercor to get the data companies won’t share](https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/) - 5 days ago
+- [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/) - 5 days ago
+- [2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt](https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/) - 5 days ago
+- [San Francisco mayor: ‘We should be the testbed for emerging tech’](https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/) - Oct 29, 2025
+- [Startups should rethink how they pursue sales and traction, according to VC Tim Chen](https://techcrunch.com/podcast/startups-should-rethink-how-they-pursue-sales-and-traction-according-to-vc-tim-chen/) - Oct 29, 2025
+- [TechCrunch Disrupt 2025: How to watch the Startup Battlefield finale, Cluely, Solana, SF’s mayor](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-how-to-watch-the-startup-battlefield-finale-cluely-solana-sfs-mayor/) - Oct 29, 2025
+- [How AI labs use Mercor to get the data companies won’t share](https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/) - Oct 29, 2025
 - [TechCrunch Disrupt 2025: Day 3](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-day-3/) - Oct 29, 2025
 - [Character.AI is ending its chatbot experience for kids](https://techcrunch.com/2025/10/29/character-ai-is-killing-the-chatbot-experience-for-minors/) - Oct 29, 2025
 - [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/) - Oct 29, 2025
@@ -34,9 +34,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025](https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/) - Oct 28, 2025
 - [Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/) - Oct 28, 2025
+- [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Time not found
 - [YouTube announces ‘voluntary exit program’ for US staff](https://techcrunch.com/2025/10/29/youtube-announces-voluntary-exit-program-for-us-staff/) - Time not found
 - [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/) - Time not found
 - [VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI](https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/) - Time not found
@@ -48,11 +48,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Strong by Form will show its ultralight engineered wood at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/strong-by-form-will-show-its-ultralight-engineered-wood-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025](https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/) - Oct 27, 2025
 - [Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/) - Oct 27, 2025
-- [COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
-- [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/) - Oct 27, 2025
+- [COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
+- [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Mercor quintuples valuation to $10B with $350M Series C](https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/) - Oct 27, 2025
 - [The 2025 Startup Battlefield Top 20 are here. Let the competition begin.](https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/) - Oct 27, 2025
 - [TechCrunch Disrupt 2025: Day 1](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/) - Oct 27, 2025
