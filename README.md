@@ -4,8 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 10 hours ago
-- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - 12 hours ago
+- [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - 27 minutes ago
+- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - 3 hours ago
+- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 15 hours ago
+- [Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - 17 hours ago
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) - 2 days ago
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) - 2 days ago
 - [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/) - 2 days ago
@@ -30,17 +32,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Phia’s founders on how AI is changing online shopping](https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/) - Oct 29, 2025
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/) - Oct 28, 2025
-- [Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/) - Oct 28, 2025
-- [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/) - Oct 28, 2025
+- [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
 - [Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) - Time not found
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [Elon Musk wants you to know that Sam Altman got a refund from Tesla](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
 - [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Time not found
-- [YouTube announces ‘voluntary exit program’ for US staff](https://techcrunch.com/2025/10/29/youtube-announces-voluntary-exit-program-for-us-staff/) - Time not found
+- [Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
+- [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power](https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/) - Oct 28, 2025
 - [Mirror’s founder is back with a new ‘connected screen’ startup: a gaming device called ‘Board’](https://techcrunch.com/2025/10/28/mirrors-founder-is-back-with-a-new-connected-screen-startup-a-gaming-device-called-board/) - Oct 28, 2025
@@ -54,11 +56,11 @@ Here are the latest articles from TechCrunch Startups:
 - [Strong by Form will show its ultralight engineered wood at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/strong-by-form-will-show-its-ultralight-engineered-wood-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025](https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/) - Oct 27, 2025
 - [Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/) - Oct 27, 2025
-- [Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
+- [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/) - Oct 27, 2025
+- [Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
-- [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Mercor quintuples valuation to $10B with $350M Series C](https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/) - Oct 27, 2025
 - [The 2025 Startup Battlefield Top 20 are here. Let the competition begin.](https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/) - Oct 27, 2025
 - [TechCrunch Disrupt 2025: Day 1](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/) - Oct 27, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) - Oct 25, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) - Oct 24, 2025
 - [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) - Oct 24, 2025
-- [OpenAI wants to power your browser, and that might be a security nightmare](https://techcrunch.com/podcast/openai-wants-to-power-your-browser-and-that-might-be-a-security-nightmare/) - Oct 24, 2025
-- [TechCrunch Disrupt 2025 Side Events schedule: Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/) - Oct 24, 2025
+- [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
 - [Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) - Time not found
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [Elon Musk wants you to know that Sam Altman got a refund from Tesla](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
 - [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Time not found
-- [YouTube announces ‘voluntary exit program’ for US staff](https://techcrunch.com/2025/10/29/youtube-announces-voluntary-exit-program-for-us-staff/) - Time not found
