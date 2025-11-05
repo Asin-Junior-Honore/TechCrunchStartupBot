@@ -4,14 +4,14 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 7 hours ago
-- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - 9 hours ago
+- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 10 hours ago
+- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - 12 hours ago
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) - 2 days ago
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) - 2 days ago
 - [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/) - 2 days ago
 - [Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO](https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/) - 2 days ago
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - 3 days ago
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - 5 days ago
+- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Oct 31, 2025
 - [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/) - Oct 31, 2025
 - [Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly](https://techcrunch.com/podcast/equity-live-from-300m-seed-rounds-to-data-center-builds-ai-is-feeling-bubbly/) - Oct 31, 2025
 - [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) - Oct 30, 2025
