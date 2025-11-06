@@ -4,11 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/) - 6 hours ago
-- [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - 19 hours ago
-- [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - 20 hours ago
-- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - 23 hours ago
-- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 1 day ago
+- [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/) - 7 hours ago
+- [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/) - 10 hours ago
+- [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - 23 hours ago
+- [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - 1 day ago
+- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - 1 day ago
+- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 2 days ago
 - [Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - 2 days ago
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) - 3 days ago
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) - 3 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Character.AI is ending its chatbot experience for kids](https://techcrunch.com/2025/10/29/character-ai-is-killing-the-chatbot-experience-for-minors/) - Oct 29, 2025
 - [Phia’s founders on how AI is changing online shopping](https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/) - Oct 29, 2025
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/) - Oct 28, 2025
-- [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/) - Oct 28, 2025
+- [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/) - Time not found
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
 - [Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) - Time not found
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [Elon Musk wants you to know that Sam Altman got a refund from Tesla](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Time not found
+- [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Israeli intelligence vets raise $20M to track developer buying signals](https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m-to-track-developer-buying-signals/) - Oct 27, 2025
 - [Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/) - Oct 26, 2025
 - [TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/) - Oct 26, 2025
-- [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) - Oct 25, 2025
+- [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/) - Time not found
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
 - [Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) - Time not found
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Time not found
 - [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) - Time not found
 - [Elon Musk wants you to know that Sam Altman got a refund from Tesla](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) - Time not found
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) - Time not found
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Time not found
