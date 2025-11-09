@@ -13,8 +13,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - 4 days ago
 - [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - 4 days ago
 - [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - 4 days ago
-- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 4 days ago
-- [Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - 5 days ago
+- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - 5 days ago
+- [Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - Nov 4, 2025
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) - Nov 3, 2025
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) - Nov 3, 2025
 - [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/) - Nov 3, 2025
@@ -39,8 +39,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/) - Time not found
 - [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/) - Time not found
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
+- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/) - Time not found
 - [Waymo’s robotaxi expansion accelerates with 3 new cities](https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/) - Time not found
-- [Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) - Time not found
 - [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/) - Oct 29, 2025
 - [Character.AI is ending its chatbot experience for kids](https://techcrunch.com/2025/10/29/character-ai-is-killing-the-chatbot-experience-for-minors/) - Oct 29, 2025
 - [Phia’s founders on how AI is changing online shopping](https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/) - Oct 29, 2025
@@ -76,5 +76,5 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/) - Time not found
 - [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/) - Time not found
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
+- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/) - Time not found
 - [Waymo’s robotaxi expansion accelerates with 3 new cities](https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/) - Time not found
-- [Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) - Time not found
