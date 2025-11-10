@@ -4,16 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - 10 hours ago
+- [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - 6 minutes ago
+- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - 14 hours ago
 - [How startups can lure good talent fairly without big tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) - 2 days ago
 - [SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/) - 3 days ago
 - [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/) - 3 days ago
 - [How one founder plans to save cities from flooding with terraforming robots](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/) - 3 days ago
 - [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/) - 4 days ago
 - [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/) - 4 days ago
-- [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - 4 days ago
-- [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - 5 days ago
-- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - 5 days ago
+- [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - 5 days ago
+- [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - Nov 5, 2025
+- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - Nov 5, 2025
 - [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - Nov 4, 2025
 - [Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - Nov 4, 2025
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) - Nov 3, 2025
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [San Francisco mayor: ‘We should be the testbed for emerging tech’](https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/) - Oct 29, 2025
 - [Startups should rethink how they pursue sales and traction, according to VC Tim Chen](https://techcrunch.com/podcast/startups-should-rethink-how-they-pursue-sales-and-traction-according-to-vc-tim-chen/) - Oct 29, 2025
 - [TechCrunch Disrupt 2025: How to watch the Startup Battlefield finale, Cluely, Solana, SF’s mayor](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-how-to-watch-the-startup-battlefield-finale-cluely-solana-sfs-mayor/) - Oct 29, 2025
-- [How AI labs use Mercor to get the data companies won’t share](https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/) - Oct 29, 2025
+- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) - Time not found
 - [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/) - Time not found
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - Time not found
 - [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/) - Time not found
 - [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/) - Time not found
 - [Google gets the US government’s green light to acquire Wiz for $32B](https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/) - Time not found
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
-- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/) - Time not found
+- [How AI labs use Mercor to get the data companies won’t share](https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/) - Oct 29, 2025
 - [TechCrunch Disrupt 2025: Day 3](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-day-3/) - Oct 29, 2025
 - [Character.AI is ending its chatbot experience for kids](https://techcrunch.com/2025/10/29/character-ai-is-killing-the-chatbot-experience-for-minors/) - Oct 29, 2025
 - [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/) - Oct 29, 2025
@@ -70,11 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/) - Oct 27, 2025
 - [Mercor quintuples valuation to $10B with $350M Series C](https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/) - Oct 27, 2025
-- [The 2025 Startup Battlefield Top 20 are here. Let the competition begin.](https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/) - Oct 27, 2025
+- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) - Time not found
 - [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/) - Time not found
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - Time not found
 - [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/) - Time not found
 - [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/) - Time not found
 - [Google gets the US government’s green light to acquire Wiz for $32B](https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/) - Time not found
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) - Time not found
-- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/) - Time not found
