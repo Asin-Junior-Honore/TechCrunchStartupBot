@@ -4,10 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - 15 hours ago
-- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - 15 hours ago
-- [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/) - 16 hours ago
-- [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/) - 1 day ago
+- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - 19 hours ago
+- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - 19 hours ago
+- [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/) - 20 hours ago
+- [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/) - 2 days ago
 - [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says ](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/) - 2 days ago
 - [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) - 2 days ago
 - [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) - 2 days ago
@@ -15,10 +15,10 @@ Here are the latest articles from TechCrunch Startups:
 - [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - 2 days ago
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - 2 days ago
 - [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - 2 days ago
-- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - 2 days ago
+- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - 3 days ago
 - [How startups can lure good talent fairly without Big Tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) - 4 days ago
-- [SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/) - 5 days ago
-- [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/) - 5 days ago
+- [SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/) - Nov 7, 2025
+- [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/) - Nov 7, 2025
 - [How one founder plans to save cities from flooding with terraforming robots](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/) - Nov 7, 2025
 - [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/) - Nov 6, 2025
 - [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/) - Nov 6, 2025
@@ -34,9 +34,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Nov 2, 2025
 - [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Oct 31, 2025
 - [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/) - Oct 31, 2025
+- [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/) - Time not found
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Time not found
 - [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) - Time not found
-- [Tesla shareholders approve Elon Musk’s $1T pay package](https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/) - Time not found
 - [Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments](https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/) - Time not found
 - [Sora for Android saw nearly half a million installs on its first day](https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/) - Time not found
 - [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/) - Time not found
@@ -71,9 +71,9 @@ Here are the latest articles from TechCrunch Startups:
 - [AccessGrid raises $4.4M to help turn phones into key fobs](https://techcrunch.com/2025/10/28/accessgrid-raises-4-4m-to-help-turn-phones-into-key-fobs/) - Oct 28, 2025
 - [Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps](https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/) - Oct 28, 2025
 - [TechCrunch Disrupt 2025: Day 2](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/) - Oct 28, 2025
+- [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/) - Time not found
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Time not found
 - [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) - Time not found
-- [Tesla shareholders approve Elon Musk’s $1T pay package](https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/) - Time not found
 - [Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments](https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/) - Time not found
 - [Sora for Android saw nearly half a million installs on its first day](https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/) - Time not found
 - [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/) - Time not found
