@@ -4,19 +4,20 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - 3 hours ago
-- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - 8 hours ago
-- [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - 15 hours ago
-- [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/) - 16 hours ago
-- [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) - 18 hours ago
-- [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/) - 19 hours ago
-- [Groww raises nearly $750M in IPO as India’s retail investing boom continues](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/) - 19 hours ago
-- [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - 20 hours ago
-- [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - 21 hours ago
+- [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) - 35 minutes ago
+- [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - 7 hours ago
+- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - 12 hours ago
+- [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - 19 hours ago
+- [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/) - 21 hours ago
+- [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) - 23 hours ago
+- [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/) - 24 hours ago
+- [Groww raises nearly $750M in IPO as India’s retail investing boom continues](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/) - 24 hours ago
+- [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - 1 day ago
+- [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - 1 day ago
 - [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - 2 days ago
 - [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - 2 days ago
 - [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/) - 2 days ago
-- [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/) - 2 days ago
+- [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/) - 3 days ago
 - [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says ](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/) - 3 days ago
 - [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) - 3 days ago
 - [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) - 3 days ago
@@ -24,7 +25,7 @@ Here are the latest articles from TechCrunch Startups:
 - [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - 3 days ago
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - 3 days ago
 - [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - 3 days ago
-- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - 3 days ago
+- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - 4 days ago
 - [How startups can lure good talent fairly without Big Tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) - Nov 8, 2025
 - [SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/) - Nov 7, 2025
 - [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/) - Nov 7, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/) - Nov 6, 2025
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - Nov 5, 2025
 - [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - Nov 5, 2025
-- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - Nov 5, 2025
 - [SoftBank’s Nvidia sale rattles market, raises questions](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/) - Time not found
 - [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/) - Time not found
 - [A better way of thinking about the AI bubble ](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Time not found
 - [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/) - Time not found
 - [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) - Time not found
+- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - Nov 5, 2025
 - [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) - Nov 4, 2025
 - [Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) - Nov 4, 2025
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) - Nov 3, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/) - Oct 28, 2025
-- [Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/) - Oct 28, 2025
 - [SoftBank’s Nvidia sale rattles market, raises questions](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/) - Time not found
 - [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/) - Time not found
 - [A better way of thinking about the AI bubble ](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/) - Time not found
