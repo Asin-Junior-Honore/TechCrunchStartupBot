@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - 18 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - 22 hours ago
 - [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - 1 day ago
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) - 2 days ago
 - [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/) - 2 days ago
@@ -14,7 +14,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Harbinger raises $160M, will build trucks for FedEx](https://techcrunch.com/2025/11/13/harbinger-raises-160m-will-build-trucks-for-fedex/) - 2 days ago
 - [Coding assistant Cursor raises $2.3B 5 months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/) - 2 days ago
 - [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) - 2 days ago
-- [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - 2 days ago
+- [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - 3 days ago
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - 3 days ago
 - [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - 3 days ago
 - [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/) - 3 days ago
@@ -40,7 +40,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints](https://techcrunch.com/2025/11/12/apple-launches-digital-id-a-way-to-carry-your-passport-on-your-phone-for-use-at-tsa-checkpoints/) - Time not found
 - [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - Time not found
 - [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/) - Time not found
-- [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Time not found
+- [A better way of thinking about the AI bubble ](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/) - Time not found
 - [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - Nov 9, 2025
 - [How startups can lure good talent fairly without Big Tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) - Nov 8, 2025
 - [SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/) - Nov 7, 2025
@@ -77,4 +77,4 @@ Here are the latest articles from TechCrunch Startups:
 - [Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints](https://techcrunch.com/2025/11/12/apple-launches-digital-id-a-way-to-carry-your-passport-on-your-phone-for-use-at-tsa-checkpoints/) - Time not found
 - [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - Time not found
 - [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/) - Time not found
-- [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Time not found
+- [A better way of thinking about the AI bubble ](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/) - Time not found
