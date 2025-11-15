@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - 6 hours ago
-- [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - 13 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - 9 hours ago
+- [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - 17 hours ago
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) - 1 day ago
 - [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/) - 1 day ago
-- [The 10 companies that just launched from Betaworks’ latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/) - 1 day ago
+- [The 10 companies that just launched from Betaworks’ latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/) - 2 days ago
 - [Sam Altman-backed Exowatt wants to power AI data centers with billions of hot rocks](https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/) - 2 days ago
 - [Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in](https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/) - 2 days ago
 - [Harbinger raises $160M, will build trucks for FedEx](https://techcrunch.com/2025/11/13/harbinger-raises-160m-will-build-trucks-for-fedex/) - 2 days ago
@@ -16,23 +16,23 @@ Here are the latest articles from TechCrunch Startups:
 - [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) - 2 days ago
 - [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - 2 days ago
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - 2 days ago
-- [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - 2 days ago
+- [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - 3 days ago
 - [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/) - 3 days ago
 - [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) - 3 days ago
 - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/) - 3 days ago
 - [Groww raises nearly $750M in IPO as India’s retail investing boom continues](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/) - 3 days ago
 - [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - 3 days ago
 - [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - 3 days ago
-- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - 3 days ago
-- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - 3 days ago
+- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - 4 days ago
+- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - 4 days ago
 - [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/) - 4 days ago
 - [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/) - 4 days ago
-- [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says ](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/) - 4 days ago
-- [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) - 4 days ago
-- [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) - 5 days ago
-- [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/) - 5 days ago
-- [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - 5 days ago
-- [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - 5 days ago
+- [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says ](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/) - 5 days ago
+- [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) - 5 days ago
+- [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) - Nov 10, 2025
+- [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/) - Nov 10, 2025
+- [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - Nov 10, 2025
+- [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Nov 10, 2025
 - [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - Nov 10, 2025
 - [Spotify introduces a Premium Platinum plan with lossless access in five markets](https://techcrunch.com/2025/11/13/spotify-introduces-a-premium-platinum-plan-with-lossless-access-in-five-markets/) - Time not found
 - [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/) - Time not found
