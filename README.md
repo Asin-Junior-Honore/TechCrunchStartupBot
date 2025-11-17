@@ -4,7 +4,9 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Danish startup FlatPay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 5 hours ago
+- [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/) - 2 hours ago
+- [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/) - 3 hours ago
+- [Danish startup FlatPay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 9 hours ago
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - 2 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - 3 days ago
 - [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - 3 days ago
@@ -17,7 +19,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Coding assistant Cursor raises $2.3B 5 months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/) - 4 days ago
 - [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) - 4 days ago
 - [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - 4 days ago
-- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - 5 days ago
+- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - Nov 12, 2025
 - [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - Nov 12, 2025
 - [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia ](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/) - Nov 12, 2025
 - [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) - Nov 12, 2025
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says ](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/) - Nov 10, 2025
 - [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) - Nov 10, 2025
 - [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) - Nov 10, 2025
-- [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/) - Nov 10, 2025
-- [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - Nov 10, 2025
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
 - [Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups](https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/) - Time not found
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - Time not found
 - [Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints](https://techcrunch.com/2025/11/12/apple-launches-digital-id-a-way-to-carry-your-passport-on-your-phone-for-use-at-tsa-checkpoints/) - Time not found
+- [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/) - Nov 10, 2025
+- [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - Nov 10, 2025
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Nov 10, 2025
 - [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - Nov 10, 2025
 - [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - Nov 9, 2025
@@ -69,8 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Cluely’s Roy Lee on the rage-bait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/) - Oct 29, 2025
 - [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/) - Oct 29, 2025
 - [2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt](https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/) - Oct 29, 2025
-- [San Francisco mayor: ‘We should be the testbed for emerging tech’](https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/) - Oct 29, 2025
-- [Startups should rethink how they pursue sales and traction, according to VC Tim Chen](https://techcrunch.com/podcast/startups-should-rethink-how-they-pursue-sales-and-traction-according-to-vc-tim-chen/) - Oct 29, 2025
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
 - [Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups](https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/) - Time not found
