@@ -4,15 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - 21 minutes ago
-- [Creator Tayla Cannon recieves $1.1 million investment from Slow Ventures’ creator fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - 2 hours ago
-- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - 11 hours ago
-- [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - 20 hours ago
+- [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - 3 hours ago
+- [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - 4 hours ago
+- [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/) - 6 hours ago
+- [Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/) - 6 hours ago
+- [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - 6 hours ago
+- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - 15 hours ago
+- [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - 1 day ago
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - 1 day ago
 - [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/) - 1 day ago
 - [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/) - 1 day ago
 - [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/) - 1 day ago
-- [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 1 day ago
+- [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 2 days ago
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - 3 days ago
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - 4 days ago
 - [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - 4 days ago
@@ -31,9 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) - Nov 12, 2025
 - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/) - Nov 12, 2025
 - [Groww raises nearly $750M in IPO as India’s retail investing boom continues](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/) - Nov 12, 2025
-- [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - Nov 12, 2025
-- [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - Nov 12, 2025
-- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - Nov 11, 2025
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
@@ -41,6 +41,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Spotify introduces a Premium Platinum plan with lossless access in five markets](https://techcrunch.com/2025/11/13/spotify-introduces-a-premium-platinum-plan-with-lossless-access-in-five-markets/) - Time not found
 - [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/) - Time not found
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - Time not found
+- [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - Nov 12, 2025
+- [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - Nov 12, 2025
+- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - Nov 11, 2025
 - [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - Nov 11, 2025
 - [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/) - Nov 11, 2025
 - [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/) - Nov 10, 2025
@@ -68,9 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/) - Nov 3, 2025
 - [Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO](https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/) - Nov 3, 2025
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) - Nov 2, 2025
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) - Oct 31, 2025
-- [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/) - Oct 31, 2025
-- [Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly](https://techcrunch.com/podcast/equity-live-from-300m-seed-rounds-to-data-center-builds-ai-is-feeling-bubbly/) - Oct 31, 2025
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
