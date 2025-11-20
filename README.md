@@ -4,13 +4,15 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/) - 38 minutes ago
-- [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/) - 2 hours ago
-- [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) - 2 hours ago
-- [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/) - 5 hours ago
-- [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - 7 hours ago
-- [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - 15 hours ago
-- [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - 24 hours ago
+- [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) - 3 hours ago
+- [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - 4 hours ago
+- [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/) - 6 hours ago
+- [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/) - 7 hours ago
+- [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) - 7 hours ago
+- [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/) - 10 hours ago
+- [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - 12 hours ago
+- [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - 20 hours ago
+- [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - 1 day ago
 - [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - 1 day ago
 - [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - 1 day ago
 - [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - 1 day ago
@@ -32,8 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman-backed Exowatt wants to power AI data centers with billions of hot rocks](https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/) - Nov 13, 2025
 - [Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in](https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/) - Nov 13, 2025
 - [Harbinger raises $160M, will build trucks for FedEx](https://techcrunch.com/2025/11/13/harbinger-raises-160m-will-build-trucks-for-fedex/) - Nov 13, 2025
-- [Coding assistant Cursor raises $2.3B 5 months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/) - Nov 13, 2025
-- [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) - Nov 13, 2025
 - [DoorDash confirms data breach affecting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/) - Time not found
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [‘Buy now, pay later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) - Time not found
@@ -41,6 +41,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
 - [Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups](https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/) - Time not found
 - [Spotify introduces a Premium Platinum plan with lossless access in five markets](https://techcrunch.com/2025/11/13/spotify-introduces-a-premium-platinum-plan-with-lossless-access-in-five-markets/) - Time not found
+- [Coding assistant Cursor raises $2.3B 5 months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/) - Nov 13, 2025
+- [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) - Nov 13, 2025
 - [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) - Nov 12, 2025
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) - Nov 12, 2025
 - [What startups want from OpenAI ](https://techcrunch.com/podcast/what-startups-want-from-openai/) - Nov 12, 2025
@@ -69,8 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/) - Nov 6, 2025
 - [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/) - Nov 6, 2025
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) - Nov 5, 2025
-- [From Air Force officer to space defense CEO: Why Even Rogers left to build weapons for orbit](https://techcrunch.com/podcast/from-air-force-officer-to-space-defense-ceo-why-even-rogers-left-to-build-weapons-for-orbit/) - Nov 5, 2025
-- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’ ](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/) - Nov 5, 2025
 - [DoorDash confirms data breach affecting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/) - Time not found
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [‘Buy now, pay later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) - Time not found
