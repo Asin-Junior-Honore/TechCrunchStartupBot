@@ -4,11 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 5 hours ago
-- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) - 20 hours ago
-- [Why these founders ditched social ads for Taylor Swift concerts and prison tablets ](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/) - 21 hours ago
-- [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - 22 hours ago
-- [Beyond growth hacks: real stories of reaching untapped markets](https://techcrunch.com/podcast/beyond-growth-hacks-real-stories-of-reaching-untapped-markets/) - 24 hours ago
+- [AI mania is making Nvidia a lot of money](https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/) - 14 minutes ago
+- [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/) - 4 hours ago
+- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 9 hours ago
+- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) - 24 hours ago
+- [Why these founders ditched social ads for Taylor Swift concerts and prison tablets ](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/) - 1 day ago
+- [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - 1 day ago
+- [Beyond growth hacks: real stories of reaching untapped markets](https://techcrunch.com/podcast/beyond-growth-hacks-real-stories-of-reaching-untapped-markets/) - 1 day ago
 - [After SEC investigation, Curastory founder resigns, hires replacement](https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/) - 1 day ago
 - [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) - 2 days ago
 - [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - 2 days ago
@@ -17,30 +19,30 @@ Here are the latest articles from TechCrunch Startups:
 - [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) - 2 days ago
 - [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/) - 2 days ago
 - [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - 2 days ago
-- [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - 2 days ago
+- [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - 3 days ago
 - [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - 3 days ago
 - [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - 3 days ago
 - [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - 3 days ago
 - [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - 3 days ago
 - [Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/) - 3 days ago
 - [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/) - 3 days ago
-- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - 3 days ago
+- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - 4 days ago
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - 4 days ago
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - 4 days ago
 - [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/) - 4 days ago
 - [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/) - 4 days ago
 - [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/) - 4 days ago
-- [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 4 days ago
+- [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 5 days ago
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - Nov 15, 2025
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - Nov 14, 2025
-- [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - Nov 14, 2025
 - [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) - Time not found
+- [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/) - Time not found
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Time not found
 - [DoorDash confirms data breach affecting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/) - Time not found
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [‘Buy now, pay later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) - Time not found
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
-- [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - Nov 14, 2025
+- [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - Nov 14, 2025
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) - Nov 13, 2025
 - [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/) - Nov 13, 2025
 - [The 10 companies that just launched from Betaworks’ latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/) - Nov 13, 2025
@@ -69,12 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - Nov 10, 2025
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Nov 10, 2025
 - [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - Nov 10, 2025
-- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) - Nov 9, 2025
-- [How startups can lure good talent fairly without Big Tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) - Nov 8, 2025
 - [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) - Time not found
+- [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/) - Time not found
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Time not found
 - [DoorDash confirms data breach affecting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/) - Time not found
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [‘Buy now, pay later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) - Time not found
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
-- [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) - Time not found
