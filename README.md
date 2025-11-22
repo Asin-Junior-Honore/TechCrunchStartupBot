@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [AI mania is making Nvidia a lot of money](https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/) - 14 minutes ago
-- [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/) - 4 hours ago
-- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 9 hours ago
-- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) - 24 hours ago
+- [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - 2 hours ago
+- [AI mania is making Nvidia a lot of money](https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/) - 5 hours ago
+- [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/) - 8 hours ago
+- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 13 hours ago
+- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) - 1 day ago
 - [Why these founders ditched social ads for Taylor Swift concerts and prison tablets ](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/) - 1 day ago
 - [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - 1 day ago
 - [Beyond growth hacks: real stories of reaching untapped markets](https://techcrunch.com/podcast/beyond-growth-hacks-real-stories-of-reaching-untapped-markets/) - 1 day ago
@@ -32,8 +33,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/) - 4 days ago
 - [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/) - 4 days ago
 - [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/) - 4 days ago
-- [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - 5 days ago
-- [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - Nov 15, 2025
+- [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - Nov 16, 2025
 - [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) - Time not found
 - [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/) - Time not found
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Time not found
 - [‘Buy now, pay later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) - Time not found
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) - Time not found
+- [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - Nov 15, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - Nov 14, 2025
 - [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - Nov 14, 2025
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) - Nov 13, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/) - Nov 10, 2025
 - [6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/) - Nov 10, 2025
 - [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/) - Nov 10, 2025
-- [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) - Nov 10, 2025
 - [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) - Time not found
 - [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/) - Time not found
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Time not found
