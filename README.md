@@ -4,11 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) - 4 hours ago
-- [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - 21 hours ago
+- [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) - 9 hours ago
+- [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - 1 day ago
 - [AI mania is making Nvidia a lot of money](https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/) - 1 day ago
 - [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/) - 1 day ago
-- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 1 day ago
+- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 2 days ago
 - [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) - 2 days ago
 - [Why these founders ditched social ads for Taylor Swift concerts and prison tablets ](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/) - 2 days ago
 - [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - 2 days ago
@@ -20,7 +20,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/) - 3 days ago
 - [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) - 3 days ago
 - [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/) - 3 days ago
-- [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - 3 days ago
+- [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - 4 days ago
 - [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - 4 days ago
 - [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - 4 days ago
 - [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - 4 days ago
@@ -28,7 +28,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - 4 days ago
 - [Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/) - 4 days ago
 - [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/) - 4 days ago
-- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - 5 days ago
+- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - Nov 17, 2025
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Nov 17, 2025
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Nov 17, 2025
 - [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/) - Nov 17, 2025
