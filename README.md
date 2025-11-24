@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) - 19 hours ago
+- [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/) - 1 hour ago
+- [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) - 23 hours ago
 - [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) - 2 days ago
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - 3 days ago
 - [AI mania is making Nvidia a lot of money](https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/) - 3 days ago
@@ -15,8 +16,8 @@ Here are the latest articles from TechCrunch Startups:
 - [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - 4 days ago
 - [Beyond growth hacks: real stories of reaching untapped markets](https://techcrunch.com/podcast/beyond-growth-hacks-real-stories-of-reaching-untapped-markets/) - 4 days ago
 - [After SEC investigation, Curastory founder resigns, hires replacement](https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/) - 4 days ago
-- [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) - 5 days ago
-- [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - 5 days ago
+- [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) - Nov 19, 2025
+- [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - Nov 19, 2025
 - [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/) - Nov 19, 2025
 - [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/) - Nov 19, 2025
 - [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) - Nov 19, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Nov 17, 2025
 - [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/) - Nov 17, 2025
 - [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/) - Nov 17, 2025
-- [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/) - Nov 17, 2025
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Time not found
 - [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/) - Time not found
 - [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [ChatGPT launches group chats globally](https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/) - Time not found
 - [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) - Time not found
 - [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/) - Time not found
+- [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/) - Nov 17, 2025
 - [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/) - Nov 17, 2025
 - [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - Nov 16, 2025
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - Nov 15, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says ](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/) - Nov 10, 2025
 - [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) - Nov 10, 2025
 - [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) - Nov 10, 2025
-- [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/) - Nov 10, 2025
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Time not found
 - [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/) - Time not found
 - [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/) - Time not found
