@@ -4,9 +4,13 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - 17 hours ago
-- [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - 21 hours ago
-- [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/) - 24 hours ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/) - 51 minutes ago
+- [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/) - 3 hours ago
+- [The Nordic startup scene has quietly become one of tech’s fastest-growing hubs](https://techcrunch.com/podcast/the-nordic-startup-scene-has-quietly-become-one-of-techs-fastest-growing-hubs/) - 3 hours ago
+- [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/) - 4 hours ago
+- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - 21 hours ago
+- [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - 1 day ago
+- [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/) - 1 day ago
 - [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/) - 2 days ago
 - [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/) - 2 days ago
 - [X-energy rides nuclear wave, raises $700M Series D](https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/) - 2 days ago
@@ -30,17 +34,17 @@ Here are the latest articles from TechCrunch Startups:
 - [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/) - Nov 19, 2025
 - [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - Nov 19, 2025
 - [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - Nov 18, 2025
-- [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - Nov 18, 2025
-- [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - Nov 18, 2025
-- [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - Nov 18, 2025
-- [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - Nov 18, 2025
+- [Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/) - Time not found
 - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/) - Time not found
-- [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) - Time not found
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Time not found
 - [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/) - Time not found
 - [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/) - Time not found
 - [SpaceX’s upgraded Starship suffers explosion during testing](https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/) - Time not found
 - [ChatGPT launches group chats globally](https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/) - Time not found
+- [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - Nov 18, 2025
+- [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - Nov 18, 2025
+- [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - Nov 18, 2025
+- [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - Nov 18, 2025
 - [Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/) - Nov 18, 2025
 - [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/) - Nov 18, 2025
 - [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - Nov 17, 2025
@@ -51,7 +55,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/) - Nov 17, 2025
 - [Danish startup Flatpay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) - Nov 16, 2025
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) - Nov 15, 2025
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) - Nov 14, 2025
 - [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/) - Nov 14, 2025
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) - Nov 13, 2025
 - [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/) - Nov 13, 2025
@@ -68,11 +71,8 @@ Here are the latest articles from TechCrunch Startups:
 - [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) - Nov 12, 2025
 - [Microsoft-backed Veir is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/) - Nov 12, 2025
 - [Groww raises nearly $750M in IPO as India’s retail investing boom continues](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/) - Nov 12, 2025
-- [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - Nov 12, 2025
-- [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - Nov 12, 2025
-- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - Nov 11, 2025
+- [Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/) - Time not found
 - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/) - Time not found
-- [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) - Time not found
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Time not found
 - [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/) - Time not found
 - [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/) - Time not found
