@@ -4,10 +4,11 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - 1 hour ago
-- [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/) - 4 hours ago
-- [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/) - 20 hours ago
-- [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/) - 24 hours ago
+- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - 2 hours ago
+- [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - 6 hours ago
+- [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/) - 9 hours ago
+- [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/) - 1 day ago
+- [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/) - 1 day ago
 - [X-energy rides nuclear wave, raises $700M Series D](https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/) - 1 day ago
 - [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/) - 1 day ago
 - [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) - 2 days ago
@@ -15,7 +16,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - 4 days ago
 - [AI mania is making Nvidia a lot of money](https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/) - 4 days ago
 - [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/) - 4 days ago
-- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 4 days ago
+- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) - 5 days ago
 - [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) - Nov 20, 2025
 - [Why these founders ditched social ads for Taylor Swift concerts and prison tablets ](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/) - Nov 20, 2025
 - [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - Nov 20, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) - Nov 18, 2025
 - [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/) - Nov 18, 2025
 - [Creator Tayla Cannon receives $1.1 million investment from Slow Ventures’ Creator Fund to build PT software](https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/) - Nov 18, 2025
-- [Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/) - Nov 18, 2025
 - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/) - Time not found
 - [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) - Time not found
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/) - Time not found
 - [SpaceX’s upgraded Starship suffers explosion during testing](https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/) - Time not found
 - [ChatGPT launches group chats globally](https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/) - Time not found
+- [Agentio secures $40M from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40m-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/) - Nov 18, 2025
 - [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/) - Nov 18, 2025
 - [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) - Nov 17, 2025
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) - Nov 17, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/) - Nov 12, 2025
 - [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/) - Nov 12, 2025
 - [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) - Nov 11, 2025
-- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) - Nov 11, 2025
 - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/) - Time not found
 - [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) - Time not found
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Time not found
