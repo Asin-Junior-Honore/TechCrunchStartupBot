@@ -4,9 +4,10 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 15 seconds ago
-- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - 9 minutes ago
-- [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - 23 hours ago
+- [Supabase CEO on the “painful” decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - 3 hours ago
+- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 4 hours ago
+- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - 4 hours ago
+- [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - 1 day ago
 - [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - 1 day ago
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - 2 days ago
 - [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 2 days ago
@@ -33,14 +34,14 @@ Here are the latest articles from TechCrunch Startups:
 - [Why these founders ditched social ads for Taylor Swift concerts and prison tablets ](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/) - Nov 20, 2025
 - [This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) - Nov 20, 2025
 - [Beyond growth hacks: Real stories of reaching untapped markets](https://techcrunch.com/podcast/beyond-growth-hacks-real-stories-of-reaching-untapped-markets/) - Nov 20, 2025
-- [After SEC investigation, Curastory founder resigns, hires replacement](https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/) - Nov 20, 2025
+- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - Time not found
 - [Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/) - Time not found
 - [OpenAI learned the hard way that Cameo trademarked the word ‘cameo’](https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/) - Time not found
 - [Anthropic releases Opus 4.5 with new Chrome and Excel integrations](https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/) - Time not found
 - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/) - Time not found
 - [ChatGPT told them they were special — their families say it led to tragedy](https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/) - Time not found
 - [Byju’s founder to appeal US court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) - Time not found
-- [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) - Time not found
+- [After SEC investigation, Curastory founder resigns, hires replacement](https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/) - Nov 20, 2025
 - [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) - Nov 19, 2025
 - [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - Nov 19, 2025
 - [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/) - Nov 19, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Sam Altman-backed Exowatt wants to power AI data centers with billions of hot rocks](https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/) - Nov 13, 2025
 - [Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in](https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/) - Nov 13, 2025
 - [Harbinger raises $160M, will build trucks for FedEx](https://techcrunch.com/2025/11/13/harbinger-raises-160m-will-build-trucks-for-fedex/) - Nov 13, 2025
-- [Coding assistant Cursor raises $2.3B 5 months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/) - Nov 13, 2025
 - [Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/) - Time not found
 - [OpenAI learned the hard way that Cameo trademarked the word ‘cameo’](https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/) - Time not found
 - [Anthropic releases Opus 4.5 with new Chrome and Excel integrations](https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/) - Time not found
