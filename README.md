@@ -4,12 +4,12 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) - 2 hours ago
-- [Supabase CEO on the “painful” decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - 8 hours ago
-- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 9 hours ago
-- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - 9 hours ago
+- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) - 5 hours ago
+- [Supabase CEO on the “painful” decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - 11 hours ago
+- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 12 hours ago
+- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - 12 hours ago
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - 1 day ago
-- [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - 1 day ago
+- [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - 2 days ago
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - 2 days ago
 - [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 2 days ago
 - [JustiGuide wants to use AI to help people navigate the US immigration system ](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/) - 2 days ago
@@ -24,7 +24,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/) - 4 days ago
 - [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/) - 4 days ago
 - [X-energy rides nuclear wave, raises $700M Series D](https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/) - 4 days ago
-- [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/) - 4 days ago
+- [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/) - 5 days ago
 - [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) - Nov 23, 2025
 - [Byju’s founder to appeal US court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) - Nov 22, 2025
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) - Nov 21, 2025
