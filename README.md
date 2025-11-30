@@ -17,7 +17,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/) - 4 days ago
 - [The Nordic startup scene has quietly become one of tech’s fastest-growing hubs](https://techcrunch.com/podcast/the-nordic-startup-scene-has-quietly-become-one-of-techs-fastest-growing-hubs/) - 4 days ago
 - [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/) - 4 days ago
-- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - 5 days ago
+- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - Nov 25, 2025
 - [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - Nov 25, 2025
 - [How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation ](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/) - Nov 25, 2025
 - [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/) - Nov 25, 2025
