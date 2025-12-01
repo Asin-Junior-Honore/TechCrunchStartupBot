@@ -4,21 +4,21 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) - 12 hours ago
-- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) - 15 hours ago
-- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) - 2 days ago
+- [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) - 16 hours ago
+- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) - 19 hours ago
+- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) - 3 days ago
 - [Supabase CEO on the “painful” decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - 3 days ago
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 3 days ago
 - [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - 3 days ago
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - 4 days ago
 - [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - 4 days ago
-- [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - 4 days ago
-- [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 4 days ago
-- [JustiGuide wants to use AI to help people navigate the US immigration system ](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/) - 4 days ago
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/) - 5 days ago
-- [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/) - 5 days ago
-- [The Nordic startup scene has quietly become one of tech’s fastest-growing hubs](https://techcrunch.com/podcast/the-nordic-startup-scene-has-quietly-become-one-of-techs-fastest-growing-hubs/) - 5 days ago
-- [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/) - 5 days ago
+- [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - 5 days ago
+- [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - 5 days ago
+- [JustiGuide wants to use AI to help people navigate the US immigration system ](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/) - 5 days ago
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/) - Nov 26, 2025
+- [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/) - Nov 26, 2025
+- [The Nordic startup scene has quietly become one of tech’s fastest-growing hubs](https://techcrunch.com/podcast/the-nordic-startup-scene-has-quietly-become-one-of-techs-fastest-growing-hubs/) - Nov 26, 2025
+- [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/) - Nov 26, 2025
 - [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - Nov 25, 2025
 - [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - Nov 25, 2025
 - [How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation ](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/) - Nov 25, 2025
