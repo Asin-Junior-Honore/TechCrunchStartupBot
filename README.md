@@ -4,18 +4,18 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) - 5 hours ago
-- [The future of deep tech will be explained to you at StrictlyVC Palo Alto on Dec 3](https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto-on-dec-3/) - 7 hours ago
-- [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/) - 12 hours ago
-- [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/) - 16 hours ago
-- [How AI PR startup Clipbook won Mark Cuban’s investment from a cold email ](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/) - 1 day ago
+- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) - 10 hours ago
+- [The future of deep tech will be explained to you at StrictlyVC Palo Alto on Dec 3](https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto-on-dec-3/) - 11 hours ago
+- [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/) - 16 hours ago
+- [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/) - 20 hours ago
+- [How AI PR startup Clipbook won Mark Cuban’s investment from a cold email ](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/) - 2 days ago
 - [At least 80 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/12/01/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - 2 days ago
 - [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) - 2 days ago
-- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) - 2 days ago
+- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) - 3 days ago
 - [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) - 4 days ago
-- [Supabase CEO on the ‘painful’ decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - 4 days ago
-- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 4 days ago
-- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - 4 days ago
+- [Supabase CEO on the ‘painful’ decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - 5 days ago
+- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - 5 days ago
+- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - Nov 28, 2025
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - Nov 27, 2025
 - [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - Nov 27, 2025
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - Nov 26, 2025
