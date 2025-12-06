@@ -4,12 +4,17 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Nothing wants your money, AWS wants your trust, and Spotify wants your data](https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/) - 2 hours ago
-- [New streaming channel launches to give viewers a peek into city council meetings](https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/) - 3 hours ago
+- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) - 1 hour ago
+- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) - 1 hour ago
+- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/) - 3 hours ago
+- [This startup built a Fitbit for your brain to combat chronic stress](https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/) - 4 hours ago
+- [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - 4 hours ago
+- [Nothing wants your money, AWS wants your trust, and Spotify wants your data](https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/) - 6 hours ago
+- [New streaming channel launches to give viewers a peek into city council meetings](https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/) - 8 hours ago
 - [From the NFL to Startup Battlefield: How Alltroo built a brand that wins](https://techcrunch.com/2025/12/04/alltroo-co-founders-finding-founder-market-fit/) - 1 day ago
 - [Celebrity Co-Founders Not Required: Building Influence from Scratch](https://techcrunch.com/video/celebrity-co-founders-not-required-building-influence-from-scratch/) - 1 day ago
 - [Your network is your first go-to-market strategy](https://techcrunch.com/podcast/your-network-is-your-first-go-to-market-strategy/) - 1 day ago
-- [Nexus isn’t going all in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/) - 1 day ago
+- [Nexus isn’t going all in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/) - 2 days ago
 - [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) - 2 days ago
 - [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) - 2 days ago
 - [VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy](https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/) - 2 days ago
@@ -18,7 +23,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Tonight, the future of deep tech will be explained to you at StrictlyVC Palo Alto](https://techcrunch.com/2025/12/03/tonight-the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto/) - 2 days ago
 - [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) - 3 days ago
 - [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/) - 3 days ago
-- [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/) - 3 days ago
+- [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/) - 4 days ago
 - [How AI PR startup Clipbook won Mark Cuban’s investment from a cold email ](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/) - 4 days ago
 - [At least 80 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/12/01/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) - 4 days ago
 - [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) - Nov 30, 2025
@@ -29,18 +34,18 @@ Here are the latest articles from TechCrunch Startups:
 - [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - Nov 28, 2025
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - Nov 27, 2025
 - [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - Nov 27, 2025
+- [Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/) - Time not found
+- [‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted](https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/) - Time not found
+- [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Time not found
+- [Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’](https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/) - Time not found
+- [YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/) - Time not found
+- [Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap  ](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/) - Time not found
+- [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/) - Time not found
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - Nov 26, 2025
 - [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Nov 26, 2025
 - [JustiGuide wants to use AI to help people navigate the US immigration system ](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/) - Nov 26, 2025
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/) - Nov 26, 2025
 - [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/) - Nov 26, 2025
-- [Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/) - Time not found
-- [‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted](https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/) - Time not found
-- [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Time not found
-- [YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/) - Time not found
-- [Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap  ](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/) - Time not found
-- [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/) - Time not found
-- [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/) - Time not found
 - [The Nordic startup scene has quietly become one of tech’s fastest-growing hubs](https://techcrunch.com/podcast/the-nordic-startup-scene-has-quietly-become-one-of-techs-fastest-growing-hubs/) - Nov 26, 2025
 - [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/) - Nov 26, 2025
 - [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) - Nov 25, 2025
@@ -66,15 +71,10 @@ Here are the latest articles from TechCrunch Startups:
 - [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - Nov 19, 2025
 - [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/) - Nov 19, 2025
 - [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/) - Nov 19, 2025
-- [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) - Nov 19, 2025
-- [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/) - Nov 19, 2025
-- [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/) - Nov 19, 2025
-- [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) - Nov 18, 2025
-- [Astro Teller isn’t afraid of killing ideas; here’s why](https://techcrunch.com/podcast/astro-teller-isnt-afraid-of-killing-ideas-heres-why/) - Nov 18, 2025
 - [Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/) - Time not found
 - [‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted](https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/) - Time not found
 - [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Time not found
+- [Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’](https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/) - Time not found
 - [YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/) - Time not found
 - [Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap  ](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/) - Time not found
 - [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/) - Time not found
-- [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/) - Time not found
