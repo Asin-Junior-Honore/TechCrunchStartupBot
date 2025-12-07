@@ -4,7 +4,8 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/) - 16 hours ago
+- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) - 1 hour ago
+- [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/) - 20 hours ago
 - [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) - 2 days ago
 - [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) - 2 days ago
 - [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/) - 2 days ago
@@ -16,13 +17,13 @@ Here are the latest articles from TechCrunch Startups:
 - [Celebrity Co-Founders Not Required: Building Influence from Scratch](https://techcrunch.com/video/celebrity-co-founders-not-required-building-influence-from-scratch/) - 3 days ago
 - [Your network is your first go-to-market strategy](https://techcrunch.com/podcast/your-network-is-your-first-go-to-market-strategy/) - 3 days ago
 - [Nexus isn’t going all in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/) - 3 days ago
-- [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) - 3 days ago
+- [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) - 4 days ago
 - [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) - 4 days ago
 - [VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy](https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/) - 4 days ago
 - [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - 4 days ago
 - [This VC charges $0 for PR, and has 12 unicorns to show for it](https://techcrunch.com/podcast/this-vc-charges-0-for-pr-and-has-12-unicorns-to-show-for-it/) - 4 days ago
 - [Tonight, the future of deep tech will be explained to you at StrictlyVC Palo Alto](https://techcrunch.com/2025/12/03/tonight-the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto/) - 4 days ago
-- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) - 5 days ago
+- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) - Dec 2, 2025
 - [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/) - Dec 2, 2025
 - [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/) - Dec 2, 2025
 - [How AI PR startup Clipbook won Mark Cuban’s investment from a cold email ](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/) - Dec 1, 2025
@@ -33,7 +34,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Supabase CEO on the ‘painful’ decisions that built a $5B company](https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/) - Nov 28, 2025
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) - Nov 28, 2025
 - [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) - Nov 28, 2025
-- [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - Nov 27, 2025
 - [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/) - Time not found
 - [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - Time not found
 - [Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/) - Time not found
@@ -41,6 +41,7 @@ Here are the latest articles from TechCrunch Startups:
 - [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Time not found
 - [YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/) - Time not found
 - [Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap  ](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/) - Time not found
+- [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) - Nov 27, 2025
 - [From military logistics to Startup Battlefield 2025 champion with Glīd founder, Kevin Damoa ](https://techcrunch.com/podcast/from-military-logistics-to-startup-battlefield-2025-champion-with-glid-founder-kevin-damoa/) - Nov 27, 2025
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) - Nov 26, 2025
 - [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) - Nov 26, 2025
@@ -70,7 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [After SEC investigation, Curastory founder resigns, hires replacement](https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/) - Nov 20, 2025
 - [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) - Nov 19, 2025
 - [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) - Nov 19, 2025
-- [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/) - Nov 19, 2025
 - [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/) - Time not found
 - [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - Time not found
 - [Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/) - Time not found
