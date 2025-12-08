@@ -4,7 +4,7 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) - 21 hours ago
+- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) - 1 day ago
 - [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/) - 2 days ago
 - [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) - 3 days ago
 - [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) - 3 days ago
@@ -17,9 +17,9 @@ Here are the latest articles from TechCrunch Startups:
 - [Celebrity Co-Founders Not Required: Building Influence from Scratch](https://techcrunch.com/video/celebrity-co-founders-not-required-building-influence-from-scratch/) - 4 days ago
 - [Your network is your first go-to-market strategy](https://techcrunch.com/podcast/your-network-is-your-first-go-to-market-strategy/) - 4 days ago
 - [Nexus isn’t going all in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/) - 4 days ago
-- [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) - 4 days ago
-- [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) - 5 days ago
-- [VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy](https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/) - 5 days ago
+- [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) - 5 days ago
+- [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) - Dec 3, 2025
+- [VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy](https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/) - Dec 3, 2025
 - [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Dec 3, 2025
 - [This VC charges $0 for PR, and has 12 unicorns to show for it](https://techcrunch.com/podcast/this-vc-charges-0-for-pr-and-has-12-unicorns-to-show-for-it/) - Dec 3, 2025
 - [Tonight, the future of deep tech will be explained to you at StrictlyVC Palo Alto](https://techcrunch.com/2025/12/03/tonight-the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto/) - Dec 3, 2025
