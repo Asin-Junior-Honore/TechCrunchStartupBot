@@ -4,43 +4,48 @@
 Here are the latest articles from TechCrunch Startups:
 
 **Note:** This data will refresh in Four hours interval. Stay tuned for the latest updates! 🔄
-- [Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/) - 4 minutes ago
-- [Unconventional AI confirms its massive $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/) - 12 hours ago
-- [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/) - 12 hours ago
-- [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/) - 14 hours ago
-- [Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/) - 14 hours ago
-- [B Capital founding partner Kabir Narang leaves to launch new investment platform](https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/) - 15 hours ago
-- [Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup](https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/) - 15 hours ago
-- [Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers](https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/) - 17 hours ago
-- [VSCO lays off 24 staff as its consumer business suffers](https://techcrunch.com/2025/12/09/vsco-lays-off-24-staff-as-its-consumer-business-suffers/) - 20 hours ago
-- [Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button](https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/) - 21 hours ago
-- [Empromptu raises $2M pre-seed to help enterprises build AI apps](https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/) - 22 hours ago
+- [Overview Energy wants to beam energy from space to existing solar farms](https://techcrunch.com/2025/12/10/overview-energy-wants-to-beam-energy-from-space-to-existing-solar-farms/) - 38 minutes ago
+- [ElevenLabs just hit a $6.6B valuation. Its CEO says the real money isn’t in voice anymore.](https://techcrunch.com/podcast/elevenlabs-just-hit-a-6-6b-valuation-its-ceo-says-the-real-money-isnt-in-voice-anymore/) - 4 hours ago
+- [Oboe raises $16 million from a16z for its AI-powered course-generation platform](https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/) - 5 hours ago
+- [Unacademy’s founder says startup is now worth less than $500M, confirms M&A talks](https://techcrunch.com/2025/12/10/unacademys-founder-says-startup-is-now-worth-less-than-500m-confirms-ma-talks/) - 6 hours ago
+- [AI startup Tavus founder says users talk to its AI Santa ‘for hours’ per day](https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/) - 6 hours ago
+- [Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/) - 8 hours ago
+- [Unconventional AI confirms its massive $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/) - 20 hours ago
+- [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/) - 20 hours ago
+- [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/) - 22 hours ago
+- [Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/) - 22 hours ago
+- [B Capital founding partner Kabir Narang leaves to launch new investment platform](https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/) - 23 hours ago
+- [Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup](https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/) - 23 hours ago
+- [Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers](https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/) - 1 day ago
+- [VSCO lays off 24 staff as its consumer business suffers](https://techcrunch.com/2025/12/09/vsco-lays-off-24-staff-as-its-consumer-business-suffers/) - 1 day ago
+- [Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button](https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/) - 1 day ago
+- [Empromptu raises $2M pre-seed to help enterprises build AI apps](https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/) - 1 day ago
 - [SoftBank and Nvidia reportedly in talks to fund Skild AI at $14B, nearly tripling its value](https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/) - 2 days ago
 - [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) - 3 days ago
 - [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/) - 4 days ago
-- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) - 5 days ago
-- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) - 5 days ago
-- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/) - 5 days ago
-- [This startup built a Fitbit for your brain to combat chronic stress](https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/) - 5 days ago
-- [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - 5 days ago
+- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) - Dec 5, 2025
+- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) - Dec 5, 2025
+- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/) - Dec 5, 2025
+- [This startup built a Fitbit for your brain to combat chronic stress](https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/) - Dec 5, 2025
+- [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - Dec 5, 2025
 - [Nothing wants your money, AWS wants your trust, and Spotify wants your data](https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/) - Dec 5, 2025
 - [New streaming channel launches to give viewers a peek into city council meetings](https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/) - Dec 5, 2025
 - [From the NFL to Startup Battlefield: How Alltroo built a brand that wins](https://techcrunch.com/2025/12/04/alltroo-co-founders-finding-founder-market-fit/) - Dec 4, 2025
 - [Celebrity Co-Founders Not Required: Building Influence from Scratch](https://techcrunch.com/video/celebrity-co-founders-not-required-building-influence-from-scratch/) - Dec 4, 2025
 - [Your network is your first go-to-market strategy](https://techcrunch.com/podcast/your-network-is-your-first-go-to-market-strategy/) - Dec 4, 2025
 - [Nexus isn’t going all in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/) - Dec 4, 2025
+- [SpaceX reportedly planning 2026 IPO with $1.5T valuation target](https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/) - Time not found
+- [Claude Code is coming to Slack, and that’s a bigger deal than it sounds](https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/) - Time not found
+- [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/) - Time not found
+- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) - Time not found
+- [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/) - Time not found
+- [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - Time not found
+- [After Neuralink, Max Hodak is building something even wilder](https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/) - Time not found
 - [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) - Dec 3, 2025
 - [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) - Dec 3, 2025
 - [VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy](https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/) - Dec 3, 2025
 - [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Dec 3, 2025
 - [This VC charges $0 for PR, and has 12 unicorns to show for it](https://techcrunch.com/podcast/this-vc-charges-0-for-pr-and-has-12-unicorns-to-show-for-it/) - Dec 3, 2025
-- [SpaceX reportedly planning 2026 IPO with $1.5T valuation target](https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/) - Time not found
-- [Claude Code is coming to Slack, and that’s a bigger deal than it sounds](https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/) - Time not found
-- [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/) - Time not found
-- [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/) - Time not found
-- [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/) - Time not found
-- [‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted](https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/) - Time not found
-- [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/) - Time not found
 - [Tonight, the future of deep tech will be explained to you at StrictlyVC Palo Alto](https://techcrunch.com/2025/12/03/tonight-the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto/) - Dec 3, 2025
 - [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) - Dec 2, 2025
 - [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/) - Dec 2, 2025
@@ -66,11 +71,6 @@ Here are the latest articles from TechCrunch Startups:
 - [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/) - Nov 25, 2025
 - [How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation ](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/) - Nov 25, 2025
 - [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/) - Nov 25, 2025
-- [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/) - Nov 24, 2025
-- [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/) - Nov 24, 2025
-- [X-energy rides nuclear wave, raises $700M Series D](https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/) - Nov 24, 2025
-- [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/) - Nov 24, 2025
-- [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) - Nov 23, 2025
 - [SpaceX reportedly planning 2026 IPO with $1.5T valuation target](https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/) - Time not found
 - [Claude Code is coming to Slack, and that’s a bigger deal than it sounds](https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/) - Time not found
 - [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/) - Time not found
