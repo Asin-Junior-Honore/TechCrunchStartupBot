@@ -14,7 +14,7 @@
   "keywords": [],
   "dependencies": {
     "@types/puppeteer": "^7.0.4",
-    "puppeteer": "^22.10.0",
+    "puppeteer": "^22.15.0",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
